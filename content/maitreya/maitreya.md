@@ -1,0 +1,86 @@
+---
+title: "Maitreya"
+date:  2010-08-01T12:18:25+03:00
+
+draft:  false
+
+master: Maitreya
+ei_pvm:  true
+naytakk:  true
+naytavuosi:  true
+naytapvm:  false
+
+author:  "share.fi"
+type:  ""
+cover:  ""
+toc:  false
+
+
+ 
+menu:
+ main:
+  name:  "Maitreya"
+  identifier:  "maitreya"
+---
+
+<h2>Kuka Maitreya on?</h2>
+<p><img class="alignnone size-large wp-image-4747" src="https://sharefi-cdn.sirv.com/wpmedia/maitreyanisokasi2.jpg?scale.width=465&#038;scale.height=777" alt="Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi." /></p>
+<p>Jo sukupolvien ajan ovat kaikki pääuskonnot odottaneet Häntä tulevaksi. Kristityt odottavat <a title="Kristus" href="//www.share.fi/kristus">Kristuksen</a> paluuta, Buddhalaiset odottavat uuden Buddhan saapumista (Herran, Maitreyan). Muslimien odottaessa Imam Mahdia, Hindut odottavat Krishnan jälleensyntymistä ja Juutalaiset Messiasta saapuvaksi.</p>
+<p>Monien mielestä ne ovat kaikki nimiä, jotka kuvaavat yhtä ja samaa yksilöä: Maailmanopettajaa &#8211; jonka henkilökohtainen nimi on Maitreya.</p>
+<p><strong>Maitreya</strong> haluaa mieluiten itseään yksinkertaisesti kutsuttavan opettajaksi, eikä hän ole tullut maapallolle ollakseen uskonnollinen johtaja, vaan kouluttaja. Sanan laajimmassa mahdollisessa tarkoitukessa. Kouluttaja, joka voi osoittaa ihmiskunnalle tien ulos sen nykyisestä ahdingosta.</p>
+<p>Hän tulee panemaan liikkeelle ihmisten halun pelastaa ne miljoonat ihmiset, jotka vuosittain kuolevat nälkään. Nykyisen poliittisen, taloudellisen ja sosiaalisen kriisin keskellä Maitreya tulee inspiroidakseen ihmiskuntaa näkemään itsensä yhtenä suurena perheenä, joka voi luoda sivilisaation, joka perustuu jakamisen sekä taloudellisen ja sosiaalisen oikeudenmukaisuuden ja maailmanlaajuisen yhteistyön periaatteille.</p>
+<p>Maitreyan ohjauksessa ihmiskunta itse tulee muuttamaan järjestelmänsä oikeudenmukaisemmaksi ja järkevämmäksi.</p>
+<hr />
+<h2>Maitreya ja Hänen tulemisen merkit</h2>
+<blockquote><p>Viime aikoina <strong>Maitreya</strong> on useiden tapahtumien yhteydessä jättänyt itsestään jälkeen &#8221;käyntikorttinsa&#8221;. Lisäksi vuoden 2010 alusta alkaen <strong>Maailmanopettaja</strong> on alkanut tv-esiintymisten sarja. Kuvat ja tarinat näistä tapahtumista on selostettu tarkemmin muualla sivustollamme tai Share International -lehdessä. Tässä kuitenkin muutama tapahtuma.</p>
+<p><strong><a href="//www.share.fi/maitreya-televisiossa#status-nyt">Maitreyan tv-esiintymisten viime tiedot</a></strong><br />
+<strong><a title="Maitreyan viesti 7.10.2014" href="//www.share.fi/maitreyan-viesti-7-10-2014">Maitreyan viesti 7.10.2014</a></strong><br />
+<strong><a href="https://www.share.fi/maitreya/#ensimmainentvesintyminen">Maitreya astuu esiin</a></strong><br />
+<a href="https://www.share.fi/maitreya/#joulu"><strong>Tähti-ihme</strong></a><br />
+<a href="https://www.share.fi/maitreya/#kasi"><strong>Maitreyan käsi</strong></a><br />
+<a href="https://www.share.fi/maitreya/#ylivalaisu"><strong>Maitreyan tekemä ylivalaisu kuvattu</strong></a></p></blockquote>
+<hr />
+<h2><a name="pohjatiedot"></a>Pohjatiedot Maitreyan julkisuuteen tulosta</h2>
+<p><em><strong>Julkaisemme tässä pohjatiedot Maitreyan tv-esiintymisien sarjaa koskien nyt tv-esiintymisten alettua.</strong></em></p>
+<p>K. Miksei Maitreya esiinny omalla nimellään? Mielestäni se olisi parempi.<br />
+V. Pahoittelen, mutta Maitreya ei ole kanssasi samaa mieltä. Monet ihmiset tahtovat maailman muuttuvan, mutta ovat passiivisia. He tahtovat asioiden muuttuvan taikaiskusta. He ajattelelvat Maitreyan olevan suuri avataara ja ajattelevat siksi sen olevan Hänen tehtävänsä. Se ei ole. Se on meidän tehtävämme. Kauan sitten Maitreya sanoi: &#8221;Jokainen kivi, jokainen tiili uudesta sivilisaatiosta tulee laittaa paikoilleen ihmiskunnan itsensä toimesta.&#8221; Hieman hiljattaimmin Hän sanoi: &#8221;Minä olen vain arkkitehti tuolle suunnitelmalle. Te, veljeni, olette totuuden temppelin halukkaat rakentajat.&#8221;</p>
+<p>Hänen täytyy tietää ja Maitreya tietää, että kun ihmiset reagoivat Hänen ideoihinsa, he tahtovat maailmaan ne muutokset, joiden puolesta Hän puhuu; ei sen vuoksi kuka Hän on, ei sen takia, että Hän on Maailmanopettaja. Jos Maailmanopettaja sanoo, että jakaminen on tarpeen, on helpompi uskoa tuota Opettajaa, kuin itse ymmärtää, että jakaminen on ainut ratkaisumalli ongelmiimme.</p>
+<p>Kun ihminen näkee, että jakaminen on ainut tie oikeudenmukaisuuteen ja siksi siis rauhaan, ottaa hän samalla sisäisen askelen tietoisuudessaan. Kaikki eivät näe tätä seikkaa. Miksi siis näemme sen? Koska omaamme tuon henkisen tietoisuuden. Se on seurausta sisäisestä valveutumisesta. Mutta jos ottaisi asian omakseen vain siksi, että on tunnistanut Maitreyan, se ei silti vielä välttämättä tarkoittaisi, että olisi tietoinen tuosta tarpeesta. Maitreyan tarvitsee tietää, että riittävän moni ihminen reagoi omaan henkiseen valveutumiseensa.</p>
+<p>Mikseivät miljoonat ihmiset jaa jo nyt? Mikseivät ihmiset sisäisesti näe, että jakaminen on luonnollinen asia ihmisten perheen sisällä? Kotona isä, äiti ja lapset jakavat kaiken. Samalla tavoin me olemme kodissa nimeltä Maa ja me olemme veljiä ja sisaria. Kaikki Maassa kuuluu kaikille ja siksi kaikki tulisi jakaa. Jokaisen tarpeet tulisi tyydyttää. Mutta niin ei tapahdu. Miksi? Koska ihmiset eivät omaa sitä sisäistä tietoisuutta. He eivät pane asioita tapahtumaan, se seikka ei juolahda heidän päähänsä.</p>
+<p>Meillä on vapaa tahto, joten me voimme valita jakaako vaiko ei. Jos päätämme seurata Maitreyan neuvoa (tiedämme sitten sen olevan Hänen neuvo tai emme on epäolennaista), me tulemme pelastamaan maailman. Jos kuitenkin päätämme ettemme tahdo jakamista, jos riittävää määrää ihmisiä ei ole vaatimassa muutosta, jakamista ja oikeudenmukaisuutta, silloin me tulemme tuhoamaan itsemme. Se on niin yksinkertaista.</p>
+<p>Maitreya tietää, että on olemassa &#8221;kriittinen massa&#8221; johon kuuluu 1,8 miljardia ihmistä, jotka ovat valmiita omaksumaan Hänen neuvonsa. Kun nuo 1,8 miljardia ihmistä tekevät tietyksi oman kantansa ja vaativat hallituksiansa muuttamaan tapansa toimia ja jakamaan maailman resurssit, muutos tulee tapahtumaan.</p>
+<h3>Maitreya astuu esiin</h3>
+<p><a name="ensimmainentvesintyminen"></a>Maitreya astuu esiin ensimmäisessä tv-esiintymisessään USA:ssa. Esiintyminen on ensimmäinen monista ja ne tulevat lopulta johtamaan julkistulon päivän tapahtumiin, jossa Maitreya, Maailmanopettaja, kertoo koko maailmalle todellisen statuksensa ja persoonansa. Siihen asti Hän esittäytyy tavallisena ihmisenä, jotta katsojat voisiat tunnistaa Hänet uskontokuntien odottamana suurena opettajana. <a href="https://www.share.fi/maitreya/maitreyan_tulo_julkisuuteen/#maitreyaastuuesiin">Lue lisää</a>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1><a name="joulu"></a><strong>Joulun ihme</strong>, tiedote 12.12.2008</h1>
+<p>Share International lähetti lehdistötiedotteen medialle kautta maailman. Tiedote lupaa taivaalle nousevan tähden joulun ihmeen merkiksi. Tässä tiivistelmä:</p>
+<p>&#8221;Vuosien ajan maailma on ollut täynnään kaikenlaisia ihmeitä. Huhtikuussa 1995 Time-lehti käytti kahdeksan sivua pääjuttunaan taustoittaakseen näitä tapahtumia ja päätteli: “Ihmiset janoavat merkkejä.”</p>
+<p><strong>Pitäkää silmänne nyt auki kaikkein suurinta ihmettä odottaessamme. Aivan lähiaikoina suuri, kirkas, tähti tulee ilmaantumaan taivaalle. Tuo tähti tulee olemaan kaikkien nähtävillä – yötä päivää.</strong></p>
+<p>Uskomatonta? Fantasiaa? Ei, vaan fakta. Noin viikkoa myöhemmin Maitreya, Maailmanopettaja tulee aloittamaan avoimen työnsä, ja vaikkei vielä tulekaan esiintymään tuolla nimellä, häntä tullaan haastattelemaan yhdellä USA:n pääkanavista.</p>
+<p>Vuonna 1988 CNN ja monet muut media raportoivat Maitreyan ihmeellisen ilmaantumisen 6.000 ihmisen eteen Nairobiin, Keniaan, kesäkuun 11. päivänä. Viikkoa ennen tuota [1988] tapahtumaa merkki siitä oli nähtävissä: ”<a title="Maitreya" href="//www.share.fi/maitreya" target="_blank">Lauantaina 4.6. suuri, kirkas tähti nähtiin; tavanomaista tähteä kirkkaampi</a>.”, raportoi Kenya Times -sanomalehden toimittaja Job Mutungi.&#8221;</p>
+<p><a title="Maitreyan tähti-ihme" href="//www.share.fi/maitreya/maitreyan-tulon-julkistava-tahti" target="_blank">Lue lisää tähti-ihmeestä ja uusimmat havainnot &gt;&gt;&gt; klikkaa</a></p>
+<hr />
+<p><a name="kasi"></a></p>
+<h2><strong>Maitreya ja Maitreyan käsi</strong></h2>
+<p>Share International -lehden lokakuun 2001 numerossa oli koko sivun kokoinen kuva Maitreyan kädestä. Lukijoiden kiinnostuksesta ja kyselyistä johtuen Benjamin Creme selostaa tässä käden ilmaantumisen syitä ja taustoja.</p>
+<p><a href="//www.share.fi/kuvat/maitreyanisokasi2.jpg" target="_blank"><img class="alignleft" style="margin-top: 15px; margin-bottom: 15px; margin-right: 15px;" src="//www.share.fi/kuvat/maitreyankasi.jpg" alt="Maitreyan käsi peilissä" width="180" height="300" /></a>Benjamin Creme selittää ilmiön: Tämä on Maitreyan käsi, kuvattuna Barcelonalaiseen kylpyhuoneen peiliin. Nainen, joka omistaa talon meni vieraskylpyhuoneeseensa ja näki kädenjäljen peilissä, jonka hän välittömästi puhdisti pois. Hän unohti koko asian, kunnes muutaman päivän kuluttua hänen mennessä omaan kylpyhuoneeseensa, hän näki saman kädenjäljen peilissään. Onneksi, sen sijaan, että olisi putsannut kädenjäljen, hän soitti pojalleen, joka on Share Internationalin Barcelonan ryhmän jäsen. Tämä otti kuvan kädenjäljestä ja lähetti kuvan minulle. Minun Mestari on vahvistanut, että kyseessä todellakin on Maitreyan käsi.</p>
+<p><strong>Kuin Torinon käärinliina</strong></p>
+<p>Käsi on todella fantastinen. Se on &#8221;aidosti&#8221; kolmiulotteisen oloinen, aivan kuten Torinon käärinliinaan jäänyt ristiinnaulitun Jeesuksen kuva. Kuvalla on myös parantavia ominaisuuksia, ei kuitankaan aivan sellaisia kuin saattaisi kuvitella. Kun Maitreya on magnetisoinut vesilähteitä ympäri planeetan, on itse vesi kyllästetty Vesimiehen tähdistön parantavalla energialla. Kuvan kyseessä ollessa, Maitreyan energia ei ole itse kuvassa, vaan se kutsutaan asettamalla käsi kuvan päälle, tai vaikkapa sitä katsomalla. Kutsut, tai pyydät tällöin hänen siunaustaan, apuaan, tai parantavaa voimaansa &#8211; Karman lain rajoissa tietenkin. Sama teho saadaan aikaiseksi myös kuvan kopiolla.</p>
+<p>Tämä on todella ainutkertaista. Tällä tavalla Maitreyan energia ja Hänen apunsa on kaikkien sitä pyytävien ulottuvilla. Jos se mitä pyydät on: &#8221;Rakas Maitreya, voisitko yht&#8217;äkkiä ilmestyä eteeni&#8221;,en usko, että pyyntöösi vastataan. Energiaa kuluu joka kerta, kun hän ilmestyy. Hänellä on paljon tehtävää, itse asiassa, maapallo pelastettavana, eikä Hän varmasti halua tuhlata energiaansa. Sanon tämän vakavissani, koska tiedän että, kun tarina leviää, ihmiset rupeavat puhumaan että Maitreya tekee mitä vain Häneltä pyydetään. Se ei ole totta. Maitreya kylläkin ilmaantuu tuhansille ihmisille ympäri maapallon, mutta Hän tekee sen oman ajoituksensa mukaan ja omien tarkoitusperiensä toteuttamiseksi. Auttaakseen ihmisiä.</p>
+<p>Käden ilmestymisellä juuri tähän ajankohtaa on merkittävä asia. Se tarkoittaa, että Maitreya on tulossa julkisuuteen hyvin pian. Tämän lähemmäs ihmisiä Hän ei voi tulla, ennen kuin se hetki koittaa, että näemme Hänen kasvonsa.</p>
+<p>Lue lisää <a href="//www.share.fi/maitreya/maitreyan-kasi">Maitreyan kädestä ml. video jolla Benjamin Creme kertoo siitä</a></p>
+<hr />
+<p><a name="ylivalaisu"></a></p>
+<h2>Maitreya ylivalaisi Benjamin Cremen, tapahtuma kuvattu Amsterdamissa</h2>
+<p>Jokaisen Benjamin Cremen luennon alussa ja lopussa Maitreya ylivalaisee hänet noin 20 minuutin ajan kumpanakin.</p>
+<p><a href="//www.share.fi/kuvat/ylivalaisu.jpg" target="_blank"><img class="alignright size-full wp-image-2333" style="margin-top: 15px; margin-bottom: 15px; margin-left: 15px;" src="//www.share.fi/kuvat/ylivalaisu.jpg" alt="Maitreyan ylivalaisu kuvattiin Amsterdamissa syyskuussa 2001" width="133" height="200" /></a></p>
+<p>Tällä tavoin <strong>Maitreya</strong> vapauttaa yleisön ylle energiansa erityisenä siunauksena tai henkisenä voimistuksena. Monet, joilla on selvänäköisiä kykyjä ovat nähneet tapahtuman, mutta ennen tätä, siitä ei ole ollut kuvaa.</p>
+<p>Tämä kuva otettiin 26.9.2001, Amsterdamissa Benjamin Cremen luennon yhteydessä. Kuvan ottaja, Ellen Bernards, istui auditorion eturivissä, vasemmalla puolella ja otti kuvan juuri kun tilaisuuden ensimmäinen ylivalaisu oli alkamassa.</p>
+<p>Kehittäessään kuvan, hän huomasi siinä olevan kolme hahmoa, eikä vain Cremen ja tulkin kaksi hahmoa. Creme, jolla on kuvassa pikkutakki ja solmio istuu kasvot kohti yleisöä, kun taas salaperäinen hahmo katsoo kameraan päin; hänellä ei ole solmiota ja hänen paitansa ylimmät napit ovat auki.</p>
+<p>Hahmojen epäselvyys johtuu valon määrästä, joka säteilee Maitreyasta ylivalaisun aikana. Monet sanovat näkevänsä Cremen sananmukaisesti häviävän valon taakse.</p>
+<p><em>(Benjamin Cremen Mestari vahvistaa, että kolmas hahmo on Maitreya.)</em></p>
+<p><sub>Lähde: Share International -lehti, marraskuu 2001</sub></p>
+<h3>Maitreyan ylivalaisu jälleen kuvattu Amsterdamissa</h3>
+<p>Maitreyan ylivalaisu kuvattiin Amsterdamissa 20.9.2006 Kuvaa ei ole millään tavoin manipuloitu tai muokattu.<a target="_blank" href="//www.share.fi/kuvat/ylivalaisu-1.jpg"><img class="alignnone size-full wp-image-2336" src="//www.share.fi/kuvat/ylivalaisu-opti-text.png" alt="Maitreyan ylivalaisu kuvattiin Amsterdamissa 20.9.2006 Kuvaa ei ole millään tavoin manipuloitu tai muokattu." width="900" /></a></p>
+<p><sub>Lähde: Share International -lehti, heinä-elokuu 2007</sub></p>

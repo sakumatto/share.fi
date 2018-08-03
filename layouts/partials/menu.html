@@ -1,0 +1,22 @@
+
+
+<!-- menu.html -->
+{{ $menuName := .menu }}
+{{ $currentPage := .current }}
+{{ $currentLevel := .level }}
+<ul class="level-{{ $currentLevel }}">
+  {{ range .pages }}
+    <li class="level-{{ $currentLevel }} {{ if $currentPage.IsMenuCurrent $menuName . }}active{{ end }} {{ if $currentPage.HasMenuCurrent $menuName . }}parent{{ end }}">
+      {{ if .HasChildren }}
+        {{ .Pre }}
+
+          <a href="{{ .URL }}">{{ .Name }}</a>
+
+        {{ partial "menu.html" (dict "menu" $menuName "current" $currentPage "level" (add $currentLevel 1) "pages" .Children) }}
+      {{else}}
+        <a href="{{.URL}}">{{ .Pre }}{{ .Name }}</a>
+      {{end}}
+    </li>
+  {{end}}
+</ul>
+

@@ -1,0 +1,67 @@
+title = "Jakamisen periaate pelastaa maailman"
+baseURL = "https://share-fi-2018.firebaseapp.com"
+uglyurls = false
+
+languageCode = "fi-fi"
+DefaultContentLanguage = "fi"
+theme = "classless"
+
+
+[menu]
+
+
+ [[menu.main]]
+  pre = ""
+  name   = "share.fi"
+  url    = "https://share.fi"
+  weight = 50
+
+
+ [[menu.secondary]]
+  pre = ""
+  name   = "Lisätietoa"
+  identifier = "lisatietoa"
+  url    = "/lisatietoa/"
+  weight = 4
+
+[permalinks]
+  post = ":slug/"
+
+[taxonomies]
+  tag = "avainsanat"
+  category = "aihealueet"
+  archive = "arkistot"
+  
+
+  dateFormat = "02.01.2006"
+  
+
+SectionPagesMenu = "main"
+pluralizelisttitles = false
+
+
+
+[params]
+show_summaries = true
+
+description = "Maailmanopettaja Maitreya odottaa kutsua voidakseen laajasti tulla julkisuuteen. Hänet tunnetaan myös nimillä Kristus, Maitreya Buddha, Imam Mahdi, Messias riippuen uskontokunnasta."
+
+#Parametrin nimi = luokan nimi CSS:ssä, eli css-luokkanimi on sama!
+#sivustonjuuri # .sivustonjuuri
+################################ TÄYTÄ NÄMÄ
+#käytetään siellä missä omistajan nimi ilmenee
+  sivustonomistaja = "Share.fi"
+  sivustonomistajapiste  = "Share.fi."
+#käytetään siellä missä omistajan nimi ilmenee genetiivimuodossa, kuten valikossa"Sivusto on omistajan"
+  sivustonomistajagenetiivi = "Share.fi:n"
+  sivustonomistajagenetiivipiste = "Share.fi:n."
+#käytetään siellä missä omistajan nimi ilmenee illatiivimuodossa, kuten yhteydenottosivulla "Ota yhteyttä omistajaan"
+  sivustonomistajaillatiivi = "Share.fi:hin"
+  sivustonomistajaillatiivipiste = "Share.fi:hin."
+# käytetään omistajan nimen tarkenteena, selitteenä mm. tietosuojalausekkeessa
+  sivustonomistajatarkenne = "Tämä on share.fi kotisivu."
+# Jos halutaan jokin teksti jokaiselle alasivulle ylös vasemmalle
+  paivanviesti = ">Päivän viesti"
+# Copyright-teksti Tämä teksti tulee alatunnisteeseen klikattavaksi ja johtaa etusivulle. 
+  alatunnistecopyright = "Share.fi, meidän sivustomme"
+  

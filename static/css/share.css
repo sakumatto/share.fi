@@ -1,0 +1,167 @@
+
+
+.einayteta{
+	display:none;
+}
+.half-wide{
+	margin:35px 15% !important;
+}
+.full-img{
+	margin:0;float:none;
+}
+.right-img{
+	margin-left:15px;margin-bottom:0;
+}
+.right-img-caption{
+	margin-left:15px;margin-bottom:12px;font-size:12px;font-style:italic;
+}
+.left-img{
+	margin-right:15px;margin-bottom:0;
+}
+.left-img-caption{
+	margin-right:15px;margin-bottom:12px;font-size:12px;font-style:italic;
+}
+.imgdiv{
+	float:none;margin-top:35px;
+}
+.max300{
+	max-width:300px;float:right;
+}
+.max300left{
+	max-width:300px;float:left;
+}
+.maxfull{
+	width:100%;
+}
+.articlelimits{
+	margin:25px 0;
+}
+.max300 img,.max300left img{
+	width:42%;
+}
+.max300 img,.max300left img,.maxfull img{
+	min-width:80%;min-height:80% max-height:100%;max-width:100%;
+}
+.wp-embed-footer{
+	display:none;
+}
+aside.mandela{
+	color:#535353;font-size:14px;font-family:'Capriola',sans-serif;line-height:18px;text-decoration:none;margin-top:35px;margin-bottom:30px !important;text-align:left;background-color:#fafafa;border:dashed 1px silver;padding:15px;
+}
+body.joulu{
+	background:#000000 url(images/joulutausta.png) no-repeat;
+}
+#ihmenosteblock{
+	margin-top:35px;width:88%;max-width:600px;padding:5%;border:solid 1px #555555;
+}
+.ihmenostoanfangi{
+	margin:5%;margin-left:0;margin-top:0;font-size:1.2rem;font-family:Helvetica;padding:5px;border:solid 1px #555555;
+}
+.ihmenostoanfangi a:link,.ihmenostoanfangi a:visited{
+	color:inherit;
+}
+.ihmelistaus{
+	padding:20px 0px 20px 15px;margin-left:15px;
+}
+.poimintoja-intro,.maitreyanviestiteksti{
+	color:#535353;font-size:14px;font-family:'Capriola',sans-serif;line-height:18px;text-decoration:none;margin-top:5px;margin-bottom:30px !important;text-align:left;background-color:#fafafa;border:dashed 1px silver;padding:15px;
+}
+.poimintoja{
+	margin-top:5px;margin-bottom:30px !important;
+}
+.etusivunnosto{
+	color:#535353;font-size:14px;font-family:'Capriola',sans-serif;line-height:18px;text-decoration:none;margin-top:35px !important;margin-bottom:30px !important;text-align:left;background-color:#fafafa;border:solid 1px silver;padding:15px;
+}
+.etusivunnosto h4{
+	color:#F3F3F3;font-size:15px;font-family:'Capriola',sans-serif;font-weight:bold;line-height:17px;text-decoration:none;border-bottom:1px dashed #FFD073;margin-bottom:15px;
+}
+.maitreyanviestitylhaalla p{
+	color:#535353;font-size:13px;font-family:'Quattrocento',sans-serif;line-height:17px;text-decoration:none;margin-top:5px;margin-bottom:5px;text-align:center;background-color:#fafafa;border:dashed 1px silver;padding:7px;
+}
+.tiiseri{
+	background-color:silver;color:#000000;font-size:13px;text-align:center;margin:1px 1px 1px 1px;padding:1px;width:68%;border:dashed 1px silver;
+}
+a.tiiseri:link{
+	color:#fff;text-decoration:underline;
+}
+a.tiiseri:hover{
+	color:red;text-decoration:none;
+}
+.tiiseri2{
+	color:#1c1c1c;font-size:13px;font-weight:bold;margin-top:30px;padding:3px;border:dashed 1px silver;
+}
+a.tiiseri2:link{
+	color:#fff;text-decoration:underline;
+}
+a.tiiseri2:hover{
+	color:red;text-decoration:none;
+}
+#text-12{
+	color:#1c1c1c;background-color:#fafafa;margin-top:30px;margin-bottom:35px;padding:20px;border:dashed 1px silver;
+}
+#text-14{
+	color:#1c1c1c;background-color:#fafafa;padding:7px;border:dashed 1px silver;
+}
+#text-14 p{
+	margin-bottom:15px !important;
+}
+.maitreya_alapalkki{
+	border-left:15px solid #fafafa;padding-right:15 px;
+}
+.maitreya_alapalkki h2{
+	font-weight:bold;font-family:Verdana,sans-serif;font-size:14px;color:#000000;line-height:120%;margin-top:20px;margin-bottom:25px;
+}
+.maitreya_alapalkki h3{
+	font-weight:bold;font-family:Verdana,sans-serif;font-size:13px;color:#6C8CD5;line-height:120%;
+}
+.maitreya_alapalkki p{
+	font-weight:normal;font-family:Verdana,sans-serif;font-size:12px;color:#000000;line-height:100%;margin-bottom:15px;
+}
+.lehdistotiedote{
+	color:#1c1c1c;font-size:13px;font-weight:normal;margin-top:30px;margin-bottom:35px;padding:3px;border:dashed 1px silver;width:95%;max-width:777px;
+}
+a.lehdistotiedote:link{
+	color:#fff;text-decoration:underline;
+}
+a.lehdistotiedote:hover{
+	color:red;text-decoration:none;
+}
+
+.kuvaintextleft{
+	margin:10px 10px 5px 0;float:left;border:0
+}
+.kuvaintextright{
+	margin:10px 0 5px 10px;float:right;border:0
+}
+p.kysymys,.kysymys,p.question,.question{
+	letter-spacing:.2pt;margin-top:40px!;font-style:italic;
+}
+p.vastaus,.vastaus,p.answer,.answer{
+	margin-top:-15px;padding:0px 0px 0px 20px;
+}
+.otsikot{
+	color:#535353;font-size:13px;font-family:Geneva;font-weight:bold;line-height:13pt;text-decoration:none;padding-left:2px;padding-right:2px;margin-right:4px;margin-right:4px;
+}
+a.otsikot:link{
+	text-decoration:none;text-align:left;
+}
+a.otsikot:visited{
+	text-decoration:none;
+}
+a.otsikot:active{
+	color:red;text-decoration:none;
+}
+.menutitle{
+	font-weight:bold;border-top:1px dashed #848484;padding-top:4px;margin-top:15px;
+}
+.alhaalta{
+	line-height:4;font-weight:bold;border-top:1px dashed #848484;margin-top:15px;margin-bottom:10px;
+}
+.korostus{
+	font-size:13px;color:white;background-color:#1c1c1c;
+}
+#korostus{
+	font-size:13px;color:white;background-color:#1c1c1c;
+}
+
+

@@ -1,0 +1,49 @@
+<!doctype html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="{{ block "description" . }}{{.Site.Params.description}}{{ end }}">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes">
+  <title>{{ block "title" . }}{{.Site.Title}}{{ end }}</title>
+<link rel="stylesheet" href="/css/classless.css">
+<link rel="stylesheet" href="/css/share-2018.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+</head>
+<body>
+  <header role="banner">
+    {{ if .Site.Params.cover }}
+    <a href="{{.Site.BaseURL}}"><img src="{{.Site.Params.cover}}"></a>
+    {{ end }}
+    <h1>
+      <a href="{{.Site.BaseURL}}">{{.Site.Title}}</a>
+    </h1>
+    <aside>
+      <p>{{.Site.Params.description}}</p>
+    </aside>
+  </header>
+  <nav id="main-nav">
+    <ul class="root">
+    	<!-- https://discourse.gohugo.io/t/go-template-programming-partials-pipe-use-as-functions-recursive/11444 -->
+		{{ partial "menu.html" (dict "menu" "main" "current" . "level" 1 "pages" .Site.Menus.main) }}
+
+		{{ partial "menu.html" (dict "menu" "secondary" "current" . "level" 1 "pages" .Site.Menus.secondary) }}
+
+    </ul>
+</nav><!-- #main-nav -->
+
+  <main>
+  {{ block "main" . }}
+  {{ end }}
+  </main>
+  <aside>
+    {{ block "aside" . }}
+      {{ partial "aside.html" . }}
+    {{ end }}
+
+  </aside>
+  <footer role="contentinfo">
+    {{ block "footer" . }}
+      {{ partial "footer.html" . }}
+    {{ end }}
+  </footer>
+</body>

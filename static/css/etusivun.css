@@ -1,0 +1,22 @@
+.etusivun-aloitusosio {
+	width: 100%;
+	text-align: justify;
+}
+.etusivun-aloitusosio ul {
+	list-style-type: none!important;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.etusivun-aloitusosio ul li {
+	width: 100%;
+}
+.etusivun-aloitusosio ul li p {
+
+}
+
+.etusivun-aloitusosio ul li p a {
+	text-decoration:none;
+	color:inherit!important;
+	font-weight:450;
+}
