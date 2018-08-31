@@ -39,6 +39,8 @@ theme = "classless"
 SectionPagesMenu = "main"
 pluralizelisttitles = false
 
+[blackfriday]
+fractions = false
 
 
 [params]
