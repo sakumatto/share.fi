@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>https://share-fi-2018.firebaseapp.com/maitreya/maitreya-muut-opettajat/</loc>
+    <lastmod>2018-08-01T12:18:25+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share-fi-2018.firebaseapp.com/maitreya/maitreya-televisiossa/</loc>
+    <lastmod>2018-08-01T12:18:25+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://share-fi-2018.firebaseapp.com/lisatietoa/mestari-d-k/</loc>
     <lastmod>2018-08-01T12:18:25+03:00</lastmod>
   </url>
@@ -23,7 +33,7 @@
   </url>
   
   <url>
-    <loc>https://share-fi-2018.firebaseapp.com/kristus/</loc>
+    <loc>https://share-fi-2018.firebaseapp.com/maitreya/kristus/</loc>
     <lastmod>2018-08-01T11:36:03+03:00</lastmod>
   </url>
   
@@ -45,6 +55,11 @@
   <url>
     <loc>https://share-fi-2018.firebaseapp.com/haloo/kiitos/</loc>
     <lastmod>2018-05-24T09:25:30+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share-fi-2018.firebaseapp.com/maitreya/maitreya/</loc>
+    <lastmod>2010-08-01T12:18:25+03:00</lastmod>
   </url>
   
   <url>
@@ -123,6 +138,12 @@
   
   <url>
     <loc>https://share-fi-2018.firebaseapp.com/main/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://share-fi-2018.firebaseapp.com/maitreya/</loc>
+    <lastmod>2018-08-01T12:18:25+03:00</lastmod>
     <priority>0</priority>
   </url>
   

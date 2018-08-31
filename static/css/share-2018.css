@@ -1,4 +1,23 @@
 /*
+
+	DEBUG
+
+
+
+a::after {
+    content: " (" attr(href) ")";
+}
+*/
+/*
+
+	DEBUG ENDS
+
+*/
+
+
+
+
+/*
 	BASICS
 */
 h1, h2,h3,h4{
@@ -45,4 +64,179 @@ a.masterarticle:hover{
 }
 .mastersource{
 	font-style:italic;
+}
+
+#maitreya-include-footer {
+	display: block;
+	padding: 12px 24px;
+	margin: 75px 0 24px;
+	font-size: 16px;
+	border-left: 5px solid #ef5285;
+}
+
+#master-include-footer {
+	display: block;
+	padding: 12px 24px;
+	margin: 75px 0 24px;
+	font-size: 16px;
+	border-left: 5px solid #ef5285;
+}
+
+#global-include-footer-extra {
+	display: block;
+	padding: 12px 24px;
+	margin: 0 75px 24px;
+	font-size: 16px;
+	color: #fabe45;
+}
+/*
+	LINKS
+	https://css-tricks.com/snippets/jquery/target-only-external-links/
+*/
+
+/* target all anchors with an href attribute */
+a[href] {
+	display: inline-block;
+}
+
+/* do something special to indicate an external link */
+a[href]:after {
+	content: " ⚮";
+	color: #555;
+}
+
+/* target what you consider to be "internal" links and undo styles */
+a[href*="share.fi"],
+a[href*="localhost"],
+a[href*="sirv.com"],
+a[href^="/"],
+a[href^="#"],
+a[href^="mailto:"],
+a[href^="javascript:"] {
+	display: inline;
+}
+
+/* undo */
+a[href*="share.fi"]:after,
+a[href*="localhost"]:after,
+a[href^="/"]:after,
+a[href^="#"]:after,
+a[href^="mailto:"]:after,
+a[href^="javascript:"]:after {
+	content: none;
+}
+
+/* undo */
+a[href*="sirv.com"]:after {
+	content: "✿";
+}
+
+
+/*
+	KUVAT
+*/
+
+img {
+border: 1px solid;
+	border-color: #bbb #999;
+	box-shadow:
+		0 2px 5px hsla(0,0%,0%,.4),
+
+		inset 0 1px 0 #ccc,
+		inset 1px 0 0 #aaa,
+		inset 0 -1px 0 #ccc,
+		inset -1px 0 0 #aaa,
+
+		inset 0 2px 0 #c6c6c6,
+		inset 2px 0 0 #a6a6a6,
+		inset 0 -2px 0 #c6c6c6,
+		inset -2px 0 0 #a6a6a6,
+
+		inset 0 3px 0 #c0c0c0,
+		inset 3px 0 0 #a0a0a0,
+		inset 0 -3px 0 #c0c0c0,
+		inset -3px 0 0 #a0a0a0,
+
+		inset 0 4px 0 #b9b9b9,
+		inset 4px 0 0 #999,
+		inset 0 -4px 0 #b9b9b9,
+		inset -4px 0 0 #999,
+
+		inset 0 5px 0 #b6b6b6,
+		inset 5px 0 0 #969696,
+		inset 0 -5px 0 #b6b6b6,
+		inset -5px 0 0 #969696,
+
+		inset 0 6px 0 #b0b0b0,
+		inset 6px 0 0 #909090,
+		inset 0 -6px 0 #b0b0b0,
+		inset -6px 0 0 #909090,
+
+		inset 0 7px 0 #a9a9a9,
+		inset 7px 0 0 #898989,
+		inset 0 -7px 0 #a9a9a9,
+		inset -7px 0 0 #898989,
+
+		inset 0 8px 0 #a6a6a6,
+		inset 8px 0 0 #868686,
+		inset 0 -8px 0 #a6a6a6,
+		inset -8px 0 0 #868686,
+
+		inset 0 9px 0 #a0a0a0,
+		inset 9px 0 0 #808080,
+		inset 0 -9px 0 #a0a0a0,
+		inset -9px 0 0 #808080,
+
+		inset 0 10px 0 #888,
+		inset 10px 0 0 #666,
+		inset 0 -10px 0 #888,
+		inset -10px 0 0 #666,
+
+		inset 0 0 10px 10px hsla(0,0%,0%,.5);
+}
+.pc25 {
+	max-width:25%;
+}
+
+.pc35 {
+	max-width:35%;
+}
+
+
+.pc45 {
+	max-width:45%;
+}
+
+.pc55 {
+	max-width:55%;
+}
+
+
+
+.alignright {
+	float:right;
+	margin: 12px 0 12px 12px;
+	display:inline-block;
+}
+
+.alignleft {
+	float:left;
+	margin: 12px 12px 12px 0;
+
+}
+
+.aligncenter {
+	float:none;
+	margin: 12px auto;
+	display:inline-block;
+}
+
+.alignright p, .alignleft p, .aligncenter p {
+
+	font-size: small;
+	word-wrap: break-word;
+}
+
+.maitreyan-kasi {
+	width:250px;
 }
