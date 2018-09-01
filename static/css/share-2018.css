@@ -132,6 +132,7 @@ a[href]:after {
 a[href*="share.fi"],
 a[href*="localhost"],
 a[href*="sirv.com"],
+a[href*="firebaseapp.com"],
 a[href^="/"],
 a[href^="#"],
 a[href^="mailto:"],
@@ -142,6 +143,7 @@ a[href^="javascript:"] {
 /* undo */
 a[href*="share.fi"]:after,
 a[href*="localhost"]:after,
+a[href*="firebaseapp.com"],
 a[href^="/"]:after,
 a[href^="#"]:after,
 a[href^="mailto:"]:after,
