@@ -1,9 +1,9 @@
 ---
 title: "Mestarin sanoin 6/2018: Rienaava sota"
-menu: main
+menu: master
 draft: false
 
-master: Cremen Mestari
+master: "Cremen Mestari"
 
 date: 2018-06-01T00:00:00+02:00
 prevmonth: "5/2018: Ihmisten veljeskunta"

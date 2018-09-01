@@ -1,4 +1,23 @@
 /*
+
+	DEBUG
+
+
+
+a::after {
+    content: " (" attr(href) ")";
+}
+*/
+/*
+
+	DEBUG ENDS
+
+*/
+
+
+
+
+/*
 	BASICS
 */
 h1, h2,h3,h4{
@@ -33,19 +52,108 @@ li.active a:hover {
 	border-left: 5px solid #eee;
 }
 
+.nosto{
+	font-style:italic;
+	display: block;
+	padding: 24px;
+	font-size: normal;
+	margin: 25px 5%;
+	padding-left: 2%;
+	border-left: 5px solid #eee;
+}
 
+.footer-copyright {
+	display: block;
+	padding: 12px 24px;
+	margin: 75px 0 24px;
+	font-size: 16px;
+}
+
+.footer-copyright:after {
+	content: 'Mainitsethan ystävällisesti aina lähteenä "share.fi", kun lainaat materiaalia tältä sivustolta.';
+	display: block;
+	padding: 12px;
+	font-size: 13px;
+}
 .masterarticle{
 	width:95%; width:51vw;border:1.5px;border-color:#eeeeee;border-style:dashed;padding:15px;margin-bottom:35px;background-color:#fafafa;
 }
-a.masterarticle:link{
-	color:#fff;text-decoration:underline;
+
+.masterarticle h1 {
+	font-size: xx-large;
 }
-a.masterarticle:hover{
-	color:red;text-decoration:none;
+
+.masterarticle h3 {
+	font-size: large;
+	margin: 35px 0 !important;
 }
+
 .mastersource{
 	font-style:italic;
+	display: block;
+	padding: 24px;
+	font-size: small;
 }
+
+#maitreya-include-footer,#master-include-footer, #masterarticles-include-footer {
+	display: block;
+	padding: 12px 24px;
+	margin: 75px 0 24px;
+	font-size: 16px;
+	border-left: 5px solid #ef5285;
+}
+
+
+#global-include-footer-extra {
+	display: block;
+	padding: 12px 24px;
+
+	font-size: 16px;
+	color: #fabe45;
+	background-color:#555;
+}
+/*
+	LINKS
+	https://css-tricks.com/snippets/jquery/target-only-external-links/
+*/
+
+/* target all anchors with an href attribute */
+a[href] {
+	display: inline-block;
+}
+
+/* do something special to indicate an external link */
+a[href]:after {
+	content: " ⚮";
+	color: #555;
+}
+
+/* target what you consider to be "internal" links and undo styles */
+a[href*="share.fi"],
+a[href*="localhost"],
+a[href*="sirv.com"],
+a[href^="/"],
+a[href^="#"],
+a[href^="mailto:"],
+a[href^="javascript:"] {
+	display: inline;
+}
+
+/* undo */
+a[href*="share.fi"]:after,
+a[href*="localhost"]:after,
+a[href^="/"]:after,
+a[href^="#"]:after,
+a[href^="mailto:"]:after,
+a[href^="javascript:"]:after {
+	content: none;
+}
+
+/* undo */
+a[href*="sirv.com"]:after {
+	content: "✿";
+}
+
 
 /*
 	KUVAT
@@ -150,4 +258,8 @@ border: 1px solid;
 
 	font-size: small;
 	word-wrap: break-word;
+}
+
+.maitreyan-kasi {
+	width:250px;
 }

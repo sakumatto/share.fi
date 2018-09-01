@@ -48,6 +48,11 @@
   </url>
   
   <url>
+    <loc>https://share-fi-2018.firebaseapp.com/mestarin-sanoin/2018-06-rienaava-sota/</loc>
+    <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://share-fi-2018.firebaseapp.com/laillisuusasiat/tietosuoja/</loc>
     <lastmod>2018-05-24T09:25:35+03:00</lastmod>
   </url>
@@ -63,14 +68,14 @@
   </url>
   
   <url>
-    <loc>https://share-fi-2018.firebaseapp.com/avainsanat/</loc>
-    <lastmod>2018-08-01T11:36:03+03:00</lastmod>
+    <loc>https://share-fi-2018.firebaseapp.com/aihealueet/</loc>
+    <lastmod>2018-08-02T11:42:53+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://share-fi-2018.firebaseapp.com/aihealueet/</loc>
-    <lastmod>2018-08-02T11:42:53+03:00</lastmod>
+    <loc>https://share-fi-2018.firebaseapp.com/avainsanat/</loc>
+    <lastmod>2018-08-01T11:36:03+03:00</lastmod>
     <priority>0</priority>
   </url>
   

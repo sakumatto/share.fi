@@ -1,6 +1,7 @@
 ---
 title: "Mestarin sanoin 7-8/2018: Pysyvä valintatilanne"
-menu: main
+menu: [main,master]
+
 draft: false
 
 master: Cremen Mestari
