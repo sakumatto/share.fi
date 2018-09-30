@@ -1,0 +1,49 @@
+
+{{ define "title" }}{{.Title}} | {{.Site.Title}}{{ end }}
+
+{{ define "description" }}{{.Summary}}{{ end }}
+
+{{ define "main" }}
+
+<!-- JSON-LD markup for Structured Data BEGINS-->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Article",
+  "name" : "{{.Title}}",
+  "headline" : "{{- .Title | replaceRE ":.+" "" -}}",
+  "author" : {
+    "@type" : "Organization",
+    "name" : "share.fi"
+  },
+  "datePublished" : "{{- .Date.Format "2006-01-02" -}}",
+  "backstory" : [ " Maitreya on Henkisen Hierarkian johdossa olevan Maailmanopettajan henkilökohtainen nimi. Maitreya tunnetaan myös Kristuksen, Buddhan, Krishnan, Imam Mahdin tai Messiaan nimillä. Maitreya on aloittanut tammikuussa 2010 tv-esiintymisten sarjan, joka tulee johtamaan julkitulon päivään, jolloin Hän julkistaa todellisen henkilöytensä." ],
+  "articleBody" : "{{.Content}}",
+  "speakable": [ "#article-headline", "#article-body"],
+  "relatedLink" : "https://www.share.fi/mestarin-sanoin/kirjallisuus/",
+  "url": "{{ .Permalink }}"
+
+}
+</script>
+<!-- JSON-LD markup for Structured Data ENDS-->
+
+
+	<h1 id="article-headline">{{- .Title | replaceRE ".+:" "" -}}</h1>
+
+
+	<div id="article-body">{{.Content}}</div>
+
+
+
+
+<blockquote>
+  <h3>Lisäaiheita</h3>
+  <p><a title="Lisätietoa aiheistamme tältä pääsivulta" href="/lisatietoa/" target="_blank">Lisätietoa aiheistamme tältä pääsivulta</a></p>
+
+</blockquote>
+
+
+
+</article>
+
+{{ end }}

@@ -1,2 +1,0 @@
-{{ $sep := .sep }}
-{{ range $index, $element := .chars }}{{ if $index }}{{ $sep }}{{end}}<span><a href="{{ .Permalink }}">{{ partial "personnage/name" . }}</a></span>{{ end }}

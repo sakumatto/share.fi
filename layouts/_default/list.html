@@ -3,15 +3,17 @@
 {{ define "description" }}{{.Title}} on {{.Site.Title}}{{ end }}
 
 {{ define "main" }}
-<section>
+
   {{ if .Content }}
   <article>
     {{ partial "article-header.html" . }}
     <div>{{.Content}}</div>
   </article>
   {{ end }}
+  <section>
+  <p>Listaus artikkeleista tästä aihepiiristä</p>
   <ul>
-    {{ range .Paginator.Pages }}
+    {{ range (.Paginator 12).Pages }}
     <li>
       <article>
         {{ partial "article-header.html" . }}
@@ -27,8 +29,8 @@
 <footer>
   <nav>
     <ul>
-      <li><a {{ if .Paginator.HasPrev }}href="{{ .Paginator.Prev.URL }}"{{ end }}>edell</a></li>
-      <li><a {{ if .Paginator.HasNext }}href="{{ .Paginator.Next.URL }}"{{ end }}>seur</a></li>
+      <li id="previous"><a {{ if .Paginator.HasPrev }}href="{{ .Paginator.Prev.URL }}"{{ end }}>edelliset</a></li>
+      <li id="next"><a {{ if .Paginator.HasNext }}href="{{ .Paginator.Next.URL }}"{{ end }}>seuraavat</a></li>
     </ul>
   </nav>
 </footer>

@@ -21,19 +21,19 @@ toc:  false
 
  
 menu:
- secondary:
+ main:
   name:  "Swami Premananda"
   identifier:  "swamipremananda"
   parent:  "lisatietoa"
 ---
 <p class="alustus">Swami Premananda oli suuri henkinen Avataara ja hän kuoli vuosia kestäneen epäoikeutetun vankilassaolon jälkeen 21.2.2011. Vuosien varrella Share International on raportoinut Premanandan ihmeistä ja vaiheista hänen ashramissaan Intian Trichyssä, Tamilnadussa. Swami Premananda sanoi itsestään: ”Sai Baba on Sai Baba, suuri Avataara. Minä olen kuka olen, tavallinen ihminen, joka ei tiedä miksi hänelle on annettu joukko henkisiä lahjoja. On totta, että voin parantaa ihmisiä ja luoda esineitä tyhjästä, ja että minulla on erityislaatuisia voimia, mutta nämä kaikki tulevat Jumalasta. Minä itsenäni en osaa mitään.”</p>
 <h2>Swami Premananda 1951-2011</h2>
-<p class="aligncenter"><img src="https://sharefi-cdn.sirv.com/share.fi/swami-premananda-kasvokuva.webp" width="550" height="447" alt="" /><br />Vangittu Avataara – Swami Premananda – totuus voittaa lopulta</p>
+<p class="aligncenter"><img src="https://sharefi-cdn.sirv.com/sharefi/swami-premananda-kasvokuva.webp" width="550" height="447" alt="" /><br />Vangittu Avataara – Swami Premananda – totuus voittaa lopulta</p>
 
 <p>Vuonna 1951 Sri Lankassa syntyneen Premanandan syntymän ennusti suuri intialainen tietäjä. Jo hyvin nuorella iällä hän alkoi osoittaa merkkejä siitä mistä Avataarat yleensä tunnistetaan. Kun hän kasvoi kohti täydempää käsitystä erityislaatuisista lahjoistaan, hän antoi itsensä enenevässä määrin kohtalonsa täyttäviin tehtäviin ja rooliinsa ihmisten palvelijana.</p>
 
 <p>Avataara on jo määritelmän mukaisesti korkeasti kehittynyt olento, joka tuo muassaan tiettyjä energioita maailmaan, ja olento, johon nuo energiat joko ruumiillistuvat tai joka ankkuroi nuo energiat maailmaan palveluksenaan ihmiskunnalle. Heitä on tiedetty olevan kautta historian kulun Intiassa ja muissa Aasian maissa suurina olentoina, jotka tuovat jonkin tietyn siunauksen ihmiskunnalle.</p>
-<p class="alignright"><img src="https://sharefi-cdn.sirv.com/share.fi/swami-premananda-nuorena.jpg" width="299" height="226" alt="" /><br />
+<p class="alignright"><img src="https://sharefi-cdn.sirv.com/sharefi/swami-premananda-nuorena.jpg" width="299" height="226" alt="" /><br />
 Swami Premananda nuorena</p>
 
 <p>Vuonna 1969 kun Premananda puhui häntä kuulemaan saapuneelle yli 200 hengen ihmisjoukolle, hänen kehonsa alkoi yhtäkkiä hehkua ja hänen vaatteidensä väri muuttui okraksi. Tuo sari tai kaapu okran värisenä on hindutraditiossa vihkimyksen saaneen munkin tunnusmerkki. Premananda oli tuolloin vain 17-vuotias, mutta siitä pitäen hänet tunnettiin sanskriitin kielisen ja rakkautta tarkoittavan ”prema” ja äärimmäistä hurmiota tarkoittavalla ”ananda” mukaisella nimellään, eli Swami Premananda -nimellä. Hän itse lausui aikovansa siitä pitäen omistaa koko elämänsä henkiseen palvelukseen. Hän totesi elämänsä tehtävän olevan osoittaa Jumalan olemassaolo ja Jumalan rakkauden olemassaolo niin monelle ihmiselle kuin mahdollista omana elinaikanaan. Hän alkoi opettaa muillekin kuinka mieli voidaan saattaa hiljaiseksi ja kokea todellisuus.</p>
@@ -52,6 +52,6 @@ Swami Premananda nuorena</p>
 <p>Swami Premananda kuoli vankilassa 21.2.2011 17 vuoden vankeuden jälkeen. Hän itse hymyili loppuun saakka ja tapasi sanoa: ”En ole tehnyt mitään rikosta. Olen täysin antautunut korkeimman tahtoon. Totuus tulee lopulta voittamaan.”</p>
 
 
-<p class="aligncenter"><img src="https://sharefi-cdn.sirv.com/share.fi/swami-premanandan-luoma-lingam-ihme-201104_muistotilaisuus-benjamin-cremen-mestari-vahvistaa-etta%CC%88-munan-muotoinen-lingam-oli-swami-premanandan-luoma-ihme.jpg" width="787" height="523" alt="" /><br />Swami Premanandan kuoleman jälkeen pidetyn seremonian yhteydessä pyhiinvaeltaja, joka oli keräämässä pois kukkia huomasi suuren lingamin kukkien keskellä. Lingam oli kumkum-tahnan peitossa. Benjamin Cremen Mestari vahvistaa, että munan muotoinen lingam oli Swami Premanandan luoma ihme. Swami Premanandan kuoleman jälkeen pidetyn seremonian yhteydessä pyhiinvaeltaja, joka oli keräämässä pois kukkia huomasi suuren lingamin kukkien keskellä. Lingam oli kumkum-tahnan peitossa. Benjamin Cremen Mestari vahvistaa, että munan muotoinen lingam oli Swami Premanandan luoma ihme.</p>
+<p class="aligncenter"><img src="https://sharefi-cdn.sirv.com/sharefi/swami-premanandan-luoma-lingam-ihme-201104_muistotilaisuus-benjamin-cremen-mestari-vahvistaa-etta%CC%88-munan-muotoinen-lingam-oli-swami-premanandan-luoma-ihme.jpg" width="787" height="523" alt="" /><br />Swami Premanandan kuoleman jälkeen pidetyn seremonian yhteydessä pyhiinvaeltaja, joka oli keräämässä pois kukkia huomasi suuren lingamin kukkien keskellä. Lingam oli kumkum-tahnan peitossa. Benjamin Cremen Mestari vahvistaa, että munan muotoinen lingam oli Swami Premanandan luoma ihme. Swami Premanandan kuoleman jälkeen pidetyn seremonian yhteydessä pyhiinvaeltaja, joka oli keräämässä pois kukkia huomasi suuren lingamin kukkien keskellä. Lingam oli kumkum-tahnan peitossa. Benjamin Cremen Mestari vahvistaa, että munan muotoinen lingam oli Swami Premanandan luoma ihme.</p>
 
 <p>Lähteet: <a class="external" href="//www.share-international.org/archives/religion/rl_Premananda.htm">http://www.share-international.org/archives/religion/rl_Premananda.htm</a>, <a class="external" href="//sripremananda.org/teachings/swamijis-life-story/#prettyPhoto">http://sripremananda.org/teachings/swamijis-life-story/#prettyPhoto</a>, <a class="external" href="//www.share-international.org/magazine/old_issues/2011/2011-04.htm#swami">http://www.share-international.org/magazine/old_issues/2011/2011-04.htm#swami</a></p>

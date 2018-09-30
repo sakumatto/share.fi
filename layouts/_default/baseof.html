@@ -3,6 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="description" content="{{ block "description" . }}{{.Site.Params.description}}{{ end }}">
+    <!--[if lt IE 9]>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <![endif]-->
   <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes">
   <title>{{ block "title" . }}{{.Site.Title}}{{ end }}</title>
 <link rel="stylesheet" href="/css/classless.css">
@@ -20,16 +23,17 @@
 		if ( anchors[i].className && anchors[i].className.indexOf('external') != -1 )
 			anchors[i].onclick = function () { return !window.open(this); };
 </script>
+
 </head>
 <body>
   <header role="banner">
-    {{ if .Site.Params.cover }}
-    <a href="{{.Site.BaseURL}}"><img src="{{.Site.Params.cover}}"></a>
-    {{ end }}
     <h1>
       <a href="{{.Site.BaseURL}}">{{.Site.Title}}</a>
     </h1>
     <aside>
+        {{ if .Site.Params.cover }}
+    <a href="{{.Site.BaseURL}}"><img src="{{.Site.Params.cover}}"></a>
+    {{ end }}
       <p>{{.Site.Params.description}}</p>
     </aside>
   </header>
@@ -44,8 +48,10 @@
 </nav><!-- #main-nav -->
 
   <main>
+  <p id="ihanylos"><a name="ihanylos"></a></p>
   {{ block "main" . }}
   {{ end }}
+  <p class="takaisinylos"><a href="#ihanylos">Sivun alkuun</a></p>
   </main>
   <aside>
     {{ block "aside" . }}

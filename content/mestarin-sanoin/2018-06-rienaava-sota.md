@@ -1,7 +1,9 @@
 ---
 title: "Mestarin sanoin 6/2018: Rienaava sota"
-menu: master
-draft: false
+menu:
+  masterarticle:
+    identifier:  "mestarin-sanoin-2018-06"
+    parent:  "2018"
 
 master: "Cremen Mestari"
 
@@ -12,6 +14,7 @@ prevmonthLink: "2018-05"
 cover:
 aliases:
     - /mestarin-sanoin/2018-06/
+    - /mestarin-sanoin-6_2018-rienaava-sota/
 
 ei_pvm: false
 naytakk: true

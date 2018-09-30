@@ -2,7 +2,9 @@
 title:  "Maitreya televisiossa 2010–2016"
 date:  2018-08-01T12:18:25+03:00
 master: Maitreya
-draft:  false
+
+aliases:
+    - /maitreya-televisiossa/
 
 ei_pvm:  true
 naytakk:  true
@@ -27,6 +29,7 @@ menu:
 <blockquote><p>Tälle sivulle on koottu yksiin kansiin se tieto, jota Maitreyan televisioesiintymisistä on annettu tammikuun 2010 ja nykyhetken välillä. Pikakelaus <a href="#status-nyt">nykyhetkeen, klikkaa</a>.</p></blockquote>
 <h2>2010 tammikuu</h2>
 <p>Benjamin Creme saa tiedon Mestariltaan, että Maailmanopettaja Maitreya on antanut ensimmäisen televisiohaastattelunsa USA:ssa. Haastattelu oli jollain suurella tv-kanavalla, mutta millä, tai milloin tarkalleen, sitä tietoa ei anneta, jotta ihmisille jäisi mahdollisuus itse tunnistaa Kristus tässä puhujassa, joka siis esiintyy vain yhtenä meistä. Tässä mitä Creme sanoi Friends Housen luennollaa tuolloin:</p>
+<a name="vahvistus"></a>
 <p>&#8221;Tietään valmistelleen, airuenaan toimivan &#8221;tähden&#8221; pohjustamana, Maitreya, Maailmanopettaja, on nyt antanut ensimmäisen haastattelunsa amerikkalaisessa televisiossa. Miljoonat ovat kuulleet Hänen puhuvan TV:n ja internetin välityksellä.<br />
 Hänen avoin toimintansa on alkanut.<br />
 Häntä ei esitelty nimellä Maitreya, Maailmanopettaja sekä Henkisen Hierarkiamme johtaja, vaan yksinkertaisesti ihmisenä, kuten kuka tahansa meistä. Tällä tavoin Hän &#8217;varmistaa, että ihmiset seuraavat ja kannattavat Häntä Hänen ideoittensa totuuden ja mielekkyyden vuoksi, eivätkä Hänen statuksensa vuoksi.&#8217;<br />
@@ -36,7 +39,7 @@ Benjamin Creme, Lontoossa, 14.1.2010</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h3>Mitä nyt?</h3>
-<p><img class="alignright size-full wp-image-3751" src="//www.share.fi/kuvat/norjan-spiraali-zoom.jpg" alt="spiraali-norjassa" />Koko vuoden 2009 ajan Maitreyan airuena toimiva &#8221;tähti&#8221; on ollut nähtävissä taivaalla ja viimeisimmät havainnot ovat olleet jo lähes uskomattomia, kuten kuvamme näkymä Norjasta, missä tuo &#8221;tähti&#8221; aiheutti noin 12 minuutin mittaisen valoshown taivaalle.</p>
+<p class="alignright"><img class="Sirv" data-src="https://sharefi-cdn.sirv.com/sharefi/norjan-spiraali.webp" />Koko vuoden 2009 ajan Maitreyan airuena toimiva &#8221;tähti&#8221; on ollut nähtävissä taivaalla ja viimeisimmät havainnot ovat olleet jo lähes uskomattomia, kuten kuvamme näkymä Norjasta, missä tuo &#8221;tähti&#8221; aiheutti noin <a class="external"href="https://www.iltalehti.fi/ulkomaat/2009120910753269_ul.shtml">12 minuutin mittaisen valoshown taivaalle</a>.</p>
 <p>Nyt, heti vuoden 2010 alkuun, olemme saaneet kuulla, että kauan odotettu Maitreyan ensimmäinen tv-esiintyminen on todellakin tapahtunut Yhdysvalloissa. Lisää esiintymisiä on odotettavissa niin USA:ssa, kuin myös Japanissa, Euroopassa ja muualla. Tuo hahmo, joka tv:ssä esintyy ei kuitenkaan esiinny itsenään, Maailmanopettajana, vaan yhtenä meistä. Hänen viestinsä totuuden voimme tunnistaa siitä, että se herättää omassa sydämessämme totuuden kaiun.</p>
 <p>Kun nämä esiintymiset alkavat laajeta, itse kullekin meistä tulee mahdollisuus ja ehkäpä kiusauskin alkaa spekuloida keskenämme sillä, että onkohan tuo Maitreya, tai tuo, tai hän! Löytämisen ilo ja tunnistamisen autuus ovat meille jokaiselle yksilönä tarkoitettu kokemus. Siksi meidän aivan jokaisen on syytä pitää nämä ajatukset omanamme ja vain itsenä spekuloida sillä kuka todella on Maailmanopettaja. Samasta syystä ei ole mitään Youtube-videon tms osoitetta, jossa Maitreyan televisioesiintymisiä voisi käydä katsomassa. Me share.fi:ssä emme tiedä.</p>
 <p>Varmuus asiasta tulee kun Julkitulon päivänä me saamme koko planeetan kattavassa satelliittilinkityksessä nähdä Hänet yhdellä kertaa kautta planeetan ja tuolloin, ja vasta tuolloin, Hän tulee paljastamaan todellisen statuksensa koko planeetalle.<br />
@@ -111,14 +114,14 @@ V. Suunnilleen 36 miljoonaa ihmistä on nyt kuullut viestin; 12 miljoonaa uskoo 
 <p><em>K. Suunnitteleeko Maitreya yhä antavansa haastattelun Japanissa?</em><br />
 V. Kyllä, kun aika on oikea.</p>
 <p><em>K. Missä Maitreya on nykyään? Näemmekö Maitreyan tänä vuonna, 21.joulukuuta 2012?</em></p>
-<p><a href="http://37.60.224.122/~sakumat8/share.fi" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-article/http://37.60.224.122/~sakumat8/share.fi']);" class="external" rel="nofollow" target="_blank"><img class="size-full wp-image-2426 alignright" src="//www.share.fi/kuvat/nairobifin.jpg" alt="Maitreya Siten, kuten Hän näyttäytyi Nairobissa 1986." width="159" height="270" /></a></p>
+<p class="alignright"><img src="https://sharefi-cdn.sirv.com/sharefi/nairobifin.jpg" width="159" height="270" alt="" /></p>
 <p>V. Maitreya asuu Lontoossa mutta esiintyy televisiossa Brasiliassa. Hän voi olla missä tahansa milloin tahansa, joten on vaikea vastata sinun kysymykseesi. Milloin näet hänet riippuu siitä miten sinä ja koko muu ihmiskunta valmistatte tietä Hänelle hyväksymällä jakamisen ja oikeudenmukaisuuden periaatteet.</p>
 <p>&nbsp;</p>
 <p><em>K. Nettisivujenne mukaan näyttää siltä, että Maitreya on ilmestynyt vain Amerikassa, Euroopassa ja Aasiassa. Onko Häntä koskaan nähty Afrikassa?</em><br />
 V. Ainoa valokuva, joka meillä on Maitreyasta, on Nairobista Keniasta, jossa Hän ilmestyi 6000 ihmiselle 11.kesäkuuta 1988.</p>
 <p>&nbsp;</p>
 <h2>14.5.2012</h2>
-<p>On kulunut 30 vuotta siitä, kun englantilainen Benjamin Creme aloitti tiedotustyönsä Maailmanopettajan ja Hierarkian julkisuuteen tulosta. Lue kaikki tästä: <a title="30 vuotta työtä Maitreyan julkitulon puolesta, 1982-2012" href="//www.share.fi/30-vuotta-tyota-maitreyan-julkitulon-puolesta-1982-2012">30 vuotta työtä julkitulon puolesta</a></p>
+<p>On kulunut 30 vuotta siitä, kun englantilainen Benjamin Creme aloitti tiedotustyönsä Maailmanopettajan ja Hierarkian julkisuuteen tulosta. Lue kaikki tästä: <a title="30 vuotta työtä Maitreyan julkitulon puolesta, 1982-2012" href="/30-vuotta-tyota-maitreyan-julkitulon-puolesta-1982-2012">30 vuotta työtä julkitulon puolesta</a></p>
 <p>&nbsp;</p>
 <h2>2012 kesäkuu</h2>
 <p><em>K: Kuinka monta haastattelua Maitreya on antanut tähän mennessä?</em><br />
@@ -292,8 +295,7 @@ V. Maitreya toimii inkognito. Edes he jotka työskentelevät näiden tuotantojen
 <h2>Tammi- / helmikuu 2016</h2>
 <p style="margin-top: 30px; font-style: italic;">K: Sen jälkeen kun Maitreya aloitti televisioesiintymiset Kiinassa, onko Hän viime kuukausina esiintynyt myös muiden maiden televisioissa?</p>
 <p>V: Kyllä, Japanissa, Indonesiassa, Vietnamissa, Malesiassa ja Intiassa sekä viimeisimpänä Intiassa.</p>
-<p><br />
-<a name="status-nyt"></a></p>
+
 <h2>Maaliskuu 2016</h2>
 <p style="margin-top: 30px; font-style: italic;">K: (1) Kun luen listaa maista, joissa Maitreya on hiljattain ollut haastatteluissa, saa se minut ajattelemaan, että Hänen julkitulonsa on jälleen siirtynyt uuteen vaiheeseen, onko näin? (2) Onko Maitreyan suunnitelmissa nopeassa tahdissa lisätä niiden maiden lukumäärää, joissa Hän esiintyy? Voisiko olla niin, että &#8221;pidemmän viipymisen&#8221; sijaan yhdessä maassa, Maitreya aikoo vierailla pikaisesti mutta useissa maissa?</p>
 <p>V: (1) On. (2) Siltä vaikuttaa.</p>
@@ -302,9 +304,15 @@ V. Maitreya toimii inkognito. Edes he jotka työskentelevät näiden tuotantojen
 <p style="margin-top: 30px; font-style: italic;">K: Onko Maitreya esiintynyt televisiossa sitten edellisen lehden ilmestymisen?</p>
 <p>V: Kyllä. Hän on koko ajan liikkeellä vieraillen aina missä ja milloin tarpeen.</p>
 <p>&nbsp;</p>
-<blockquote>
+<div class="nosto">
 <h2>Tässä Maitreyan televisioesiintymisten erittely tähän asti:</h2>
-<p>USA: 29 haastattelua (tammikuusta 2010 tammikuuhun 2011); Meksiko: 14 haastattelua (tammikuusta syyskuuhun 2011); Brasilia: 41 haastattelua (syyskuusta 2011 tammikuuhun 2013); Venäjä 51 haastattelua (tammikuusta 2013 toukokuuhun 2014) ja Kiinassa 34 haastattelua, toukokuusta 2014 aina kesään 2015. Lisäksi lukumäärältään avoin määrä esiintymisiä Japanissa. Indonesiassa, Vietnamissa, Malesiassa ja Intiassa. Yhteensä yli 169 televisioesiintymistä 2016 mennessä.</p></blockquote>
+<p>USA: 29 haastattelua (tammikuusta 2010 tammikuuhun 2011); Meksiko: 14 haastattelua (tammikuusta syyskuuhun 2011); Brasilia: 41 haastattelua (syyskuusta 2011 tammikuuhun 2013); Venäjä 51 haastattelua (tammikuusta 2013 toukokuuhun 2014) ja Kiinassa 34 haastattelua, toukokuusta 2014 aina kesään 2015. Lisäksi lukumäärältään avoin määrä esiintymisiä Japanissa. Indonesiassa, Vietnamissa, Malesiassa ja Intiassa. Yhteensä yli 169 televisioesiintymistä 2016 mennessä.</p>
+</div>
+<p><br />
+<a name="status-nyt"></a></p>
+<h2>Syksy 2018</h2>
+<p>Viimeiseen reiluun vuoteen emme ole saaneet vahvistettua tietoa Maitreyan televisioesiintymisistä siitä yksinkertaisesta syystä, että Benjamin Cremen kuoltua, hänen Mestarinsa vahvistuksia ei ole enää saatu. Oletettavasti ja suurella varmuudella voidaan sanoa, että seuraava vahvistettu televisioesiintyminen tulee olemaan julkitulon päivän globaali lähetys. Televisioesiintymiset jatkuvat silti tuntemattomuuden viitan alla. Muistetaan Cremen kommentti jo maaliskuussa 2016, kun esiintymisiä alkoi olla aina vain enemmän. Benjamin Creme: "Meillä ei ole mitään mahdollisuutta pitää kirjaa. Hän on siirtynyt paikasta toiseen siellä missä näkee tarpeen ja missä löytää vuorovaikutusta, tuoden lohtua ihmiskunnalle ja antaen neuvoja. (- -) Hän on koko ajan liikkeellä vieraillen aina missä ja milloin tarpeen."</p>
+
 <hr style="margin: 55px;" />
-<div class='masterarticle'>Lue perustietosivu koskien <a title="Maailmanopettaja Maitreya" href="//www.share.fi/maitreya">Maailmanopettaja Maitreyaa</a>.<br />
-</div><br clear='all' />
+<div class='masterarticle'>Lue perustietosivu koskien <a title="Maailmanopettaja Maitreya" href="/maitreya">Maailmanopettaja Maitreyaa</a>.<br />
+</div>

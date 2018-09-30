@@ -24,7 +24,7 @@ menu:
 ---
 
 <h2>Kuka Maitreya on?</h2>
-<div class="aligncenter"><img class="Sirv" data-src="https://sharefi-cdn.sirv.com/share.fi/maitreyanisokasi2.jpg" alt="Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi." /><p>Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi.</p></div>
+<div class="aligncenter"><img class="Sirv" data-src="https://sharefi-cdn.sirv.com/sharefi/maitreyanisokasi2.jpg" alt="Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi." /><p>Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi.</p></div>
 <p>Jo sukupolvien ajan ovat kaikki pääuskonnot odottaneet Häntä tulevaksi. Kristityt odottavat <a title="Kristus" href="//www.share.fi/kristus">Kristuksen</a> paluuta, Buddhalaiset odottavat uuden Buddhan saapumista (Herran, Maitreyan). Muslimien odottaessa Imam Mahdia, Hindut odottavat Krishnan jälleensyntymistä ja Juutalaiset Messiasta saapuvaksi.</p>
 <p>Monien mielestä ne ovat kaikki nimiä, jotka kuvaavat yhtä ja samaa yksilöä: Maailmanopettajaa &#8211; jonka henkilökohtainen nimi on Maitreya.</p>
 <p><strong>Maitreya</strong> haluaa mieluiten itseään yksinkertaisesti kutsuttavan opettajaksi, eikä hän ole tullut maapallolle ollakseen uskonnollinen johtaja, vaan kouluttaja. Sanan laajimmassa mahdollisessa tarkoitukessa. Kouluttaja, joka voi osoittaa ihmiskunnalle tien ulos sen nykyisestä ahdingosta.</p>
@@ -59,27 +59,29 @@ V. Pahoittelen, mutta Maitreya ei ole kanssasi samaa mieltä. Monet ihmiset taht
 <p><strong>Pitäkää silmänne nyt auki kaikkein suurinta ihmettä odottaessamme. Aivan lähiaikoina suuri, kirkas, tähti tulee ilmaantumaan taivaalle. Tuo tähti tulee olemaan kaikkien nähtävillä – yötä päivää.</strong></p>
 <p>Uskomatonta? Fantasiaa? Ei, vaan fakta. Noin viikkoa myöhemmin Maitreya, Maailmanopettaja tulee aloittamaan avoimen työnsä, ja vaikkei vielä tulekaan esiintymään tuolla nimellä, häntä tullaan haastattelemaan yhdellä USA:n pääkanavista.</p>
 <p>Vuonna 1988 CNN ja monet muut media raportoivat Maitreyan ihmeellisen ilmaantumisen 6.000 ihmisen eteen Nairobiin, Keniaan, kesäkuun 11. päivänä. Viikkoa ennen tuota [1988] tapahtumaa merkki siitä oli nähtävissä: ”<a title="Maitreya" href="//www.share.fi/maitreya" target="_blank">Lauantaina 4.6. suuri, kirkas tähti nähtiin; tavanomaista tähteä kirkkaampi</a>.”, raportoi Kenya Times -sanomalehden toimittaja Job Mutungi.&#8221;</p>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gbP5Dp3oB7k?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <p><a title="Maitreyan tähti-ihme" href="//www.share.fi/maitreya/maitreyan-tulon-julkistava-tahti" target="_blank">Lue lisää tähti-ihmeestä ja uusimmat havainnot &gt;&gt;&gt; klikkaa</a></p>
 <hr />
 <p><a name="kasi"></a></p>
 <h2><strong>Maitreya ja Maitreyan käsi</strong></h2>
 <p>Share International -lehden lokakuun 2001 numerossa oli koko sivun kokoinen kuva Maitreyan kädestä. Lukijoiden kiinnostuksesta ja kyselyistä johtuen Benjamin Creme selostaa tässä käden ilmaantumisen syitä ja taustoja.</p>
-<div class="alignright pc55"><img src="https://sharefi-cdn.sirv.com/share.fi/maitreyanisokasi2.jpg?scale.width=200&scale.height=333" width="200" height="333" alt="Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi." />
-<p><a href="https://sharefi.sirv.com/share.fi/maitreyanisokasi2.jpg" target="_blank">Klikkaa avataksesi kuva omaan ikkunaansa.</a><br />Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi. </p>
+<div class="alignright pc55"><img src="https://sharefi-cdn.sirv.com/sharefi/maitreyanisokasi2.jpg?scale.width=200&scale.height=333" width="200" height="333" alt="Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi." />
+<p><a href="https://sharefi-cdn.sirv.com/sharefi/maitreyanisokasi2.jpg" target="_blank">Klikkaa avataksesi kuva omaan ikkunaansa.</a><br />Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi. </p>
 </div>
 <p>Benjamin Creme selittää ilmiön: Tämä on Maitreyan käsi, kuvattuna Barcelonalaiseen kylpyhuoneen peiliin. Nainen, joka omistaa talon meni vieraskylpyhuoneeseensa ja näki kädenjäljen peilissä, jonka hän välittömästi puhdisti pois. Hän unohti koko asian, kunnes muutaman päivän kuluttua hänen mennessä omaan kylpyhuoneeseensa, hän näki saman kädenjäljen peilissään. Onneksi, sen sijaan, että olisi putsannut kädenjäljen, hän soitti pojalleen, joka on Share Internationalin Barcelonan ryhmän jäsen. Tämä otti kuvan kädenjäljestä ja lähetti kuvan minulle. Minun Mestari on vahvistanut, että kyseessä todellakin on Maitreyan käsi.</p>
 <p><strong>Kuin Torinon käärinliina</strong></p>
 <p>Käsi on todella fantastinen. Se on &#8221;aidosti&#8221; kolmiulotteisen oloinen, aivan kuten Torinon käärinliinaan jäänyt ristiinnaulitun Jeesuksen kuva. Kuvalla on myös parantavia ominaisuuksia, ei kuitankaan aivan sellaisia kuin saattaisi kuvitella. Kun Maitreya on magnetisoinut vesilähteitä ympäri planeetan, on itse vesi kyllästetty Vesimiehen tähdistön parantavalla energialla. Kuvan kyseessä ollessa, Maitreyan energia ei ole itse kuvassa, vaan se kutsutaan asettamalla käsi kuvan päälle, tai vaikkapa sitä katsomalla. Kutsut, tai pyydät tällöin hänen siunaustaan, apuaan, tai parantavaa voimaansa &#8211; Karman lain rajoissa tietenkin. Sama teho saadaan aikaiseksi myös kuvan kopiolla.</p>
 <p>Tämä on todella ainutkertaista. Tällä tavalla Maitreyan energia ja Hänen apunsa on kaikkien sitä pyytävien ulottuvilla. Jos se mitä pyydät on: &#8221;Rakas Maitreya, voisitko yht&#8217;äkkiä ilmestyä eteeni&#8221;,en usko, että pyyntöösi vastataan. Energiaa kuluu joka kerta, kun hän ilmestyy. Hänellä on paljon tehtävää, itse asiassa, maapallo pelastettavana, eikä Hän varmasti halua tuhlata energiaansa. Sanon tämän vakavissani, koska tiedän että, kun tarina leviää, ihmiset rupeavat puhumaan että Maitreya tekee mitä vain Häneltä pyydetään. Se ei ole totta. Maitreya kylläkin ilmaantuu tuhansille ihmisille ympäri maapallon, mutta Hän tekee sen oman ajoituksensa mukaan ja omien tarkoitusperiensä toteuttamiseksi. Auttaakseen ihmisiä.</p>
 <p>Käden ilmestymisellä juuri tähän ajankohtaa on merkittävä asia. Se tarkoittaa, että Maitreya on tulossa julkisuuteen hyvin pian. Tämän lähemmäs ihmisiä Hän ei voi tulla, ennen kuin se hetki koittaa, että näemme Hänen kasvonsa.</p>
-<p>Lue lisää <a href="//www.share.fi/maitreya/maitreyan-kasi">Maitreyan kädestä ml. video jolla Benjamin Creme kertoo siitä</a></p>
+<p>Lue lisää <a href="/maitreya/maitreyan-kasi">Maitreyan kädestä ml. video jolla Benjamin Creme kertoo siitä</a></p>
 <hr />
 <p><a name="ylivalaisu"></a></p>
 <h2>Maitreya ylivalaisi Benjamin Cremen, tapahtuma kuvattu Amsterdamissa</h2>
 <p>Jokaisen Benjamin Cremen luennon alussa ja lopussa Maitreya ylivalaisee hänet noin 20 minuutin ajan kumpanakin.</p>
 <div class="alignright pc55">
-<img class="" src="https://sharefi-cdn.sirv.com/share.fi/ylivalaisu.jpg" alt="Ylivalaisu kuvattiin Amsterdamissa 2001" />
-<p><a href="https://sharefi.sirv.com/share.fi/ylivalaisu.jpg" target="_blank">Klikkaa avataksesi kuva omaan ikkunaansa.</a><br />Kuvassa Maailmanopettaja ylivalaisee Benjamin Cremen</p>
+<img class="" src="https://sharefi-cdn.sirv.com/sharefi/ylivalaisu.jpg" alt="Ylivalaisu kuvattiin Amsterdamissa 2001" />
+<p><a href="https://sharefi-cdn.sirv.com/sharefi/ylivalaisu.jpg" target="_blank">Klikkaa avataksesi kuva omaan ikkunaansa.</a><br />Kuvassa Maailmanopettaja ylivalaisee Benjamin Cremen</p>
 </div>
 <p>Tällä tavoin <strong>Maitreya</strong> vapauttaa yleisön ylle energiansa erityisenä siunauksena tai henkisenä voimistuksena. Monet, joilla on selvänäköisiä kykyjä ovat nähneet tapahtuman, mutta ennen tätä, siitä ei ole ollut kuvaa.</p>
 <p>Tämä kuva otettiin 26.9.2001, Amsterdamissa Benjamin Cremen luennon yhteydessä. Kuvan ottaja, Ellen Bernards, istui auditorion eturivissä, vasemmalla puolella ja otti kuvan juuri kun tilaisuuden ensimmäinen ylivalaisu oli alkamassa.</p>
@@ -89,6 +91,6 @@ V. Pahoittelen, mutta Maitreya ei ole kanssasi samaa mieltä. Monet ihmiset taht
 <p><sub>Lähde: Share International -lehti, marraskuu 2001</sub></p>
 <h3>Maitreyan ylivalaisu jälleen kuvattu Amsterdamissa</h3>
 <div class="aligncenter">
-<img class="Sirv" data-src="https://sharefi-cdn.sirv.com/share.fi/ylivalaisu-opti-text.jpg" alt="Ylivalaisu kuvattiin Amsterdamissa 2006" />
-<p><a href="https://sharefi.sirv.com/share.fi/ylivalaisu-1.jpg" target="_blank">Klikkaa avataksesi kuva omaan ikkunaansa.</a><br />Maitreyan ylivalaisu kuvattiin Amsterdamissa taas 20.9.2006. Kuvaa ei ole millään tavoin manipuloitu tai muokattu</p>
+<img class="Sirv" data-src="https://sharefi-cdn.sirv.com/sharefi/ylivalaisu-opti-text.jpg?ch=600" alt="Ylivalaisu kuvattiin Amsterdamissa 2006" />
+<p><a href="https://sharefi-cdn.sirv.com/sharefi/ylivalaisu-1.jpg" target="_blank">Klikkaa avataksesi kuva omaan ikkunaansa.</a><br />Maitreyan ylivalaisu kuvattiin Amsterdamissa taas 20.9.2006. Kuvaa ei ole millään tavoin manipuloitu tai muokattu</p>
 <p><sub>Lähde: Share International -lehti, heinä-elokuu 2007</sub></p></div>

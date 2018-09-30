@@ -1,10 +1,16 @@
 ---
 title: "Mestarin sanoin 7-8/2018: Pysyvä valintatilanne"
-menu: [main,master]
+menu:
+ main:
+  name:  "Uusin Mestarin sanoin 7-8/2018: Pysyvä valintatilanne"
+  identifier:  "mestarin-sanoin-2018-07"
+  parent:  "mestarin-sanoin"
+  
+ masterarticle:
+  identifier:  "mestarin-sanoin-2018-07"
+  parent:  "2018"
 
-draft: false
-
-master: Cremen Mestari
+master: "Cremen Mestari"
 
 date: 2018-07-01T00:00:00+02:00
 prevmonth: "6/2018: Rienaava sota"
@@ -13,6 +19,7 @@ prevmonthLink: "2018-06"
 cover:
 aliases:
     - /mestarin-sanoin/2018-07/
+    - /mestarin-sanoin-7-82018-pysyva-valintatilanne/
 
 ei_pvm: false
 naytakk: true

@@ -1,0 +1,73 @@
+
+{{ define "title" }}{{.Title}} | {{.Site.Title}}{{ end }}
+
+{{ define "description" }}{{.Summary}}{{ end }}
+
+{{ define "main" }}
+
+<!-- JSON-LD markup for Structured Data BEGINS-->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "NewsArticle",
+  "name" : "{{.Title}}",
+  "headline" : "{{- .Title | replaceRE ":.+" "" -}}",
+  "author" : {
+    "@type" : "Organization",
+    "name" : "share.fi"
+  },
+  "datePublished" : "{{- .Date.Format "2006-01-02" -}}",
+  "backstory" : [ "Henkisen Hierarkian tulo julkisuuteen on ihmisen näkökulmasta verkkainen prosessi. Tänä päivänä uutiseksi luokiteltavaa tapahtuu harvakseltaan. Tähän osioon on koostettu taustatapahtumia, jotka täydentävät kokonaiskuvaa Hierarkian julkisuuteen tulosta." ],
+  "articleBody" : "{{.Content}}",
+  "speakable": [ "#article-headline", "#article-body"],
+  "relatedLink" : "https://www.share.fi/mestarin-sanoin/{{- .Params.prevmonthLink -}}",
+  "url": "{{ .Permalink }}"
+
+}
+</script>
+<!-- JSON-LD markup for Structured Data ENDS-->
+
+
+<article>
+
+
+	<div class='masterarticle'>
+	<p><em>Uutisaihe: {{.Title | replaceRE ".+oin " "" -}}</em></p>
+	<h1 id="article-headline">{{- .Title | replaceRE ".+:" "" -}}</h1>
+  {{ if isset .Params "cover" }} <img style="float:right; width:32%; margin: 70px 0 12px 12px;" src="{{ .Params.cover }}" /> {{ end }}
+
+	<div id="article-body">{{.Content}}
+		{{ if isset .Params "uri" }} Lue <a href="{{ .Params.uri | safeURL }}">artikkeli, johon kommentti viittaa</a>. {{ end}}
+	</div>
+	<p class='mastersource'>Julkaistu, {{ .Date.Format "2.1.2006" -}}.</p>
+
+
+	<div class="nosto">
+	<p>Henkisen Hierarkian tulo julkisuuteen on ihmisen näkökulmasta verkkainen prosessi. Tänä päivänä uutiseksi luokiteltavaa tapahtuu harvakseltaan. Tähän osioon on koostettu taustatapahtumia, jotka täydentävät kokonaiskuvaa Hierarkian julkisuuteen tulosta.</p>
+	<hr style="margin: 20px 20%;" />
+	
+</div>
+	</div> <!-- ends class masterarticle -->
+
+	<div class="masterarticle-menu">
+  <nav id="masterarticle-nav">
+    <ul class="root">	
+	{{ partial "menu.html" (dict "menu" "uutiset" "current" . "level" 1 "pages" .Site.Menus.uutiset) }}
+
+    </ul>
+</nav><!-- #masterarticle-nav -->
+	</div>
+
+
+
+
+
+
+
+
+<div id="global-include-footer-extra">
+{{ partial "global-include-footer-extra.html" . }}
+</div>
+</article>
+
+{{ end }}

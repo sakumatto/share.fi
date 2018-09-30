@@ -4,28 +4,62 @@
 {{ define "description" }}{{.Summary}}{{ end }}
 
 {{ define "main" }}
+
+<!-- JSON-LD markup for Structured Data BEGINS-->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Article",
+  "name" : "{{.Title}}",
+  "headline" : "{{- .Title | replaceRE ":.+" "" -}}",
+  "author" : {
+    "@type" : "Person",
+    "name" : "Benjamin Cremen Mestari"
+  },
+  "datePublished" : "{{- .Date.Format "2006-01-02" -}}",
+  "backstory" : [ "Share International -lehden synnystä alkaen Benjamin Cremen Mestari on antanut artikkelinsa julkaistavaksi tuoreeltaan ja käytettäväksi silloin kun maailman tapahtumat sitä edellyttävät. Monet näistä artikkeleista tuntuvat todellakin jopa vielä ajankohtaisemmilta tänä päivänä kuin niiden ensijulkaisun yhteydessä", "Lähde: Share International -lehti, heinä-elokuu 2018.", "Tämä artikkelisarja ilmestyy 10 kertaa vuodessa ja se avaa ihmisen suhdetta häntä ympäröivään. Mestari, on yksi Henkisen Hierarkian Mestareista. Hänen nimensä on laajalti tunnettu esoteerisissa piireissä, mutta sitä ei monistakaan syistä anneta vielä julkisuuteen. Maitreya on Henkisen Hierarkian johdossa olevan Maailmanopettajan henkilökohtainen nimi. Maitreya tunnetaan myös Kristuksen, Buddhan, Krishnan, Imam Mahdin tai Messiaan nimillä. Maitreya on aloittanut tammikuussa 2010 tv-esiintymisten sarjan, joka tulee johtamaan julkitulon päivään, jolloin Hän julkistaa todellisen henkilöytensä." ],
+  "articleBody" : "{{.Content}}",
+  "speakable": [ "#article-headline", "#article-body"],
+  "relatedLink" : "https://www.share.fi/mestarin-sanoin/{{- .Params.prevmonthLink -}}",
+  "url": "{{ .Permalink }}"
+
+}
+</script>
+<!-- JSON-LD markup for Structured Data ENDS-->
+
+
 <article>
 
 
 	<div class='masterarticle'>
-	<p><em>Mestarin sanoin -artikkeli</em></p>
-	<h1>{{- .Params.title -}}</h1>
+	<p><em>Mestarin sanoin -artikkeli {{.Title | replaceRE ".+oin " "" -}}</em></p>
+	<h1 id="article-headline">{{- .Title | replaceRE ".+:" "" -}}</h1>
 	<h3>- Mestarilta, Benjamin Cremen välityksellä</h3>
 
-	<div>{{.Content}}</div>
+	<div id="article-body">{{.Content}}</div>
 	<p class='mastersource'>Lähde: Share International -lehti, {{ .Date.Format "01 / 2006" -}}.</p>
 
 
-	<p class="nosto">Tämä artikkelisarja ilmestyy 10 kertaa vuodessa ja se avaa ihmisen suhdetta häntä ympäröivään. Mestari, on yksi Henkisen Hierarkian Mestareista. Hänen nimensä on laajalti tunnettu esoteerisissa piireissä, mutta sitä ei monistakaan syistä anneta vielä julkisuuteen. Maitreya on Henkisen Hierarkian johdossa olevan Maailmanopettajan henkilökohtainen nimi. Maitreya tunnetaan myös Kristuksen, Buddhan, Krishnan, Imam Mahdin tai Messiaan nimillä. Maitreya on aloittanut tammikuussa 2010 tv-esiintymisten sarjan, joka tulee johtamaan julkitulon päivään, jolloin Hän julkistaa todellisen henkilöytensä.
-	<br /><br />
-	Share International -lehden synnystä alkaen Benjamin Cremen Mestari on antanut artikkelinsa julkaistavaksi tuoreeltaan ja käytettäväksi silloin kun maailman tapahtumat sitä edellyttävät. Monet näistä artikkeleista tuntuvat todellakin jopa vielä ajankohtaisemmilta tänä päivänä kuin niiden ensijulkaisun yhteydessä.</p>
+	<div class="nosto">
+	<p>Tämä artikkelisarja ilmestyy 10 kertaa vuodessa ja se avaa ihmisen suhdetta häntä ympäröivään. Mestari, on yksi Henkisen Hierarkian Mestareista. Hänen nimensä on laajalti tunnettu esoteerisissa piireissä, mutta sitä ei monistakaan syistä anneta vielä julkisuuteen. Maitreya on Henkisen Hierarkian johdossa olevan Maailmanopettajan henkilökohtainen nimi. Maitreya tunnetaan myös Kristuksen, Buddhan, Krishnan, Imam Mahdin tai Messiaan nimillä. Maitreya on aloittanut tammikuussa 2010 tv-esiintymisten sarjan, joka tulee johtamaan julkitulon päivään, jolloin Hän julkistaa todellisen henkilöytensä.</p>
+
+	<p>Share International -lehden synnystä alkaen Benjamin Cremen Mestari on antanut artikkelinsa julkaistavaksi tuoreeltaan ja käytettäväksi silloin kun maailman tapahtumat sitä edellyttävät. Monet näistä artikkeleista tuntuvat todellakin jopa vielä ajankohtaisemmilta tänä päivänä kuin niiden ensijulkaisun yhteydessä.</p>
 	<hr style="margin: 20px 20%;" />
-	<p>Edellinen artikkeli Mestarilta</p>
-<p><a title="Mestarin sanoin {{ .Params.prevmonth -}}" href="/mestarin-sanoin/{{- .Params.prevmonthLink -}}">Mestarin sanoin {{ .Params.prevmonth -}}</a></p>
+	
+	<div class="related-item">
+	<p>Edellinen Mestarin sanoin -artikkeli</p>
+<p class="related-item-link"><a title="Mestarin sanoin {{ .Params.prevmonth -}}" href="/mestarin-sanoin/{{- .Params.prevmonthLink -}}">Mestarin sanoin {{ .Params.prevmonth -}}</a></p>
+	</div></div>
 	</div> <!-- ends class masterarticle -->
 
+	<div class="masterarticle-menu">
+  <nav id="masterarticle-nav">
+    <ul class="root">	
+	{{ partial "menu.html" (dict "menu" "masterarticle" "current" . "level" 1 "pages" .Site.Menus.masterarticle) }}
 
-
+    </ul>
+</nav><!-- #masterarticle-nav -->
+	</div>
 
 
 

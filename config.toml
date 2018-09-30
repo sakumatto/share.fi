@@ -17,12 +17,6 @@ theme = "classless"
   weight = 50
 
 
- [[menu.secondary]]
-  pre = ""
-  name   = "Lisätietoa"
-  identifier = "lisatietoa"
-  url    = "/lisatietoa/"
-  weight = 4
 
 [permalinks]
   post = ":slug/"
