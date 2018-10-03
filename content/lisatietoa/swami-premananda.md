@@ -13,10 +13,10 @@ naytapvm:  false
 aliases:
     - /swami-premananda-1951-2011/
 
-author:  "share.fi"
-type:  ""
-cover:  ""
-toc:  false
+author: share.fi
+
+
+
 
 
  

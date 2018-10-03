@@ -12,7 +12,7 @@ date: 2017-11-01T00:00:00+02:00
 prevmonth: "10/2017: Yhteistyön taito ja taide"
 prevmonthLink: "2017-10"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2017-11/
   - /mestarin-sanoin-11_2017-lisaa-ajatuksia-yhtenaisyydesta/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

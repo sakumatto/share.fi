@@ -11,7 +11,7 @@ date: 2018-04-01T00:00:00+02:00
 prevmonth: "3/2018: Nuorten pyrkimys"
 prevmonthLink: "2018-03"
 
-cover:
+
 aliases:
     - /mestarin-sanoin/2018-04/
     - /mestarin-sanoin-4_2018-nuorten-pyrkimys/
@@ -24,8 +24,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

@@ -12,7 +12,7 @@ date: 2011-04-01T00:00:00+02:00
 prevmonth: "3/2011: Ihmisen ääni kuullaan"
 prevmonthLink: "2011-03"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2011-04/
   - /ihmisen-vastuu/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

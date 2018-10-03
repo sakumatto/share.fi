@@ -28,8 +28,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

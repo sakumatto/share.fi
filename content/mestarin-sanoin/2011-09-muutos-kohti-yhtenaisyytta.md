@@ -12,7 +12,7 @@ date: 2011-09-01T00:00:00+02:00
 prevmonth: "7-8/2011: Polku kohti yhtenäisyyttä"
 prevmonthLink: "2011-07"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2011-09/
   - /mestarin-sanoin-92011-muutos-kohti-yhtenaisyytta/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

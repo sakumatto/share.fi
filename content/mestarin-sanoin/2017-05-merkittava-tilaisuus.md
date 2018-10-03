@@ -12,7 +12,7 @@ date: 2017-05-01T00:00:00+02:00
 prevmonth: "04/2017: Vapauden ja oikeudenmukaisuuden tulevaisuus"
 prevmonthLink: "2017-04"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2017-05/
   - /mestarin-sanoin-extra-paasiainen-2017-merkittava-tilaisuus/
@@ -26,8 +26,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

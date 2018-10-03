@@ -12,7 +12,7 @@ date: 2011-07-01T00:00:00+02:00
 prevmonth: "6/2011: Tulevaisuuden tavat"
 prevmonthLink: "2011-06"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2011-07/
   - /mestarin-sanoin-7–82011-polku-kohti-yhtenaisyytta/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

@@ -12,7 +12,7 @@ date: 2010-11-01T00:00:00+02:00
 prevmonth: "10/2010: Uudistunut maa"
 prevmonthLink: "2010-10"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2010-11/
 
@@ -24,8 +24,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

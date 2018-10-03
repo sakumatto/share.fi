@@ -11,8 +11,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-cover:
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

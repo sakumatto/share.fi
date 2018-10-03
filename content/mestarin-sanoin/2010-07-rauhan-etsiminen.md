@@ -12,7 +12,7 @@ date: 2010-07-01T00:00:00+02:00
 prevmonth: "6/2010: Veljeys"
 prevmonthLink: "2010-06"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2010-07/
 
@@ -24,8 +24,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

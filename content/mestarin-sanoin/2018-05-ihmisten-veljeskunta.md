@@ -11,7 +11,7 @@ date: 2018-05-01T00:00:00+02:00
 prevmonth: "4/2018: Nuorten pyrkimys"
 prevmonthLink: "2018-04"
 
-cover:
+
 aliases:
     - /mestarin-sanoin/2018-05/
     - /mestarin-sanoin-5_2018-ihmisten-veljeskunta/
@@ -24,8 +24,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

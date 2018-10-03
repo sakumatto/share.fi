@@ -2,7 +2,7 @@
 title: "Maitreya pelastaa Syyriassa"
 date:  2012-08-16T12:18:25+03:00
 
-layout: "kohtaamisia"
+
 
 menu:
   kohtaamisia:
@@ -18,7 +18,7 @@ naytakk:  false
 naytavuosi:  false
 naytapvm:  false
 
-author:  "share.fi"
+author: share.fi
 type:  "kohtaamisia"
 
 

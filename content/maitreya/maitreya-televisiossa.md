@@ -1,5 +1,5 @@
 ---
-title:  "Maitreya televisiossa 2010–2016"
+title:  "Maitreya televisiossa 2010–2018"
 date:  2018-08-01T12:18:25+03:00
 master: Maitreya
 
@@ -11,10 +11,10 @@ naytakk:  true
 naytavuosi:  true
 naytapvm:  false
 
-author:  "share.fi"
-type:  ""
-cover:  ""
-toc:  false
+author: share.fi
+
+
+
 
 
  

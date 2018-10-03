@@ -18,10 +18,10 @@ naytapvm:  false
 aliases:
     - /onko-jumala-olemassa-kylla-jumala-on/
 
-author:  "share.fi"
-type:  ""
-cover:  ""
-toc:  false
+author: share.fi
+
+
+
 
 
  

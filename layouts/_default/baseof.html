@@ -41,7 +41,9 @@
     <ul class="root">
     	<!-- https://discourse.gohugo.io/t/go-template-programming-partials-pipe-use-as-functions-recursive/11444 -->
 		{{ partial "menu.html" (dict "menu" "main" "current" . "level" 1 "pages" .Site.Menus.main) }}
-
+		<p style="background-image: linear-gradient(-100deg, rgba(255, 255, 255, 0), grey 85%, rgba(255, 255, 255, 0));">Uusimmat & nostot</p>
+		{{ partial "menu.html" (dict "menu" "uudet" "current" . "level" 1 "pages" .Site.Menus.uudet) }}
+		<p style="background-image: linear-gradient(-100deg, rgba(255, 255, 255, 0), grey 85%, rgba(255, 255, 255, 0));">Muuta</p>
 		{{ partial "menu.html" (dict "menu" "secondary" "current" . "level" 1 "pages" .Site.Menus.secondary) }}
 
     </ul>

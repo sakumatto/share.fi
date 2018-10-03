@@ -1,7 +1,7 @@
 ---
 title: "Lorem Ipsum"
 date: 2018-04-09T21:20:32Z
-cover: https://picsum.photos/1224/868/
+ https://picsum.photos/1224/868/
 tags:
   - in-massa
 ---

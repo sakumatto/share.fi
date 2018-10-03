@@ -1,8 +1,8 @@
 ---
 title: "Deja vu junassa?"
-date:  2005-09-18T12:18:25+03:00
+date:  2017-09-18T12:18:25+03:00
 
-layout: "kohtaamisia"
+
 
 menu:
   kohtaamisia:
@@ -11,6 +11,7 @@ menu:
 aliases:
     - /jalleen-deja-vu-kohtaaminen-maitreyan-kanssa/
 
+cover:
 cover: "https://sharefi-cdn.sirv.com/sharefi/maitreyan-kohtaaminen-dejavu-junassa-2017-09.jpg"
 
 ei_pvm:  true
@@ -18,12 +19,9 @@ naytakk:  false
 naytavuosi:  false
 naytapvm:  false
 
-author:  "share.fi"
+author: share.fi
 type:  "kohtaamisia"
 
-
-
- 
 ---
 <h3>Deja vu – kohtaaminen Maitreyan kanssa?</h3>
 

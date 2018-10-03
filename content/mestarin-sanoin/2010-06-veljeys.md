@@ -12,7 +12,7 @@ date: 2010-06-01T00:00:00+02:00
 prevmonth: "5/2010: Ihmiset heräävät Maitreyalle"
 prevmonthLink: "2010-05"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2010-06/
 
@@ -24,8 +24,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

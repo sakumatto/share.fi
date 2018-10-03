@@ -12,7 +12,7 @@ date: 2011-12-01T00:00:00+02:00
 prevmonth: "11/2011: Maitreyan lupaus"
 prevmonthLink: "2011-11"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2011-12/
   - /mestarin-sanoin-122011-uuden-airut/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

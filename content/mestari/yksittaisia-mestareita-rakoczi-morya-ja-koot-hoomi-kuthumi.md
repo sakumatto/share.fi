@@ -9,10 +9,10 @@ naytakk:  true
 naytavuosi:  true
 naytapvm:  false
 
-author:  "share.fi"
-type:  ""
-cover:  ""
-toc:  false
+author: share.fi
+
+
+
 
 
  

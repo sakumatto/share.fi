@@ -12,7 +12,7 @@ date: 2010-04-01T00:00:00+02:00
 prevmonth: "3/2010: Herääminen"
 prevmonthLink: "2010-03"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2010-04/
 
@@ -24,8 +24,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

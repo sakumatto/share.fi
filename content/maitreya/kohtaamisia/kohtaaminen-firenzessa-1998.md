@@ -2,7 +2,7 @@
 title: "Kohtaaminen FIrenzessä vuonna 1998"
 date:  2000-02-18T12:18:25+03:00
 
-layout: "kohtaamisia"
+
 
 menu:
   kohtaamisia:
@@ -18,7 +18,7 @@ naytakk:  false
 naytavuosi:  false
 naytapvm:  false
 
-author:  "share.fi"
+author: share.fi
 type:  "kohtaamisia"
 
 

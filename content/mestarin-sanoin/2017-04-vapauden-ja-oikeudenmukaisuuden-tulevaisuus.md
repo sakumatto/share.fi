@@ -12,7 +12,7 @@ date: 2017-04-01T00:00:00+02:00
 prevmonth: "03/2017: ”Barbaarimaisen aikakauden” loppu"
 prevmonthLink: "2017-03"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2017-04/
   - /mestarin-sanoin-42017-vapauden-ja-oikeudenmukaisuuden-tulevaisuus/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

@@ -15,7 +15,7 @@ date: 2012-03-16T00:00:00+02:00
 prevmonth: "1-2/2012: Suuri päätös"
 prevmonthLink: "2012-01"
 
-cover:
+
 aliases:
     - /mestarin-sanoin-32012-tuleva-muuntautuminen/
 
@@ -27,8 +27,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

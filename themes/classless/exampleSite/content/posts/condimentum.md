@@ -1,7 +1,7 @@
 ---
 title: "Condimentum"
 date: 2018-04-10T01:21:27Z
-cover: https://picsum.photos/800/1024
+ https://picsum.photos/800/1024
 tags:
   - risus
 ---

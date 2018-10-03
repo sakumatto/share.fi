@@ -7,6 +7,8 @@ menu:
   name:  "Talouden pitäisi aikuistua"
   identifier:  "aikuistuva-talous"
   parent:  "lisatietoa"
+ uudet:
+
 
 
 
@@ -18,10 +20,10 @@ naytapvm:  false
 aliases:
     - /miksi-talouden-pitaisi-vain-aikuistua-eika-enaa-kasvaa/
 
-author:  "share.fi"
-type:  ""
-cover:  ""
-toc:  false
+author: share.fi
+
+
+
 
 
  

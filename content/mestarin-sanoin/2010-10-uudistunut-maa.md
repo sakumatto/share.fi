@@ -12,7 +12,7 @@ date: 2010-10-01T00:00:00+02:00
 prevmonth: "9/2010: Ihmiskunnan uusi valo"
 prevmonthLink: "2010-09"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2010-10/
 
@@ -24,8 +24,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

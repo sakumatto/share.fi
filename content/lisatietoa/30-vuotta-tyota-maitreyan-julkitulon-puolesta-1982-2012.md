@@ -21,7 +21,7 @@ naytapvm: false
 author: share.fi
 type: lisatietoa
 cover: "https://sharefi-cdn.sirv.com/sharefi/benjamin-creme-puhuu-1982-los-angeles-lehdistotilaisuus.jpg"
-toc: false
+
 
 avainsanat:
  - 30 vuotta

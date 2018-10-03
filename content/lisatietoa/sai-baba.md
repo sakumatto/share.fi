@@ -13,10 +13,10 @@ naytapvm:  false
 aliases:
     - /sri-sathya-sai-baba-1926–2011/
 
-author:  "share.fi"
-type:  ""
-cover:  ""
-toc:  false
+author: share.fi
+
+
+
 
 
  

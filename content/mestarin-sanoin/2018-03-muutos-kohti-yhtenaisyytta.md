@@ -12,7 +12,7 @@ date: 2018-03-01T00:00:00+02:00
 prevmonth: "01/2018: Voitto on varma"
 prevmonthLink: "2018-01"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2018-03/
   - /mestarin-sanoin-32018-muutos-kohti-yhtenaisyytta/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

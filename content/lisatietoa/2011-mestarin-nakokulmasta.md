@@ -11,7 +11,7 @@ master: "Cremen Mestari"
 date: 2012-01-11T00:00:00+02:00
 
 
-cover:
+
 aliases:
   - /2011-mestarin-nakokulmasta/
 
@@ -24,7 +24,7 @@ naytapvm: false
 author: share.fi
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/2011-mestarin-kertaus.jpg"
-toc: false
+
 
 avainsanat:
  - Mestarin sanoin

@@ -12,7 +12,7 @@ date: 2010-12-01T00:00:00+02:00
 prevmonth: "11/2010: Ihmiskunnan lopullinen voitto"
 prevmonthLink: "2010-11"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2010-12/
 
@@ -24,8 +24,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

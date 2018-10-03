@@ -3,7 +3,7 @@ title: "The Independentin journalistin täpärä pelastuminen Afganistanissa
 10.12.2001 on osoittautunut Maitreyan avuksi"
 date:  2002-02-11T12:18:25+03:00
 
-layout: "kohtaamisia"
+
 
 menu:
   kohtaamisia:
@@ -19,7 +19,7 @@ naytakk:  false
 naytavuosi:  false
 naytapvm:  false
 
-author:  "share.fi"
+author: share.fi
 type:  "kohtaamisia"
 
 

@@ -12,7 +12,7 @@ date: 2018-01-01T00:00:00+02:00
 prevmonth: "12/2017: Maitreyan lupaus"
 prevmonthLink: "2017-12"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2018-01/
   - /mestarin-sanoin-1-2_2018-voitto-on-varma/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

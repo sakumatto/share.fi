@@ -12,7 +12,7 @@ date: 2017-07-01T00:00:00+02:00
 prevmonth: "06/2017: Siirtyminen pyhyyteen"
 prevmonthLink: "2017-06"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2017-07/
   - /mestarin-sanoin-7-82017-kaupallistumisen-kirous/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

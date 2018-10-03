@@ -12,7 +12,7 @@ date: 2011-01-01T00:00:00+02:00
 prevmonth: "12/2010: Ihmisten tarpeet"
 prevmonthLink: "2010-12"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2011-01/
   - /ihmisen-sisimmainen-veljeys-mestarin-sanoin-1-22011/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

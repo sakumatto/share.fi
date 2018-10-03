@@ -12,7 +12,7 @@ date: 2011-03-01T00:00:00+02:00
 prevmonth: "1-2/2011: Ihmisen sisimmäinen veljeys"
 prevmonthLink: "2011-01"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2011-03/
   - /ihmisen-aani-kuullaan-mestarin-sanoin-3-2011/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

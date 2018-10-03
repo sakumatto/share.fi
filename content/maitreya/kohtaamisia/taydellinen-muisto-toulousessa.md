@@ -2,7 +2,7 @@
 title: "Täydellinen muisto Toulousessa"
 date:  2001-01-18T12:18:25+03:00
 
-layout: "kohtaamisia"
+
 
 menu:
   kohtaamisia:
@@ -15,7 +15,7 @@ naytakk:  false
 naytavuosi:  false
 naytapvm:  false
 
-author:  "share.fi"
+author: share.fi
 type:  "kohtaamisia"
 
 

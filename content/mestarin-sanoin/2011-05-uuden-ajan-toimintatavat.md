@@ -12,7 +12,7 @@ date: 2011-05-01T00:00:00+02:00
 prevmonth: "4/2011: Ihmisen vastuu"
 prevmonthLink: "2011-04"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2011-05/
   - /mestarin-sanoin-52011-uuden-ajan-toimintatavat/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

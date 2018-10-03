@@ -10,7 +10,7 @@ menu:
 
 aliases:
     - /enkelit-kuvissa/
-
+cover:
 cover: "https://sharefi-cdn.sirv.com/sharefi/viljapeltokuvio-200907_crop_formation_waylands_smithy.jpg"
 
 ei_pvm:  true
@@ -18,13 +18,13 @@ naytakk:  false
 naytavuosi:  false
 naytapvm:  false
 
-author:  "share.fi"
-type:  ""
-cover:  ""
-toc:  false
+author: share.fi
 
 
- 
+
+
+
+
 ---
 <h3>Lisätietoa viljapeltokuviot -ilmiöstä</h3>
 <p><strong>Tällä sivulla on lisää tietoa viljapeltokuvioista ja linkkejä sivustoille, joilla on kuvattuna kuvioita ja toisaalta linkkejä Share Internationalin sivustolle, missä on englanninkielisenä luettavissa lisää aiheesta.</strong></p>

@@ -11,8 +11,8 @@ naytapvm: false
 
 author: share.fi
 type: 
-cover:
-toc: false
+
+
 
 avainsanat:
  - 

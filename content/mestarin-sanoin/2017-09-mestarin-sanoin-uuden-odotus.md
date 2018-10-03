@@ -12,7 +12,7 @@ date: 2017-09-01T00:00:00+02:00
 prevmonth: "07-08/2017: Kaupallistumisen kirous"
 prevmonthLink: "2017-07"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2017-09/
   - /mestarin-sanoin-92017-uuden-odotus/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

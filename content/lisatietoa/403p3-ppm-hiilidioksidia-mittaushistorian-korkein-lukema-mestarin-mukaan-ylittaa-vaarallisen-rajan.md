@@ -16,9 +16,9 @@ naytakk:  false
 naytavuosi:  false
 naytapvm:  false
 
-author:  "share.fi"
-type:  ""
-toc:  false
+author: share.fi
+
+
 
 
  

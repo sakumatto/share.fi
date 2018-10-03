@@ -12,7 +12,7 @@ date: 2017-06-01T00:00:00+02:00
 prevmonth: "05/2017: Merkittävä tilaisuus"
 prevmonthLink: "2017-05"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2017-06/
   - /mestarin-sanoin-62017-siirtyminen-pyhyyteen/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

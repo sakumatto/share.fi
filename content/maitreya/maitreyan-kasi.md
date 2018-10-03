@@ -10,10 +10,10 @@ naytakk:  true
 naytavuosi:  true
 naytapvm:  false
 
-author:  "share.fi"
-type:  ""
-cover:  ""
-toc:  false
+author: share.fi
+
+
+
 
 
  
@@ -34,7 +34,7 @@ menu:
 <p>Käsi on todella fantastinen. Se on ”aidosti” kolmiulotteisen oloinen, aivan kuten Torinon käärinliinaan jäänyt ristiinnaulitun Jeesuksen kuva. Kuvalla on myös parantavia ominaisuuksia, ei kuitankaan aivan sellaisia kuin saattaisi kuvitella. Kun Maitreya on magnetisoinut vesilähteitä ympäri planeetan, on itse vesi kyllästetty Vesimiehen tähdistön parantavalla energialla. Kuvan kyseessä ollessa, Maitreyan energia ei ole itse kuvassa, vaan se kutsutaan asettamalla käsi kuvan päälle, tai vaikkapa sitä katsomalla. Kutsut, tai pyydät tällöin hänen siunaustaan, apuaan, tai parantavaa voimaansa – Karman lain rajoissa tietenkin. Sama teho saadaan aikaiseksi myös kuvan kopiolla.</p>
 <p>Tämä on todella ainutkertaista. Tällä tavalla Maitreyan energia ja Hänen apunsa on kaikkien sitä pyytävien ulottuvilla. Jos se mitä pyydät on: ”Rakas Maitreya, voisitko yht’äkkiä ilmestyä eteeni”,en usko, että pyyntöösi vastataan. Energiaa kuluu joka kerta, kun hän ilmestyy. Hänellä on paljon tehtävää, itse asiassa, maapallo pelastettavana, eikä Hän varmasti halua tuhlata energiaansa. Sanon tämän vakavissani, koska tiedän että, kun tarina leviää, ihmiset rupeavat puhumaan että Maitreya tekee mitä vain Häneltä pyydetään. Se ei ole totta. Maitreya kylläkin ilmaantuu tuhansille ihmisille ympäri maapallon, mutta Hän tekee sen oman ajoituksensa mukaan ja omien tarkoitusperiensä toteuttamiseksi. Auttaakseen ihmisiä.</p>
 <p>Käden ilmestymisellä juuri tähän ajankohtaa on merkittävä asia. Se tarkoittaa, että Maitreya on tulossa julkisuuteen hyvin pian. Tämän lähemmäs ihmisiä Hän ei voi tulla, ennen kuin se hetki koittaa, että näemme Hänen kasvonsa.</p>
-<p>Voit myös itse jakaa&nbsp;<a title="Maitreyan käsi -kuva" href="https://sharefi-cdn.sirv.com/sharefi/maitreyanisokasi2.jpg" target="_blank">Maitreyan käsi</a> -lehtiä näkyville paikoille.</p>
+<p>Voit myös itse jakaa&nbsp;<a title="Maitreyan käsi -kuva" href="/kirjallisuus/maitreyan-kasi/" target="_blank">Maitreyan käsi</a> -lehtiä näkyville paikoille.</p>
 <h3>Benjamin Creme kertoo ”kädestä” tällä videolla</h3>
 <p><iframe src="https://player.vimeo.com/video/48135866" allowfullscreen="allowfullscreen" width="900" height="675" frameborder="0"></iframe></p>
 <h3>Benjamin Cremen vahvistamia muita havaintoja Maitreyan kättä koskien</h3>

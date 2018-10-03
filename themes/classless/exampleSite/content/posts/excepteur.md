@@ -1,7 +1,7 @@
 ---
 title: "Excepteur"
 date: 2018-04-09T21:37:12Z
-cover: https://picsum.photos/800/600
+ https://picsum.photos/800/600
 tags:
   - risus
   - in-massa

@@ -14,7 +14,7 @@ naytapvm: false
 
 author: share.fi
 type: uutiset
-cover:
+
 
 avainsanat:
  - Uutiset

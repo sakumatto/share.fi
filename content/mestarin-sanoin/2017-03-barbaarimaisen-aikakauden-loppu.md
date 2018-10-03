@@ -12,7 +12,7 @@ date: 2017-03-01T00:00:00+02:00
 prevmonth: "01/2017: Erottelun miekan luominen"
 prevmonthLink: "2017-01"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2017-03/
   - /mestarin-sanoin-32017-barbaarimaisen-aikakauden-loppu/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

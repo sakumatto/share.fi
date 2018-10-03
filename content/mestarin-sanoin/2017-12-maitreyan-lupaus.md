@@ -12,7 +12,7 @@ date: 2017-12-01T00:00:00+02:00
 prevmonth: "11/2017: Lisää ajatuksia yhtenäisyydestä"
 prevmonthLink: "2017-11"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2017-12/
   - /mestarin-sanoin-12_2017-maitreyan-lupaus/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

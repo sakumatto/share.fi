@@ -12,7 +12,7 @@ date: 2017-10-01T00:00:00+02:00
 prevmonth: "09/2017: Uuden odotus"
 prevmonthLink: "2017-09"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2017-10/
   - /mestarin-sanoin-10_2017-yhteistyon-taito-ja-taide/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

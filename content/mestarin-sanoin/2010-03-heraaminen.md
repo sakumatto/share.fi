@@ -12,7 +12,7 @@ date: 2010-03-01T00:00:00+02:00
 prevmonth: "1–2/2010: Loistokas tehtävä"
 prevmonthLink: "2010-01"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2010-03/
 
@@ -24,8 +24,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

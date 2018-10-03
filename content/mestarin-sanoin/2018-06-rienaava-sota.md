@@ -11,7 +11,7 @@ date: 2018-06-01T00:00:00+02:00
 prevmonth: "5/2018: Ihmisten veljeskunta"
 prevmonthLink: "2018-05"
 
-cover:
+
 aliases:
     - /mestarin-sanoin/2018-06/
     - /mestarin-sanoin-6_2018-rienaava-sota/
@@ -24,8 +24,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

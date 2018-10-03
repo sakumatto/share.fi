@@ -10,7 +10,7 @@ menu:
 
 aliases:
   - /esoterismi/
-
+cover:
 cover: "https://sharefi-cdn.sirv.com/sharefi/esoteerinen.png?cx=51&cw=210&cy=10"
 
 

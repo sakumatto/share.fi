@@ -12,7 +12,7 @@ date: 2016-11-01T00:00:00+02:00
 prevmonth: "11/2016: Ihmisten tarpeet"
 prevmonthLink: "2016-11"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2016-12/
   - /mestarin-sanoin-122016-lupaus-tulevasta/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

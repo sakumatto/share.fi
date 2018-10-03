@@ -18,7 +18,7 @@ naytapvm: false
 
 author: share.fi
 type: uutiset
-cover: "https://upload.wikimedia.org/wikipedia/commons/b/bc/BenjaminCremeNYClecture2008.jpg"
+ "https://upload.wikimedia.org/wikipedia/commons/b/bc/BenjaminCremeNYClecture2008.jpg"
 
 
 avainsanat:

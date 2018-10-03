@@ -24,7 +24,7 @@ Partials that should be overwritten:
 All posts (under `content/posts/`) support the following extra (optional) parameters:
 
 ```yaml
-cover: a URL to an image to be used on the `article > header` and on list pages
+ a URL to an image to be used on the `article > header` and on list pages
 hide_date: if you want to hide the date
 tags:
   - an

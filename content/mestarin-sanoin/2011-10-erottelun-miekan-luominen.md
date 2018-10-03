@@ -12,7 +12,7 @@ date: 2011-10-01T00:00:00+02:00
 prevmonth: "9/2011: Muutos kohti yhtenäisyyttä"
 prevmonthLink: "2011-09"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2011-10/
   - /mestarin-sanoin-102011-erottelun-miekan-luominen/
@@ -25,8 +25,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

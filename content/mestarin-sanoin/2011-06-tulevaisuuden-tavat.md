@@ -12,7 +12,7 @@ date: 2011-06-01T00:00:00+02:00
 prevmonth: "5/2011: Uuden Ajan toimintatavat"
 prevmonthLink: "2011-05"
 
-cover:
+
 aliases:
   - /mestarin-sanoin/2011-06/
   - /mestarin-sanoin-62011-polku-kohti-yhtenaisyytta/
@@ -26,8 +26,8 @@ naytapvm: false
 
 author: mestari
 type: mestarin-sanoin
-featured_image : false
-toc: false
+
+
 
 avainsanat:
  - Mestarin sanoin

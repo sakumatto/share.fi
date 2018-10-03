@@ -18,10 +18,10 @@ naytapvm:  false
 aliases:
     - /miten-vapautua-lumeesta-eli-tunnetason-illuusiosta/
 
-author:  "share.fi"
-type:  ""
-cover:  ""
-toc:  false
+author: share.fi
+
+
+
 
 
  
