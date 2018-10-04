@@ -25,7 +25,7 @@ author: share.fi
 ---
 <p><a href="https://public.wmo.int/en/media/press-release/greenhouse-gas-concentrations-surge-new-record" target="_blank" class="external" rel="nofollow">WMO kertoi 30.10.2017 antamassa tiedotteessaan</a>, että ilmakehän hiilidioksi on vuonna 2016 ollut 403,3 ppm, mikä on korkeampi lukema hiilidioksidille 800.000 vuoteen. Hälyttävintä on nähdä kuvasta yltä kuinka CO2:n määrä on räjähdysmäisellä tahdilla noussut 1960-luvulta nykypäivään, 320 ppm lukemasta 403 ppm:n lukemaan noin 50–60 vuodessa. WMO:n mukaan ”CO2-pitoisuus on nyt 145% korkeampi kuin esiteollisella ajalla (ennen vuotta 1750)”.</p>
 <p class="aligncenter" style="max-width:88%;">
-<img src="https://sharefi-cdn.sirv.com/sharefi/co2-kehityskulku-tekstein-403p3_ppm.jpg" width="776" height="521" alt="" />
+<img src="https://sharefi-cdn.sirv.com/sharefi/co2-kehityskulku-tekstein-403p3_ppm.jpg" alt="403,3 ppm on jo vaarallisen korkea CO2-taso sanoo Benjamin Cremen Mestari" />
 </p>
 <blockquote><p>Kysymys ja vastaus -osiosta Benjamin Cremelle 11/2013<br>
 Kysymys: Nykyinen hiilidioksidipitoisuus ilmakehässä on noin 400 ppm (partikkelia miljoonasta). Jotkin ilmastotieteilijät kuten James Hansen uskovat, että 350 ppm on turvallisen yläraja, jotta voisimme välttää katastrofaaliset ja jopa peruuttamattomat vaikutukset planeetallemme. Jotkut muut tieteilijät pitävät turvallisen rajana 450 ppm, joka tarkoittaisi kahden asteen lämpenemistä verrattuna aikaan ennen teollista vallankumousta. Pystyttekö te sanomaan mikä hiilidioksidipitoisuus on turvallinen yläraja ennen peruuttamattomia muutoksia Maalle? Jos jatkamme nykymenolla, montako vuotta meillä on aikaa että saavutamme tuon pisteen?<br>

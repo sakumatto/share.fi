@@ -25,7 +25,7 @@
 </script>
 {{ $nostot_etusivulle := getJSON "/data/etusivulle.json" }}
 </head>
-<body>
+<body{{ if .IsHome }} class="etusivu"{{end}}>
   <header role="banner">
     <h1>
       <a href="{{.Site.BaseURL}}">{{.Site.Title}}</a>

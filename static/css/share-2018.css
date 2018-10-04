@@ -172,6 +172,9 @@ p.qna-q {
 }
 
 .nosto-etusivulle-alue {
+	display: none;
+}
+.etusivu .nosto-etusivulle-alue {
 	display: block;
 	margin: 75px 0;
 	font-size: medium;
