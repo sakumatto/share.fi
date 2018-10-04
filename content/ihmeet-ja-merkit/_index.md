@@ -41,7 +41,7 @@ author: share.fi
 <p>Nuori intialaistyttö Twinkle Dwivedi on kahden viime vuoden ajan itkenyt verikyyneleitä. Veri virtaa hänen silmistään, päästään, ja muista kehon osista aina tiettyinä ajankohtina, mutta hän ei tunne kipua.</p>
 <p>Benjamin Cremen Mestari vahvisti, että tämä oli Maitreyan luoma ihme.</p>
 <p>Lue <a href="/lisatietoa/ihmeet-ja-merkit/intialainen-tytto-itkee-verikyynelia/">koko artikkelimme</a></p>
-
+<br clear="all" />
 <h3>Nigerissä syntyi 15.7.2013 lapsi, jolla oli Tasabih-rukousnauha kaulansa ympärillä</h3>
 <p class="alignright"><img src="https://sharefi-cdn.sirv.com/sharefi/maitreyan-ihme-vauva-syntyi-rukousnauha-kaulansa-ymparilla-300x206.jpg" width="300" height="206" alt="Nigerissä syntyi 15.7.2013 lapsi, jolla oli Tasabih-rukousnauha kaulansa ympärillä" /></p>
 <p>Nigerin Bidassa koettiin 15.7.2013 uskomattomia, kun vauva syntyi rukousnauha kaulansa ympärillä. Eläköitynyt sairaanhoitaja Shasha Abubakar ei voinut uskoa silmiään kun vastasyntyvän kaulan ympärillä oli nähtävissä mustat Tasabih-rukousnauhan helmet, jotka saman tien muuttuivat valkoisiksi.</p>
@@ -51,7 +51,7 @@ author: share.fi
 
 <h3>Neitsyt Marian ihme clearwaterilaisen pankin ikkunassa</h3>
 <p class="alignright"><img src="https://sharefi-cdn.sirv.com/sharefi/clearwater-1996-neitsytmaria.jpg" width="610" height="480" alt="Kuvassa Neitsyt Maria pankkirakennuksessa Clearwaterissa, Floridassa, USA:ssa" /><br /> Clearwaterin Neitsyt Maria ihme pankin ikkunoissa</p>
-
+<br clear="all" />
 <h3>Itkevä Neitsyt-Marian patsas</h3>
 <p class="alignright"><img src="https://sharefi-cdn.sirv.com/sharefi/mura-itkeva-neitsyt-maria.jpg" width="206" height="308" alt="" /><br />Itkevä Neitsyt-Marian patsas</p>
 <p>Tämä marmoripatsas sijaitsee Murassa, 50 km pohjoiseen Barcelonasta, missä hiljainen kyläelämä ravistui eloon, kun 16.3.1998 paikallinen pappi Lluis Costa huomasi tämän 70 cm korkean patsaan itkevän verikyyneleitä. Patsas oli aiemmin tuotu Medjugorjesta ja sijoitettu torille kylän kirkon eteen noin 2,5 metriselle pedestaalille. Kummankin silmän toisesta kulmasta verikyyneleet olivat valuneet hänen kasvoilleen kunnes veri oli koaguloitunut mutta ei vielä kuivunut.</p>
@@ -87,36 +87,19 @@ author: share.fi
 <p><img src="https://sharefi-cdn.sirv.com/sharefi/parantava-lahde-nordenau-saksa.jpg" width="100" height="141" alt="" /><br />Parantava lähde Nordenaussa, Saksassa</p>
 
 <p><a href="/maitreyan-aktivoima-vesi-eli-parantava-vesi-ja-valon-tiede/">Lue lisää vesistä &gt;&gt;</a></p>
-</div>
-
-
-
-
-
-
-
-
-
-
-
+</div> <!-- ENDS grid -->
 
 
 
 <h3>Vihannesihmeet</h3>
-<div>
-<p><img alt="Allahin nimi munakoisossa" src="//www.share.fi/kuvat/hud2.jpg" width="201" height="145"><strong>Allahin nimi munakoisossa</strong></p>
-</div>
-<div>
-<p><img alt="Allahin nimi pavuissa" src="//www.share.fi/kuvat/bean2.jpg" width="208" height="145"><strong>Allahin nimi pavuissa</strong></p>
-</div>
-<p><img alt="poikkipalkki" src="//www.share.fi/kuvat/divider_red_140_7.gif" width="90%" height="2px"></p>
+<p><img alt="Allahin nimi munakoisossa" src="https://sharefi-cdn.sirv.com/sharefi/ihme-allahin-nimi-munakoisossa.jpg" /><br />Allahin nimi munakoisossa</p>
+
+<p><img alt="Allahin nimi pavuissa" src="https://sharefi-cdn.sirv.com/sharefi/ihme-allahin-nimi-pavuissa.jpg" /><br />Allahin nimi pavuissa</p>
+
 <h3>Kristallikyyneleitä itkevä tyttö</h3>
-<div>
-<p><img alt="12-vuotias libanonilainen Hasnah Meselmani itki kristalleja" src="//www.share.fi/kuvat/hasnah2.jpg" width="385" height="300"><strong>Vuonna 1996 12-vuotias libanonilainen Hasnah Meselmani itki kolmen kuukauden ajan joka neljäs tunti veitsenteräviä kristalleja</strong></p>
-</div>
-<hr>
+<p><img alt="12-vuotias libanonilainen Hasnah Meselmani itki kristalleja" src="https://sharefi-cdn.sirv.com/sharefi/ihme-kristallikyyneleita-itkeva-tytto-hasnah-meselmani.jpg" /><br />Vuonna 1996 12-vuotias libanonilainen Hasnah Meselmani itki kolmen kuukauden ajan joka neljäs tunti veitsenteräviä kristalleja</p>
+
 <h3>Viljapeltokuviot</h3>
-<div>
-<p><img alt="Viljapeltokuvio" src="//www.share.fi/kuvat/crop_circle1.jpg" width="300" height="199">Jerzy Szpuleckin talon ulkopuolelta otettu kuva, 22.7.2000. Kuva: Tadeusz Filipczak</p>
-</div>
-<p><strong>Jo vuosien ajan viljapeltoihin ympäri maailman on ilmestynyt kuvioita, jotka ovat avaruusveljiemme tekemiä. Niiden esiintymistaajuus on lisääntynyt ja suuri osa niistä on ilmestynyt Englannissa.&nbsp;</strong><a title="Viljapeltokuviot" href="//www.share.fi/lisatietoa/viljapeltokuviot">Lue lisää viljapeltokuvioista</a>
+<p><img alt="Viljapeltokuvio" src="https://sharefi-cdn.sirv.com/sharefi/merkki-viljapeltokuvio.jpg" /><br />Jerzy Szpuleckin talon ulkopuolelta otettu kuva, 22.7.2000. Kuva: Tadeusz Filipczak</p>
+
+<p><strong>Jo vuosien ajan viljapeltoihin ympäri maailman on ilmestynyt kuvioita, jotka ovat avaruusveljiemme tekemiä. Niiden esiintymistaajuus on lisääntynyt ja suuri osa niistä on ilmestynyt Englannissa.&nbsp;</strong><a title="Viljapeltokuviot" href="/lisatietoa/viljapeltokuviot">Lue lisää viljapeltokuvioista</a>

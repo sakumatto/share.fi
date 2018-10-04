@@ -23,7 +23,7 @@
 		if ( anchors[i].className && anchors[i].className.indexOf('external') != -1 )
 			anchors[i].onclick = function () { return !window.open(this); };
 </script>
-
+{{ $nostot_etusivulle := getJSON "/data/etusivulle.json" }}
 </head>
 <body>
   <header role="banner">
@@ -45,6 +45,12 @@
 		{{ partial "menu.html" (dict "menu" "uudet" "current" . "level" 1 "pages" .Site.Menus.uudet) }}
 		<p style="background-image: linear-gradient(-100deg, rgba(255, 255, 255, 0), grey 85%, rgba(255, 255, 255, 0));">Muuta</p>
 		{{ partial "menu.html" (dict "menu" "secondary" "current" . "level" 1 "pages" .Site.Menus.secondary) }}
+
+		<div class="nosto-etusivulle-alue">
+			{{ range $nostot_etusivulle }}
+				{{ partial "etusivulle.html" . }}
+			{{ end }}
+		</div>
 
     </ul>
 </nav><!-- #main-nav -->
