@@ -162,12 +162,52 @@ p.qna-q {
 
 #global-include-footer-extra {
 	display: block;
-	padding: 12px 24px;
-
-	font-size: 16px;
-	color: #fabe45;
-	background-color:#555;
+	padding: 24px;
+	margin-top:75px;
+	font-size: medium;
+	color: #black;
+	background-color:#fafafa;
+	
+	display:none;
 }
+
+.nosto-etusivulle-alue {
+	display: block;
+	margin: 75px 0;
+	font-size: medium;
+}
+
+.nosto-etusivulle-yksilo {
+
+}
+
+.etusivulle-otsikko {
+
+}
+
+.etusivulle-teksti {
+
+}
+
+.etusivulle-linkki {
+
+}
+
+.etusivulle-kuva {
+	max-width: 140px;
+	float:right;
+	margin: 12px 0 12px 12px;
+	display:inline-block;
+}
+
+
+
+
+
+
+
+
+
 /*
 	LINKS
 	https://css-tricks.com/snippets/jquery/target-only-external-links/
