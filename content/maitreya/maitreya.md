@@ -25,7 +25,7 @@ menu:
 
 <h2>Kuka Maitreya on?</h2>
 <div class="aligncenter"><img class="Sirv" data-src="https://sharefi-cdn.sirv.com/sharefi/maitreyanisokasi2.jpg" alt="Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi." /><p>Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi.</p></div>
-<p>Jo sukupolvien ajan ovat kaikki pääuskonnot odottaneet Häntä tulevaksi. Kristityt odottavat <a title="Kristus" href="//www.share.fi/kristus">Kristuksen</a> paluuta, Buddhalaiset odottavat uuden Buddhan saapumista (Herran, Maitreyan). Muslimien odottaessa Imam Mahdia, Hindut odottavat Krishnan jälleensyntymistä ja Juutalaiset Messiasta saapuvaksi.</p>
+<p>Jo sukupolvien ajan ovat kaikki pääuskonnot odottaneet Häntä tulevaksi. Kristityt odottavat <a title="Kristus" href="/kristus">Kristuksen</a> paluuta, Buddhalaiset odottavat uuden Buddhan saapumista (Herran, Maitreyan). Muslimien odottaessa Imam Mahdia, Hindut odottavat Krishnan jälleensyntymistä ja Juutalaiset Messiasta saapuvaksi.</p>
 <p>Monien mielestä ne ovat kaikki nimiä, jotka kuvaavat yhtä ja samaa yksilöä: Maailmanopettajaa &#8211; jonka henkilökohtainen nimi on Maitreya.</p>
 <p><strong>Maitreya</strong> haluaa mieluiten itseään yksinkertaisesti kutsuttavan opettajaksi, eikä hän ole tullut maapallolle ollakseen uskonnollinen johtaja, vaan kouluttaja. Sanan laajimmassa mahdollisessa tarkoitukessa. Kouluttaja, joka voi osoittaa ihmiskunnalle tien ulos sen nykyisestä ahdingosta.</p>
 <p>Hän tulee panemaan liikkeelle ihmisten halun pelastaa ne miljoonat ihmiset, jotka vuosittain kuolevat nälkään. Nykyisen poliittisen, taloudellisen ja sosiaalisen kriisin keskellä Maitreya tulee inspiroidakseen ihmiskuntaa näkemään itsensä yhtenä suurena perheenä, joka voi luoda sivilisaation, joka perustuu jakamisen sekä taloudellisen ja sosiaalisen oikeudenmukaisuuden ja maailmanlaajuisen yhteistyön periaatteille.</p>
@@ -33,8 +33,8 @@ menu:
 <hr />
 <h2>Maitreya ja Hänen tulemisen merkit</h2>
 <blockquote><p>Viime aikoina <strong>Maitreya</strong> on useiden tapahtumien yhteydessä jättänyt itsestään jälkeen &#8221;käyntikorttinsa&#8221;. Lisäksi vuoden 2010 alusta alkaen <strong>Maailmanopettaja</strong> on alkanut tv-esiintymisten sarja. Kuvat ja tarinat näistä tapahtumista on selostettu tarkemmin muualla sivustollamme tai Share International -lehdessä. Tässä kuitenkin muutama tapahtuma.</p>
-<p><strong><a href="//www.share.fi/maitreya-televisiossa#status-nyt">Maitreyan tv-esiintymisten viime tiedot</a></strong><br />
-<strong><a title="Maitreyan viesti 7.10.2014" href="//www.share.fi/maitreyan-viesti-7-10-2014">Maitreyan viesti 7.10.2014</a></strong><br />
+<p><strong><a href="/maitreya-televisiossa#status-nyt">Maitreyan tv-esiintymisten viime tiedot</a></strong><br />
+<strong><a title="Maitreyan viesti 7.10.2014" href="/maitreyan-viesti-7-10-2014">Maitreyan viesti 7.10.2014</a></strong><br />
 <strong><a href="https://www.share.fi/maitreya/#ensimmainentvesintyminen">Maitreya astuu esiin</a></strong><br />
 <a href="https://www.share.fi/maitreya/#joulu"><strong>Tähti-ihme</strong></a><br />
 <a href="https://www.share.fi/maitreya/#kasi"><strong>Maitreyan käsi</strong></a><br />
@@ -58,10 +58,10 @@ V. Pahoittelen, mutta Maitreya ei ole kanssasi samaa mieltä. Monet ihmiset taht
 <p>&#8221;Vuosien ajan maailma on ollut täynnään kaikenlaisia ihmeitä. Huhtikuussa 1995 Time-lehti käytti kahdeksan sivua pääjuttunaan taustoittaakseen näitä tapahtumia ja päätteli: “Ihmiset janoavat merkkejä.”</p>
 <p><strong>Pitäkää silmänne nyt auki kaikkein suurinta ihmettä odottaessamme. Aivan lähiaikoina suuri, kirkas, tähti tulee ilmaantumaan taivaalle. Tuo tähti tulee olemaan kaikkien nähtävillä – yötä päivää.</strong></p>
 <p>Uskomatonta? Fantasiaa? Ei, vaan fakta. Noin viikkoa myöhemmin Maitreya, Maailmanopettaja tulee aloittamaan avoimen työnsä, ja vaikkei vielä tulekaan esiintymään tuolla nimellä, häntä tullaan haastattelemaan yhdellä USA:n pääkanavista.</p>
-<p>Vuonna 1988 CNN ja monet muut media raportoivat Maitreyan ihmeellisen ilmaantumisen 6.000 ihmisen eteen Nairobiin, Keniaan, kesäkuun 11. päivänä. Viikkoa ennen tuota [1988] tapahtumaa merkki siitä oli nähtävissä: ”<a title="Maitreya" href="//www.share.fi/maitreya" target="_blank">Lauantaina 4.6. suuri, kirkas tähti nähtiin; tavanomaista tähteä kirkkaampi</a>.”, raportoi Kenya Times -sanomalehden toimittaja Job Mutungi.&#8221;</p>
+<p>Vuonna 1988 CNN ja monet muut media raportoivat Maitreyan ihmeellisen ilmaantumisen 6.000 ihmisen eteen Nairobiin, Keniaan, kesäkuun 11. päivänä. Viikkoa ennen tuota [1988] tapahtumaa merkki siitä oli nähtävissä: ”<a title="Maitreya" href="/maitreya" target="_blank">Lauantaina 4.6. suuri, kirkas tähti nähtiin; tavanomaista tähteä kirkkaampi</a>.”, raportoi Kenya Times -sanomalehden toimittaja Job Mutungi.&#8221;</p>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gbP5Dp3oB7k?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<p><a title="Maitreyan tähti-ihme" href="//www.share.fi/maitreya/maitreyan-tulon-julkistava-tahti" target="_blank">Lue lisää tähti-ihmeestä ja uusimmat havainnot &gt;&gt;&gt; klikkaa</a></p>
+<p><a title="Maitreyan tähti-ihme" href="/maitreya/maitreyan-tulon-julkistava-tahti" target="_blank">Lue lisää tähti-ihmeestä ja uusimmat havainnot &gt;&gt;&gt; klikkaa</a></p>
 <hr />
 <p><a name="kasi"></a></p>
 <h2><strong>Maitreya ja Maitreyan käsi</strong></h2>

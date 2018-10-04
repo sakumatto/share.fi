@@ -273,7 +273,7 @@ V. Maitreya toimii inkognito. Edes he jotka työskentelevät näiden tuotantojen
 <p>V: Kyllä. Vastine on ollut monimutkainen ja moninainen.</p>
 <p style="margin-top: 30px; font-style: italic;">K: Onko niin, että niissä maissa, joissa Maitreya on aktiivinen, että tavallinen väestö reagoi Häneen myönteisemmin kuin virkamiehistö ja hallinnon johto?</p>
 <p>V: Ei välttämättä. Tilanne vaihtelee maittain.</p>
-<p style="margin-top: 30px; font-style: italic;">K: Share Internationalin kesäkuun 2015 numerossa oli ‘Message of Hope’ [<a href="//www.share.fi/kirje-paatoimittajalle-kesakuu-2015-toivon-viesti">Toivon viesti</a>] nimellä kirje, jossa Maitreyan julkituloon liittyen mainittiin päivämäärä: tammikuu 2017. Tarkoittaako tämä sitä, että Julkitulon päivä olisi tuolloin?</p>
+<p style="margin-top: 30px; font-style: italic;">K: Share Internationalin kesäkuun 2015 numerossa oli ‘Message of Hope’ [<a href="/kirje-paatoimittajalle-kesakuu-2015-toivon-viesti">Toivon viesti</a>] nimellä kirje, jossa Maitreyan julkituloon liittyen mainittiin päivämäärä: tammikuu 2017. Tarkoittaako tämä sitä, että Julkitulon päivä olisi tuolloin?</p>
 <p>V: Tuo ajankohta olisi noin puolentoista vuoden päässä tästä hetkestä jos ihmiskunta reagoi myönteisesti Maitreyan energioihin ja Hänen ideoihinsa nykyhetken ja tammikuun 2017 välisenä aikana. Maitreya on jo sanonut, että tarkka päivämäärä ei ole tiedossa, mutta että tarkka ajoitus on vahvistettu.</p>
 <p style="margin-top: 30px; font-style: italic;">K: Tulevatko ihmiset, jotka ovat aiemmin nähneet Maitreyan tunnistamaan Hänet Julkitulon päivänä?</p>
 <p>V: Kyllä.</p>

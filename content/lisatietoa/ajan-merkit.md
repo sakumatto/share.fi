@@ -41,7 +41,7 @@ aihealueet:
 <h2>Mahashivaratri-juhlan lingam ihmeet</h2>
 <img class="alignright" style="max-width:32%;" src="https://sharefi-cdn.sirv.com/sharefi/aikamme-kuvia-201407_valoristi_okinawa.jpg" alt="Okinawan valoristi" />
 <p>Sri Premanandan Asharamissa, joka sijaitsee Trichyssä, Tamilnadussa, Intiassa, kannattajat juhlivat Mahashivaratrin aikana 7.3.2016. Heidän hämmästyksekseen ja ilokseen kello 18.30 lingam ilmestyi ihmeenomaisesti Sri Premanandan patsaan eteen. Patsas oli ollut jo kuukausia vibhutin (pyhän tuhkan) peitossa.</p>
-<p><a href="//www.share.fi/swami-premananda-1951-2011">Swami Premananda</a> kuoli vuonna 2011, mutta nämä ihmeelliset ilmentymiset ovat edelleen jatkuneet Hänen Ashramissaan. Ashramissa paikalla olleet kertoivat:” Kaksi muuta lingamia huomattiin yöllä kello 2.30. Neljältä iltapäivällä 8. maaliskuuta näimme, että vielä kolme lingamia oli ilmestynyt temppeliin.”</p>
+<p><a href="/swami-premananda-1951-2011">Swami Premananda</a> kuoli vuonna 2011, mutta nämä ihmeelliset ilmentymiset ovat edelleen jatkuneet Hänen Ashramissaan. Ashramissa paikalla olleet kertoivat:” Kaksi muuta lingamia huomattiin yöllä kello 2.30. Neljältä iltapäivällä 8. maaliskuuta näimme, että vielä kolme lingamia oli ilmestynyt temppeliin.”</p>
 
 <p><i>(Benjamin Cremen Mestari vahvistaa, että lingamit olivat ihmeitä, jotka Swami Premananda oli luonut.)</i></p>
 <p><img class="alignleft" alt="swami-premananda-lingam ihme-1" src="https://sharefi-cdn.sirv.com/sharefi/swami-premananda-lingam-ihme-1-300x200.jpg" width="300" height="200" />
