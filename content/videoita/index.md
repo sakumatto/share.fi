@@ -26,7 +26,7 @@ aihealueet:
 
 ---
 
-<iframe src="https://player.vimeo.com/video/262791119?title=0&amp;byline=0&amp;portrait=0" width="853" height="624" frameborder="0"></iframe><br />45 sekunnin esittely
+<iframe src="https://player.vimeo.com/video/262791119?title=0&amp;byline=0&amp;portrait=0" width="853" height="624" frameborder="0"></iframe>
 <blockquote>
 <h1>Share videoita</h1>
 <p>Olemme koonneet tälle sivulle videoita, jotka kertovat Kristuksen julkisuuteen tulosta ja siihen liittyvistä. Kuvaa klikkaamalla saat videon toistamaan.</p>
