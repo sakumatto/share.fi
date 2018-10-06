@@ -35,7 +35,7 @@ aihealueet:
 <div class="qna">
 <p class="qna-q">K: Sen jälkeen kun Maitreya aloitti televisioesiintymiset Kiinassa, onko Hän viime kuukausina esiintynyt myös muiden maiden televisioissa?</p>
 <p>V: Kyllä, Japanissa, Indonesiassa, Vietnamissa, Malesiassa ja Intiassa sekä viimeisimpänä Intiassa.</p>
-<p>(Lue koko televisioesiintymisten artikkeli, jossa kerrataan kaikki tapahtumat vuodesta 2010 aina tähän päivään: <a href="/maitreya-televisiossa" target="_blank">www.share.fi/maitreya-televisiossa</a>)</p>
+<p>(Lue koko televisioesiintymisten artikkeli, jossa kerrataan kaikki tapahtumat vuodesta 2010 aina tähän päivään: <a href="/maitreya/maitreya-televisiossa" target="_blank">www.share.fi//maitreya/maitreya-televisiossa</a>)</p>
 <p class="qna-q">K: Työskenteleekö Maitreya yhä Lähi-idässä ja Pohjois-Afrikassa?</p>
 <p>V: Kyllä.</p>
 <p><a name="saibaba"></a></p>

@@ -61,6 +61,6 @@ author: share.fi
 <p>Tulevina aikoina tämä syvällinen henkinen tieto voisi antaa ihmiskunnalle keinon kohottaa itsensä henkisempään olemassaolon todellisuuteen. Maitreya ja Mestarit, joiden kanssa Hän työskentelee, ovat valmiina auttamaan maailmaa löytämään ratkaisut kiireellisimpiin ongelmiin kuten nälänhätä, sairaudet ja ympäristön rappio. Kaikki mitä tarvitaan, on halu luoda kokonaisvaltainen näkemys, tehdä muutokset, jotka varmistavat kaikkien luonnon luomakuntien ja jokaisen yhteisön hyvinvoinnin Maa-planeetalla. Ja ajatella – ei vain nykyistä sukupolvea, vaan seitsemää sukupolvea eteenpäin – kuten Amerikan alkuperäisheimot tekevät. Maitreya sanoo, että tällä tavoin voimme kääntää nykyisen tuhoavan kurssimme ja rakentaa tasa-arvoisen, rauhallisen ja luovan tulevaisuuden yhteiskunnan.</p>
 <p>&nbsp;</p>
 <h2>Lisätietoa aiheesta Maitreyan aktivoimat vedet</h2>
-<p><a href="/maitreya/maitreyan-esiintymiset#taulukko">Lista Maitreyan esiintymisistä joissa vesi aktivoitiin ja joihin Creme yllä viittaa, klikkaa</a>!</p>
-<p>Miksi, jos <a href="/lisatietoa/usein-kysyttya#anchor13">Maitreya on puhunut satojen ihmisten kokouksessa, asioita ei ole laajasti käsitelty mediassa</a>?</p>
-<p>Saku Mätön <a href="https:/materiaali/info_2005-3-170405.pdf" onclick="javascript:_gaq.push(['_trackEvent','download','http:/materiaali/info_2005-3-170405.pdf']);" target="_blank">matkakertomus Nordeanauhun</a>
+<p><a href="/maitreya/maitreyan-julkiset-esiintymiset/#taulukko">Lista Maitreyan esiintymisistä joissa vesi aktivoitiin ja joihin Creme yllä viittaa, klikkaa</a>!</p>
+<p>Miksi, jos <a href="/kysymyksia-vastauksia/ukk/#anchor13">Maitreya on puhunut satojen ihmisten kokouksessa, asioita ei ole laajasti käsitelty mediassa</a>?</p>
+<p><a href="https://sharefi-cdn.sirv.com/sharefi/info_2005-3-170405.pdf" target="_blank">Matkakertomus Nordeanauhun</a>
