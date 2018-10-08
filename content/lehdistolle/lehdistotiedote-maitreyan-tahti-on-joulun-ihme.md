@@ -9,6 +9,7 @@ menu:
 
 aliases:
     - /tiedote-2008-12-12/
+    - /lehdistotiedote-maitreyan-tahti-on-joulun-ihme/
 
 
 ei_pvm: false
@@ -60,8 +61,9 @@ Hän ei tule perustaakseen uutta uskontoa, vaan ollakseen opettaja kaikelle ihmi
 Kun Maitreya ja Hänen ryhmänsä on avoimesti maailmassa ojentaen auttavan kätensä ja oppinsa meille, ihmiskunnalle taataan ei vain tie selvitä nykyongelmistaan, vaan loistokas tulevaisuus, jossa oikeudenmukaisuus ja rauha vallitsevat.</p>
 <h3>Kuvamateriaali</h3>
 <p>Kuvateksti: Joulukuussa 2008 Share International -säätiö ilmoitti taivaalle ilmaantuvasta &#8221;tähdestä&#8221;. Tuhannet ovat nähneet sen Norjan yllä 9.12.2009. Ylärivi: Hullbridge, Britannia, 11/3/09; Sakura, Japani, 2/3/09; Lontoo, Britannia, 31/12/08. Keskirivi: Costa Rica, 3/1/09; Moskova, Venäjä, 7/10/09; Edinburgh, Skotlanti, 10/2/09. Alarivi: Ath, Belgia, 18/1/09; Crewe, Britannia, 10/3/09; Senelnikovo, Ukraina, helmikuu/09.</p>
-<p>Kuvan web-osoite: https://sharefi-cdn.sirv.com/sharefi/maitreyan-tahti-kollaasi-sinr91.jpg<br />
-Kuva alla.</p>
+<p>Kuvan web-osoite: https://sharefi-cdn.sirv.com/sharefi/maitreyan-tahti-kollaasi-sinr91.jpg</p>
+
+<a href="/maitreya/maitreyan-tahti/">Laaja määrä kuvia lisätietona.</a>
 <p><img src="https://sharefi-cdn.sirv.com/sharefi/maitreyan-tahti-kollaasi-sinr91.jpg" width="827" height="827" alt="" /><br />
 <span style="">share.fi</span><br />
 PL 161<br />

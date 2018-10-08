@@ -37,7 +37,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "---"
+lainaus: "Lainaus: ---"
 
 ---
 <p class="alustus">Mestarin sanoin -artikkelit ovat noin kuukausittainen sarja elämän henkistä puolta avaavia artikkeleita, jotka Benjamin Cremen Mestari on tälle sanellut jo yli 35 vuoden ajan, aina Share International -lehden synnystä, eli vuodesta 1982 alkaen. Benjamin Cremen Mestari on antanut artikkelinsa julkaistavaksi tuoreeltaan ja käytettäväksi silloin kun soveltuvat maailman tapahtumat sitä edellyttävät.</p>

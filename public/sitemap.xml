@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://share.fi/haloo/ota-yhteytta/</loc>
+    <lastmod>2018-10-04T14:25:30+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://share.fi/maitreya/maitreyan-julkiset-esiintymiset/</loc>
     <lastmod>2018-09-14T12:18:25+03:00</lastmod>
   </url>
@@ -85,11 +90,6 @@
   <url>
     <loc>https://share.fi/maitreya/kristus/</loc>
     <lastmod>2018-08-01T11:36:03+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://share.fi/haloo/ota-yhteytta/</loc>
-    <lastmod>2018-07-19T14:25:30+03:00</lastmod>
   </url>
   
   <url>
@@ -925,7 +925,7 @@
   
   <url>
     <loc>https://share.fi/</loc>
-    <lastmod>2018-09-14T12:18:25+03:00</lastmod>
+    <lastmod>2018-10-04T14:25:30+03:00</lastmod>
   </url>
   
   <url>
@@ -997,7 +997,7 @@
   
   <url>
     <loc>https://share.fi/haloo/</loc>
-    <lastmod>2018-08-02T11:42:53+03:00</lastmod>
+    <lastmod>2018-10-04T14:25:30+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1146,7 +1146,7 @@
   
   <url>
     <loc>https://share.fi/avainsanat/ota-yhteytt%C3%A4/</loc>
-    <lastmod>2018-08-02T11:42:53+03:00</lastmod>
+    <lastmod>2018-10-04T14:25:30+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1254,7 +1254,7 @@
   
   <url>
     <loc>https://share.fi/aihealueet/yhteydenotto/</loc>
-    <lastmod>2018-07-19T14:25:30+03:00</lastmod>
+    <lastmod>2018-10-04T14:25:30+03:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Maitreya tulee osoittamaan, että ongelmamme, vaikkakin moninaiset, ovat ratkaistavissa; että ratkaisu on jo ulottuvillamme; että jakamisen yksinkertainen teko, ainoana, omaa voiman muuttaa elämä Maassa parempaan. Hän tulee pyytämään ihmisiä luottamaan Häneen, Vanhempana Veljenä, että Hän ei tule johtamaan heitä muuanne kuin heidän viitoitetulle rakkauden ja harmonian polulle, ja ettei heillä ole muuta pelättävää kuin pelko itsessään, ja että reitti eteenpäin on jo Luojan viitoittama."
+lainaus: "Lainaus: Maitreya tulee osoittamaan, että ongelmamme, vaikkakin moninaiset, ovat ratkaistavissa; että ratkaisu on jo ulottuvillamme; että jakamisen yksinkertainen teko, ainoana, omaa voiman muuttaa elämä Maassa parempaan. "
 ---
 <p>Kun ihmiskunta näkee Maitreyan, riippumatta siitä tunnistavatko he Hänet vaiko eivät, he tulevat kokemaan olevansa pakotettuja valitsemaan kannattaako vaiko vastustaako Häntä ja sitä mitä Hän edustaa: jakaminen, oikeudenmukaisuus ja rauha. Täten ihmiset jaetaan ja tunnistetaan. Täten Erottelun Miekka tulee toteuttamaan oman kohtalonsa, ja täten Maitreya tulee tietämään ihmisten valmiuden muutokseen. Esiintyen ihmisille yhtenä heistä, Suuri Herra varmistaa, että ihmiset seuraavat ja kannattavat Häntä Hänen ideoittensa totuuden ja mielekkyyden vuoksi, eivätkä Hänen statuksensa vuoksi.</p>
 <p>Yhtä kaikki, on samantekevää tunnistetaanko Hänet Maitreyaksi, Kristukseksi, vaiko vain ihmiseksi, jonka viisaus osuu yksiin ihmisten oikeudenmukaisuuden ja rauhan pyrkimysten sekä kaikille ihmisille paremman maailman saavuttamisen pyrkimysten kanssa.</p>

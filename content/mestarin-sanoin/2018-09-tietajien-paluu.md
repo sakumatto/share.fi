@@ -36,7 +36,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Täten kaikki tullaan muuttamaan. Täten vanha pyyhitään pois ja uusi aikakausi alkaa. Täten Opettajat tulevat elävöittämään ihmisten elämän ja tulevat luomaan olosuhteet uuden ihmisen ilmetä."
+lainaus: "Lainaus: Täten kaikki tullaan muuttamaan. Täten vanha pyyhitään pois ja uusi aikakausi alkaa. Täten Opettajat tulevat elävöittämään ihmisten elämän ja tulevat luomaan olosuhteet uuden ihmisen ilmetä."
 ---
 <p>Harvoin maailman historian aikana on ollut aikakautta kuten nyt on. Aika jossa on niin pohjamutia myöten tapahtuvaa muutosta ja ihmisille lupausta huomisesta. Jälleen kerran Suuren Pyörän pyörähtäessä, ihminen on sen partaalla, että hän löytää uuden merkityksen ja uuden tarkoituksen elämän ulkoisen ilmenemismuodon takaa. Samassa uudistuu hänen yhteytensä hänen kaiken viisautensa ja innoituksensa lähteeseen. Pitkän sekä tarpeellisen valmistelun jälkeen, ikiaikainen tietäjien joukko, Henkinen Hierarkia, on palaamassa ihmisten maailmaan, valmiina heihin istuttamaan tiedon ja totuuden siemenet, jotka tulevat kuljettamaan ihmiset aina niihin korkeuksiin asti, mistä Jumalat alaspäin hymyilevät.</p>
 

@@ -6,10 +6,22 @@
     <description>Recent content on Jakamisen periaate pelastaa maailman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fi-fi</language>
-    <lastBuildDate>Fri, 14 Sep 2018 12:18:25 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 04 Oct 2018 14:25:30 +0300</lastBuildDate>
     
 	<atom:link href="https://share.fi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ota yhteyttä</title>
+      <link>https://share.fi/haloo/ota-yhteytta/</link>
+      <pubDate>Thu, 04 Oct 2018 14:25:30 +0300</pubDate>
+      
+      <guid>https://share.fi/haloo/ota-yhteytta/</guid>
+      <description>Täytä ystävällisesti alla näkyvä lomake ja ota siten yhteyttä.
+Nimesi Puhelinnumerosi (halutessasi) Emailisi mm. email-osoite on pakollinen tieto.  Viestisi  Tietosuoja
+Lähettämällä kyselysi tällä lomakkeella sitoudut tietosuojalausekkeemme vaatimuksiin.
+ </description>
+    </item>
     
     <item>
       <title>Maitreyan julkiset esiintymiset</title>
@@ -123,17 +135,6 @@ Toistaiseksi ihmiskunnalla on ollut varsin vähän tietoista kontaktia monien Me
     </item>
     
     <item>
-      <title>Ota yhteyttä</title>
-      <link>https://share.fi/haloo/ota-yhteytta/</link>
-      <pubDate>Thu, 19 Jul 2018 14:25:30 +0300</pubDate>
-      
-      <guid>https://share.fi/haloo/ota-yhteytta/</guid>
-      <description>Täytä ystävällisesti alla näkyvä lomake ja ota siten yhteyttä Share.fi:hin. Nimesi Puhelinnumerosi (halutessasi) Emailisi mm. email-osoite on pakollinen tieto.  Viestisi  Tietosuoja
-Lähettämällä kyselysi tällä lomakkeella sitoudut tietosuojalausekkeemme vaatimuksiin.
- </description>
-    </item>
-    
-    <item>
       <title>Mestarin sanoin 7-8/2018: Pysyvä valintatilanne</title>
       <link>https://share.fi/mestarin-sanoin/2018-07-pysyva-valintatilanne/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
@@ -158,8 +159,9 @@ Kyseessä on tietenkin pysyvä valintatilanne, joka on nyt polttopisteessä, kui
       <pubDate>Thu, 24 May 2018 09:25:35 +0300</pubDate>
       
       <guid>https://share.fi/laillisuusasiat/tietosuoja/</guid>
-      <description>Keitä olemme Verkkosivustomme osoite on: https://share.fi . Sivun ylläpitäjä on Share.fi. Tämä on share.fi kotisivu. Mitä henkilötietoa keräämme ja miksi Kommentit Kun sivuston käyttäjät jättävät kommentteja sivustolle, keräämme kommenttilomakkeessa olevat tiedot, sekä käyttäjän IP-osoitteen ja selaimen versiotiedot roskaviestien tunnistamisen helpottamiseksi.
-Kun vierailijat jättävät kommentin tälle sivustolle keräämme tiedon, joka on näkyvissä kommentointikentissä, IP-osoitteen sekä selaimen versioon liittyvät tiedot. Sähköpostiosoitteesta luotu anonymisoitu hajautustieto (hash) voidaan lähettää Gravatar-palveluun, jotta tiedetään onko kommentoija palvelun käyttäjä.</description>
+      <description>Mitä henkilötietoa keräämme ja miksi Yhteydenottolomakkeet Yhteydenottolomakkeiden kautta annettu tieto säilytetään toistaiseksi. Täyttämällä lomakkeen hyväksyt samalla tietojesi tallentamisen sekä käsittelyn lomakkeessa ilmoitetussa tarkoituksessa.
+Lomake käyttää ulkoista palvelua tiedon välittämiseen meille ja hyväksyt samalla sen, että he käyttävät tietoasi tietosuojadirektiivin ja tuon palveluntarjoajan tietosuojalausekkeen kertomalla tavalla.
+Muilta sivustoilta upotettu sisältö Tämän sivuston artikkelit voivat sisältää upotettua sisältöä (esimerkiksi videoita, kuvia, artikkeleita jne). Toisilta sivustoilta tuodun upotetun sisällön avaaminen on verrattavissa siihen, että vierailija itse kävisi kolmannen osapuolen sivustolla.</description>
     </item>
     
     <item>
@@ -168,9 +170,8 @@ Kun vierailijat jättävät kommentin tälle sivustolle keräämme tiedon, joka 
       <pubDate>Thu, 24 May 2018 09:25:30 +0300</pubDate>
       
       <guid>https://share.fi/haloo/kiitos/</guid>
-      <description> Kiitos viestistäsi Viestisi on nyt onnistuneesti välitetty eteenpäin.
-Mukavaa jatkoa toivottaen!
-- Share.fi </description>
+      <description>Kiitos viestistäsi Viestisi on nyt onnistuneesti välitetty eteenpäin.
+Mukavaa jatkoa toivottaen!</description>
     </item>
     
     <item>

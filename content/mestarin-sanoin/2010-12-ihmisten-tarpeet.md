@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Erkaannutettuna ihmisten todellisista tarpeista, [maailman hallitukset] turvautuvat ideologiaan ja teoriaan. Yhtä kaikki, syy ei ole yksinomaan niiden. Ne eivät tiedä mitään niistä voimista, joiden kanssa ne taistelevat. Tietämättömyyttään, ne ovat helppo saalis menneen tuhoaville voimille."
+lainaus: "Lainaus: Erkaannutettuna ihmisten todellisista tarpeista, [maailman hallitukset] turvautuvat ideologiaan ja teoriaan. Yhtä kaikki, syy ei ole yksinomaan niiden. Ne eivät tiedä mitään niistä voimista, joiden kanssa ne taistelevat. Tietämättömyyttään, ne ovat helppo saalis menneen tuhoaville voimille."
 ---
 <p>Kun ihmiset tekevät tiliä nykyisestä tilanteestaan, he eivät voi tulla muuhun kuin yhteen johtopäätökseen: menneen metodit, edes viimeaikaiset niistä, eivät enää toimi. Kaikilla rintamilla, mutta erityisesti rahoitusalalla sekä talousalalla, kasvaa jatkuva kaaos. ”Asiantuntijat” kutsutaan auttamaan horjuvia hallituksia saamaan edes jonkinasteista kuria, mutta turhaan; vanhat ja koetut metodit kieltäytyvät tottelemasta finanssiministereitä, riippumatta heidän kokemuksestaan.</p>
 <p>Mitä siis maailman hallitusten tulisikaan tehdä? Mitä ne voivat tehdä? Ne voivat jonkin aikaa jatkaa vanhojen muotojen manipulointiaan, toivoen, että kaikki ”asettuisi aloilleen”, ja että vanhat kuviot kestäisivät. Tämä, todellakin, on turha toivo. Yleisesti ottaen useimpien maiden hallitukset näkevät tehtävänänsä olla ”status quon” suojelijoina ja ylläpitäjinä. Sen väärän ajatuksen ylläpitäjinä, että elämä olisi staattista ja siksi kaikki muutos olisi epäsuotavaa ja kapinallista.</p>

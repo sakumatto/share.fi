@@ -40,7 +40,7 @@ Viime vuosina tietoa Maitreyan julkitulosta on saatu lähinnä englantilaisen ta
 <br clear="all" /></p>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w0AE-giL34A?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <h3>Lopuksi</h3>
-<p>Toivomme, että sinusta oli mukava tutustua tähän Maitreyan, Maailmanopettajan laajaan julkisuuteen tuloa käsittelevään esittelyyn.<a title="Usein kysyttyjä kysymyksiä" href="https:/kysymyksia-vastauksia/ukk/"> Tervetuloa Usein kysyttyä -osastoomme</a> syventääksesi tietojasi tästä ihmeellisestä toivon sanomasta.</p>
+<p>Toivomme, että sinusta oli mukava tutustua tähän Maitreyan, Maailmanopettajan laajaan julkisuuteen tuloa käsittelevään esittelyyn.<a title="Usein kysyttyjä kysymyksiä" href="/kysymyksia-vastauksia/ukk/"> Tervetuloa Usein kysyttyä -osastoomme</a> syventääksesi tietojasi tästä ihmeellisestä toivon sanomasta.</p>
 <p>Kuten arvata saattaa, esittelyssä sanottu on vasta raapaisu pinnasta, joka kuitenkin toivottavasti on sytyttänyt sydämessäsi totuuden kaiun&#8230; Voit seuraavaksi tutustua valikon alta sivun ylälaidasta löytyviä aiheen alaotsikoita, ja voit halutessasi myös tilata noin kuukausittaisen infokirjeemme sivulta löytyvästä linkistä. Kiitos vielä mielenkiinnostasi jakamisen periaatteen edistämistä kohtaan.<br />
 <img style="display:block;margin-left:auto;margin-right:auto;margin-top:40px;margin-bottom:40px;" src="https://sharefi-cdn.sirv.com/wpmedia/flaming_d2.jpg" width="323" height="297" alt="" /></p>
 
