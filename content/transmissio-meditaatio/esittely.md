@@ -22,7 +22,7 @@ type: transmissio
 toc: true
 
 avainsanat:
- - transmission esittely
+ - transmissio-meditaatio
 
 aihealueet:
  - meditaatio

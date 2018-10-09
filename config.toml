@@ -17,7 +17,11 @@ theme = "classless"
   url    = "https://share.fi"
   weight = 50
 
-
+ [[menu.secondary]]
+  pre = ""
+  name   = "Aihealueet"
+  url    = "/aihealueet/"
+  weight = 50
 
 [permalinks]
   post = ":slug/"
@@ -37,6 +41,7 @@ pluralizelisttitles = false
 [blackfriday]
 fractions = false
 
+PaginatePath = "sivu"
 
 [params]
 show_summaries = true

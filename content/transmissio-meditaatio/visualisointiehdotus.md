@@ -22,7 +22,8 @@ type: transmissio
 toc: true
 
 avainsanat:
- - transmission visualisointiehdotus
+ - transmissio-meditaatio
+ - visualisointiehdotus
 
 aihealueet:
  - meditaatio

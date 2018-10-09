@@ -20,7 +20,7 @@ author: share.fi
 type: transmissio
 
 avainsanat:
- - Rohkeasti transmissioon mukaan
+ - transmissio-meditaatio
 
 aihealueet:
  - meditaatio

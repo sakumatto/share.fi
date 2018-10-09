@@ -234,8 +234,14 @@ Tiistaina 27.10.2009 18:30 aikaan katsoin ulos makuuhuoneeni ikkunasta. Näin ku
 · monet todistajat ovat nähneet kaikki neljä &#8221;tähteä&#8221; yhdessä<br />
 · on nähtävissä kaikkialla maailmassa. Huomaa: Benjamin Creme huomauttaa, että &#8221;tähti&#8221; lataa itsensä säännöllisesti auringosta käsin eikä siksi ole aina näkyvillä. Huomaathan myös, että kaupungeissa korkeat rakennukset voivat estää näkemästä &#8221;tähteä&#8221;, joten jatka vain etsimistä.</div>
 
-<p>Nyt tähtihavainnot on koottu videolle: Sharen tiimi kautta maailman on viimeisen kahden viikon aikana tehnyt työtä ja koonnut eri puolilta löytyvät videot ja kuvat yhdeksi videoksi, joka on nyt käännetty myös suomen kielelle: <a href="https://www.youtube.com/watch?v=9LAMqPK5wFM"  target="_blank" class="external" rel="nofollow noopener">http://www.youtube.com/watch?v=9LAMqPK5wFM</a></p>
-<p><object width="445" height="364" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/9LAMqPK5wFM&amp;hl=en&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed width="445" height="364" type="application/x-shockwave-flash" src="https://www.youtube.com/v/9LAMqPK5wFM&amp;hl=en&amp;fs=1" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object></p>
+
+<a name="tahtivideo"></a>
+<p>Nyt tähtihavainnot on koottu videolle: Sharen tiimi kautta maailman on viimeisen kahden viikon aikana tehnyt työtä ja koonnut eri puolilta löytyvät videot ja kuvat yhdeksi videoksi, joka on nyt käännetty myös suomen kielelle:</p>
+
+<p><iframe src="https://player.vimeo.com/video/262793867" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
+
+
+
 
 
 <h3>Maitreyan &#8221;tähti&#8221; nähty Suomessa</h3>

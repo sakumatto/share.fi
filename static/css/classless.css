@@ -197,6 +197,16 @@ body > main {
         height: 270px;
         overflow: hidden;
       }
+
+
+
+      main > section > ul.aihelistaus > li, main > section > ul.avainsanalistaus > li {
+        height: inherit;
+        max-height: 270px;
+      }
+
+
+
         main > section > ul > li:hover {
           box-shadow: 0 0 5px #999;
         }

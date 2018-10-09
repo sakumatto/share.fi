@@ -22,6 +22,7 @@ type: transmissio
 toc: true
 
 avainsanat:
+ - transmissio-meditaatio
  - transmission kaukoryhmä
 
 aihealueet:

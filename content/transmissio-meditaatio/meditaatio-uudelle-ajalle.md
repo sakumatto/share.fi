@@ -22,7 +22,7 @@ type: transmissio
 toc: true
 
 avainsanat:
- - transmissio on meditaatio uudelle ajalle
+ - transmissio-meditaatio
 
 aihealueet:
  - meditaatio
