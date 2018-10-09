@@ -12,7 +12,7 @@ ei_pvm:  true
 author: share.fi
 
 
-cover: "https://sharefi-cdn.sirv.com/star/star-opti-spin.spin"
+cover: "https://sharefi-cdn.sirv.com/star/share.fi-high.201806_rgb_star2.jpg"
 
 
  
@@ -30,7 +30,7 @@ menu:
 <div style="width: 910px; background-color:#f1f1f1; padding:12px; display: grid; grid-template-rows: auto auto; grid-template-columns: 300px 300px 300px;">
 <p>Klikkaa siirtyäksesi suoraan alakohtaan</p>
 <p><a href="#newpics201311">Video marraskuu 2013: todiste ettei Maitreyan tähti ole Venus, niin kuin virheellisesti väitetään</a></p>
-<p><a title="Maitreyan ”tähti” – kaksi havaintoa lisää" href="//www.share.fi/maitreyan-tahti-kaksi-havaintoa-lisaa">Kaksi havaintoa Si 4/2013 lehdestä</a></p>
+<p><a title="Maitreyan ”tähti” – kaksi havaintoa lisää" href="/uutiset/maitreyan-tahti-kaksi-havaintoa-lisaa/">Kaksi havaintoa SI 4/2013 lehdestä</a></p>
 <p><a href="#newpics201101">Kuvia, alkuvuodelta 2011 sekä loppuvuodelta 2010</a></p>
 <p><a href="#newpics201009">Kuvia tähdestä, 2010/09</a></p>
 <p><a href="#spiraaliufoaustraliassa">Spiraali-UFO Australiassa</a></p>
@@ -44,9 +44,44 @@ menu:
 <p><a href="#tahtikesakuu">Lisätietoa tähdestä kesäkuussa 2009</a></p>
 <p><a href="#tahtimaaliskuu">Lisätietoa tähdestä maaliskuussa 2009</a></p>
 <p><a href="#tahti">Tähti on nähty taivaalla tammikuussa 2009</a></p>
-<p><a href="https://www.share.fi/maitreya/maitreyan_tulon_julkistava_t_hti/#kuvat">Kuvahavaintoja tähdestä</a></p>
+<p><a href="#kuvat">Kuvahavaintoja tähdestä</a></p>
 <p><a href="#joulu">Joulun ihme</a></p>
 </div>
+
+
+
+
+<a id="newpics2016" name="newpics2016"></a>
+
+<h3>Useita kuvia tähdestä kautta planeetan 2016 aikana</h3>
+<p style="align-self:center;">Nämä kuvat ovat kaikki SI-lehdistä 2016 aikana</p>
+<p class="aligncenter"><img alt="XXX" src="https://sharefi-cdn.sirv.com/star/201603_star_north_carolina.jpg" /><br />&#8217;Tähti&#8217; kuvauspaikkana: Pohjois-Carolina, USA</p>
+
+<p class="aligncenter"><img alt="XXX" src="https://sharefi-cdn.sirv.com/star/201603_star_surrey_canada.jpg" /><br />&#8217;Tähti&#8217; kuvauspaikkana: Surrey, Kanada</p>
+
+<div style="display: grid; grid-template-rows: auto; grid-template-columns: 300px 300px 300px;">
+
+<p style="max-width:250px;"><img alt="Rotterdam, Hollanti" src="https://sharefi-cdn.sirv.com/star/201609_star_1.jpg" /><br />&#8217;Tähti&#8217; kuvauspaikkana:<br />Rotterdam, Hollanti</p>
+<p style="max-width:250px;"><img alt="Rotterdam, Hollanti" src="https://sharefi-cdn.sirv.com/star/201609_star_2.jpg" /><br />&#8217;Tähti&#8217; kuvauspaikkana:<br />Rotterdam, Hollanti</p>
+<p style="max-width:250px;"><img alt="Norja" src="https://sharefi-cdn.sirv.com/star/201610_star_samnanger_norway.jpg" /><br />&#8217;Tähti&#8217; kuvauspaikkana:<br />Samnanger, Norja</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <a id="newpics201311" name="newpics201311"></a>
@@ -113,7 +148,7 @@ Kuvan alla lähde merkitty Share International -lehden numero josta kuva on, esi
 
 <h3><a name="uusiakuvia_2010_03"></a>Useita kuvia tähdestä kautta planeetan 2009 / 2010</h3>
 
-<div style="display: grid; grid-template-rows: auto auto; grid-template-columns: 300px 300px 300px 300px;">
+<div style="column-gap:3%; display: grid; grid-template-rows: auto; grid-template-columns: auto auto auto">
 <p style="align-self:center;">Nämä kuvat ovat kaikki<br />SI-lehdestä nro 1-2/2010</p>
 <p style="max-width:250px;"><img alt="Brooklyn" src="https://sharefi-cdn.sirv.com/star/201002_star_brooklyn_opti.jpg" /><br />&#8217;Tähti&#8217; kuvauspaikkana:<br />Brooklyn</p>
 <p style="max-width:250px;"><img alt="Colorado" src="https://sharefi-cdn.sirv.com/star/201002_star_colorado_opti.jpg" /><br />&#8217;Tähti&#8217; kuvauspaikkana:<br />Colorado</p>
@@ -144,12 +179,15 @@ Tiistaina 27.10.2009 18:30 aikaan katsoin ulos makuuhuoneeni ikkunasta. Näin ku
 <p>Olemme saaneet luvan useilta norjalaisilta näyttää heidän ottamiaan kuvia Norjan taivaalla 9.12.2009 nähdystä valoilmiöstä, joka on vahvistettu olevan Maitreyan tulon airuena toimiva &#8221;tähti&#8221;.<br />
 <a title="Norjan spiraalivalo oli Maitreyan tähti – lehdistötiedote 10.12.2009" href="/lehdistolle/lehdistotiedote-maitreyan-tahti-on-joulun-ihme/" target="_blank">Lue lehdistötiedote asiasta</a>.</p>
 
-<div style="display: grid; grid-template-rows: auto auto; grid-template-columns: 500px 300px">
+
+
+
+<div style="column-gap:3%; display: grid; grid-template-rows: auto auto; grid-template-columns: 500px 300px">
 <p style="max-width:520px;"><img alt="Maitreyan 'tähti', Photo by Dagfinn Rapp" src="https://sharefi-cdn.sirv.com/star/NorwaySpiral-2009-Dec-22-photo-DagfinnRapp-634x348.png" /><br />YLLÄ: Tämän kuvan ottanut Dagfinn Rapp.</p>
 <p style="max-width:320px;"><img alt="Maitreyan 'tähti', Photo by Elisabeth Anne Roberts Bjørndalen" src="https://sharefi-cdn.sirv.com/star/NorwaySpiral-2009-Dec-22-photo-Bjorndalen-382x510.png" /><br />Tämän kuvan on ottanut Elisabeth Anne Roberts Bjørndalen.</p>
 </div>
 
-<div style="display: grid; grid-template-rows: auto auto; grid-template-columns: 500px 500px">
+<div style="column-gap:3%; display: grid; grid-template-rows: auto auto; grid-template-columns: 400px 400px">
 <p style="max-width:520px;"><img alt="Maitreyan 'tähti', Photo by Hege Bergfald Jacobsen" src="https://sharefi-cdn.sirv.com/star/NorwaySpiral-2009-Dec-22-photo-Jacobsen-510x373.png" /><br />Tämän kuvan ottanut Hege Bergfald Jacobsen, ja kuvasta näkyy taivas sellaisena kuin se oli spiraalin aktiviteetin loputtua.</p>
 <p style="max-width:520px;"><img alt="Maitreyan 'tähti', Photo by Steinar Karlstrøm" src="https://sharefi-cdn.sirv.com/star/NorwaySpiral-2009-12-09-SteinarKarlstroem-677x508.png" /><br />Tämän kuvan ottanut Steinar Karlstrøm.</p>
 
@@ -196,7 +234,7 @@ Tiistaina 27.10.2009 18:30 aikaan katsoin ulos makuuhuoneeni ikkunasta. Näin ku
 · monet todistajat ovat nähneet kaikki neljä &#8221;tähteä&#8221; yhdessä<br />
 · on nähtävissä kaikkialla maailmassa. Huomaa: Benjamin Creme huomauttaa, että &#8221;tähti&#8221; lataa itsensä säännöllisesti auringosta käsin eikä siksi ole aina näkyvillä. Huomaathan myös, että kaupungeissa korkeat rakennukset voivat estää näkemästä &#8221;tähteä&#8221;, joten jatka vain etsimistä.</div>
 
-<p><a id="tahtikesakuu" name="tahtikesakuu"></a>Nyt tähtihavainnot on koottu videolle: Sharen tiimi kautta maailman on viimeisen kahden viikon aikana tehnyt työtä ja koonnut eri puolilta löytyvät videot ja kuvat yhdeksi videoksi, joka on nyt käännetty myös suomen kielelle: <a href="https://www.youtube.com/watch?v=9LAMqPK5wFM"  target="_blank" class="external" rel="nofollow noopener">http://www.youtube.com/watch?v=9LAMqPK5wFM</a></p>
+<p>Nyt tähtihavainnot on koottu videolle: Sharen tiimi kautta maailman on viimeisen kahden viikon aikana tehnyt työtä ja koonnut eri puolilta löytyvät videot ja kuvat yhdeksi videoksi, joka on nyt käännetty myös suomen kielelle: <a href="https://www.youtube.com/watch?v=9LAMqPK5wFM"  target="_blank" class="external" rel="nofollow noopener">http://www.youtube.com/watch?v=9LAMqPK5wFM</a></p>
 <p><object width="445" height="364" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/9LAMqPK5wFM&amp;hl=en&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed width="445" height="364" type="application/x-shockwave-flash" src="https://www.youtube.com/v/9LAMqPK5wFM&amp;hl=en&amp;fs=1" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object></p>
 
 
@@ -206,7 +244,7 @@ Haluaisin kysyä tähdestä, jonka mieheni ja minä näimme (Vantaalla, Suomessa
 Voisiko tämä olla Maitreyan tähti vaiko vain toiveikasta ajattelua?<br />
 S.H. Vantaa, Suomi</p>
 <p><em>(Benjamin Cremen Mestari vahvistaa, että mitä näitte oli todellakin Maitreyan &#8221;tähti&#8221;, joka toimii airuena Hänen tulolleen jokapäiväiseen elämäämme.)</em></p>
-<p><a name="niirala"></a>Ensimmäinen suomalainen video tähdestä</p>
+<h3><a name="niirala"></a>Ensimmäinen suomalainen video tähdestä</h3>
 <p>tarkenne 15.9.2009</p>
 <p>Niiralassa otettu havainto, jonka Benjamin Creme on vahvistanut Mestarinsa avulla aidoksi.<br />
 Video poistettu sittemmin, valitettavasti.</p>
@@ -230,11 +268,11 @@ Video poistettu sittemmin, valitettavasti.</p>
 
 
 
-
+<a id="tahtikesakuu" name="tahtikesakuu"></a>
 <h3>Lisääntyviä havaintoja tähdestä<br />
 tarkenne 13.6.2009</h3>
 <p><img style="float: left; border: 0; margin: 15px;" alt="'Tähti'" src="https://sharefi-cdn.sirv.com/star/star_munich%282%2915.2.09_pre.jpg" align="left" />&#8221;Aivan lähitulevaisuudessa ihmiset kaikkialla saavat mahdollisuuden olla todistajana erityislaatuiselle ja merkitykselliselle merkille, jonka kaltainen on ollut olemassa vain kerran aiemmin, Jeesuksen syntymän yhteydessä. Silloin, kristillisen opin mukaan, taivaalle ilmestyi tähti, joka johti kolme Itämaan tietäjää Jeesuksen synnyinsijoille. Pian, jälleen, tähden kaltainen kirkkaanloistava valonlähde tullaan näkemään kautta maailman.&#8221; Cremen Mestari artikkelissaan 11.1.2009 &#8221;Maitreyan ensimmäinen haastattelu&#8221;</p>
-<p>12.12.2008 Share International laittoi jakeluun lehdistötiedotteen, joka julkisti, että aivan pian suuri ja kirkas tähti tulisi ilmestymään taivaalle ja se tulisi näkymään kautta maapallon, päivin öin. Noin viikkoa myöhemmin Maitreya tulisi antamaan ensimmäisen tv-haastattelunsa suurelle USA:laiselle televisioyhtiölle. Lehdistötiedote jaettiin Suomeenkin: <a href="https://www.share.fi/press/LehdistoeTiedote2008-12-12.pdf" >https://www.share.fi/press/LehdistoeTiedote2008-12-12.pdf</a></p>
+<p>12.12.2008 Share International laittoi jakeluun lehdistötiedotteen, joka julkisti, että aivan pian suuri ja kirkas tähti tulisi ilmestymään taivaalle ja se tulisi näkymään kautta maapallon, päivin öin. Noin viikkoa myöhemmin Maitreya tulisi antamaan ensimmäisen tv-haastattelunsa suurelle USA:laiselle televisioyhtiölle. Lehdistötiedote jaettiin Suomeenkin: <a href="/lehdistolle/lehdistotiedote-maitreyan-tahti-on-joulun-ihme/" >https://www.share.fi/lehdistolle/lehdistotiedote-maitreyan-tahti-on-joulun-ihme/</a></p>
 <p>Aina tammikuun alusta 2009 tähdestä tehtyjä havaintoja on ilmoitettu Norjasta, Etelä-Afrikasta, Yhdysvalloista, Dubaista ja Qatarista. Aina vain lisää ilmoituksia on tullut sittemminkin.</p>
 <p><span style="font-style: italic;">Tässä valittuja raportteja sekä kuvia kautta maailman. Kaikki on Benjamin Cremen Mestarin toimesta vahvistettu aidoiksi.</p>
 <h3>RCN Colombia News, Kolumbia</h3>
@@ -292,8 +330,8 @@ V. Kyllä, se oli se tähti.</p>
 
 
 <p>Benjamin Cremen Mestarin vahvistama havainto: edotoole-nimimerkki on laittanut YouTubeen tämän tammikuussa 2009 kuvatun videon. Hän kirjoittaa: &#8221;Taas filmi tähti-jutusta Twickenhamin yllä. Kameralla katsottuna se on varsin kiehtova kirkkaine väreineen. Se kuvattiin 22x zoomilla ja kamera oli paikoillaan. Tietääkö kukaan mikä se on?&#8221;<br />
-Lähde: YouTube, nimimerkki edotoole, Twickenham, Lontoo</p>
-<p><object width="445" height="364" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/NYMrfsr39tA&amp;hl=en&amp;fs=1&amp;rel=0&amp;color1=0x5d1719&amp;color2=0xcd311b&amp;border=1" /><param name="allowfullscreen" value="true" /><embed width="445" height="364" type="application/x-shockwave-flash" src="https://www.youtube.com/v/NYMrfsr39tA&amp;hl=en&amp;fs=1&amp;rel=0&amp;color1=0x5d1719&amp;color2=0xcd311b&amp;border=1" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object></p>
+Lähde: YouTube, nimimerkki <a href="https://www.youtube.com/watch?time_continue=11&v=NYMrfsr39tA" target="_blank" rel="nofollow noopener">edotoole</a>, Twickenham, Lontoo</p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NYMrfsr39tA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <h3><a name="tahti"></a>Maitreyan ensimmäisen haastattelun ilmoittava tähti on nähty,<br />
 tarkenne 2.2.2009</h3>
 <p>Share Internationalin lehdistötiedote nro. 88, 22.1.2009 ilmoitti, että Maitreyan ensimmäisen tv-esiintymisen merkiksi ilmestyvä tähti on nähty:</p>
@@ -318,36 +356,38 @@ tarkenne 2.2.2009</h3>
 <h3><a name="kuvat"></a>Kuvia merkkinä toimivasta tähdestä</h3>
 <p>Alla jotka lähetetty Share Internationalille kautta maailman, ja jotka Benjamin Cremen Mestari on vahvistanut aidoiksi kuviksi Maitreyan "tähdestä".</p>
 
-<div style="display: grid; grid-template-rows: auto auto; grid-template-columns: 300px 300px">
-<p style="max-width:250px;">Lisätty marraskuussa 2009</p>
+<div style="column-gap:3%; display: grid; grid-template-rows: auto; grid-template-columns: auto auto auto">
 
 
-<p style="max-width:250px;">13.8.2009 Halifax, Nova Scotia. ”Tämä saattaisi olla tähti, vaikkakin se nousi hyvin nopeasti verrattuna niihin tähtiin jotka minä olen nähnyt&#8230; Ensimmäinen ajatukseni oli, että se saattaisi olla se tähti(avaruusalus), josta Share Internationalin Benjamin Creme on maininnut&#8230; Tämä aineisto otettiin välillä 5.42-5.52&#8230; Kohde aloitti nousun 90 asteen kulmasta ja kymmenen minuuttia myöhemmin se oli 145:n asteen kulmassa. Tämä on aitoa, manipuloimatonta kuvamateriaalia sen noususta.” (YouTube: soulplayorb)
-<img style="border: 0; float: left; margin: 5px;" alt="Nova Scotia" src="https://sharefi-cdn.sirv.com/star/200910_star_halifax-opti.jpg" height="135" border="0" /></p>
+<p style="align-self:center;">Lisätty marraskuussa 2009</p>
 
 
-<p style="max-width:250px;">13.7.2009 kello 5.00 USA. ”Heräsin ja menin ikkunan luo, missä huomasin kirkkaan valkoisen valon vilkkuvan. Ensin luulin sitä helikopteriksi, kunnes se alkoi himmentyä ja sitten kirkastua uudelleen, lopulta pysähtyen kaikkein kirkkaimmilleen.” (YouTube: ASEYEIS)
+<p style="max-width:250px;">13.8.2009 Halifax, Nova Scotia. ”Tämä saattaisi olla tähti, vaikkakin se nousi hyvin nopeasti verrattuna niihin tähtiin jotka minä olen nähnyt&#8230; Ensimmäinen ajatukseni oli, että se saattaisi olla se tähti(avaruusalus), josta Share Internationalin Benjamin Creme on maininnut&#8230; Tämä aineisto otettiin välillä 5.42-5.52&#8230; Kohde aloitti nousun 90 asteen kulmasta ja kymmenen minuuttia myöhemmin se oli 145:n asteen kulmassa. Tämä on aitoa, manipuloimatonta kuvamateriaalia sen noususta.” (YouTube: soulplayorb)<br />
+<img alt="Nova Scotia" src="https://sharefi-cdn.sirv.com/star/200910_star_halifax-opti.jpg" /></p>
+
+
+<p style="max-width:250px;">13.7.2009 kello 5.00 USA. ”Heräsin ja menin ikkunan luo, missä huomasin kirkkaan valkoisen valon vilkkuvan. Ensin luulin sitä helikopteriksi, kunnes se alkoi himmentyä ja sitten kirkastua uudelleen, lopulta pysähtyen kaikkein kirkkaimmilleen.” (YouTube: ASEYEIS)<br />
 <img alt="USA" src="https://sharefi-cdn.sirv.com/star/200910_star_usa-opti.jpg" height="148" border="0" /></p>
-<p style="max-width:250px;">”Ufo nähty Southallissa, Lontoossa, Iso-Britanniassa[22.8.09]&#8230; useita Ufoja lähistöllä. Eräässä videon kohdassa se tuntuu laukaisevan toisen ufon ulos itsestään. En tiedä mikä juttu tämä on, mutta haluan tietää ja haluan tietää nyt heti!” (YouTube: jrajput)
-<img alt="Southall, Englanti" src="https://sharefi-cdn.sirv.com/star/200910_star_london-opti.jpg" height="135" border="0" /></p>
+<p style="max-width:250px;">”Ufo nähty Southallissa, Lontoossa, Iso-Britanniassa[22.8.09]&#8230; useita Ufoja lähistöllä. Eräässä videon kohdassa se tuntuu laukaisevan toisen ufon ulos itsestään. En tiedä mikä juttu tämä on, mutta haluan tietää ja haluan tietää nyt heti!” (YouTube: jrajput)<br />
+<img alt="Southall, Englanti" src="https://sharefi-cdn.sirv.com/star/200910_star_london-opti.jpg" /></p>
 
 
-<p style="max-width:250px;">Hollanti, Tilburg, 25.7.2009. E. H. kirjoittaa: “Noin keskiyöllää tähti oli matalalla itä-kaakon taivaalla ja liikkui epätavallisella vauhdilla. Etualalla näkyy karnevaali.”
+<p style="max-width:250px;">Hollanti, Tilburg, 25.7.2009. E. H. kirjoittaa: “Noin keskiyöllää tähti oli matalalla itä-kaakon taivaalla ja liikkui epätavallisella vauhdilla. Etualalla näkyy karnevaali.”<br />
 <img alt="Maitreyan 'tähti', Tilburg, Hollanti" src="https://sharefi-cdn.sirv.com/star/200910_star_tilburg-opti.jpg" /></p>
-<p style="max-width:250px;">Saksa: Kuvattu 2.8.2009  yöllä 4.41, Nürnberg, K. M.
+<p style="max-width:250px;">Saksa: Kuvattu 2.8.2009  yöllä 4.41, Nürnberg, K. M.<br />
 <img alt="Maitreyan 'tähti', Nürnberg, Saksa" src="https://sharefi-cdn.sirv.com/star/200910_star_nuremberg-opti.jpg" /></p>
 
 
-<p style="max-width:250px;">Norja: Kuvattu 10.1.2009 noin klo 6-7 aamulla Samnangerissa, noin 40 km kaakkoon Bergenistä. Lähetetty videolinkkinä T.W.:ltä, joka kysyy: Videolla &#8221;tähti&#8221; näyttäisi ottavan muodon, joka muistutaa kristittyjen ristiä ja jopa Buddhaa muistuttavan muodon?” (Benjamin Cremen Mestari vahvistaa, että kyse oli &#8221;tähdestä&#8221;. Aiemmat kuvat eivät olleet Buddhan kuvia vaan esivaiheita sille, että risti muodostui.)
-<img alt="Maitreyan 'tähti', Samnanger, Norway" src="https://sharefi-cdn.sirv.com/star/200911_star_samnanger_norway-opti.jpg" width="410" border="0" /></p>
-<p style="max-width:250px;">Espanja: Barcelonassa otetut 2 kuvaa, 1.10.2009, H.L. and C.F.
+<p style="max-width:250px;">Norja: Kuvattu 10.1.2009 noin klo 6-7 aamulla Samnangerissa, noin 40 km kaakkoon Bergenistä. Lähetetty videolinkkinä T.W.:ltä, joka kysyy: Videolla &#8221;tähti&#8221; näyttäisi ottavan muodon, joka muistutaa kristittyjen ristiä ja jopa Buddhaa muistuttavan muodon?” (Benjamin Cremen Mestari vahvistaa, että kyse oli &#8221;tähdestä&#8221;. Aiemmat kuvat eivät olleet Buddhan kuvia vaan esivaiheita sille, että risti muodostui.)<br />
+<img alt="Maitreyan 'tähti', Samnanger, Norway" src="https://sharefi-cdn.sirv.com/star/200911_star_samnanger_norway-opti.jpg" /></p>
+<p style="max-width:250px;">Espanja: Barcelonassa otetut 2 kuvaa, 1.10.2009, H.L. and C.F.<br />
 <img alt="Maitreyan 'tähti', Barcelona 2/2" src="https://sharefi-cdn.sirv.com/star/200911_star_barcelona2-opti.jpg" /><img alt="Maitreyan 'tähti', Barcelona 1/2" src="https://sharefi-cdn.sirv.com/star/200911_star_barcelona1-opti.jpg" /></p>
-<p style="max-width:250px;">Ranska: 24.9.2009 Mentonissa, Etelä-Ranskassa, otetut kaksi kuvaa: kuvauskulma noin 40 astetta itäiselle taivaalle, M.S.
+<p style="max-width:250px;">Ranska: 24.9.2009 Mentonissa, Etelä-Ranskassa, otetut kaksi kuvaa: kuvauskulma noin 40 astetta itäiselle taivaalle, M.S.<br />
 <img alt="Maitreyan 'tähti', Menton 2/2" src="https://sharefi-cdn.sirv.com/star/200911_star_menton_france2-opti.jpg" /><img alt="Maitreyan 'tähti', Menton 1/2" src="https://sharefi-cdn.sirv.com/star/200911_star_menton_france1-opti.jpg" /></p>
 
-<p style="max-width:250px;">Hollanti: 26.9.2009 klo 20 aikaan vuosittaisen Transmissio-meditaatiokonferenssin yhteydessä otettu kuva. Yli 100 osallistujaa kaikki näkivät &#8221;tähden&#8221; kaakon suunnassa, C.Q., Amsterdam, Hollanti.
+<p style="max-width:250px;">Hollanti: 26.9.2009 klo 20 aikaan vuosittaisen Transmissio-meditaatiokonferenssin yhteydessä otettu kuva. Yli 100 osallistujaa kaikki näkivät &#8221;tähden&#8221; kaakon suunnassa, C.Q., Amsterdam, Hollanti.<br />
 <img alt="Maitreyan 'tähti', Kerkrade, the Netherlantis" src="https://sharefi-cdn.sirv.com/star/200911_star_kerkrade_netherlands-opti.jpg" /></p>
-<p style="max-width:250px;">Kiina: 22.8.2009, Beijing, T.W.
+<p style="max-width:250px;">Kiina: 22.8.2009, Beijing, T.W.<br />
 <img alt="Maitreyan 'tähti', Beijing, China" src="https://sharefi-cdn.sirv.com/star/200910_star_beijing-opti.jpg" /></p>
 </div>
 
@@ -357,142 +397,120 @@ tarkenne 2.2.2009</h3>
 
 
 
-<div style="display: grid; grid-template-rows: auto auto; grid-template-columns: 300px 300px 300px">
-<p style="max-width:250px;">Lisätty syyskuussa 2009</p>
+<a name="newpics201009"></a>
+<div style="column-gap:3%; display: grid; grid-template-rows: auto; grid-template-columns: auto auto auto">
+
+<p style="align-self:center;">Lisätty syyskuussa 2009</p>
 
 
-<p style="max-width:250px;">Saksa, Berliini, 27.6.2009, photographed from the balcony of his flat. Sent by T.W.
-<img alt="Maitreyan 'tähti', Berlin, Saksa" src="https://sharefi-cdn.sirv.com/star/200909_star_berlin-opti.jpg" /></p>
-<p>Hollanti: 6.7.2009 aamulla 4:30, Toivoin näkeväni tähden koillisessa luettuani uusimman <em>Share International </em>-lehden. Katsoi ulos makuuhuoneestani – ja siinä se oli – loistaen kirkkaana ainoana vielä näkyvänä tähtenä. Taivas vaaleni nopeasti ja tähti hävisi, kunnes noin puoli kuudelta se oli kokonaan kadonnut näkyvistä. Mielessäni ei ole mitää epäilystä etteikö <em>Share Internationalin </em>uutiset olisi totta, mutta tämän voi nähdä omin silmin! Niin ihanaa! Minun oli vain jaettava tämä kanssanne!<br />
-M.Z., Amsterdam.
-<img alt="Maitreyan 'tähti', Amsterdam, Netherlantis" src="https://sharefi-cdn.sirv.com/star/200909_star_amsterdam-opti.jpg" /></p>
+<p style="max-width:250px;">Saksa, Berliini, 27.6.2009, Kuvaaja T.W. on ottanut tämän kuvan huoneistonsa parvekkeelta<br />
+<img alt="Maitreyan 'tähti', Berliini, Saksa" src="https://sharefi-cdn.sirv.com/star/200909_star_berlin-opti.jpg" /></p>
+
+<p style="max-width:250px; grid-row-end: span 2;">Hollanti: 6.7.2009 aamulla 4:30, Toivoin näkeväni tähden koillisessa luettuani uusimman <em>Share International </em>-lehden. Katsoi ulos makuuhuoneestani – ja siinä se oli – loistaen kirkkaana ainoana vielä näkyvänä tähtenä. Taivas vaaleni nopeasti ja tähti hävisi, kunnes noin puoli kuudelta se oli kokonaan kadonnut näkyvistä. Mielessäni ei ole mitää epäilystä etteikö <em>Share Internationalin </em>uutiset olisi totta, mutta tämän voi nähdä omin silmin! Niin ihanaa! Minun oli yksinkertaisesti jaettava tämä kanssanne!<br />M.Z., Amsterdam.<br /><img alt="Maitreyan 'tähti', Amsterdam, Hollanti" src="https://sharefi-cdn.sirv.com/star/200909_star_amsterdam-opti.jpg" /></p>
 
 
-<p style="max-width:250px;">Espanja: G.L., Barcelonasta lähetti kuvan ja selostaa: “ Tähti nousee taivaalle noin klo 23 itä-kaakosta ja pohjoisesta katsottuna se siirtyy lännemmäksi ja nousee korkeuksiin. Se liikkuu hyvin nopeasti. Tämä kuva otettiin Barcelonan Vilassar de Marissa … videonauhurin otos näyttää sykähdyksiä, koon muutoksia ja tähden välähdyksiä vaikkakin zoomi oli vakaana samassa kohdassa.”
-<img alt="Maitreyan 'tähti', Vilassar de Mar, Barcelona, Spain" src="https://sharefi-cdn.sirv.com/star/200909_star_vilassar-opti.jpg" /></p>
+<p style="max-width:250px;grid-row-end: span 2;">Espanja: G.L., Barcelonasta lähetti kuvan ja selostaa: “ Tähti nousee taivaalle noin klo 23 itä-kaakosta ja pohjoisesta katsottuna se siirtyy lännemmäksi ja nousee korkeuksiin. Se liikkuu hyvin nopeasti. Tämä kuva otettiin Barcelonan Vilassar de Marissa … videonauhurin otos näyttää sykähdyksiä, koon muutoksia ja tähden välähdyksiä vaikkakin zoomi oli vakaana samassa kohdassa.”<br /><img alt="Maitreyan 'tähti', Vilassar de Mar, Barcelona, Spain" src="https://sharefi-cdn.sirv.com/star/200909_star_vilassar-opti.jpg" /></p>
+
 <p style="max-width:250px;">Englanti,Hullbridge, Essex, C.E. kuvaamana 3.30 aamuyöllä 17.7.2009.<br />
 <img alt="Maitreyan 'tähti', Hullbridge, UK" src="https://sharefi-cdn.sirv.com/star/200909_star_hullbridge-opti.jpg" /></p>
 
 
-<p style="max-width:250px;">Ranska, J-C. L.kuvaamana 23.4.2009, kotonaan Rittershoffenissa, Elsasissa.
-<img alt="Maitreyan 'tähti', Alsace" src="https://sharefi-cdn.sirv.com/star/200907_star_rittershoffen_small.jpg" /></p>
+<p style="max-width:250px;">Ranska, J-C. L.kuvaamana 23.4.2009, kotonaan Rittershoffenissa, Elsasissa.<br /><img alt="Maitreyan 'tähti', Alsace" src="https://sharefi-cdn.sirv.com/star/200907_star_rittershoffen_small.jpg" /></p>
 
 
-<p style="max-width:250px;">Kiina,Beijing. TW:n kuvaamana 20 minuutin välein 2/2009
-<img alt="Maitreyan 'tähti', Beijing 1/2" src="https://sharefi-cdn.sirv.com/star/200907_star_beijing1_small.jpg" />
-<img alt="Maitreyan 'tähti', Beijing 2/2" src="https://sharefi-cdn.sirv.com/star/200907_star_beijing2_small.jpg" /></p>
+<p style="max-width:250px;">Kiina,Beijing. TW:n kuvaamana 20 minuutin välein 2/2009<br /><img alt="Maitreyan 'tähti', Beijing 1/2" src="https://sharefi-cdn.sirv.com/star/200907_star_beijing1_small.jpg" /><br /><img alt="Maitreyan 'tähti', Beijing 2/2" src="https://sharefi-cdn.sirv.com/star/200907_star_beijing2_small.jpg" /></p>
 
 
-<p style="max-width:250px;">Englanti, Slough, 2.6.2009.<br />
-Kuvaaja P.C.
-<img alt="Maitreyan 'tähti', Slough, UK" src="https://sharefi-cdn.sirv.com/star/200907_star_slough_small.jpg" /></p>
-<p style="max-width:250px;">Uusi Seelanti: Kuvaaja W.C.P. 17.2.2009 ylä- North Island, Uusi Seelanti
+<p style="max-width:250px;">Englanti, Slough, 2.6.2009.<br />Kuvaaja P.C.<br /><img alt="Maitreyan 'tähti', Slough, UK" src="https://sharefi-cdn.sirv.com/star/200907_star_slough_small.jpg" /></p>
+
+<p style="max-width:250px;">Uusi Seelanti: Kuvaaja W.C.P. 17.2.2009 ylä- North Island, Uusi Seelanti<br />
 <img alt="Maitreyan 'tähti', Uusi Seelanti" src="https://sharefi-cdn.sirv.com/star/star_nisland17.02.09_pre.jpg" /></p>
 
 
-<p style="max-width:250px;">Norja: Kuvaajana M.F. Oslossa 9.2.2009 klo 18.
-<img alt="Maitreyan 'tähti', Oslo, Norway" src="https://sharefi-cdn.sirv.com/star/star_oslo9.2.09_pre.jpg" /></p>
-<p style="max-width:250px;">USA: Kuvaaja J.C. Orlando, Florida, 7.2.2009 illalla 19:30.
-<img alt="Maitreyan 'tähti', Orlantio, FL" src="https://sharefi-cdn.sirv.com/star/star_orlando.7.2.09_pre.jpg" /></p>
+<p style="max-width:250px;">Norja: Kuvaajana M.F. Oslossa 9.2.2009 klo 18.<br /><img alt="Maitreyan 'tähti', Oslo, Norway" src="https://sharefi-cdn.sirv.com/star/star_oslo9.2.09_pre.jpg" /></p>
 
+<p style="max-width:250px;">USA: Kuvaaja J.C. Orlando, Florida, 7.2.2009 illalla 19:30.<br /><img alt="Maitreyan 'tähti', Orlantio, FL" src="https://sharefi-cdn.sirv.com/star/star_orlando.7.2.09_pre.jpg" /></p>
 
-<p style="max-width:250px;">Japani: Sakura city, Chiba-ken, Japani, klo 19.43 ja 19.53 välillä 2.3.2009. Tuona aikana se muutti väriään ja aleni vähän kerrassaan. (1/2)
-<img alt="Maitreyan 'tähti', Sakura 1/2, Japani" src="https://sharefi-cdn.sirv.com/star/star_sakura2.03.09_pre.jpg" /><img alt="Maitreyan 'tähti', Sakura 2/2, Japani" src="https://sharefi-cdn.sirv.com/star/star_sakura2.03.09b_pre.jpg" /></p>
+<p style="max-width:250px; grid-row-end: span 2;">Japani: Sakura city, Chiba-ken, Japani, klo 19.43 ja 19.53 välillä 2.3.2009. Tuona aikana se muutti väriään ja aleni vähän kerrassaan.<br /><img alt="Maitreyan 'tähti', Sakura 1/2, Japani" src="https://sharefi-cdn.sirv.com/star/star_sakura2.03.09_pre.jpg" /><img alt="Maitreyan 'tähti', Sakura 2/2, Japani" src="https://sharefi-cdn.sirv.com/star/star_sakura2.03.09b_pre.jpg" /></p>
 
+<p style="max-width:250px; grid-row-end: span 2;">Japani: Kuvaajana M.N. 12.3.2009 klo 16.40 Paikka: Kotoh-ku, Tokio, Japani. Kolmen kuvan sarjassa tähti liikkui oikealta vasemmalle ja auringon ylle minuutin sisällä<br /><img alt="Maitreyan 'tähti', Tokyo 1/3, Japani" src="https://sharefi-cdn.sirv.com/star/star_tokyo12.03.09a_pre.jpg" /><img alt="Maitreyan 'tähti', Tokyo 2/3, Japani" src="https://sharefi-cdn.sirv.com/star/star_tokyo12.03.09b_pre.jpg" /><img alt="Maitreyan 'tähti', Tokyo 3/3, Japani" src="https://sharefi-cdn.sirv.com/star/star_tokyo12.03.09c_pre.jpg" /></p>
 
-<p style="max-width:250px;">Kts oikea, 1/3
-<img alt="Maitreyan 'tähti', Tokyo 1/3, Japani" src="https://sharefi-cdn.sirv.com/star/star_tokyo12.03.09a_pre.jpg" /><img alt="Maitreyan 'tähti', Tokyo 2/3, Japani" src="https://sharefi-cdn.sirv.com/star/star_tokyo12.03.09b_pre.jpg" /></p>
-
-
-<p style="max-width:250px;">Japani: Kuvaajana M.H. Paikka: Komaki-shi, Aichi-ken, Japani, 31.1.2009.
+<p style="max-width:250px;">Japani: Kuvaajana M.H. Paikka: Komaki-shi, Aichi-ken, Japani, 31.1.2009.<br />
 <img alt="Maitreyan 'tähti', Komaki, Japani" src="https://sharefi-cdn.sirv.com/star/star_komaki31.01.09_pre.jpg" /></p>
-<p style="max-width:250px;">Japani: Kuvaajana M.N. 12.3.2009 klo 16.40 Paikka: Kotoh-ku, Tokio, Japani. Kolmen kuvan sarjassa tähti liikkui oikealta vasemmalle ja auringon ylle minuutin sisällä (3/3)
-<img alt="Maitreyan 'tähti', Tokyo 3/3, Japani" src="https://sharefi-cdn.sirv.com/star/star_tokyo12.03.09c_pre.jpg" /></p>
 
+<p style="max-width:250px;">Hollanti: Kuvaajana:R.A.S. Paikka: Deventer, Hollanti,klo 20:50 8.3.2009.<br />
+<img alt="Maitreyan 'tähti', Deventer, Hollanti" src="https://sharefi-cdn.sirv.com/star/star_deventer.8.3.9_pre.jpg" /></p>
 
-<p style="max-width:250px;">Englanti: C.E. kuvasi Hullbridge, Essex, Englanti,<br />
-11.3.2009.</p>
+<p style="max-width:250px; grid-row-end: span 2;">Englanti: C.E. kuvasi Hullbridge, Essex, Englanti,<br />
+11.3.2009.<br />
 <img alt="Maitreyan 'tähti', Hullbridge A, UK" src="https://sharefi-cdn.sirv.com/star/star_hullbridge11.03.09a_pre.jpg" /><img alt="Maitreyan 'tähti', Hullbridge B, UK" src="https://sharefi-cdn.sirv.com/star/star_hullbridge1.3.09b_pre.jpg" /></p>
 
 
-<p style="max-width:250px;">Englanti: Kuvaajana: T.W. 10.3.2009 noin klo 19.15 Crewe, Cheshire, Englanti.
+<p style="max-width:250px;">Englanti: Kuvaajana: T.W. 10.3.2009 noin klo 19.15 Crewe, Cheshire, Englanti.<br />
 <img alt="Maitreyan 'tähti', Crewe, UK" src="https://sharefi-cdn.sirv.com/star/star_crewe10.3.09_pre.jpg" /></p>
-<p style="max-width:250px;">Hollanti: Kuvaajana:R.A.S. Paikka: Deventer, Hollanti,klo 20:50 8.3.2009.
-<img alt="Maitreyan 'tähti', Deventer, Hollanti" src="https://sharefi-cdn.sirv.com/star/star_deventer.8.3.9_pre.jpg" /></p>
 
 
-<p style="max-width:250px;">Egypt: Kuvaajana: A.K. Alexandria, Egypti, 2.2.2009.
+
+<p style="max-width:250px;">Egypt: Kuvaajana: A.K. Alexandria, Egypti, 2.2.2009.<br />
 <img alt="Maitreyan 'tähti', Alexandria" src="https://sharefi-cdn.sirv.com/star/star_alexandria02.02.09_pre.jpg" /></p>
 <p style="max-width:250px;">Saksa: T.W. otti kuvan asuntonsa ikkunasta klo 18<br />
-27.2.2009<br />
-Berliini, Saksa.<img alt="Maitreyan 'tähti', Berlin 27 Feb" src="https://sharefi-cdn.sirv.com/star/star_berlin27.02.09_pre.jpg" /></p>
+27.2.2009, Berliini, Saksa.<br /><img alt="Maitreyan 'tähti', Berlin 27 Feb" src="https://sharefi-cdn.sirv.com/star/star_berlin27.02.09_pre.jpg" /></p>
 
 
-<p style="max-width:250px;">Japani: Kuvaajana: S.K. Paikka: Oiso, Kanagawa,<br />
-2.3.2009.<img alt="Maitreyan 'tähti', Canagawa" src="https://sharefi-cdn.sirv.com/star/star_kanagawa9.3.09_pre.jpg" /></p>
+<p style="max-width:250px;">Japani: Kuvaajana: S.K. Paikka: Oiso, Kanagawa, 2.3.2009.<br /><img alt="Maitreyan 'tähti', Canagawa" src="https://sharefi-cdn.sirv.com/star/star_kanagawa9.3.09_pre.jpg" /></p>
 <p style="max-width:250px;">Ranska: Kuvaajana: V.M.<br />
 11.2.2009<br />
 Normandy, Caen.<img alt="Maitreyan 'tähti', Caen" src="https://sharefi-cdn.sirv.com/star/star_caen11.02.09_pre.jpg" /></p>
 
-<p style="max-width:250px;">Hollanti:Venlo-Blerick, Limburg, kuvaaja: A.W.<br />
-4.3.2009.<img alt="Maitreyan 'tähti', Limburg" src="https://sharefi-cdn.sirv.com/star/star_limburg4.3.09_pre.jpg" /></p>
-<p style="max-width:250px;">Sveitsi: Kuvaaja: S.L.<img alt="Maitreyan 'tähti', Cornaredo" src="https://sharefi-cdn.sirv.com/star/star_cornaredo25.2.09_pre.jpg" /></p>
+<p style="max-width:250px;">Hollanti:Venlo-Blerick, Limburg, kuvaaja: A.W. 4.3.2009.<br /><img alt="Maitreyan 'tähti', Limburg" src="https://sharefi-cdn.sirv.com/star/star_limburg4.3.09_pre.jpg" /></p>
+<p style="max-width:250px;">Sveitsi: Kuvaaja: S.L.<br /><img alt="Maitreyan 'tähti', Cornaredo" src="https://sharefi-cdn.sirv.com/star/star_cornaredo25.2.09_pre.jpg" /></p>
 
 
-<p style="max-width:250px;">Saksa: Tübingen kuvaaja: G.P.<br />
-28.2.2009.<img alt="Maitreyan 'tähti', Tübingen" src="https://sharefi-cdn.sirv.com/star/star_tubingen28.2.09_pre.jpg" /><img alt="Maitreyan 'tähti', Tübingen-b" src="https://sharefi-cdn.sirv.com/star/star_tubingen.b.28.2.09_pre.jpg" /></p>
+<p style="max-width:250px; grid-row-end: span 2;">Saksa: Tübingen kuvaaja: G.P. 28.2.2009.<br /><img alt="Maitreyan 'tähti', Tübingen" src="https://sharefi-cdn.sirv.com/star/star_tubingen28.2.09_pre.jpg" /><img alt="Maitreyan 'tähti', Tübingen-b" src="https://sharefi-cdn.sirv.com/star/star_tubingen.b.28.2.09_pre.jpg" /></p>
 
 
-<p style="max-width:250px;">Japani: 15.2.2009<br />
-kuvaaja: M.S.<img alt="Maitreyan 'tähti', Inuyama-shi 2/1" src="https://sharefi-cdn.sirv.com/star/star_inuyama-shi15.2.09_pre.jpg" /><img alt="Maitreyan 'tähti', Inuyama-shi 2/2" src="https://sharefi-cdn.sirv.com/star/star_inuyama-shi.b.15.2.09_pre.jpg" /></p>
+<p style="max-width:250px; grid-row-end: span 2;">Japani: 15.2.2009, kuvaaja: M.S.<img alt="Maitreyan 'tähti', Inuyama-shi 2/1" src="https://sharefi-cdn.sirv.com/star/star_inuyama-shi15.2.09_pre.jpg" /><img alt="Maitreyan 'tähti', Inuyama-shi 2/2" src="https://sharefi-cdn.sirv.com/star/star_inuyama-shi.b.15.2.09_pre.jpg" /></p>
 
 
-<p style="max-width:250px;">Kanada: Mochelle, Nova Scotia, kuvaaja: L.MG.<br />
-8.2.2009<img alt="Maitreyan 'tähti', Mochelle" src="https://sharefi-cdn.sirv.com/star/star_mochelle8.02.09_pre.jpg" /></p>
+<p style="max-width:250px;">Kanada: Mochelle, Nova Scotia, kuvaaja: L.MG.,8.2.2009<br /><img alt="Maitreyan 'tähti', Mochelle" src="https://sharefi-cdn.sirv.com/star/star_mochelle8.02.09_pre.jpg" /></p>
+
 <p style="max-width:250px;">Saksa:  5.2.2009<br />
 Nürnberg kuvaaja: H.A.<img alt="Maitreyan 'tähti', Nürnberg" src="https://sharefi-cdn.sirv.com/star/star_nuremberg5.209_pre.jpg" /></p>
 
-<p style="max-width:250px;">USA: kuvaaja: D.E.M.<br />
+<p style="max-width:250px; grid-row-end: span 2;">USA: kuvaaja: D.E.M.<br />
 8.2.2009<br />
 Southwest Corridor Park, South End, Boston, USA.<img alt="Maitreyan 'tähti', Boston(2)" src="https://sharefi-cdn.sirv.com/star/star_boston8.2.09_pre.jpg" /><img alt="Maitreyan 'tähti', Boston(2-2)" src="https://sharefi-cdn.sirv.com/star/star_boston_2-8.2.09.jpg" /></p>
 
 
 <p style="max-width:250px;">Espanja: Montrasin kylä, Cataluña, kuvaaja: J.L.M.<img alt="Maitreyan 'tähti', Montras" src="https://sharefi-cdn.sirv.com/star/star_montras.28.1.09_pre.jpg" /></p>
+
 <p style="max-width:250px;">Ranska: Brumath kuvaaja: R.K.<br />
 2.1.2009.<img alt="Maitreyan 'tähti', Brumath" src="https://sharefi-cdn.sirv.com/star/star_brumath2.1.09_pre.jpg" /></p>
 
-
-<p style="max-width:250px;">D.E.M. South End, Boston, MA, USA, Kuvat otettu välillä<br />
-28.12.2008 –<br />
-26.1.2009.<img alt="Maitreyan 'tähti', Boston 1" src="https://sharefi-cdn.sirv.com/star/star_boston.usa.9.1.09_pre.jpg" /><img alt="Maitreyan 'tähti', Boston dusk" src="https://sharefi-cdn.sirv.com/star/star_boston.usa.dusk18.1.09_pre.jpg" /></p>
-
-
 <p style="max-width:250px;">Norja<br />
 M.F. otti tämän kuvan Oslossa, Norjassa,<br />
-27.1.2009<br />
-klo 20:00.<img alt="Maitreyan 'tähti', Oslo" src="https://sharefi-cdn.sirv.com/star/star_oslo27.1.09_pre.jpg" /></p>
+27.1.2009 klo 20:00.<br /><img alt="Maitreyan 'tähti', Oslo" src="https://sharefi-cdn.sirv.com/star/star_oslo27.1.09_pre.jpg" /></p>
+
 <p style="max-width:250px;">Langley, Berkshire, Englanti<br />
 3.2.2009 kuvaaja: P.C.<img alt="Maitreyan 'tähti', Berkshire, UK" src="https://sharefi-cdn.sirv.com/star/star_Langley3.2.09.jpg" /></p>
+
+<p style="max-width:250px; grid-row-end: span 2;">Japani: Inuyama-shi, kuvaaja: M.S.<br />
+8.2.2009<img alt="Maitreyan 'tähti', Inuyama-shi" src="https://sharefi-cdn.sirv.com/star/star_inuyamashi.8.2.09_pre.jpg" /></p>
+
+<p style="max-width:250px; grid-row-end: span 2;">D.E.M. South End, Boston, MA, USA, Kuvat otettu välillä<br />
+28.12.2008 – 26.1.2009.<img alt="Maitreyan 'tähti', Boston 1" src="https://sharefi-cdn.sirv.com/star/star_boston.usa.9.1.09_pre.jpg" /><img alt="Maitreyan 'tähti', Boston dusk" src="https://sharefi-cdn.sirv.com/star/star_boston.usa.dusk18.1.09_pre.jpg" /></p>
+
+<p style="max-width:250px; grid-row-end: span 2;">Saksa: München, kuvaaja: M.H. 15.2.2009.<br /><img alt="Maitreyan 'tähti', München-1" src="https://sharefi-cdn.sirv.com/star/star_munich.15.2.09_pre.jpg" /><img alt="Maitreyan 'tähti', München-2" src="https://sharefi-cdn.sirv.com/star/star_munich(2)15.2.09_pre.jpg" /></p>
 
 
 <p style="max-width:250px;">Ranska: Bruges kuvaaja: R.K.<br />
 27.12.2008.<img alt="Maitreyan 'tähti', Bruges" src="https://sharefi-cdn.sirv.com/star/star_bruges27.12.08.jpg" /></p>
-<p style="max-width:250px;">Japani: Inuyama-shi, kuvaaja: M.S.<br />
-8.2.2009<img alt="Maitreyan 'tähti', Inuyama-shi" src="https://sharefi-cdn.sirv.com/star/star_inuyamashi.8.2.09_pre.jpg" /></p>
 
+<p style="max-width:250px;">Ranska: Etampes kuvaaja: R.M. 15.2.2009.<br /><img alt="Maitreyan 'tähti', Etampes-1" src="https://sharefi-cdn.sirv.com/star/star_etampes15.2.09_pre.jpg" /></p>
 
-<p style="max-width:250px;">Ranska: Etampes kuvaaja: R.M.<br />
-15.2.2009.<img alt="Maitreyan 'tähti', Etampes-1" src="https://sharefi-cdn.sirv.com/star/star_etampes15.2.09_pre.jpg" /></p>
-<p style="max-width:250px;">Ranska: Etampes kuvaaja: R.M.<br />
-15.2.2009.<img alt="Maitreyan 'tähti', Etampes-2" src="https://sharefi-cdn.sirv.com/star/star_etampes(2)15.2.09_pre.jpg" /></p>
+<p style="max-width:250px;">Ranska: Etampes kuvaaja: R.M. 15.2.2009.<br /><img alt="Maitreyan 'tähti', Etampes-2" src="https://sharefi-cdn.sirv.com/star/star_etampes(2)15.2.09_pre.jpg" /></p>
 
-
-<p style="max-width:250px;">Saksa: München, kuvaaja: M.H.<br />
-15.2.2009.<img alt="Maitreyan 'tähti', München-1" src="https://sharefi-cdn.sirv.com/star/star_munich.15.2.09_pre.jpg" /><img alt="Maitreyan 'tähti', München-2" src="https://sharefi-cdn.sirv.com/star/star_munich(2)15.2.09_pre.jpg" /></p>
-
-
-<p style="max-width:250px;">Belgia: Ath,<br />
-18.1.2009<img alt="Maitreyan 'tähti', Ath,Belgium" src="https://sharefi-cdn.sirv.com/star/star_ath.18.1.09.jpg_pre.jpg" /></p>
+<p style="max-width:250px;">Belgia: Ath, 18.1.2009<br /><img alt="Maitreyan 'tähti', Ath,Belgium" src="https://sharefi-cdn.sirv.com/star/star_ath.18.1.09.jpg_pre.jpg" /></p>
 </div>
 
 
@@ -516,15 +534,8 @@ klo 20:00.<img alt="Maitreyan 'tähti', Oslo" src="https://sharefi-cdn.sirv.com/
 
 
 <h3>Blogikeskusteluja tähteä koskien, Dubai</h3>
-<p>12.1.2009: &#8221;Onko kyseessä satelliitti vaiko vain kirkas Venus? Onko jossain asiantuntijaa, joka osaisi selittää tämän. Onko tuo kirkas joka ilta yllämme välkkyvä esine satelliitti, vaiko Venus, kuten joku ehdotti? Minun ja ystävieni keskuudessa on käynnissä kiivas väittely ja jokin selitys on tarpeen&#8230;&#8221; (tuntematon) Anonymous, Dubai. (Lähde: http://7days.ae)Qatar<br />
-27.1.2009: &#8221;Toivottavasti minä en ole ainoa, joka on nähnyt kaksi outoa valoa Dohan yllä eilen [26.1.]. Kello oli 21:30 kun seisoin taloni edessä Matar Kadeemissa (vanha lentokenttä). Vilkaisin ylös ja näin kirkkaan liekin taivaalla. Se vaikutti olevan tennispallon kokoinen ja siitä lähti erittäin kirkkaita lieskoja ja se oli noin kahden mailin korkeudella. Se liikkui hyvin hitaasti ja ellei se olisi ollut niin korkealla, olisin kuvitellut sen olevan pallo.Olimme kaikki ällistyneitä ja seuraamme liittyi paljon muita katselijoita. Me kaikki arvailimme mikä se voisi olla. Valo jatko liikettään pohjoisesta etelään noin 10 minuutin ajan. Se liikkui suorassa linjassa ja alkoi sitten heilahdella paikoillaan. Noin 3–4 minuutin kuluttua se katosi pilviin. Mutta ei tässä vielä kaikki. Ehkä noin 5 minuutin kuluttua vastaava valo ilmaantui eteläiseen horisonttiin ja se kulki vastaavaa rataa. Näkikö kukaan Qatar Livingissä sitä? Mikä se voisi olla?&#8221; (Lähde: Bloggaaja nimimerkillä &#8221;LifeIsBeautiful&#8221;, qatarliving.com)</p>
-
-
-
-
-
-
-
+<p>12.1.2009: &#8221;Onko kyseessä satelliitti vaiko vain kirkas Venus? Onko jossain asiantuntijaa, joka osaisi selittää tämän. Onko tuo kirkas joka ilta yllämme välkkyvä esine satelliitti, vaiko Venus, kuten joku ehdotti? Minun ja ystävieni keskuudessa on käynnissä kiivas väittely ja jokin selitys on tarpeen&#8230;&#8221; (tuntematon) Anonymous, Dubai. (Lähde: 7days.ae, Qatar)<br />
+27.1.2009: &#8221;Toivottavasti minä en ole ainoa, joka on nähnyt kaksi outoa valoa Dohan yllä eilen [26.1.]. Kello oli 21:30 kun seisoin taloni edessä Matar Kadeemissa (vanha lentokenttä). Vilkaisin ylös ja näin kirkkaan liekin taivaalla. Se vaikutti olevan tennispallon kokoinen ja siitä lähti erittäin kirkkaita lieskoja ja se oli noin kahden mailin korkeudella. Se liikkui hyvin hitaasti ja ellei se olisi ollut niin korkealla, olisin kuvitellut sen olevan pallo.Olimme kaikki ällistyneitä ja seuraamme liittyi paljon muita katselijoita. Me kaikki arvailimme mikä se voisi olla. Valo jatkoi liikettään pohjoisesta etelään noin 10 minuutin ajan. Se liikkui suorassa linjassa ja alkoi sitten heilahdella paikoillaan. Noin 3–4 minuutin kuluttua se katosi pilviin. Mutta ei tässä vielä kaikki. Ehkä noin 5 minuutin kuluttua vastaava valo ilmaantui eteläiseen horisonttiin ja se kulki vastaavaa rataa. Näkikö kukaan Qatar Livingissä sitä? Mikä se voisi olla?&#8221; (Lähde: Bloggaaja nimimerkillä &#8221;LifeIsBeautiful&#8221;, qatarliving.com)</p>
 
 
 
@@ -535,26 +546,27 @@ Lauantai-iltana 3.1.2009 meillä päin oli voimakas sähkömyrsky ja sen jälkee
 <p>Noin 10 minuuttia myöhemmin kohti meitä kumpuavat pilvet olivat valomeressä, aivan kuin aurinko olisi taas paistanut, mutta ei, kuun ensineljännes ilmestyi tähdestä etäämmälle kohti oikeata. Pilvien tiivistyessä kuu hävisi taas. Tähti jäi taivaalle, mutta noin 20 minuutin kuluttua jouduin menemään takaisin alakertaan heikotuksen vuoksi, enkä tahtonut tietenkään kaatua.</p>
 <p>Tyttäreni jatkoi tämän kauniin näkymän katselemista siihen asti kun pilvet peittivät taas taivaan. En voinut ajatella muuta kuin että onkohan tämä Herra-Maitreyan merkki, joka tervehtii meitä uuden vuoden kunniaksi ja merkkinä Hänen väistämättömästä tulostaan julkisuuteen. Toivon niin. Olemme odottaneet Häntä niin kauan.<br />
 B.I., Howick, Kwazulu Natal, Etelä-Afrikka.</p>
-<p class="answer">(Benjamin Cremen Mestari vahvistaa, että tämä oli nimenomaan kyseinen tähti.)</p>
-<p class="kuvaintextright">Lancashire, Englanti, 18.1.2009</p>
-<p><img class="kuvaintextright" style="border: 0; margin-top: 5px; margin-bottom: 5px;" alt="Lancashire" src="https://sharefi-cdn.sirv.com/star/star_lancashire.uk.18.1.09_pre.jpg" width="280" border="0" vspace="5" /></p>
-<p class="kuvaintextleft">Miami, Florida, USA, 11.1.2009</p>
-<p><img class="kuvaintextleft" style="border: 0; margin-top: 5px; margin-bottom: 5px;" alt="Miami" src="https://sharefi-cdn.sirv.com/star/star_miami11.1.09_pre.jpg" width="254" border="0" vspace="5" /></p>
-<p class="kuvaintextright">Manhattan, New York, USA, 22.1.2009</p>
-<p><img style="border: 0; margin-top: 5px; margin-bottom: 5px;" alt="New York, USA pic 2" src="https://sharefi-cdn.sirv.com/star/star_newyork22.1.09_pre.jpg" width="504" border="0" vspace="5" /></p>
-<p class="kuvaintextleft">Myös kuvattu Manhattanilla, New Yorkissa, USA:ssa, 22.1.2009</p>
-<p><img class="kuvaintextleft" style="border: 0; margin-top: 5px; margin-bottom: 5px;" alt="New York, USA" src="https://sharefi-cdn.sirv.com/star/star_newyork2.22.1.09_pre.jpg" width="303" border="0" vspace="5" /></p>
-<p class="kuvaintextright">Kreikka, 26.1.2009</p>
-<p><img style="border: 0; margin-top: 5px; margin-bottom: 5px;" alt="Kreikka" src="https://sharefi-cdn.sirv.com/star/star_greece26.1.09_pre.jpg" width="504" border="0" vspace="5" /></p>
-<p class="kuvaintextleft">Stockton, Kalifornia, USA, postitettu 18.1.2009</p>
-<p><img class="kuvaintextleft" style="border: 0; margin-top: 5px; margin-bottom: 5px;" alt="Stockton, USA" src="https://sharefi-cdn.sirv.com/star/star_stockton.ca.usa.1.09_pre.jpg" width="297" border="0" vspace="5" /></p>
+<p>(Benjamin Cremen Mestari vahvistaa, että tämä oli nimenomaan kyseinen tähti.)</p>
 
 
-<p class="kysymys">Lisää kuvia ja uutisia tähdestä löydät englanninkielisen sisarsivustomme tähtisivulta: <a href="//www.share-international.org/maitreya/Ma_starsign.htm"  target="_blank" class="external" rel="nofollow noopener">klikkaa tästä &gt;&gt;&gt;</a></p>
-<p><a name="joulu"></a>Joulun ihme, tiedote 12.12.2008</p>
+<div style="column-gap:3%; display: grid; grid-template-rows: auto; grid-template-columns: auto auto auto">
+
+<p>Lancashire, Englanti, 18.1.2009<br /><img  alt="Lancashire" src="https://sharefi-cdn.sirv.com/star/star_lancashire.uk.18.1.09_pre.jpg"/></p>
+<p>Miami, Florida, USA, 11.1.2009<br /><img  alt="Miami" src="https://sharefi-cdn.sirv.com/star/star_miami11.1.09_pre.jpg"/></p>
+<p>Manhattan, New York, USA, 22.1.2009<br /><img  alt="New York, USA pic 2" src="https://sharefi-cdn.sirv.com/star/star_newyork22.1.09_pre.jpg"/></p>
+<p>Myös kuvattu Manhattanilla, New Yorkissa, USA:ssa, 22.1.2009<br /><img  alt="New York, USA" src="https://sharefi-cdn.sirv.com/star/star_newyork2.22.1.09_pre.jpg"/></p>
+<p>Kreikka, 26.1.2009<br /><img  alt="Kreikka" src="https://sharefi-cdn.sirv.com/star/star_greece26.1.09_pre.jpg"/></p>
+<p>Stockton, Kalifornia, USA, postattu 18.1.2009<br /><img  alt="Stockton, USA" src="https://sharefi-cdn.sirv.com/star/star_stockton.ca.usa.1.09_pre.jpg"/></p>
+
+</div>
+
+
+<a name="joulu"></a>
+<h3>Joulun ihme, tiedote 12.12.2008</h3>
 <p>Share International lähetti lehdistötiedotteen medialle kautta maailman. Tiedote lupaa taivaalle nousevan tähden joulun ihmeen merkiksi. Tässä tiivistelmä:</p>
 <p>&#8221;Vuosien ajan maailma on ollut täynnään kaikenlaisia ihmeitä. Huhtikuussa 1995 Time-lehti käytti kahdeksan sivua pääjuttunaan taustoittaakseen näitä tapahtumia ja päätteli: “Ihmiset janoavat merkkejä.”</p>
 <p>Pitäkää silmänne nyt auki kaikkein suurinta ihmettä odottaessamme. Aivan lähiaikoina suuri, kirkas, tähti tulee ilmaantumaan taivaalle. Tuo tähti tulee olemaan kaikkien nähtävillä – yötä päivää.</p>
 <p>Uskomatonta? Fantasiaa? Ei, vaan fakta. Noin viikkoa myöhemmin Maitreya, Maailmanopettaja tulee aloittamaan avoimen työnsä, ja vaikkei vielä tulekaan esiintymään tuolla nimellä, häntä tullaan haastattelemaan yhdellä USA:n pääkanavista.</p>
 <p>Vuonna 1988 CNN ja monet muut media raportoivat Maitreyan ihmeellisen ilmaantumisen 6.000 ihmisen eteen Nairobiin, Keniaan, kesäkuun 11. päivänä. Viikkoa ennen tuota [1988] tapahtumaa merkki siitä oli nähtävissä: ”Lauantaina 4.6. suuri, kirkas tähti nähtiin; tavanomaista tähteä kirkkaampi.”, raportoi Kenya Times -sanomalehden toimittaja Job Mutungi.&#8221;</p>
 <p><a title="Lehdistötiedote: Maitreyan ”tähti” on joulun ihme" href="/lehdistolle/lehdistotiedote-maitreyan-tahti-on-joulun-ihme/">Klikkaa tästä koko tiedote</a></p>
+<p class="qna-q">Lisää kuvia ja uutisia tähdestä löydät englanninkielisen sisarsivustomme tähtisivulta: <a href="//www.share-international.org/maitreya/Ma_starsign.htm"  target="_blank" class="external" rel="nofollow noopener">klikkaa tästä &gt;&gt;&gt;</a></p>
