@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://share.fi/mestari/</loc>
+    <lastmod>2018-10-10T02:01:06+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://share.fi/haloo/ota-yhteytta/</loc>
     <lastmod>2018-10-04T14:25:30+03:00</lastmod>
   </url>
@@ -79,11 +84,6 @@
   
   <url>
     <loc>https://share.fi/kysymyksia-vastauksia/</loc>
-    <lastmod>2018-08-01T12:01:06+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://share.fi/mestari/</loc>
     <lastmod>2018-08-01T12:01:06+03:00</lastmod>
   </url>
   
@@ -698,11 +698,6 @@
   </url>
   
   <url>
-    <loc>https://share.fi/uutiset/mestarin-sanoin-2011-01-kommentti/</loc>
-    <lastmod>2011-01-31T00:01:06+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://share.fi/mestarin-sanoin/2011/</loc>
     <lastmod>2011-01-01T00:00:00+02:00</lastmod>
   </url>
@@ -1008,6 +1003,16 @@
   </url>
   
   <url>
+    <loc>https://share.fi/uutiset/mestarin-sanoin-2011-01-kommentti/</loc>
+    <lastmod>2001-10-15T00:01:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/mestarin-sanoin/2001-09-kiinnittymattomyys/</loc>
+    <lastmod>2001-09-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://share.fi/maitreya/kohtaamisia/taydellinen-muisto-toulousessa/</loc>
     <lastmod>2001-01-18T12:18:25+03:00</lastmod>
   </url>
@@ -1015,6 +1020,11 @@
   <url>
     <loc>https://share.fi/maitreya/kohtaamisia/</loc>
     <lastmod>2001-01-01T12:18:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/mestarin-sanoin/2001/</loc>
+    <lastmod>2001-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1028,14 +1038,39 @@
   </url>
   
   <url>
-    <loc>https://share.fi/aihealueet/</loc>
-    <lastmod>2018-08-02T11:42:53+03:00</lastmod>
-    <priority>0</priority>
+    <loc>https://share.fi/mestarin-sanoin/1995-11-ihmeiden-ajalle-ei-ole-loppua/</loc>
+    <lastmod>1995-11-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/mestarin-sanoin/1995/</loc>
+    <lastmod>1995-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/mestarin-sanoin/1982-11-terveys-ja-paraneminen_osa2/</loc>
+    <lastmod>1982-11-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/mestarin-sanoin/1982-10-terveys-ja-paraneminen_osa1/</loc>
+    <lastmod>1982-10-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/mestarin-sanoin/1982/</loc>
+    <lastmod>1982-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://share.fi/avainsanat/</loc>
     <lastmod>2018-08-01T11:36:03+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/aihealueet/</loc>
+    <lastmod>2018-08-02T11:42:53+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1046,10 +1081,6 @@
   <url>
     <loc>https://share.fi/</loc>
     <lastmod>2018-10-04T14:25:30+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://share.fi/mestarin-sanoin/mestarin-sanoin-2011-01-kommentti/</loc>
   </url>
   
   <url>
@@ -1123,7 +1154,7 @@
   
   <url>
     <loc>https://share.fi/aihealueet/henkinen-hierarkia/</loc>
-    <lastmod>2018-09-01T00:00:00+02:00</lastmod>
+    <lastmod>2018-10-10T02:01:06+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1260,7 +1291,7 @@
   
   <url>
     <loc>https://share.fi/avainsanat/mestari/</loc>
-    <lastmod>2018-08-01T12:01:06+03:00</lastmod>
+    <lastmod>2018-10-10T02:01:06+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1325,13 +1356,13 @@
   </url>
   
   <url>
-    <loc>https://share.fi/aihealueet/uutiset/</loc>
+    <loc>https://share.fi/avainsanat/uutiset/</loc>
     <lastmod>2018-01-31T00:01:06+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://share.fi/avainsanat/uutiset/</loc>
+    <loc>https://share.fi/aihealueet/uutiset/</loc>
     <lastmod>2018-01-31T00:01:06+03:00</lastmod>
     <priority>0</priority>
   </url>
