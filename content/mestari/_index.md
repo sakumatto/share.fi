@@ -1,6 +1,6 @@
 ---
 title: "Mestari"
-date: 2018-08-01T12:01:06+03:00
+date: 2018-10-10T02:01:06+03:00
 menu:
  main:
   name:  "Mestari"
@@ -15,10 +15,8 @@ naytavuosi: true
 naytapvm: false
 
 author: share.fi
-type: 
 
-toc: true
-
+cover: "https://sharefi-cdn.sirv.com/sharefi/mestari-hahmo.jpg"
 avainsanat:
  - Mestari
  

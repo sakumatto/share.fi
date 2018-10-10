@@ -236,7 +236,7 @@ Tiistaina 27.10.2009 18:30 aikaan katsoin ulos makuuhuoneeni ikkunasta. Näin ku
 
 
 <a name="tahtivideo"></a>
-<p>Nyt tähtihavainnot on koottu videolle: Sharen tiimi kautta maailman on viimeisen kahden viikon aikana tehnyt työtä ja koonnut eri puolilta löytyvät videot ja kuvat yhdeksi videoksi, joka on nyt käännetty myös suomen kielelle:</p>
+<p>Nyt tähtihavainnot on koottu videolle: Sharen tiimi kautta maailman on viimeisen kahden viikon aikana tehnyt työtä ja koonnut eri puolilta löytyvät videot ja kuvat yhdeksi videoksi, joka on nyt käännetty myös suomen kielelle. Videolla viitataan <a href="/mestarin-sanoin/2009-01-maitreyan-ensimmainen-haastattelu/">tähän Mestarin sanoin -artikkeliin</a>.</p>
 
 <p><iframe src="https://player.vimeo.com/video/262793867" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
 
