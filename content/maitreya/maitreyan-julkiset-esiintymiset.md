@@ -1002,7 +1002,13 @@ Uruguai</em></td>
 <td>Kiina, Khunking (8&nbsp;syyskuuta)</td>
 </tr>
 <tr>
-<td>Suomi, Kuopio (29&nbsp;syyskuuta)</td>
+<td>Suomi, Kuopio (29&nbsp;syyskuuta)
+<div class="qna">
+<h4>K&V Share International -lehdestä 11/1996</h4>
+<p class="qna-q">K: Onko Maitreya ilmaantunut uudestaan sitten edellisen Share International -lehden numeron?</p>
+<p>V: (- -) 29.9. Hän esiintyi Kuopiossa, Suomessa. Hän puhui haltiotuneen tarkkaan kuuntelevalle yleisölle 17 minuutin ajan. Useimmat ihmiset ajattelivat Hänen olevan Jumalan lähettämä enkeli. Alueella magnetisoitiin vesivaranto. 6.10. Maitreya ilmaantui Mainessa, USA:ssa noin 250:lle kristitylle, jotka kuuntelivat "vakavassa hiljaisuudessa" 16 minuutin ajan. Vesivaranto ladattiin alueella.</p>
+</div>
+</td>
 </tr>
 <tr>
 <td>USA, Maine, Ashland (6&nbsp;lokakuuta)</td>
