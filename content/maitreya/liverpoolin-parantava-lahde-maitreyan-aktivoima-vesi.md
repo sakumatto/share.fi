@@ -4,9 +4,9 @@ date:  2014-01-18T12:18:25+03:00
 
 menu:
  main:
-  name:  "Maitreyan aktivoima vesi"
+  name:  "Maitreyan aktivoima vesi löytyi"
   identifier:  "liverpoolin-parantava-vesi-loytyi"
-  parent:  "maitreya"
+  parent:  "parantavat-lahteet"
 
 aliases:
     - /liverpoolin-parantava-lahde-maitreyan-aktivoima-vesi/

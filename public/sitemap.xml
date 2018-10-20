@@ -1538,14 +1538,14 @@
   </url>
   
   <url>
-    <loc>https://share.fi/aihealueet/</loc>
-    <lastmod>2018-08-02T11:42:53+03:00</lastmod>
+    <loc>https://share.fi/avainsanat/</loc>
+    <lastmod>2018-08-01T11:36:03+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://share.fi/avainsanat/</loc>
-    <lastmod>2018-08-01T11:36:03+03:00</lastmod>
+    <loc>https://share.fi/aihealueet/</loc>
+    <lastmod>2018-08-02T11:42:53+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1835,13 +1835,13 @@
   </url>
   
   <url>
-    <loc>https://share.fi/aihealueet/uutiset/</loc>
+    <loc>https://share.fi/avainsanat/uutiset/</loc>
     <lastmod>2018-01-31T00:01:06+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://share.fi/avainsanat/uutiset/</loc>
+    <loc>https://share.fi/aihealueet/uutiset/</loc>
     <lastmod>2018-01-31T00:01:06+03:00</lastmod>
     <priority>0</priority>
   </url>
