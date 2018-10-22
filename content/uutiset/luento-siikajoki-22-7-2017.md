@@ -1,10 +1,12 @@
 ---
-title: "Maitreya-luento 21.5.2005 Helsingissä"
-date: 2005-05-06T00:01:06+03:00
+title: "Maitreya-luento 22.7.2017 Siikajoella, tallenne nyt kuunneltavana"
+date: 2017-09-06T00:01:06+03:00
 menu:
  uutiset:
-  identifier:  "helsinki-21-5-2005-luento"
+  identifier:  "siikajoki-22-7-2017-luento"
 
+aliases:
+    - /luento-22-7-2017-klo-1300-1430-siikajoella/
 
 
 ei_pvm: false
@@ -25,6 +27,7 @@ aihealueet:
  
 
 ---
-<p>Seuraava Maitreyaa käsittelevä luento :Henkisen Hierarkian julkisuuteentulo<br />
-Luento  Helsingissä  21.5.2005  klo  10-11:30<br />
-Rajatiedon   keskus,   Uudenmaankatu   33.</p>
+</header><div class="entry-content" itemprop="text"><p>Seuraava Maitreyaa käsittelevä luento oli Siikajoella 22.7.2017 klo 13–14:30, osoitteessa&nbsp;Lukkarilantie 20<br>
+Siikajoki. Kiitos vielä järjestäjille ja kaikille kuulijoille paikan päällä sekä netissä.</p>
+<p>Audiotallenne luennosta alla</p>
+<p><iframe scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/341139500&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" width="70%" height="350" frameborder="no"></iframe>

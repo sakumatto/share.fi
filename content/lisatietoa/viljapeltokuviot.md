@@ -9,7 +9,7 @@ menu:
   parent:  "lisatietoa"
 
 aliases:
-    - /enkelit-kuvissa/
+    - /viljapeltokuviot/
 cover:
 cover: "https://sharefi-cdn.sirv.com/sharefi/viljapeltokuvio-200907_crop_formation_waylands_smithy.jpg"
 
@@ -21,7 +21,9 @@ naytapvm:  false
 author: share.fi
 
 
-
+aihealueet:
+  - ufo
+  - viljapeltokuvio
 
 
 

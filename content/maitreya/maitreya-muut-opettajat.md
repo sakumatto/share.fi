@@ -21,6 +21,9 @@ menu:
   name:  "Maitreya ja muut opettajat"
   identifier:  "muutopettajat"
   parent:  "maitreya"
+
+aihealueet:
+ - kristus
 ---
 
 <h1>Maitreya ja Hänen suhteensa muihin tunnettuihin henkisiin opettajiin</h1>

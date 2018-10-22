@@ -1,7 +1,7 @@
 <header>
   <h1 style="width:100%;"><a href="{{.Permalink}}">{{.Title}}</a></h1>
 
-  {{ if .Params.cover }}<a href="{{.Permalink}}"><img style="float:right; width:32%; margin: 70px 0 12px 12px;" src="{{.Params.cover}}"></a>{{ end }}
+  {{ if .Params.cover }}<a href="{{.Permalink}}"><img style="float:right; max-width:32%; margin: 70px 0 12px 12px;max-height:230px;" src="{{.Params.cover}}"></a>{{ end }}
   <aside>
     {{ if not .Params.ei_pvm }}
       <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">

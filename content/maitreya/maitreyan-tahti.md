@@ -21,6 +21,10 @@ menu:
   name:  "Maitreyan ”tähti”"
   identifier:  "tahti"
   parent:  "maitreya"
+
+aihealueet:
+ - kristus
+ - ufo
 ---
 <h1>Maitreyan &#8221;tähti&#8221; on Maitreyan julkisuuteen tulon airut</h1>
 <h2>Kuva- ja videogalleria</h2>

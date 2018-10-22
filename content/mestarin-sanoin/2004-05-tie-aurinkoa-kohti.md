@@ -32,6 +32,7 @@ avainsanat:
 
 aihealueet:
  - Henkinen Hierarkia
+ - ufo
 
 lainaus: "Lainaus: Valtaa pitävät tietävät, että jos ihmiset tietäisivät UFO-ilmiöiden todellisen luonteen, ja ymmärtäisivät niiden olevan meitä paljon kehittyneempien sivilisaatioiden sanansaattajia, ihmiset eivät enää suostuisi hiljaisena ja passiivisena hyväksymään maapallon elinolosuhteita."
 ---

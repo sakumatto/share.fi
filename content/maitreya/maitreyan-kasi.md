@@ -12,16 +12,14 @@ naytapvm:  false
 
 author: share.fi
 
-
-
-
-
- 
 menu:
  main:
   name:  "Maitreyan käsi"
   identifier:  "maitreyan-kasi"
   parent:  "maitreya"
+
+aihealueet:
+ - kristus
 ---
 
 <h3>Maitreyan käsi</h3>

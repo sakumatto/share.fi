@@ -31,6 +31,7 @@ avainsanat:
 
 aihealueet:
  - lisätietoa
+ - ufo
 
 ---
 <h1>Ajan merkit 5-2016, ihmeitä kautta planeetan</h1>

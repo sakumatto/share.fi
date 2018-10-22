@@ -15,6 +15,7 @@ prevmonthLink: "2013-03"
 
 aliases:
   - /mestarin-sanoin/2013-04/
+  - /mestarin-sanoin-42013-mestarien-rooli/
 
 ei_pvm: false
 naytakk: true

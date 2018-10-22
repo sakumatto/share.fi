@@ -32,6 +32,7 @@ avainsanat:
 
 aihealueet:
  - Henkinen Hierarkia
+ - ufo
 
 lainaus: "Lainaus: Yli 60 vuoden ajan hallitukset kautta maailman ovat salanneet kansalta &#8221;UFOjen&#8221; eli &#8221;lentävien lautasten&#8221; todellisuuden Lisäksi, ne ovat kaikin käytettävissä olevin keinoin, pyrkineet halveksimaan näiden vierailevien vieraiden alusten matkustajia Maan asukkaille tuhoisina ja haitallisina, &#8221;alieneina&#8221;. "
 ---

@@ -20,11 +20,8 @@ naytapvm:  false
 
 author: share.fi
 
-
-
-
-
- 
+aihealueet:
+  - ufo
 ---
 <p class="alustus">Ihmeitä on tapahtunut tihenevällä tahdilla viimeisten kolmen vuosikymmenen aikana. Share International yhdistää ne suurempaan taustakertomukseen: henkisten opettajien tuloon julkisuuteen tänä kriittisenä aikana. Tässä tarina NASAn valokuvaamasta enkelistä.</p>
 

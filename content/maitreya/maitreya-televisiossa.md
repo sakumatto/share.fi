@@ -23,6 +23,9 @@ menu:
   name:  "Maitreya televisiossa"
   identifier:  "televisiossa"
   parent:  "maitreya"
+
+aihealueet:
+ - kristus
 ---
 
 <h1>Maitreyan televisioesiintymiset 2010–nykyhetki</h1>

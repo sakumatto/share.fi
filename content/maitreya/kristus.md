@@ -2,7 +2,12 @@
 title: "Kristus"
 date: 2018-08-01T11:36:03+03:00
 
-draft: false
+
+menu:
+ main:
+  name:  "Kristus"
+  identifier:  "kristus"
+  parent:  "maitreya"
 
 aliases:
 - /kristus/
@@ -13,21 +18,12 @@ naytavuosi: true
 naytapvm: false
 
 author: share.fi
-type: 
-
-
 
 avainsanat:
  - 
  
 aihealueet:
- - 
- 
-menu:
- main:
-  name:  "Kristus"
-  identifier:  "kristus"
-  parent:  "maitreya"
+ - kristus
 ---
 
 <p class="alustus"><strong>Kristus on kristillisen yhteisön lempinimi, jonka se on antanut Maailmanopettaja Maitreyalla</strong>. Kristus on samalla kuitenkin myös nimi sille saavutukselle, jonka Maitreya on tehnyt. Sana Kristus nimittäin tarkoittaa myös sitä, että Maitreyaan on tiivistynyt Jumalan rakkaus. <strong>Lue tämä artikkeli ja opi mitä Kristus todella tarkoittaa</strong>. Muista myös avoin mieli. <em>Tämä artikkeli on ensilukemalta vieras ja jopa jonkun mielestä fantasiaa, mutta jos vaivaudut ottamaan asiasta (Kristuksesta) tarkemmin selkoa, huomaat, että artikkelin antama kuva onkin oikea</em>.</p>

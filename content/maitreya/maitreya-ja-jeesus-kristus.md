@@ -26,8 +26,9 @@ avainsanat:
  
 aihealueet:
  - maitreya
- 
 
+aihealueet:
+ - kristus
 ---
 <p class="alustus">Jeesus Nasaretilainen ja Kristus eivät itse asiassa ole sama henkilö. Tämä on monille kristityille kaikkein vaikein seikka omaksua Maitreyan, Maailmanopettajan, yhteydessä. Asiaa on siksi syytä selostaa hiukan tarkemmin.</p>
 
