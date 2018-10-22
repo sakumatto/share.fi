@@ -6,19 +6,9 @@
     <description>Recent content in Aihealueet on Jakamisen periaate pelastaa maailman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fi-fi</language>
-    <lastBuildDate>Thu, 02 Aug 2018 11:42:53 +0300</lastBuildDate>
     
 	<atom:link href="https://share.fi/aihealueet/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://share.fi/aihealueet/</link>
-      <pubDate>Thu, 02 Aug 2018 11:42:53 +0300</pubDate>
-      
-      <guid>https://share.fi/aihealueet/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Henkinen Hierarkia</title>
@@ -44,6 +34,15 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
       
       <guid>https://share.fi/aihealueet/kirjallisuus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristus</title>
+      <link>https://share.fi/aihealueet/kristus/</link>
+      <pubDate>Fri, 14 Sep 2018 12:18:25 +0300</pubDate>
+      
+      <guid>https://share.fi/aihealueet/kristus/</guid>
       <description></description>
     </item>
     
@@ -84,11 +83,11 @@
     </item>
     
     <item>
-      <title>Maitreya</title>
-      <link>https://share.fi/aihealueet/maitreya/</link>
-      <pubDate>Sun, 14 Feb 2016 12:01:06 +0300</pubDate>
+      <title>Magnetisoitu Vesi</title>
+      <link>https://share.fi/aihealueet/magnetisoitu-vesi/</link>
+      <pubDate>Fri, 29 Jul 2016 12:18:25 +0300</pubDate>
       
-      <guid>https://share.fi/aihealueet/maitreya/</guid>
+      <guid>https://share.fi/aihealueet/magnetisoitu-vesi/</guid>
       <description></description>
     </item>
     
@@ -102,9 +101,18 @@
     </item>
     
     <item>
+      <title>Ufo</title>
+      <link>https://share.fi/aihealueet/ufo/</link>
+      <pubDate>Sat, 01 Sep 2018 12:01:06 +0300</pubDate>
+      
+      <guid>https://share.fi/aihealueet/ufo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Uutiset</title>
       <link>https://share.fi/aihealueet/uutiset/</link>
-      <pubDate>Wed, 31 Jan 2018 00:01:06 +0300</pubDate>
+      <pubDate>Sun, 21 Oct 2018 00:01:06 +0300</pubDate>
       
       <guid>https://share.fi/aihealueet/uutiset/</guid>
       <description></description>
@@ -116,6 +124,15 @@
       <pubDate>Sat, 01 Sep 2018 12:01:06 +0300</pubDate>
       
       <guid>https://share.fi/aihealueet/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viljapeltokuvio</title>
+      <link>https://share.fi/aihealueet/viljapeltokuvio/</link>
+      <pubDate>Sat, 29 Jul 2017 12:18:25 +0300</pubDate>
+      
+      <guid>https://share.fi/aihealueet/viljapeltokuvio/</guid>
       <description></description>
     </item>
     

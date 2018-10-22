@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://share.fi/uutiset/luento-turku-2018-11-15/</loc>
+    <lastmod>2018-10-21T00:01:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/uutiset/luento-helsinki-rtv-2018-10-17/</loc>
+    <lastmod>2018-10-11T00:01:06+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://share.fi/mestari/</loc>
     <lastmod>2018-10-10T02:01:06+03:00</lastmod>
   </url>
@@ -35,6 +45,11 @@
   <url>
     <loc>https://share.fi/mestarin-sanoin/</loc>
     <lastmod>2018-09-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/uutiset/luento-helsinki-2018-09-20/</loc>
+    <lastmod>2018-08-21T00:01:06+03:00</lastmod>
   </url>
   
   <url>
@@ -95,6 +110,11 @@
   <url>
     <loc>https://share.fi/mestarin-sanoin/2018-07-pysyva-valintatilanne/</loc>
     <lastmod>2018-07-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/uutiset/luento-kuortane-2018-07-07/</loc>
+    <lastmod>2018-06-21T00:01:06+03:00</lastmod>
   </url>
   
   <url>
@@ -195,6 +215,11 @@
   <url>
     <loc>https://share.fi/maitreya/kohtaamisia/dejavu-junassa/</loc>
     <lastmod>2017-09-18T12:18:25+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/uutiset/luento-siikajoki-22-7-2017/</loc>
+    <lastmod>2017-09-06T00:01:06+03:00</lastmod>
   </url>
   
   <url>
@@ -1228,7 +1253,7 @@
   </url>
   
   <url>
-    <loc>https://share.fi/uutiset/luento-siikajoki-22-7-2017/</loc>
+    <loc>https://share.fi/uutiset/luento-helsinki-2005-05-21/</loc>
     <lastmod>2005-05-06T00:01:06+03:00</lastmod>
   </url>
   
@@ -1544,18 +1569,12 @@
   </url>
   
   <url>
-    <loc>https://share.fi/aihealueet/</loc>
-    <lastmod>2018-08-02T11:42:53+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://share.fi/404/</loc>
   </url>
   
   <url>
     <loc>https://share.fi/</loc>
-    <lastmod>2018-10-04T14:25:30+03:00</lastmod>
+    <lastmod>2018-10-21T00:01:06+03:00</lastmod>
   </url>
   
   <url>
@@ -1571,7 +1590,6 @@
   
   <url>
     <loc>https://share.fi/aihealueet/</loc>
-    <lastmod>2018-08-02T11:42:53+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1664,6 +1682,12 @@
   </url>
   
   <url>
+    <loc>https://share.fi/aihealueet/kristus/</loc>
+    <lastmod>2018-09-14T12:18:25+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://share.fi/aihealueet/kv/</loc>
     <lastmod>2018-08-01T12:01:06+03:00</lastmod>
     <priority>0</priority>
@@ -1731,7 +1755,7 @@
   
   <url>
     <loc>https://share.fi/avainsanat/luento/</loc>
-    <lastmod>2017-09-06T00:01:06+03:00</lastmod>
+    <lastmod>2018-10-21T00:01:06+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1742,13 +1766,13 @@
   </url>
   
   <url>
-    <loc>https://share.fi/main/</loc>
+    <loc>https://share.fi/aihealueet/magnetisoitu-vesi/</loc>
+    <lastmod>2016-07-29T12:18:25+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://share.fi/aihealueet/maitreya/</loc>
-    <lastmod>2016-02-14T12:01:06+03:00</lastmod>
+    <loc>https://share.fi/main/</loc>
     <priority>0</priority>
   </url>
   
@@ -1823,6 +1847,12 @@
   </url>
   
   <url>
+    <loc>https://share.fi/aihealueet/ufo/</loc>
+    <lastmod>2018-09-01T12:01:06+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://share.fi/avainsanat/ukk/</loc>
     <lastmod>2016-11-01T12:01:06+03:00</lastmod>
     <priority>0</priority>
@@ -1842,7 +1872,7 @@
   
   <url>
     <loc>https://share.fi/aihealueet/uutiset/</loc>
-    <lastmod>2018-01-31T00:01:06+03:00</lastmod>
+    <lastmod>2018-10-21T00:01:06+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1855,6 +1885,12 @@
   <url>
     <loc>https://share.fi/avainsanat/videoita/</loc>
     <lastmod>2018-09-01T12:01:06+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/aihealueet/viljapeltokuvio/</loc>
+    <lastmod>2017-07-29T12:18:25+03:00</lastmod>
     <priority>0</priority>
   </url>
   
