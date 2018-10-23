@@ -658,7 +658,7 @@ a[href^="javascript:"]:after {
 	KUVAT
 */
 
-img, sprite {
+img {
 border: 1px solid;
 	border-color: #bbb #999;
 	box-shadow:
