@@ -32,6 +32,7 @@ avainsanat:
 
 aihealueet:
  - Henkinen Hierarkia
+ - Uutiset
 
 lainaus: "Lainaus: Niin iäkäs ja syvään juurtunut on tämä epätasapaino, että vain suunnattoman mittava ponnistus tai maailman taloudellinen katastrofi voi ravistella sen otteen kirpoamaan."
 ---
