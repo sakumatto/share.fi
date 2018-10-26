@@ -803,6 +803,11 @@
   </url>
   
   <url>
+    <loc>https://share.fi/lisatietoa/jakaminen-on-ratkaisu/</loc>
+    <lastmod>2011-11-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://share.fi/mestarin-sanoin/2011-11-maitreyan-lupaus/</loc>
     <lastmod>2011-11-01T00:00:00+02:00</lastmod>
   </url>
@@ -1653,6 +1658,18 @@
   <url>
     <loc>https://share.fi/aihealueet/henkinen-hierarkia/</loc>
     <lastmod>2018-10-10T02:01:06+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/avainsanat/jakaminen/</loc>
+    <lastmod>2011-11-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/aihealueet/jakamisen-periaate/</loc>
+    <lastmod>2011-11-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
