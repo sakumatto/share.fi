@@ -1,5 +1,5 @@
 <header>
-  <h1 style="width:100%;"><a href="{{.Permalink}}">{{.Title}}</a></h1>
+  <h1 style="width:100%;"><a href="{{.Permalink}}">{{.Title | replaceRE "_" ""}}</a></h1>
 
   {{ if .Params.cover }}<a href="{{.Permalink}}"><img style="float:right; max-width:32%; margin: 70px 0 12px 12px;max-height:230px;" src="{{.Params.cover}}"></a>{{ end }}
   <aside>

@@ -10,11 +10,11 @@
       {{ if .HasChildren }}
         {{ .Pre }}
 
-          <a href="{{ .URL }}">{{ .Name }}</a>
+          <a href="{{ .URL }}">{{ .Name | replaceRE "_" "" }}</a>
 
         {{ partial "menu.html" (dict "menu" $menuName "current" $currentPage "level" (add $currentLevel 1) "pages" .Children) }}
       {{else}}
-        <a href="{{.URL}}">{{ .Pre }}{{ .Name }}</a>
+        <a href="{{.URL}}">{{ .Pre }}{{ .Name  | replaceRE "_" ""}}</a>
       {{end}}
     </li>
   {{end}}

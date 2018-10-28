@@ -32,8 +32,8 @@
 
 
 	<div class='masterarticle'>
-	<p><em>Mestarin sanoin -artikkeli {{.Title | replaceRE ".+oin " "" -}}</em></p>
-	<h1 id="article-headline">{{- .Title | replaceRE ".+:" "" -}}</h1>
+	<p><em>Mestarin sanoin -artikkeli {{.Title | replaceRE ".+oin " "" | replaceRE "_" "" -}}</em></p>
+	<h1 id="article-headline">{{- .Title | replaceRE ".+:" "" | replaceRE "_" "" -}}</h1>
 	<h3>- Mestarilta, Benjamin Cremen välityksellä</h3>
 
 	<div id="article-body">{{.Content}}</div>

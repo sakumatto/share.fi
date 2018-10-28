@@ -1,5 +1,5 @@
 ---
-title: "Mestarin sanoin 11/2015: Lopullinen valinta"
+title: "Mestarin sanoin _11/2015: Lopullinen valinta"
 
 menu:
  masterarticle:
