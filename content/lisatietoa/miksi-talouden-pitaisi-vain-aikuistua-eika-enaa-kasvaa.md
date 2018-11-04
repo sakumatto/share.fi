@@ -34,7 +34,7 @@ kirjoittaja David Korten</p></div>
 
 <p>Kuunnelkaa poliitikkoja heidän esitellessään ratkaisuja taloudellisiin ongelmiin. Kuulet hyvin valmistellun ja harvoin kyseenalaistetun selostuksen. ” Meidän täytyy kasvattaa talouttamme luodaksemme työpaikkoja, jotta ihmisillä on varaa kuluttaa enemmän, mikä luo taas lisää työpaikkoja…” Kasvu. Kasvu. Kasvu.</p>
 
-<p class="alignright" style="max-width:550px;"><img src="https://sharefi-cdn.sirv.com/sharefi/201610_david_korten.jpg" width="550" height="339" alt="" /><br>David Korten</p>
+<p class="alignright" style="max-width:550px;"><img src="https://sharefi-cdn.sirv.com/sharefi/201610_david_korten.jpg" alt="Kuvassa David Korten" /><br>David Korten</p>
 <p>Mutta lapset ja nuoret kasvavat. Aikuiset kypsyvät. On aika muuttaa väittelyn suuntaa ja tunnustaa, että olemme kasvattaneet aineellista kulutustamme ja ylittäneet maapallon kantokyvyn rajat. Meidän on nyt muutettava taloutemme suunta kasvusta kypsyyteen – vastattava kaikkien tarpeisiin maapallon kantokyvyn rajoissa.</p>
 <p>Maailmanlaajuinen bruttokansantuote kasvaa tällä hetkellä 3-4 prosenttia vuosittain. Päinvastoin kuin poliitikot ja taloustieteilijät lupaavat, tämä kasvu ei vähennä köyhyyttä ja luo parempaa elämää kaikille. Päinvastoin se luo lisääntyvää irvokkuutta ja kestämätöntä epätasapainoa suhteessamme planeettaamme ja toisiimme.</p>
 <p>Yksityiskohdat vaihtelevat maittain mutta kokemus USAsta kuvaa laajempaa suuntausta. Yhtiöiden voitot prosentteina bruttokansantuotteesta ovat ennätysluokkaa. USAn keskiluokka kutistuu koska useimpien ihmisten työpäivät ovat pidentyneet heidän kamppaillessaan lujemmin saadakseen ruokaa pöytäänsä ja katon päänsä päälle. Perheet luhistuvat ja itsemurhaluvut ovat nousussa.</p>
