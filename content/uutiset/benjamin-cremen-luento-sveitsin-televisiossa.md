@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Cremen Japanin luento Sveitsin televisiossa"
-date: 2013-02-27T00:01:06+03:00
+date: 2013-02-27T00:01:06+02:00
 menu:
  uutiset:
   name:  "Cremen luento Sveitsin televisiossa"

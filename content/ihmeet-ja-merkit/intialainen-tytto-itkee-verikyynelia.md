@@ -1,6 +1,6 @@
 ---
 title: "Intialainen tyttö itkee verikyyneliä"
-date:  2010-06-20T12:18:25+03:00
+date:  2010-06-20T12:18:25+02:00
 
 menu:
  ihmeet:

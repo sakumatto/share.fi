@@ -5,7 +5,6 @@ menu:
  masterarticle:
   identifier:  "mestarin-sanoin-2018-09"
   parent:  "2018"
- uudet:
 
 
 

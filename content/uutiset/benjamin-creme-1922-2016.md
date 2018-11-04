@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Creme 1922–2016"
-date: 2016-10-31T00:01:06+03:00
+date: 2016-10-31T00:01:06+02:00
 menu:
  uutiset:
   name:  "Benjamin Creme 1922–2016"

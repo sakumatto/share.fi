@@ -1,6 +1,6 @@
 ---
 title: "Kokki löytää ”Jumalan” munakoisosta"
-date:  2015-07-19T12:18:25+03:00
+date:  2015-07-19T12:18:25+02:00
 
 menu:
  ihmeet:

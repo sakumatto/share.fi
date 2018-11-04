@@ -1,6 +1,6 @@
 ---
 title: "Paavi Franciscus TED-puheessaan: Me kaikki tarvitsemme toisiamme"
-date: 2017-06-21T00:01:06+03:00
+date: 2017-06-21T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "paavi-franciscus-miksi-ainoa-rakentamisen-arvoinen-tulevaisuus-on-kaikki-mukaan-ottava"

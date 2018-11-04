@@ -1,6 +1,6 @@
 ---
 title: "Lehdistötiedote: Irakin sota ei ole ratkaisu, vaan resurssien jakaminen"
-date: 2003-07-20T12:01:06+03:00
+date: 2003-07-20T12:01:06+02:00
 menu:
  main:
   name:  "Ei Irakin sodalle"

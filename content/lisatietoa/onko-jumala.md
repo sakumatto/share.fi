@@ -1,6 +1,6 @@
 ---
 title: "Onko Jumala olemassa? Kyllä, Jumala on"
-date:  2016-11-16T12:18:25+03:00
+date:  2016-11-16T12:18:25+02:00
 
 menu:
  main:

@@ -1,6 +1,6 @@
 ---
 title: "Lehdistötiedote: NASA kuvasi enkelin lentämässä kohti aurinkoa"
-date: 2012-11-25T12:01:06+03:00
+date: 2012-11-25T12:01:06+02:00
 menu:
  main:
   name:  "NASA kuvasi enkelin"

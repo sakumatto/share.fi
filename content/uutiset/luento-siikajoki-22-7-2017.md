@@ -1,6 +1,6 @@
 ---
 title: "Maitreya-luento 22.7.2017 Siikajoella, tallenne nyt kuunneltavana"
-date: 2017-09-06T00:01:06+03:00
+date: 2017-09-06T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "siikajoki-22-7-2017-luento"

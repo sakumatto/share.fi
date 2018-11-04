@@ -1,6 +1,6 @@
 ---
 title: "Lähi-Idän kuohunta onkin hyvä merkki"
-date: 2011-05-21T00:01:06+03:00
+date: 2011-05-21T00:01:06+02:00
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/jemenilainen-mielenosoitus.jpg"
 

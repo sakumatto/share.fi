@@ -1,6 +1,6 @@
 ---
 title: "Maitreya-luento 15.11.2018 Turussa"
-date: 2018-10-21T00:01:06+03:00
+date: 2018-10-21T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "turku-15-11-2018-luento"

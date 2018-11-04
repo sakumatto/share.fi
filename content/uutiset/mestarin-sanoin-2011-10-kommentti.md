@@ -1,6 +1,6 @@
 ---
 title: "Erottelun miekan tärkeys"
-date: 2011-10-20T00:01:06+03:00
+date: 2011-10-20T00:01:06+02:00
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/erottelun-miekka-on-rakkauden-energia-300x120.jpg"
 

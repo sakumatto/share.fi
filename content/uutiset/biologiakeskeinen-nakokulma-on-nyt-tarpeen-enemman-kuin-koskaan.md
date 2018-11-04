@@ -1,6 +1,6 @@
 ---
 title: "Biologiakeskeinen näkökulma on nyt tarpeen enemmän kuin koskaan"
-date: 2017-03-02T00:01:06+03:00
+date: 2017-03-02T00:01:06+02:00
 menu:
  uutiset:
   name:  "Biologiaperusteinen näkemys on tarpeen"

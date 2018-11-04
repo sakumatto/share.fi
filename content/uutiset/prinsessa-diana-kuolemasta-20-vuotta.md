@@ -1,6 +1,6 @@
 ---
 title: "Prinsessa Dianan kuolemasta 20 vuotta"
-date: 2017-08-31T12:01:06+03:00
+date: 2017-08-31T12:01:06+02:00
 menu:
  uutiset:
   name:  "Prinsessa Dianan kuolemasta 20 vuotta"

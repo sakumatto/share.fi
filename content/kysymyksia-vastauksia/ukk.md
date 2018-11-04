@@ -1,6 +1,6 @@
 ---
 title: "Usein kysyttyä Maailmanopettaja Maitreyasta ja Henkisestä Hierarkiasta"
-date: 2016-11-01T12:01:06+03:00
+date: 2016-11-01T12:01:06+02:00
 menu:
  main:
   name:  "Usein kysytyt kysymykset"

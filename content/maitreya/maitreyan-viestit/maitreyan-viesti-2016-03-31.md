@@ -1,8 +1,14 @@
 ---
 title: "Maitreyan viesti 31.3.2016"
-date:  2016-03-31T12:18:25+03:00
+date:  2016-03-31T12:18:25+02:00
 
-draft:  false
+menu:
+ main:
+  identifier:  "maitreyan-viesti-2016-03-31"
+  parent: "maitreyan-viestit"
+
+aliases: 
+  -/maitreyan-viesti-31-03-2016/
 
 master: Maitreya
 ei_pvm:  true

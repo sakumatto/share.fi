@@ -1,6 +1,6 @@
 ---
 title: "Perhe pelastui Japanin tsunamista"
-date:  2011-04-20T12:18:25+03:00
+date:  2011-04-20T12:18:25+02:00
 
 menu:
  ihmeet:

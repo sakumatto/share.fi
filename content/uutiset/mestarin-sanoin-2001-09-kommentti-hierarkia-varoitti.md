@@ -1,6 +1,6 @@
 ---
 title: "Hierarkia varoitti WTC-iskujen vastatoimista"
-date: 2001-10-15T00:01:06+03:00
+date: 2001-10-15T00:01:06+02:00
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/wtc-tornit-jeffmock.jpg"
 

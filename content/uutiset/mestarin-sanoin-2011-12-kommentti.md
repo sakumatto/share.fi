@@ -1,6 +1,6 @@
 ---
 title: "Uudistus on taattu"
-date: 2011-12-20T00:01:06+03:00
+date: 2011-12-20T00:01:06+02:00
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/valomuodostelma-2011-12-stuttgart.jpg"
 

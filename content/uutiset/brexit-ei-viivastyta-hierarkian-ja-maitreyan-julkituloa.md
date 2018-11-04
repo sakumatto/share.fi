@@ -1,6 +1,6 @@
 ---
 title: "Brexit ei viivästytä Hierarkian ja Maitreyan julkituloa"
-date: 2016-07-28T00:01:06+03:00
+date: 2016-07-28T00:01:06+02:00
 menu:
  uutiset:
   name:  "Brexit ja Hierarkian tulo julkisuuteen"

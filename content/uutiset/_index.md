@@ -1,6 +1,6 @@
 ---
 title: "Uutiset"
-date: 2011-08-01T12:01:06+03:00
+date: 2011-08-01T12:01:06+02:00
 menu:
  main:
   name:  "Uutiset"

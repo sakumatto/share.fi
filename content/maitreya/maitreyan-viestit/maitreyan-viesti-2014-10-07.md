@@ -1,7 +1,12 @@
 ---
 title: "Maitreyan viesti 7.10.2014"
-date:  2016-03-31T12:18:25+03:00
+date:  2014-10-07T12:18:25+02:00
 
+menu:
+ main:
+  identifier:  "maitreyan-viesti-2014-10-07"
+  parent: "maitreyan-viestit"
+  
 aliases: 
   -/maitreyan-viesti-7-10-2014/
 

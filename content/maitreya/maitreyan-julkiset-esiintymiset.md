@@ -1,6 +1,6 @@
 ---
 title: "Maitreyan julkiset esiintymiset"
-date:  2018-09-14T12:18:25+03:00
+date:  2018-09-14T12:18:25+02:00
 
 menu:
  main:

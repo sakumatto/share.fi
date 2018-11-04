@@ -1,6 +1,6 @@
 ---
 title: "Maitreyan ”tähti”, 2 uutta havaintoa"
-date: 2013-03-28T00:01:06+03:00
+date: 2013-03-28T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "maitreyan-tahti-kaksi-havaintoa-lisaa"

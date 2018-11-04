@@ -1,6 +1,6 @@
 ---
 title: "Lehdistötiedotearkisto"
-date: 2018-09-01T12:01:06+03:00
+date: 2018-09-01T12:01:06+02:00
 menu:
  main:
   name:  "Lehdistölle"

@@ -1,6 +1,6 @@
 ---
 title: "Nelson Mandela, 1918–2013"
-date: 2016-11-18T00:01:06+03:00
+date: 2016-11-18T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "nelson-mandela-1918-2013"

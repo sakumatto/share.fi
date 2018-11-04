@@ -1,6 +1,6 @@
 ---
 title: "30 vuotta työtä Maitreyan julkitulon puolesta, 1982-2012"
-date: 2012-05-10T00:01:06+03:00
+date: 2012-05-10T00:01:06+02:00
 menu:
  uutiset:
   name:  "30 vuotta työtä"

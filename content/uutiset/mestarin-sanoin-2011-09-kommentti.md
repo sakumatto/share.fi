@@ -1,6 +1,6 @@
 ---
 title: "Ihmiskunnan on ymmärrettävä muutoksen tärkeys"
-date: 2011-09-20T00:01:06+03:00
+date: 2011-09-20T00:01:06+02:00
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/unity-300x225.jpg"
 

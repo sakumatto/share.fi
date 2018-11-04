@@ -1,6 +1,6 @@
 ---
 title: "Ihmisten ääni kuultiin Tahrir-aukiolla"
-date: 2011-03-31T00:01:06+03:00
+date: 2011-03-31T00:01:06+02:00
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/egyptin-tahrir-joukot-2011.jpg"
 

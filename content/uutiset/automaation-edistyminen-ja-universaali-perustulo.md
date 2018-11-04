@@ -1,6 +1,6 @@
 ---
 title: "Automaation edistyminen ja universaali perustulo"
-date: 2017-05-06T00:01:06+03:00
+date: 2017-05-06T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "eri-maiden-saderakenne"

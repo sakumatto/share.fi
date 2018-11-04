@@ -1,6 +1,6 @@
 ---
 title: "Tietosuoja"
-date: 2018-05-24T09:25:35+03:00
+date: 2018-05-24T09:25:35+02:00
 showDate: false
 comments: false
 

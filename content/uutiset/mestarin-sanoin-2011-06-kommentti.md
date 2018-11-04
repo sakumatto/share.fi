@@ -1,6 +1,6 @@
 ---
 title: "Oikeudenmukaisuuden voitto on taattu"
-date: 2011-06-20T00:01:06+03:00
+date: 2011-06-20T00:01:06+02:00
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/fatah_hamas-sopimusta-juhlitaan-palestiinassa-201106.jpg"
 

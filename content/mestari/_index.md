@@ -1,6 +1,6 @@
 ---
 title: "Mestari"
-date: 2018-10-10T02:01:06+03:00
+date: 2018-10-10T02:01:06+02:00
 menu:
  main:
   name:  "Mestari"

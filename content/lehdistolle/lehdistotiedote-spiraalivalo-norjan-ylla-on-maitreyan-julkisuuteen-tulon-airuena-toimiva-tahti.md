@@ -1,6 +1,6 @@
 ---
 title: "Lehdistötiedote: Spiraalivalo Norjan yllä on Maitreyan julkisuuteen tulon airuena toimiva ”tähti”"
-date: 2009-12-10T12:01:06+03:00
+date: 2009-12-10T12:01:06+02:00
 menu:
  main:
   name:  "Norjan spiraalivalo"

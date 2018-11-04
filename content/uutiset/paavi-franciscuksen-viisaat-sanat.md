@@ -1,6 +1,6 @@
 ---
 title: "Paavi Franciscuksen viisaat sanat"
-date: 2014-04-06T00:01:06+03:00
+date: 2014-04-06T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "paavi-franciscuksen-viisaat-sanat"

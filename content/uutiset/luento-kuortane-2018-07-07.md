@@ -1,6 +1,6 @@
 ---
 title: "Maitreya-luento Ultra-päivillä 2018"
-date: 2018-06-21T00:01:06+03:00
+date: 2018-06-21T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "kuortane-7-7-2018-luento"

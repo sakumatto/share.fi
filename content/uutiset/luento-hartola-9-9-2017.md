@@ -1,6 +1,6 @@
 ---
 title: "Maitreya-luento Hartolassa 9.9.2017 klo 10"
-date: 2017-09-06T00:01:06+03:00
+date: 2017-09-06T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "hartola-9-9-2017-luento"

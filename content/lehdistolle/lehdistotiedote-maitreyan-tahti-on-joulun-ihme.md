@@ -1,6 +1,6 @@
 ---
 title: "Lehdistötiedote: Maitreyan ”tähti” on joulun ihme"
-date: 2008-12-12T12:01:06+03:00
+date: 2008-12-12T12:01:06+02:00
 menu:
  main:
   name:  "Maitreyan ”tähti” on joulun ihme"

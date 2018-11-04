@@ -1,6 +1,6 @@
 ---
 title: "Osiris-patsas Manchesterissa pyörii itsestään – Maitreyan ihme"
-date:  2013-10-20T12:18:25+03:00
+date:  2013-10-20T12:18:25+02:00
 
 menu:
  ihmeet:

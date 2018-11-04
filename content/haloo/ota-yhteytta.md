@@ -1,6 +1,6 @@
 ---
 title: "Ota yhteyttä"
-date: 2018-10-04T14:25:30+03:00
+date: 2018-10-04T14:25:30+02:00
 naytapvm: false
 naytakommentit: false
 

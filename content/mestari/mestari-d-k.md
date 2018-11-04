@@ -1,6 +1,6 @@
 ---
 title: "Mestari D.K."
-date:  2018-08-01T12:18:25+03:00
+date:  2018-08-01T12:18:25+02:00
 
 draft:  false
 

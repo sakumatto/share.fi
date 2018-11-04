@@ -1,6 +1,6 @@
 ---
 title: "Maailmanopettajan lupaus meille"
-date: 2011-11-20T00:01:06+03:00
+date: 2011-11-20T00:01:06+02:00
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/occupy-protesti_vallataan_wallstreet-2011-11.jpg"
 

@@ -1,6 +1,6 @@
 ---
 title: "18 miljoonaa vuotta kehitystä"
-date: 2011-01-31T00:01:06+03:00
+date: 2011-01-31T00:01:06+02:00
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/leonardo_da_vinci.jpg"
 

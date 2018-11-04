@@ -1,6 +1,6 @@
 ---
 title: "Erityislausuma hiljattaisista tapahtumista marraskuussa 2015"
-date: 2016-01-18T00:01:06+03:00
+date: 2016-01-18T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "erityislausuma-hiljattaisista-tapahtumista-marraskuu-2015"

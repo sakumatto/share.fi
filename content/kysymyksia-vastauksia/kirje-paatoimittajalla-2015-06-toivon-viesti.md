@@ -1,6 +1,6 @@
 ---
 title: "Kirje päätoimittajalle kesäkuu 2015 – Toivon viesti"
-date: 2015-09-14T12:01:06+03:00
+date: 2015-09-14T12:01:06+02:00
 menu:
  main:
   name:  "Kirje päätoimittajalle 6/2015"

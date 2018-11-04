@@ -1,6 +1,6 @@
 ---
 title: "Maitreya-luento Seinäjoella 7.4.2014"
-date: 2014-04-06T00:01:06+03:00
+date: 2014-04-06T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "seinajoki-7-4-2014-luento"

@@ -1,6 +1,6 @@
 ---
 title: "Valtava valospiraali Norjan taivaalla oli Maitreyan 'tähti'"
-date:  2010-01-20T12:18:25+03:00
+date:  2010-01-20T12:18:25+02:00
 
 menu:
  ihmeet:

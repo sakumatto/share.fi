@@ -1,6 +1,6 @@
 ---
 title: "Vuosi 2011 Henkisen Hierarkian näkokulmasta tarkasteltuna"
-date: 2012-01-31T00:01:06+03:00
+date: 2012-01-31T00:01:06+02:00
 menu:
  uutiset:
   name:  "Vuosi 2011"

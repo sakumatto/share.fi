@@ -1,6 +1,6 @@
 ---
 title: "Oppi avataaroista"
-date: 2018-10-25T00:01:06+03:00
+date: 2018-10-25T00:01:06+02:00
 menu:
  uutiset:
   name:  "Oppi avataaroista"

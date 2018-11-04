@@ -1,6 +1,6 @@
 ---
 title: "Itkevä Neitsyt-Marian patsas Murassa, Espanjassa"
-date:  1998-03-17T12:18:25+03:00
+date:  1998-03-17T12:18:25+02:00
 
 menu:
  ihmeet:

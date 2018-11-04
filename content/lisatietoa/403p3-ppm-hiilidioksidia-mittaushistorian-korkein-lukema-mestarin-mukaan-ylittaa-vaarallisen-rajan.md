@@ -1,6 +1,6 @@
 ---
 title: "403,3 ppm hiilidioksidia on mittaushistorian korkein lukema"
-date:  2017-11-18T12:18:25+03:00
+date:  2017-11-18T12:18:25+02:00
 
 menu:
  main:

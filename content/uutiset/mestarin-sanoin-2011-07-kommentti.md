@@ -1,6 +1,6 @@
 ---
 title: "Tawakkol Karman ja Arabikevät saivat Nobelin rauhanpalkinnon"
-date: 2011-07-20T00:01:06+03:00
+date: 2011-07-20T00:01:06+02:00
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/tawakkol-karman-nobelin-rauhanpalkinto-2011-jemenilainen-nainen.jpeg"
 

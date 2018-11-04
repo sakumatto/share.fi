@@ -1,6 +1,6 @@
 ---
 title: "Maitreya-luento 17.10.2018 Helsingissä RTV-studiolla"
-date: 2018-10-11T00:01:06+03:00
+date: 2018-10-11T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "helsinki-17-10-2018-rtv-luento"

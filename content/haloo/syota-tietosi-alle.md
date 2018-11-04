@@ -1,6 +1,6 @@
 ---
 title: "Syötä tietosi alle"
-date: 2018-08-02T11:42:53+03:00
+date: 2018-08-02T11:42:53+02:00
 menu: footer
 draft: false
 

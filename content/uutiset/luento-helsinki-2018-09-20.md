@@ -1,6 +1,6 @@
 ---
 title: "Maitreya-luento 20.9.2018 SHKL ry tiloissa Helsingissä"
-date: 2018-08-21T00:01:06+03:00
+date: 2018-08-21T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "helsinki-20-9-2018-luento"

@@ -1,6 +1,6 @@
 ---
 title: "Paavi Franciscus ja Dalai-lama peräänkuuluttavat Maitreyan prioriteetteja"
-date: 2016-10-16T00:01:06+03:00
+date: 2016-10-16T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "paavi-franciscus-dalai-lama-peraankuuluttavat-maitreyan-prioriteetteja"

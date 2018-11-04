@@ -1,6 +1,6 @@
 ---
 title: "Maitreyan luoma ihme: vauva syntyi rukousnauha kaulansa ympärillä"
-date:  2013-07-16T12:18:25+03:00
+date:  2013-07-16T12:18:25+02:00
 
 menu:
  ihmeet:

@@ -1,6 +1,6 @@
 ---
 title: "Kysymyksiä ja vastauksia lokakuu 2018"
-date: 2018-01-03T12:01:06+03:00
+date: 2018-01-03T12:01:06+02:00
 menu:
  main:
   identifier:  "2018-10"

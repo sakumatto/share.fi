@@ -1,6 +1,6 @@
 ---
 title: "Maitreya ja Jeesus Kristus"
-date: 2016-02-14T12:01:06+03:00
+date: 2016-02-14T12:01:06+02:00
 menu:
  main:
   name:  "Maitreya ja Jeesus Kristus"

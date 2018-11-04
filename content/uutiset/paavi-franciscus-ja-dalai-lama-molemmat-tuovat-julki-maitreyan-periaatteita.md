@@ -1,6 +1,6 @@
 ---
 title: "Paavi Franciscus ja Dalai Lama molemmat tuovat julki Maitreyan periaatteita"
-date: 2016-02-29T00:01:06+03:00
+date: 2016-02-29T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "paavi-franciscus-ja-dalai-lama-molemmat-tuovat-julki-maitreyan-periaatteita"

@@ -1,6 +1,6 @@
 ---
 title: "Saksalaiskuvaaja tallensi ufon Kreetalla"
-date:  2012-11-20T12:18:25+03:00
+date:  2012-11-20T12:18:25+02:00
 
 menu:
  ihmeet:

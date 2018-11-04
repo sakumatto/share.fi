@@ -1,6 +1,6 @@
 ---
 title:  "Yksittaisia Mestareita Rakoczi Morya Ja Koot Hoomi"
-date:  2018-08-01T12:18:25+03:00
+date:  2018-08-01T12:18:25+02:00
 master: [R,Morya,KH]
 draft:  false
 

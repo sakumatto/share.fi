@@ -1,6 +1,6 @@
 ---
 title: "Ihmisen vastuu"
-date: 2011-04-21T00:01:06+03:00
+date: 2011-04-21T00:01:06+02:00
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/Maitreyan-piirros-Japani-tsunami-2011.jpg"
 

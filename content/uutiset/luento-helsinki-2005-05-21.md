@@ -1,6 +1,6 @@
 ---
 title: "Maitreya-luento 21.5.2005 Helsingissä"
-date: 2005-05-06T00:01:06+03:00
+date: 2005-05-06T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "helsinki-21-5-2005-luento"

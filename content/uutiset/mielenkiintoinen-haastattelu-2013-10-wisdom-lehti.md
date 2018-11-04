@@ -1,6 +1,6 @@
 ---
 title: "Mielenkiintoinen haastattelu Wisdom-lehdessä numero 10/2013"
-date: 2013-10-10T00:01:06+03:00
+date: 2013-10-10T00:01:06+02:00
 menu:
  uutiset:
   name:  "Mielenkiintoinen haastattelu"

@@ -1,6 +1,6 @@
 ---
 title: "Pelon voittaminen"
-date: 2015-10-25T00:01:06+03:00
+date: 2015-10-25T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "pelon-voittaminen"

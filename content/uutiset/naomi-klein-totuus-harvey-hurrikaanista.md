@@ -1,6 +1,6 @@
 ---
 title: "Naomi Klein kirjoittaa Harvey-hurrikaanista ja sen todellisista syistä"
-date: 2017-09-30T00:01:06+03:00
+date: 2017-09-30T00:01:06+02:00
 menu:
  uutiset:
   name:  "Harvey-hurrikaanin todelliset syyt"

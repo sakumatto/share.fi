@@ -1,6 +1,6 @@
 ---
 title: "Miksi talouden pitäisi vain aikuistua eikä enää kasvaa?"
-date:  2016-10-10T12:18:25+03:00
+date:  2016-10-10T12:18:25+02:00
 
 menu:
  main:
