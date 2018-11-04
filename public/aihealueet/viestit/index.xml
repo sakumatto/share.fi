@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viestit on Jakamisen periaate pelastaa maailman</title>
+    <link>https://share.fi/aihealueet/viestit/</link>
+    <description>Recent content in Viestit on Jakamisen periaate pelastaa maailman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi-fi</language>
+    <lastBuildDate>Wed, 01 Aug 2018 12:18:25 +0200</lastBuildDate>
+    
+	<atom:link href="https://share.fi/aihealueet/viestit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maitreyan viestit</title>
+      <link>https://share.fi/maitreya/maitreyan-viestit/</link>
+      <pubDate>Wed, 01 Aug 2018 12:18:25 +0200</pubDate>
+      
+      <guid>https://share.fi/maitreya/maitreyan-viestit/</guid>
+      <description>Maitreyan vuosien varrella antamat viestit: viestit inspiroivat ja ne avaavat julkisuuteen tulon merkitystä ja taustoja.</description>
+    </item>
+    
+  </channel>
+</rss>

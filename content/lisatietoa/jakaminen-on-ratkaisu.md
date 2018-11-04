@@ -7,7 +7,7 @@ menu:
   parent:  "lisatietoa"
  uudet:
 
-date: 2011-11-01T00:00:00+02:00
+date: 2018-11-01T00:00:00+02:00
 
 aliases:
   - /jakaminen-on-ratkaisu/
