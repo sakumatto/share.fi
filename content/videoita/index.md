@@ -34,8 +34,11 @@ aihealueet:
 <li><a href="#munchenviesti">Maitreyan viesti Münchenissä</a></li>
 <li><a href="#kirkastahti">Kirkas ”tähti hämmästyttää ihmisiä</a></li>
 <li><a href="#bckertoo">Benjamin Creme kertoo ”tähdestä”</a></li>
+
 <h3>Pitkät luentovideot</h3>
 <p>Otsikointi on samankaltainen, mutta joka luento puhuu asiasta eri aihein ja näkökulmin.</p>
+
+<li><a href="#rtv">Maitreya-luento RTV-ohjelmassa 18.10.2018.</a></li>
 <li><a href="#henkinenratkaisu2">Henkinen ratkaisu ihmiskunnan nykyongelmiin henkilökohtaisesta näkökulmasta. Videotaltio luennolta.</a></li>
 <li><a href="#henkinenratkaisu1">Henkinen ratkaisu ihmiskunnan nykyongelmiin. Videotaltio luennolta Seinäjoella.</a></li>
 <li><a href="#henkinenratkaisu0">Henkinen ratkaisu ihmiskunnan nykyongelmiin. Videotaltio luennolta Hartolassa.</a></li>
@@ -49,7 +52,10 @@ aihealueet:
 <p><iframe src="https://player.vimeo.com/video/262793867" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
 <h3><a name="bckertoo">Benjamin Creme kertoo ”tähdestä”</a> (26.8.2009)</h3>
 <p><iframe src="https://player.vimeo.com/video/262796130" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="640" height="480" frameborder="0"></iframe></p>
+
 <h2>Pitkät luentovideot</h2>
+<h3><a name="rtv">Maitreya-luento RTV-ohjelmassa 18.10.2018</a></h3>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZZ4qVCqZ7Sc?controls=0&amp;start=114" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h3><a name="henkinenratkaisu2">Henkinen ratkaisu ihmiskunnan nykyongelmiin henkilökohtaisesta näkökulmasta</a></h3>
 <h4>Videotaltio luennolta Hartolassa 14.3.2015</h4>
 <p>Taltiolla puhutaan mm. ihmisten henkilökohtaisesta vastuusta planeetan nykytilaan ja tietysti myös itse kunkin toimien tärkeydestä asioiden korjaamiseen.</p>
