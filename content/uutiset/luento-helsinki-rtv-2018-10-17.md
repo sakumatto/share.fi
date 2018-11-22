@@ -29,8 +29,6 @@ aihealueet:
 Luento  Helsingissä  17.10.2018  klo  18<br />
 Traverssikuja 1.</p>
 
+<h3><a name="rtv">Luentotaltio RTV-ohjelmassa 17.10.2018</a></h3>
+<iframe src="https://www.youtube-nocookie.com/embed/ZZ4qVCqZ7Sc?controls=0&amp;start=114" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 
-
-<!--
-<h2>Luentotaltio</h2>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/H_MqUAjwc_w?rel=0&amp;controls=0&amp;showinfo=0&amp;start=1042" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
