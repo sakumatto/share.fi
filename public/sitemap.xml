@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://share.fi/uutiset/merkit-2018-11/</loc>
+    <lastmod>2018-11-22T00:01:06+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://share.fi/lisatietoa/jakaminen-on-ratkaisu/</loc>
     <lastmod>2018-11-01T00:00:00+02:00</lastmod>
   </url>
@@ -1749,7 +1754,7 @@
   
   <url>
     <loc>https://share.fi/</loc>
-    <lastmod>2018-11-01T00:00:00+02:00</lastmod>
+    <lastmod>2018-11-22T00:01:06+02:00</lastmod>
   </url>
   
   <url>
@@ -1823,6 +1828,18 @@
   <url>
     <loc>https://share.fi/aihealueet/henkinen-hierarkia/</loc>
     <lastmod>2018-10-10T02:01:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/aihealueet/ihmeet/</loc>
+    <lastmod>2018-11-22T00:01:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/avainsanat/ihmeet/</loc>
+    <lastmod>2018-11-22T00:01:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2070,14 +2087,14 @@
   </url>
   
   <url>
-    <loc>https://share.fi/avainsanat/uutiset/</loc>
-    <lastmod>2018-10-25T00:01:06+02:00</lastmod>
+    <loc>https://share.fi/aihealueet/uutiset/</loc>
+    <lastmod>2018-11-22T00:01:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://share.fi/aihealueet/uutiset/</loc>
-    <lastmod>2018-10-25T00:01:06+02:00</lastmod>
+    <loc>https://share.fi/avainsanat/uutiset/</loc>
+    <lastmod>2018-11-22T00:01:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   

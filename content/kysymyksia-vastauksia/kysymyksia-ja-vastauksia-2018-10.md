@@ -1,11 +1,10 @@
 ---
 title: "Kysymyksiä ja vastauksia lokakuu 2018"
-date: 2018-01-03T12:01:06+02:00
+date: 2018-10-03T12:01:06+02:00
 menu:
  main:
   identifier:  "2018-10"
   parent:  "k-v"
- uudet:
 
 
 
@@ -16,16 +15,16 @@ naytavuosi: false
 naytapvm: false
 
 author: share.fi
-type: 
+type:
 
 toc: true
 
 avainsanat:
  - Kysymyksiä ja vastauksia
- 
+
 aihealueet:
  - K&V
- 
+
 
 ---
 <p class="alustus">Benjamin Creme on luennoillaan vuosien varrella vastannut tuhansiin ja taas tuhansiin kysymyksiin Maitreya-ilmiötä koskien. Hän ottaa myös vastatakseen lukijoiden kysymyksiin Share International -lehden jokaisen numeron sivuilla. Nämä kysymykset ovat lehdestä 1-2/2016.</p>
