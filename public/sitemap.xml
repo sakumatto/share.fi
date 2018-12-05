@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://share.fi/kysymyksia-vastauksia/kysymyksia-ja-vastauksia-2018-12/</loc>
+    <lastmod>2018-12-04T12:01:06+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://share.fi/uutiset/merkit-2018-11/</loc>
     <lastmod>2018-11-22T00:01:06+02:00</lastmod>
   </url>
@@ -45,6 +50,11 @@
   <url>
     <loc>https://share.fi/haloo/ota-yhteytta/</loc>
     <lastmod>2018-10-04T14:25:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/kysymyksia-vastauksia/kysymyksia-ja-vastauksia-2018-10/</loc>
+    <lastmod>2018-10-03T12:01:06+02:00</lastmod>
   </url>
   
   <url>
@@ -195,11 +205,6 @@
   <url>
     <loc>https://share.fi/uutiset/transition-aika-2018/</loc>
     <lastmod>2018-01-31T00:01:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://share.fi/kysymyksia-vastauksia/kysymyksia-ja-vastauksia-2018-10/</loc>
-    <lastmod>2018-01-03T12:01:06+02:00</lastmod>
   </url>
   
   <url>
@@ -1754,7 +1759,7 @@
   
   <url>
     <loc>https://share.fi/</loc>
-    <lastmod>2018-11-22T00:01:06+02:00</lastmod>
+    <lastmod>2018-12-04T12:01:06+02:00</lastmod>
   </url>
   
   <url>
@@ -1832,13 +1837,13 @@
   </url>
   
   <url>
-    <loc>https://share.fi/aihealueet/ihmeet/</loc>
+    <loc>https://share.fi/avainsanat/ihmeet/</loc>
     <lastmod>2018-11-22T00:01:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://share.fi/avainsanat/ihmeet/</loc>
+    <loc>https://share.fi/aihealueet/ihmeet/</loc>
     <lastmod>2018-11-22T00:01:06+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1899,7 +1904,7 @@
   
   <url>
     <loc>https://share.fi/aihealueet/kv/</loc>
-    <lastmod>2018-08-01T12:01:06+02:00</lastmod>
+    <lastmod>2018-12-04T12:01:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1911,7 +1916,7 @@
   
   <url>
     <loc>https://share.fi/avainsanat/kysymyksi%C3%A4-ja-vastauksia/</loc>
-    <lastmod>2018-08-01T12:01:06+02:00</lastmod>
+    <lastmod>2018-12-04T12:01:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2087,13 +2092,13 @@
   </url>
   
   <url>
-    <loc>https://share.fi/aihealueet/uutiset/</loc>
+    <loc>https://share.fi/avainsanat/uutiset/</loc>
     <lastmod>2018-11-22T00:01:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://share.fi/avainsanat/uutiset/</loc>
+    <loc>https://share.fi/aihealueet/uutiset/</loc>
     <lastmod>2018-11-22T00:01:06+02:00</lastmod>
     <priority>0</priority>
   </url>
