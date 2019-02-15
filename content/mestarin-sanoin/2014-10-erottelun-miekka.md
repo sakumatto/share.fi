@@ -15,6 +15,7 @@ prevmonthLink: "2014-09"
 
 aliases:
   - /mestarin-sanoin/2014-10/
+  - /mestarin-sanoin-10-2014-erottelun-miekka/
 
 ei_pvm: false
 naytakk: true
