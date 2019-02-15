@@ -4,7 +4,7 @@
   "description": "share.fi -sivuston versio 22.11.2018",
   "main": "index.html",
   "dependencies": {
-    "firebase-tools": "^6.1.2"
+    "firebase-tools": "^6.3.1"
   },
   "devDependencies": {},
   "scripts": {

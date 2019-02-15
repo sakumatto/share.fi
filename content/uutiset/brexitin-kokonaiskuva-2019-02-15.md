@@ -1,5 +1,36 @@
+---
+title: "Brexitin suurempi kuva"
+date: 2019-02-15T00:01:06+02:00
+menu:
+ uutiset:
+  name:  "Brexitin suurempi kuva"
+  identifier:  "brexit-suurempi-kuva"
+ uudet:
+
+ei_pvm: false
+naytakk: false
+naytavuosi: false
+naytapvm: false
+
+author: share.fi
+type: uutiset
+
+cover: "https://sharefi-cdn.sirv.com/sharefi/brexit-suurempi-kuva.jpg"
+
+
+avainsanat:
+ - Uutiset
+ 
+aihealueet:
+ - Uutiset
+ 
+
+---
+
+
+<div class="alustus">
 <h1>
-    Suurempi kuva
+    Brexitin suurempi kuva
 </h1>
 <p>
     Peukalosääntönä voitaneen pitää sitä, että siellä missä ilmenee
@@ -13,7 +44,7 @@
     kunnioittaen ja sitä ilolla tervehtien. Jokaisella kansalla on omat
     ainutkertaiset ominaisuutensa, mutta ne tulisi saattaa suuremman ryhmän
     palvelukseen.
-</p>
+</p></div>
 <p>
     Tammikuussa 1971 Yhdistyneen kuningaskunnan parlamentti sopi liittymisestä
     Euroopan yhteismarkkinoille, kuten nimi tuolloin oli. Konservatiivien
