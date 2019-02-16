@@ -6,10 +6,29 @@
     <description>Recent content in Henkinen Hierarkia on Jakamisen periaate pelastaa maailman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fi-fi</language>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://share.fi/aihealueet/henkinen-hierarkia/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019, koko vuosi</title>
+      <link>https://share.fi/mestarin-sanoin/2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://share.fi/mestarin-sanoin/2019/</guid>
+      <description>Mestarin sanoin -artikkelit vuodelta 2019
+Klikkaathan alta haluamasi artikkelin kohdalta.</description>
+    </item>
+    
+    <item>
+      <title>Mestarin sanoin 1-2/2019: Uusi alku</title>
+      <link>https://share.fi/mestarin-sanoin/2019-01-uusi-alku/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://share.fi/mestarin-sanoin/2019-01-uusi-alku/</guid>
+      <description>Kun ihmiset ymmärtävät mihin syvyyksiin ovat tipahtaneet, he tulevat ottamaan selkoa itsestään ja tulevat aloittamaan paluumatkan takaisin järkevyyteen ja turvaan. Tämä tulee viemään aikaa, tietysti, sillä tipahtamisella armosta nykyiseen korruptioon sekä kaaokseen on oma pitkä historiansa. Vuosituhansien ajan ihminen on vähän kerrassaan kulkenut alaspäin siitä henkisestä tasosta, joka kerran oli elämänsä perustana. Ihminen on unohtanut juurensa sekä tarkoituksensa kun pimeä aikakausi sekoitti hänen muistinsa ja eksytti hänen sydämensä. Materian ja ajan luoman kaksinkertaisen lumeen eksyttämänä, ihminen alkaa vasta nyt herätä pitkästä unestaan ja illuusiostaan.</description>
+    </item>
     
     <item>
       <title>Mestarin sanoin _12/2018: Järki ja intuitio</title>

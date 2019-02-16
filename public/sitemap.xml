@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>https://share.fi/mestarin-sanoin/2019/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/mestarin-sanoin/2019-01-uusi-alku/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://share.fi/uutiset/paavin-puhe-2018-12-24/</loc>
     <lastmod>2018-12-25T00:01:06+02:00</lastmod>
   </url>
@@ -1852,18 +1862,18 @@
   
   <url>
     <loc>https://share.fi/aihealueet/henkinen-hierarkia/</loc>
-    <lastmod>2018-12-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://share.fi/avainsanat/ihmeet/</loc>
-    <lastmod>2018-11-22T00:01:06+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://share.fi/aihealueet/ihmeet/</loc>
+    <lastmod>2018-11-22T00:01:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/avainsanat/ihmeet/</loc>
     <lastmod>2018-11-22T00:01:06+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2043,7 +2053,7 @@
   
   <url>
     <loc>https://share.fi/avainsanat/mestarin-sanoin/</loc>
-    <lastmod>2018-12-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2112,13 +2122,13 @@
   </url>
   
   <url>
-    <loc>https://share.fi/avainsanat/uutiset/</loc>
+    <loc>https://share.fi/aihealueet/uutiset/</loc>
     <lastmod>2019-02-15T00:01:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://share.fi/aihealueet/uutiset/</loc>
+    <loc>https://share.fi/avainsanat/uutiset/</loc>
     <lastmod>2019-02-15T00:01:06+02:00</lastmod>
     <priority>0</priority>
   </url>
