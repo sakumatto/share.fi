@@ -1,5 +1,5 @@
 ---
-title: "Mestarin sanoin 12/2018: Järki ja intuitio"
+title: "Mestarin sanoin _12/2018: Järki ja intuitio"
 
 menu:
  masterarticle:

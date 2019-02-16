@@ -1,5 +1,5 @@
 ---
-title: "Mestarin sanoin 11/2018: Pioneerit"
+title: "Mestarin sanoin _11/2018: Pioneerit"
 
 menu:
  masterarticle:
