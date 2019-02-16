@@ -4,7 +4,7 @@ date: 2018-01-31T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "transition-aika-2018"
- uudet:
+
 
 
 aliases:
