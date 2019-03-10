@@ -5,7 +5,7 @@ menu:
  masterarticle:
   identifier:  "mestarin-sanoin-2018-12"
   parent:  "2018"
- uudet:
+
 
 master: "Cremen Mestari"
 

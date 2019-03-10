@@ -3,9 +3,10 @@ title: "Kirjeet 10/2018"
 date:  2018-10-30T02:18:25+02:00
 
 menu:
- uudet:
-  
-aliases: 
+  kohtaamisia:
+    identifier: "kirjeet-2018-10"
+
+aliases:
   -/kirjeet-2018-10/
 
 master: Maitreya
