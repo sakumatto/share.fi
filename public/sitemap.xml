@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://share.fi/maitreya/maitreyan-kohtaamisia/uusintavierailu/</loc>
+    <lastmod>2019-03-10T12:16:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/mestarin-sanoin/2019-03-tulevaisuuden-avain/</loc>
+    <lastmod>2019-03-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://share.fi/uutiset/brexitin-kokonaiskuva-2019-02-15/</loc>
     <lastmod>2019-02-15T00:01:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/maitreya/maitreyan-kohtaamisia/kutoja/</loc>
+    <lastmod>2019-02-10T12:16:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1789,7 +1804,7 @@
   
   <url>
     <loc>https://share.fi/</loc>
-    <lastmod>2019-02-15T00:01:06+02:00</lastmod>
+    <lastmod>2019-03-10T12:16:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1862,7 +1877,7 @@
   
   <url>
     <loc>https://share.fi/aihealueet/henkinen-hierarkia/</loc>
-    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-03-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2053,7 +2068,7 @@
   
   <url>
     <loc>https://share.fi/avainsanat/mestarin-sanoin/</loc>
-    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-03-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
