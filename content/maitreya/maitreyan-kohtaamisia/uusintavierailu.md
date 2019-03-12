@@ -28,6 +28,7 @@ Olimme yhdeksän ihmistä 15.11.2003 työstämässä joulukuun lehden numeroa Am
 
 <p>Mies aloitti kyselemällä Transmissio-meditaatioryhmistä asuinseudullaan. Hän halusi tarkistaa erään osoitteen oikean kirjoitusasun. Mies kysyi josko Transmissioon osallistujan pitää olla kasvissyöjä (ei tarvitse, vaikkakin se on suotavaa). Hiljalleen mies siirsi puheenaiheen kohti muita aktiviteettejamme.</p>
 
+<div class="masterarticle">
 <p>Vierailija: Mitä muita aktiivisuuden alueita teillä on?</p>
 <p>Ryhmä: Osallistumme messuille.</p>
 <p>Vierailija: Kyllä, messut ovat hyvin merkityksellisiä työn muotoina. Mutta luennot ovat vieläkin tärkeämpiä.</p>
@@ -67,6 +68,6 @@ Olimme yhdeksän ihmistä 15.11.2003 työstämässä joulukuun lehden numeroa Am
 
 <p>Me olimme tienneet, että mies oli Maitreya (tai Hänen hahmonsa) ja hän tiesi meidän tietävän. Oli kuin olisi ollut sanaton sopimus siitä, että voisimme puhua miehelle kuin hän olisi Maitreya. Ihmeellistä kyllä, me kaikki käyttäydyimme kuin tämä olisi aivan normaalia ja tavanomaista, mutta samanaikaisesti tilassa oli kohonnut ilmapiiri ja tietynlainen epäuskoisuuden hiljaisuus. Tässä meillä oli Maailmanopettaja (taas), joka joi kanssamme (kaksi) kupillista kahvia rupatellen ja samalla opettaen, selventäen, lohduttaen ja kannustaen meitä. Meille ei jäänyt epäilystäkään siitä, että "Hän on täällä" ja että "Kaikki tulee järjestymään." Olimmeko oikeassa kun ajattelimme, että vierailija oli Maitreya?</p>
 <p>Lehtiryhmä, Amsterdamin informaatiokeskus</p>
-
+</div>
 <p>(Benjamin Cremen Mestari vahvistaa, että "vierailija" todella oli Maitreya.)</p>
 <p><i>Lähde: Share International -lehti 1–2/2004</i></p>
