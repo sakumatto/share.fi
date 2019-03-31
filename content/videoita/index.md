@@ -47,8 +47,7 @@ aihealueet:
 <h3><a name="munchenviesti">Maitreyan viesti Benjamin Cremen välityksellä</a> (26.10.2008)</h3>
 
 
-<p><div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/276832696?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-</p>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/276832696?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p>(Klikkaa videon oikean alakulman CC-näppäintä jos haluat tekstityksen suomeksi)</p>
 <h3><a name="valoisatulevaisuus">Ihmiskunnan valoisa tulevaisuus</a> (26.2.2009)</h3>
 <h3><a name="kirkastahti">Kirkas ”tähti hämmästyttää ihmisiä, selittävä video aiheesta</a> (20.6.2009)</h3>
