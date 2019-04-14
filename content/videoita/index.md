@@ -41,6 +41,7 @@ aihealueet:
 <h3>Pitkät luentovideot</h3>
 <p>Otsikointi on samankaltainen, mutta joka luento puhuu asiasta eri aihein ja näkökulmin.</p>
 
+<ul>
 <li><a href="#rtv">Maitreya-luento RTV-ohjelmassa 17.10.2018.</a></li>
 <li><a href="#henkinenratkaisu2">Henkinen ratkaisu ihmiskunnan nykyongelmiin henkilökohtaisesta näkökulmasta. Videotaltio luennolta.</a></li>
 <li><a href="#henkinenratkaisu1">Henkinen ratkaisu ihmiskunnan nykyongelmiin. Videotaltio luennolta Seinäjoella.</a></li>
@@ -63,6 +64,7 @@ aihealueet:
 
 <h3><a name="kirkastahti">Kirkas ”tähti hämmästyttää ihmisiä, selittävä video aiheesta</a> (20.6.2009)</h3>
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/262793867?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
 <h3><a name="bckertoo">Benjamin Creme kertoo ”tähdestä”</a> (26.8.2009)</h3>
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/262796130?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
