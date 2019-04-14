@@ -49,13 +49,15 @@ aihealueet:
 </ul>
 </blockquote>
 <h3><a name="munchenviesti">Maitreyan viesti Benjamin Cremen välityksellä</a> (26.10.2008)</h3>
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/276832696?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 <p>(Klikkaa videon oikean alakulman CC-näppäintä jos haluat tekstityksen suomeksi)</p>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/276832696?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
 
 
 <h3><a name="benkarmasta">Benjamin Creme puhuu Karman laista</a></h3>
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/330312096?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 <p>(Klikkaa videon oikean alakulman CC-näppäintä jos haluat tekstityksen suomeksi)</p>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/330312096?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
 
 
 
