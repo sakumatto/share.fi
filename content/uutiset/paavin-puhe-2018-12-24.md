@@ -1,9 +1,9 @@
 ---
-title: "Paavi peräänkuuluttaa elämisen yksikertaistamista jouluna 2018"
+title: "Paavi peräänkuuluttaa elämisen yksikertaistamista"
 date: 2018-12-25T00:01:06+02:00
 menu:
  uutiset:
-  name:  "Franciskus peräänkuuluttaa elämisen yksikertaistamista jouluna 2018"
+  name:  "Franciskus peräänkuuluttaa elämisen yksikertaistamista"
   identifier:  "paavi-jouluna-2018-12"
  ihmeet:
   identifier:  "paavi-jouluna-2018-12"

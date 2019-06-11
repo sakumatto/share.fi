@@ -1,5 +1,5 @@
 ---
-title: "Kysymyksiä ja vastauksia joulukuu 2018"
+title: "Kysymyksiä ja vastauksia"
 date: 2018-12-04T12:01:06+02:00
 menu:
  main:
