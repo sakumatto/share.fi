@@ -33,10 +33,10 @@ aihealueet:
 
 <div class="qna">
 
-<p class="qna-q">K: Olisikohan teidän mahdollista selittää rukouksen ja parantamisen pohjalta löytyvää toimintatapaa tavalliselle uskovaiselle ja henkisesti ajattelevalle ihmiselle? Alkaen rukouksesta, mitä oikeastaan tapahtuu?</p>
+<p class="qna-q">K: Olisikohan teidän mahdollista selittää rukouksen ja parantamisen taustalta löytyvää toimintatapaa tavalliselle uskovaiselle ja henkisesti ajattelevalle ihmiselle? Alkaen rukouksesta, mitä oikeastaan tapahtuu?</p>
 <p>V: Rukous on yksi aste invokaation suuren tieteen alla ja se toimii siten, että se luo johtimen eli telepaattisen linkin yhteisen tekijän, eli mielen välityksellä. Kuta suurempi on mentaalinen keskittyminen, sitä suurempiasteinen mentaalikommunikaatio aikaansaadaan. Suurin osa rukouksista on kuitenkin astraalista tai tunteiden tasolta fokukseltaan ja siksi vähemmän "varmaa" saamaan aikaan vastineen.</p>
 <p>Rukouksen voima perustuu siihen tekijään, ettei ole mitään eriytyneisyyttä: kaikki maailmankaikkeuden atomit ovat yhteydessä toisiinsa. Rukouksen teho on riippuvaista siitä keskittyneen ajatuksen tasosta, jonka rukoilija saavuttaa. Suurin osa rukouksesta on astraalin haluluonteen anelua ja on siksi rajoitettua laajuudeltaan. Rukous sen korkeammalla tasolla on mahdollista keskittyneet mielen kautta. Vieläkin korkeammalla tasolla sieluunsa yhtyneen oppilaan rakkaus-tarkoituksen tasolla tuo toimija on sielu.</p>
-<p>Vastine rukoukseen on ehdollista Syyn ja seurauksen laille (Karman laille, kuten sitä idässä kutsutaan) ja siihen väliintulon määrään, mikä on Mestareille mahdollista hidän roolissaan pyhinä välitysmiehinä. Täten Jeesus, Neitsyt Maria, Krishna, Muhammed ja joukko pyhimyksiä kaikista uskonnoista ovat väliintulopyyntörukousten kohteena. He voivat toimia, ja toimivatkin, väliintulijoina lain sallimissa puitteissa.</p>
+<p>Vastine rukoukseen on ehdollista Syyn ja seurauksen laille (Karman laille, kuten sitä idässä kutsutaan) ja siihen väliintulon määrään, mikä on Mestareille mahdollista heidän roolissaan pyhinä välitysmiehinä. Täten Jeesus, Neitsyt Maria, Krishna, Muhammed ja joukko pyhimyksiä kaikista uskonnoista ovat väliintulopyyntörukousten kohteena. He voivat toimia, ja toimivatkin, väliintulijoina lain sallimissa puitteissa.</p>
 
 <h3>Maitreya rukouksesta.</h3>
 
