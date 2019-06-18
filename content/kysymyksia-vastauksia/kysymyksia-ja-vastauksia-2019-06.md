@@ -34,7 +34,7 @@ aihealueet:
 
 <div class="qna">
 
-<p class="qna-q">K: Kuvailette tulevaa aikaa. Pohdin tässä miten se tulee eroamaan kuluneesta 2.000:sta vuodesta? (Luento San Franciscossa elokuussa 2006)</p>
+<p class="qna-q">K: Kuvailette tulevaa aikaa. Pohdin tässä miten se tulee eroamaan kuluneesta 2.000:sta vuodesta?</p>
 <p>V: Tulevan Vesimiehen ajan energiat, joka aikakausi tulee kestämään noin 2.350 – 2.500 vuotta, ovet kaikin puolin erilaisia kuin Kalojen ajan energiat. Vesimiehen laatu on synteesi, fuusioituminen ja yhteen sekoittuminen, yhtenäisyyden luominen. Pidämmepä siitä taikka emme, tahdommepa sitä taikka emme, tuo energia, vuodattuessaan päivä päivältä voimakkaampana planeetallemme, tulee aikaansaamaan synteesiä ihmiskunnassa ja muissa luomakunnissa tulevien 2.350 – 2.500 vuoden aikana.</p>
 
 <p class="qna-q">K: Mitä tarkoitatte sanoessanne "synteesi"? Tarkoitatteko standardisoitumista, se, että kaikista tulee samankaltaisia tai tasapäisiä?</p>
