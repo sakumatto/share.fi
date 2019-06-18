@@ -1,6 +1,7 @@
 ---
 title: "Kysymyksiä ja vastauksia kesä 2019"
-date: 2019-06-18T19:01:06+02:00
+date: 2019-06-18T09:01:06+02:00
+
 menu:
  main:
   identifier:  "2019-06"
