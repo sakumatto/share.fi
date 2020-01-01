@@ -1,7 +1,6 @@
 {{ define "main" }}
 <article>
   {{ partial "article-header.html" . }}
-  <div>{{.Content}}
-  </div>
+  <div>{{ .RawContent | safeHTML }}</div>
 </article>
 {{ end }}

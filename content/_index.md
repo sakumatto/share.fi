@@ -1,3 +1,25 @@
+---
+title: "Etusivu"
+date:  2020-01-01T00:18:25+02:00
+
+menu:
+ main:
+  name:  "Etusivu"
+
+
+ei_pvm:  true
+naytakk:  false
+naytavuosi:  false
+naytapvm:  false
+
+
+author: share.fi
+
+
+
+
+
+---
 <h1>share.fi<br />jakamisen periaatteen puolestapuhuja</h1>
 <div class="alustus">Näillä sivuilla esiteltävät teemat ovat aluksi ehkä vieraita ja monimutkaisia. Ne ovat monimutkaisen tuntuisia koska ne ovat laajoja. Vierailta ne saattavat tuntua siksi, että näistä teemoista ei kaikkialla puhuta. Vähän kerrassaan lisää lukemalla huomaat kuitenkin kuinka teemat nivoutuvat toisiinsa ja aiheet muodostavat ymmärrettäviä kokonaisuuksia. Silloin luettukin alkaa tuntua tutulta. Lukemisen iloa ja mukavaa oloa toivottaen.</div>
 <h3>Maitreya, kuka Hän on?</h3>

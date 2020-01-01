@@ -1902,13 +1902,13 @@
   </url>
   
   <url>
-    <loc>https://share.fi/avainsanat/ihmeet/</loc>
+    <loc>https://share.fi/aihealueet/ihmeet/</loc>
     <lastmod>2018-11-22T00:01:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://share.fi/aihealueet/ihmeet/</loc>
+    <loc>https://share.fi/avainsanat/ihmeet/</loc>
     <lastmod>2018-11-22T00:01:06+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2157,13 +2157,13 @@
   </url>
   
   <url>
-    <loc>https://share.fi/avainsanat/uutiset/</loc>
+    <loc>https://share.fi/aihealueet/uutiset/</loc>
     <lastmod>2019-02-15T00:01:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://share.fi/aihealueet/uutiset/</loc>
+    <loc>https://share.fi/avainsanat/uutiset/</loc>
     <lastmod>2019-02-15T00:01:06+02:00</lastmod>
     <priority>0</priority>
   </url>
