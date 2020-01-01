@@ -46,7 +46,6 @@ PaginatePath = "sivu"
 
 [params]
 
-summaryLength = 100
 show_summaries = true
 
 description = "Maailmanopettaja Maitreya odottaa kutsua voidakseen laajasti tulla julkisuuteen. Hänet tunnetaan myös nimillä Kristus, Maitreya Buddha, Imam Mahdi, Messias riippuen uskontokunnasta."
