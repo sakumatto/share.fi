@@ -4,10 +4,10 @@
 
 {{ define "main" }}
 
-  {{ if .Content }}
+  {{ if .RawContent | safeHTML }}
   <article>
     {{ partial "article-header-nodate.html" . }}
-    <div>{{.Content}}</div>
+    <div>{{ .RawContent | safeHTML }}</div>
   </article>
   {{ end }}
   <section>
@@ -18,7 +18,7 @@
       <article>
         {{ partial "article-header.html" . }}
         {{ if $.Site.Params.show_summaries}}
-        <div>{{.Summary}}</div>
+        <div>{{ .Summary }}</div>
         {{ end }}
       </article>
     </li>

@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article>
   {{ partial "article-header.html" . }}
-  <div>{{.Content}}
+  <div>{{ .RawContent | safeHTML }}
 
 
 <h4>Hakemaasi sivua ei löydy</h4>

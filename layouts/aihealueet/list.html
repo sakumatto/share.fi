@@ -7,7 +7,7 @@
   {{ if .Content }}
   <article>
     {{ partial "article-header-nodate.html" . }}
-    <div>{{.Content}}</div>
+    {{ .RawContent | safeHTML }}
   </article>
   {{ end }}
   <section>
@@ -17,8 +17,8 @@
     <li>
       <article>
         {{ partial "article-header.html" . }}
-        {{ if $.Site.Params.show_summaries}}
-        <div>{{.Summary}}</div>
+        {{ if $.Site.Params.show_summaries }}
+        <div>{{ .Summary }}</div>
         {{ end }}
       </article>
     </li>

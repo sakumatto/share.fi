@@ -45,7 +45,7 @@ Hän jatkoi: ”Kysykäämme itseltämme: tarvitsenko todella kaiken tämän mat
 .
 
 Francis, joka on ensimmäinen Latinalaisen Amerikan paavi, on korostanut köyhien ahdinkoa hänen pyhimyksensä keskeisenä aiheena.
-
+</p>
 
 
 

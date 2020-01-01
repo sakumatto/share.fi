@@ -1,7 +1,7 @@
 
 {{ define "title" }}{{.Title}} | {{.Site.Title}}{{ end }}
 
-{{ define "description" }}{{.Summary}}{{ end }}
+{{ define "description" }}{{ .Summary }}{{ end }}
 
 {{ define "main" }}
 
@@ -36,7 +36,7 @@
 	<h1 id="article-headline">{{- .Title | replaceRE ".+:" "" | replaceRE "_" "" -}}</h1>
 	<h3>- Mestarilta, Benjamin Cremen välityksellä</h3>
 
-	<div id="article-body">{{.Content}}</div>
+	<div id="article-body">{{ .RawContent | safeHTML }}</div>
 	<p class='mastersource'>Lähde: Share International -lehti, {{ .Date.Format "01 / 2006" -}}.</p>
 
 

@@ -4,10 +4,10 @@
 
 {{ define "main" }}
 
-  {{ if .Content }}
+  {{ if .Content | safeHTML }}
   <article>
     {{ partial "article-header.html" . }}
-    <div>{{.Content}}</div>
+    {{ .RawContent | safeHTML }}
   </article>
   {{ end }}
   <section>
@@ -15,12 +15,10 @@
   <ul>
     {{ range (.Paginator 12).Pages }}
     <li>
-      <article>
         {{ partial "article-header.html" . }}
         {{ if $.Site.Params.show_summaries}}
-        <div>{{.Summary}}</div>
+        <div class="list-summary">{{ .Summary }}</div>
         {{ end }}
-      </article>
     </li>
     {{ end }}
   </ul>

@@ -1,5 +1,5 @@
 ---
-title: "Mestarin sanoin NN-MM/2018: XXXXXX"
+title: "Mestarin sanoin NN-MM/2019: XXXXXX"
 date: {{ .Date }}
 menu: main
 draft: true
@@ -22,7 +22,7 @@ aihealueet:
  
 
 ---
-Mestarin sanoin -artikkeli 2018
+Mestarin sanoin -artikkeli 2019
 <p></div><br clear='all' /><br />
 Lainaus: Mahdollistaakseen ihmisten ymmärtää tekojensa seuraukset, on Maitreya valmiina astumaan julkisuuteen. Hän tulee lisäämään oman vakuuttavan viisautensa vaatimukseen tervejärkisyydestä ja rauhasta. Hän tulee inspiroimaan ja opettamaan.</p>
 <!-- more -->
