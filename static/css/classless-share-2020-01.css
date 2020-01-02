@@ -20,6 +20,18 @@ html {
   padding: 0;
 }
 
+/*
+	BASICS
+*/
+h1, h2,h3,h4{
+	margin-bottom:15px; margin-top:35px;
+}
+h1 {
+	font-size: 1.7em;
+	line-height: 1.2;
+}
+
+
 h1 {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-size: 1.5em;
@@ -212,7 +224,7 @@ body > main {
         }
         main > section > ul > li header {}
           main > section > ul > li header img {
-            width: 100%;
+            width: 20%;
             display: block;
             -webkit-transition: all 0.2s ease-out;
             -moz-transition: all 0.2s ease-out;
@@ -420,16 +432,6 @@ a::after {
 
 
 
-/*
-	BASICS
-*/
-h1, h2,h3,h4{
-	margin-bottom:15px !important;margin-top:35px !important;
-}
-h1 {
-	font-size: 1.7em;
-	line-height: 1.2;
-}
 
 /*
 	MENU

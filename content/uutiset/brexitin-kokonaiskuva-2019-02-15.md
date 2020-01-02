@@ -26,8 +26,6 @@ aihealueet:
  
 
 ---
-
-
 <div class="alustus">
 <p>
     Peukalosääntönä voitaneen pitää sitä, että siellä missä ilmenee
