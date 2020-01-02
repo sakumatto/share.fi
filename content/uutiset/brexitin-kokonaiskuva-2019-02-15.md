@@ -29,9 +29,6 @@ aihealueet:
 
 
 <div class="alustus">
-<h1>
-    Brexitin suurempi kuva
-</h1>
 <p>
     Peukalosääntönä voitaneen pitää sitä, että siellä missä ilmenee
     epäharmoniaa tai separatistisia taipumuksia, on hyödyllistä analysoida
