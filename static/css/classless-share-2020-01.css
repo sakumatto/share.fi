@@ -245,6 +245,7 @@ body > main {
           main > section > ul > li header aside time {
             padding: 0;
             color: #777;
+            text-align:right;
             font-size: small;
             line-height: 1.2;
             font-weight: 500;
