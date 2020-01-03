@@ -18,6 +18,7 @@ naytapvm: true
 author: share.fi
 type: uutiset
 
+summary: "Maailmanopettajan lupaus meille, 11/2011"
 
 avainsanat:
  - Uutiset

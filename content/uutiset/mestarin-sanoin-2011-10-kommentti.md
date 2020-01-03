@@ -18,6 +18,7 @@ naytapvm: true
 author: share.fi
 type: uutiset
 
+summary: "Erottelun miekan tärkeys, 10/2011"
 
 avainsanat:
  - Uutiset

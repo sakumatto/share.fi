@@ -18,6 +18,7 @@ author: share.fi
 type: uutiset
 
 
+summary: "Maitreyan tv-esiintymiset laajenivat Meksikoon, missä haastattelut ovat olleet yksinään. Näin muodoin Maitreya on aloittanut ja tästä eteenpäin Hän tulee ilmeisesti olemaan suorapuheisempi"
 
 avainsanat:
  - Maitreya tv

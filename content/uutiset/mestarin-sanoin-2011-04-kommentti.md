@@ -19,6 +19,7 @@ author: share.fi
 type: uutiset
 photo:
 
+summary: "Ihmisen vastuu, 4/2011"
 
 avainsanat:
  - Uutiset

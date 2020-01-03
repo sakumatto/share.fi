@@ -19,6 +19,7 @@ author: share.fi
 type: uutiset
 photo:
 
+summary: "Lähi-Idän kuohunta onkin hyvä merkki, 5/2011"
 
 avainsanat:
  - Uutiset

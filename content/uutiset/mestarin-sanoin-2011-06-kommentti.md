@@ -19,6 +19,7 @@ author: share.fi
 type: uutiset
 photo:
 
+summary: "Oikeudenmukaisuuden voitto on taattu, 6/2011"
 
 avainsanat:
  - Uutiset

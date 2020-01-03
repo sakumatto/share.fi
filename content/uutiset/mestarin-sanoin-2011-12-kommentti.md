@@ -18,6 +18,7 @@ naytapvm: true
 author: share.fi
 type: uutiset
 
+summary: "Uudistus on taattu, 12/2011"
 
 avainsanat:
  - Uutiset

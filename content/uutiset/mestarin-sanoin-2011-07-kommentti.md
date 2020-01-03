@@ -18,6 +18,7 @@ naytapvm: true
 author: share.fi
 type: uutiset
 
+summary: "Tawakkol Karman ja Arabikevät saivat Nobelin rauhanpalkinnon, 7/2011"
 
 avainsanat:
  - Uutiset

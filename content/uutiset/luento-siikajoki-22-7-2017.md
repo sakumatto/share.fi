@@ -17,7 +17,7 @@ naytapvm: false
 author: share.fi
 type: uutiset
 
-
+summary: "Seuraava Maitreyaa käsittelevä luento Siikajoella 22.7.2017"
 
 avainsanat:
  - Luento

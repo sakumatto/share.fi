@@ -18,6 +18,7 @@ naytapvm: true
 author: share.fi
 type: uutiset
 
+summary: "Ihmiskunnan on ymmärrettävä muutoksen tärkeys, 9/2011"
 
 avainsanat:
  - Uutiset

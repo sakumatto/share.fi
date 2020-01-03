@@ -19,6 +19,7 @@ author: share.fi
 type: uutiset
 photo:
 
+summary: "Ihmisten ääni kuultiin Tahrir-aukiolla, 3/2011"
 
 avainsanat:
  - Uutiset

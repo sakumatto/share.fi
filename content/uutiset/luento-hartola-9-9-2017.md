@@ -17,7 +17,7 @@ naytapvm: false
 author: share.fi
 type: uutiset
 
-
+summary: "Seuraava Maitreyaa käsittelevä luento on Hartolassa 9.9.2017"
 
 avainsanat:
  - Luento

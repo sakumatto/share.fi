@@ -15,7 +15,7 @@ naytapvm: false
 author: share.fi
 type: uutiset
 
-
+summary: "Maitreyaa käsittelevä luento Kuortaneella Ultra-päivien 2018 aikana 7.7.2018 klo 15"
 
 avainsanat:
  - Luento

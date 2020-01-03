@@ -15,7 +15,7 @@ naytapvm: false
 author: share.fi
 type: uutiset
 
-
+summary: "Maitreyaa käsittelevä luento Rajatieto-tv:n studiolla Helsingissä  17.10.2018"
 
 avainsanat:
  - Luento

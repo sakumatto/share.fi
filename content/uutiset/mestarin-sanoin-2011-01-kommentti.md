@@ -19,6 +19,7 @@ author: share.fi
 type: uutiset
 photo:
 
+summary: "18 miljoonaa vuotta kehitystä, 1/2011"
 
 avainsanat:
  - Uutiset

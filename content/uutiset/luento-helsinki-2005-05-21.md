@@ -15,7 +15,7 @@ naytapvm: false
 author: share.fi
 type: uutiset
 
-
+summary: "Seuraava Maitreyaa käsittelevä luento Helsingissä 21.5.2005, Rajatiedon keskus"
 
 avainsanat:
  - Luento

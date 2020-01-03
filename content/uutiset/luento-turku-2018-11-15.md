@@ -15,7 +15,7 @@ naytapvm: false
 author: share.fi
 type: uutiset
 
-
+summary: "Maitreyaa käsittelevä luento Turussa Konsan Kartanolla 15.11.2018"
 
 avainsanat:
  - Luento

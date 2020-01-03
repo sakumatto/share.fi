@@ -20,6 +20,7 @@ type: uutiset
 
 cover: "https://sharefi-cdn.sirv.com/star/maitreyan-tahti-ruotsi-2013-medi.201304_star_sweden_1.3.13.jpg"
 
+summary: "Maitreyan ”tähti”, 2 uutta havaintoa: Tämä oudon näköinen ’tähti’ nauhoitettiin eilen illalla klo 17:30 ja 18:30 välillä minun ja tyttöystäväni toimesta Göteborgissa"
 
 avainsanat:
  - Maitreyan "tähti"

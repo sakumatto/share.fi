@@ -19,6 +19,7 @@ author: share.fi
 type: uutiset
 photo:
 
+summary: "Hierarkia varoitti WTC-iskujen vastatoimista, 9/2001"
 
 avainsanat:
  - Uutiset

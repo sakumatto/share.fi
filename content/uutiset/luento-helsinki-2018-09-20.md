@@ -15,7 +15,7 @@ naytapvm: false
 author: share.fi
 type: uutiset
 
-
+summary: "Maitreyaa käsittelevä luento Helsingissä SHKL ry:n järjestämänä 20.9.2018"
 
 avainsanat:
  - Luento
@@ -26,4 +26,4 @@ aihealueet:
 
 ---
 <p>Maitreyaa käsittelevä luento Helsingissä SHKL ry:n järjestämänä.</p>
-<p>Luentoaika klo 18- 19.30. Paikka: Kirjatyöntekijänkatu 10 B, H:ki</p>
+<p>Luentoaika 20.9.2018 klo 18- 19.30. Paikka: Kirjatyöntekijänkatu 10 B, H:ki</p>
