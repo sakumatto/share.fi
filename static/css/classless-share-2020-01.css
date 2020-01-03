@@ -244,12 +244,13 @@ body > main {
           }
           main > section > ul > li header aside time {
             padding: 0;
+            color: #777;
             font-size: small;
             line-height: 1.2;
             font-weight: 500;
             text-transform: uppercase;
             letter-spacing: 0.1em;
-            margin: 0;
+            margin: 0 10px;
           }
           main > section > ul > li header a {
             color: #000;
