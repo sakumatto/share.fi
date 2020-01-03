@@ -22,6 +22,8 @@ type: kirjallisuus
 
 toc: true
 
+summary: "Moni kertoo kuinka he omakohtaisesti tuntevat Maitreyan kädestä tulevan energian. Käden jälki onkin hyvä tapa saada apua eri tilanteisiin ja se on mukava lahjaksi annettavaksi. Tulosta vaikka valokuvaksi ja laita raameihin kotona."
+
 avainsanat:
  - Kirjat
 

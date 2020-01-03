@@ -23,6 +23,8 @@ type: kirjallisuus
 
 toc: true
 
+summary: "Maitreya – 100 000 vuoden tarinan huipennus on kirja, joka kertoo vääjäämättömän loogisesti Henkisen Hierarkian taustoista, sen edustajan Maitreyan julkitulosta ja tämän opetusten vaikutuksesta koko länsimaiseen yhteiskuntaan."
+
 avainsanat:
  - Kirjat
 
