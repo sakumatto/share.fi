@@ -21,6 +21,7 @@ type: uutiset
 
 cover: "https://sharefi.sirv.com/sharefi/texasin-kansalliskaarti-hurrikaani-harvey-moottoritie-tulvaveden-alla.jpg?cx=360&cw=686&cy=80"
 
+summary: "Enin osa median tuhojen seurannasta on keskittynyt ennen kokemattomiin sademääriin, jotka myrsky tuotti, Klein sanoo artikkelissaan Intercept-uutissivustolla. Ja se siitä silkasta syystä, että kukaan ei odottanut sitä, eikä siihen siksi varauduttu."
 
 avainsanat:
  - Uutiset

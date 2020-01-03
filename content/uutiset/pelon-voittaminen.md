@@ -18,7 +18,7 @@ naytapvm: false
 author: share.fi
 type: uutiset
 
-
+summary: "Ajatus on mekanismi, jonka avulla annamme muodon niille ideoille, jotka mieli luo. Mutta me emme ole mieli. Mieli on vain käyttöväline."
 
 avainsanat:
  - perustulo

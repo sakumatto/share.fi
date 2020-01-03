@@ -20,6 +20,7 @@ author: share.fi
 type: uutiset
 cover: "https://sharefi-cdn.sirv.com/sharefi/kristuksen-jalleentuleminen-kansikuva.jpg?cx=50&cw=280&cy=90&ch=190"
 
+summary: "Sana अवतार (avatar) on sanskritin kieltä ja merkitsee kirjaimellisesti tulla alas kaukaa."
 
 avainsanat:
  - Uutiset

@@ -19,7 +19,7 @@ naytapvm: false
 author: share.fi
 type: uutiset
 
-
+summary: "Englannin taitoisille on luettavaa nettilehdessä nimeltä&nbsp;Wisdom Magazine, levikiltään 150.000, ja joka ilmestyy Yhdysvalloissa"
 
 avainsanat:
  - Uutiset

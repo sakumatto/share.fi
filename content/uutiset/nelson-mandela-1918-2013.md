@@ -20,6 +20,7 @@ type: uutiset
 
 cover: "https://sharefi.sirv.com/sharefi/Nelson_Mandela_1918-2013.jpg"
 
+summary: "Benjamin Creme kirjoittaa: Tahtoisin muistuttaa lukijoitamme siitä erityislaatuisesta osasta, joka Maitreyalla, Maailmanopettajalla, oli tapahtumissa, jotka johtivat Nelson Mandelan vankilasta vapauttamiseen 27 vuoden vankeuden jälkeen"
 
 avainsanat:
  - Uutiset

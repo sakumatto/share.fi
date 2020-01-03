@@ -20,6 +20,8 @@ author: share.fi
 type: uutiset
 cover: "https://sharefi-cdn.sirv.com/sharefi/prinsessa-diana-flickr.jpg?cx=60&cw=286&cy=180"
 
+summary: "Dianan hautajaisten kulku oli Julkitulon päivän kenraaliharjoitus"
+
 avainsanat:
  - Uutiset
  

@@ -21,7 +21,7 @@ naytapvm: false
 author: share.fi
 type: uutiset
 
-
+summary: "Olemmeko valmiit omaksumaan uuden roolimme ja uuden suhteemme Henkisen Hierarkian kanssa ja maailman kanssa; uuden suhtautumisen tähän maailmanlaajuiseen ryhmään ihmisiä, jotka kaikki tiedottavat Henkisen Hierarkian tulosta julkisuuteen ja olemmeko valmiit näihin muutoksiin sekä sisäisesti että ulkoisesti?"
 
 avainsanat:
  - Uutiset

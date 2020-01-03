@@ -20,6 +20,7 @@ naytapvm: false
 author: share.fi
 type: uutiset
 
+summary: "Vuosi 2011 oli monin tavoin merkityksellinen vuosi, kuten voimme havaita tätä lehteä [Share International -lehti] tutkimalla. Siksi onkin hyödyllistä käydä läpi Benjamin Cremen Mestarin artikkelit Share International lehdessä vuonna 2011."
 
 avainsanat:
  - Uutiset
