@@ -9,6 +9,7 @@ menu:
 
 aliases:
     - /lisatietoa/
+    - /aihealueet/lisatietoa/
 
 
 
