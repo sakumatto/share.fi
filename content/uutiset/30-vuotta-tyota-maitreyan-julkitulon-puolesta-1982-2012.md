@@ -8,7 +8,7 @@ menu:
 
 aliases:
     - /30-vuotta-tyota-maitreyan-julkitulon-puolesta-1982-2012/
-
+    - /aihealueet/lisätietoa/30-vuotta-tyota-maitreyan-julkitulon-puolesta-1982-2012/
 master:
 
 ei_pvm: false
