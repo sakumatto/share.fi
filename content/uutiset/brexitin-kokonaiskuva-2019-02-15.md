@@ -26,8 +26,7 @@ aihealueet:
  
 
 ---
-<div class="alustus">
-<p>
+<p class="alustus">
     Peukalosääntönä voitaneen pitää sitä, että siellä missä ilmenee
     epäharmoniaa tai separatistisia taipumuksia, on hyödyllistä analysoida
     syitä niiden takaa. Jakautumiskehitys tuottaa eripuraa ja ryhmittymiä ja se
@@ -39,7 +38,7 @@ aihealueet:
     kunnioittaen ja sitä ilolla tervehtien. Jokaisella kansalla on omat
     ainutkertaiset ominaisuutensa, mutta ne tulisi saattaa suuremman ryhmän
     palvelukseen.
-</p></div>
+</p>
 <p>
     Tammikuussa 1971 Yhdistyneen kuningaskunnan parlamentti sopi liittymisestä
     Euroopan yhteismarkkinoille, kuten nimi tuolloin oli. Konservatiivien
