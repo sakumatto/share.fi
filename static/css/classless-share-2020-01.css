@@ -225,7 +225,7 @@ body > main {
         main > section > ul > li header {}
           main > section > ul > li header img {
             width: 20%;
-            display: block;
+            display: inline-block;
             -webkit-transition: all 0.2s ease-out;
             -moz-transition: all 0.2s ease-out;
             transition: all 0.2s ease-out;
@@ -604,7 +604,7 @@ p.qna-q {
 .etusivulle-kuva {
 	max-width: 40px;
 	float:right;
-	margin: 12px 0 12px 12px;
+	margin: 12px 10px 12px 12px;
 	display:inline-block;
 }
 
