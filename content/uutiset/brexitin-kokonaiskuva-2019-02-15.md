@@ -17,8 +17,7 @@ type: uutiset
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/brexit-suurempi-kuva.jpg"
 
-summary:
-"Jakautumiskehitys tuottaa eripuraa ja ryhmittymiä ja se saa kasvuvoimaa kaaoksen voimista. Varmastikin on viisaampaa valita yhtenäisyys ja työskennellä yhteisen hyvän eduksi. Yleinen taipumus ihmiskunnan kehittyessä ja laventaessaan kykyään identifioitua muihin – riippumatta siitä kuinka vierailta nuo ´muut´ vaikuttavat – on liikkuminen kohti suurempaa yhteenkuuluvuutta, ja siltikin moninaisuutta aina kunnioittaen ja sitä ilolla tervehtien. Jokaisella kansalla on omat ainutkertaiset ominaisuutensa, mutta ne tulisi saattaa suuremman ryhmän palvelukseen."
+summary: "Jakautumiskehitys tuottaa eripuraa ja ryhmittymiä ja se saa kasvuvoimaa kaaoksen voimista. Varmastikin on viisaampaa valita yhtenäisyys ja työskennellä yhteisen hyvän eduksi. Yleinen taipumus ihmiskunnan kehittyessä ja laventaessaan kykyään identifioitua muihin – riippumatta siitä kuinka vierailta nuo ´muut´ vaikuttavat – on liikkuminen kohti suurempaa yhteenkuuluvuutta, ja siltikin moninaisuutta aina kunnioittaen ja sitä ilolla tervehtien. Jokaisella kansalla on omat ainutkertaiset ominaisuutensa, mutta ne tulisi saattaa suuremman ryhmän palvelukseen."
 
 avainsanat:
  - Uutiset
