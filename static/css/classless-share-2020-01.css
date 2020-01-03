@@ -223,7 +223,7 @@ body > main {
           box-shadow: 0 0 5px #999;
         }
         main > section > ul > li header {}
-          main > section > ul > li header img {
+          main > section > ul > li header a img {
             width: 20%;
             display: inline-block;
             -webkit-transition: all 0.2s ease-out;
