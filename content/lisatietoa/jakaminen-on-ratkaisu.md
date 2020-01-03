@@ -24,6 +24,7 @@ naytapvm: false
 author: share.fi
 type: lisatietoa
 
+summary: "Globaali kaikkien maiden kesken tapahtuva resurssien jakaminen voi ainoana aikaansaada sen luottamuksen eri maiden kesken, joka tarvitaan pysyvän rauhan aikaansaamiseksi. Tässä haastattelussa Benjamin Creme avaa tuon ajatuksen taustoja."
 
 avainsanat:
  - jakaminen

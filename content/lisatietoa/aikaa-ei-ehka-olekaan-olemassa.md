@@ -26,6 +26,7 @@ naytapvm: false
 author: share.fi
 type: lisatietoa
 
+summary: "Tämä artikkeli on katkelma, joka käsittelee ajan käsitettä. Aina vain kasvava joukko tutkimuksia osoittavat todeksi, että mentaaliset toimet voivat vaikuttaa kehomme fysiologisiin kokonaisuuksiin, ja että nk. psi-ilmiön tutkimus näyttäisi osoittavan ihmisessä ilmenevän yliaistillisen havainnointikyvyn sekä kyvyn mentaalisesti vaikuttaa toisiin organismeihin, ja että alati kasvava joukko kuolemanrajakokemuksia osoittavat tietoisuuden jatkuvan kliinisen kuoleman jälkeenkin."
 
 avainsanat:
  - aikakäsitys

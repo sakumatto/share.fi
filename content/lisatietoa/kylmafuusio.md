@@ -26,6 +26,7 @@ naytapvm: false
 author: share.fi
 type: lisatietoa
 
+summary: "Valon teknologian nimellä tunnettu tieteellinen kehitysaskel ihmiskunnan tulevaisuudessa tulee saatavillemme kunhan ensin opimme jakamisen periaatteen. Loputon energialähde, kylmäfuusio, olisi jo nyt saatavilla. Sen avulla fissioon perustuva – huippusaastuttava – ydinenergia voitaisiin korvata puhtaalla kylmäfuusiolla."
 
 avainsanat:
  - kylmäfuusio

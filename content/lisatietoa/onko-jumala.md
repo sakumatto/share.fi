@@ -21,7 +21,7 @@ aliases:
 author: share.fi
 
 
-
+summary: "Kautta aikakausien ihmiskunnan keskuudessa on elänyt ihmisiä, jotka ovat elämänsä tehtäväksi saaneet (vapaaehtoisesti ottaneet tehtäväkseen) kertoa tästä, nähdäkseni oikeammasta versiosta luomiskertomusta. Siis Ajattoman viisauden opista elämästä ja Jumalasta."
 
 
  

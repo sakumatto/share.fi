@@ -20,11 +20,7 @@ naytapvm:  false
 
 author: share.fi
 
-
-
-
-
- 
+summary: "Vuosien varrella enkelit kuvissa ovat olleet Share Internationalin mukavinta satoa sen lukijoiden kannalta: yhtäältä kuvat ovat kiehtovia kertomuksia kosmoksen elämästä ja toisaalta enkelit kuvissa ovat pätevä osoitus siitä, että elämä on laaja-alaisempi totuus kuin mitä tämän päivän tiede antaa ymmärtää."
 ---
 <h2>Mestarit enkeleinä kuvissa</h2>
 <p class="alustus">Vuosien varrella enkelit kuvissa ovat olleet Share Internationalin mukavinta satoa sen lukijoiden kannalta: yhtäältä kuvat ovat kiehtovia kertomuksia kosmoksen elämästä ja toisaalta enkelit kuvissa ovat pätevä osoitus siitä, että elämä on laaja-alaisempi totuus kuin mitä tämän päivän tiede antaa ymmärtää. Me kaikki olemme kokeneet tai lukeneet että on (nykytieteelle) selittämättömiä asioita, tässä joitain kuvia sellaisista.</p>

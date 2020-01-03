@@ -11,7 +11,7 @@ menu:
 aliases:
     - /nasa-kuvasi-enkelin-lentavan-auringon-lahella/
 
-
+summary: "Tässä tarina NASAn valokuvaamasta enkelistä. Ihmeitä on tapahtunut tihenevällä tahdilla viimeisten kolmen vuosikymmenen aikana. Share International yhdistää ne suurempaan taustakertomukseen: henkisten opettajien tuloon julkisuuteen tänä kriittisenä aikana."
 
 ei_pvm:  true
 naytakk:  false

@@ -24,6 +24,7 @@ naytapvm: false
 author: share.fi
 type: lisatietoa
 
+summary: "Benjamin Cremestä, brittiläisestä taiteilijasta ja esoteerisen filosofian pitkäaikaisesta opiskelijasta, tuli kansainvälisesti Maitreyan, Maailmanopettajan, julkitulon päätietolähde."
 
 avainsanat:
  - Benjamin Creme

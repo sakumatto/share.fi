@@ -15,7 +15,7 @@ aliases:
 
 author: share.fi
 
-
+summary: "Swami Premananda oli suuri henkinen Avataara ja hän kuoli vuosia kestäneen epäoikeutetun vankilassaolon jälkeen 21.2.2011."
 
 
 

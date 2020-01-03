@@ -20,11 +20,7 @@ naytapvm:  false
 
 author: share.fi
 
-
-
-
-
- 
+summary: "Aivan kuten ihmisilläkin, mailla on oma luontonsa. Tämä johtuu siitä, että joka maalla on oma sielun ja persoonallisuuden säde. Tässä artikkelissa käsitellään Italiaa ja Japania."
 ---
 <p class="alustus">Aivan kuten ihmisilläkin, mailla on oma luontonsa. Tämä johtuu siitä, että joka maalla on oma sielun ja persoonallisuuden säde. Tässä artikkelissa käsitellään Italiaa ja Japania.</p>
 <p class="aligncenter"><img src="https://sharefi-cdn.sirv.com/sharefi/yhdistetty-kartta-italia-japani-777x547.jpg" width="777" height="547" alt="" /></p>

@@ -25,7 +25,7 @@ aihealueet:
   - ufo
   - viljapeltokuvio
 
-
+summary: "K: Onko Maitreyan ja viljapeltokuvioiden välillä jokin yhteys? Lisätietoa viljapeltokuviot -ilmiöstä"
 
 ---
 <h3>Lisätietoa viljapeltokuviot -ilmiöstä</h3>

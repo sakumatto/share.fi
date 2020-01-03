@@ -24,6 +24,7 @@ naytapvm: false
 author: share.fi
 type: lisatietoa
 
+summary: "Nämä kuvat kaikki kertovat tarinaa ajastamme. Erityislaatuisia tapahtumia on käytännössä päivittäin. Miksi niistä ei kerrota laajasti ja siten välitetä toivon sanomaa koko ihmiskunnalle…? Sekin on aikamme kuvaa."
 
 avainsanat:
  - aikakäsitys
@@ -34,7 +35,7 @@ aihealueet:
 
 ---
 
-<p class="alustus">Nämä kuvat kaikki kertovat tarinaa ajastamme. Erityislaatuisia tapahtumia on käytännössä päivittäin. Miksi niistä ei kerrota laajasti ja siten välitetä toivon sanomaa koko ihmiskunnalle…? Sekin on aikamme kuva. Tässä artikkelissa esitellään kuvia ja kokemuksia, jotka kuvastavat juuri tätä aikaa, jossa elämme. Hierarkia on tulossa julkisuuteen ja vanha kaarti taistelee kynsin hampain valtansa rippeistä. Nuoret vaativat mielenosoituksissa tasa-arvoa ja oikeudenmukaisuutta kun vanhempi polvi kokee vaatimukset mellakointina ja perusteettomana. Avaruusveljet antavat vihjeitä olemassa olostaan mutta skeptikkojen etujoukko yrittää huudollaan peittää totuuden äänen alleen.</p>
+<p class="alustus">Nämä kuvat kaikki kertovat tarinaa ajastamme. Erityislaatuisia tapahtumia on käytännössä päivittäin. Miksi niistä ei kerrota laajasti ja siten välitetä toivon sanomaa koko ihmiskunnalle…? Sekin on aikamme kuvaa. Tässä artikkelissa esitellään kuvia ja kokemuksia, jotka kuvastavat juuri tätä aikaa, jossa elämme. Hierarkia on tulossa julkisuuteen ja vanha kaarti taistelee kynsin hampain valtansa rippeistä. Nuoret vaativat mielenosoituksissa tasa-arvoa ja oikeudenmukaisuutta kun vanhempi polvi kokee vaatimukset mellakointina ja perusteettomana. Avaruusveljet antavat vihjeitä olemassa olostaan mutta skeptikkojen etujoukko yrittää huudollaan peittää totuuden äänen alleen.</p>
 <br clear="all" />
 
 <h2>Okinawan valoristi</h2>

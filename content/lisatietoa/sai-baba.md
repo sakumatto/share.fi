@@ -16,7 +16,7 @@ aliases:
 author: share.fi
 
 
-
+summary: "Sai Baba on &#8230;kaikkein täydellisesti pyhä olento, joka tällä planeetalla on ilo saada huomaansa.&#8221; Baba on avataara, joka ei ole Maan evoluution jäsen..."
 
 
  

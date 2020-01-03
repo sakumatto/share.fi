@@ -22,11 +22,7 @@ aliases:
 
 author: share.fi
 
-
-
-
-
- 
+summary: "Kuunnelkaa poliitikkoja heidän esitellessään ratkaisuja taloudellisiin ongelmiin. Kuulet hyvin valmistellun ja harvoin kyseenalaistetun selostuksen: Meidän täytyy kasvattaa talouttamme luodaksemme työpaikkoja, jotta ihmisillä on varaa kuluttaa enemmän, mikä luo taas lisää työpaikkoja…" 
 ---
 <div class="alustus"><p>Miksi talouden pitäisi vain aikuistua eikä enää kasvaa
 kirjoittaja David Korten</p></div>

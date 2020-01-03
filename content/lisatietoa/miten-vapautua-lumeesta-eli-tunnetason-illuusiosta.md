@@ -20,10 +20,7 @@ aliases:
 
 author: share.fi
 
-
-
-
-
+summary: "Lume on tunnetason eli toiselta nimeltään astraalitason illuusiota, siis harhaa. Lume on elämämme suuria ongelmia koska ihmiskunta on ylikehittänyt tunnetasonsa eikä tunnista lumetta."
  
 ---
 <div class="alustus"><p>Lume on tunnetason eli toiselta nimeltään astraalitason illuusiota, siis harhaa</strong>. Lume on elämämme suuria ongelmia koska ihmiskunta on ylikehittänyt tunnetasonsa eikä tunnista lumetta. Moni maailman johtajista elää vallan lumeessa ja me tavalliset länsimaalaiset elämme lumeessa, jossa luulemme olevamme etuoikeutettuja elämään nykyisessä yltäkylläisyydessä nälkäänäkevien veljiemme kustannuksella.</p></div>

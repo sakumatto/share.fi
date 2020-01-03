@@ -24,6 +24,8 @@ naytapvm: false
 author: share.fi
 type: lisatietoa
 
+summary: "esoteerinen tieto?</h3>
+<p>Sana esoteerinen on eksoteerisen vastakohta. Se tarkoittaa sellaista joka ei ole nähtävissä, joka on pinnan alla piilossa ja siksi ikiaikainen tieto on esoteerista, koska se ei ole ollut kaikkien tiedossa."
 
 avainsanat:
  - aikakäsitys

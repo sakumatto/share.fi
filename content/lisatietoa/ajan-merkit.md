@@ -25,6 +25,7 @@ naytapvm: false
 author: share.fi
 type: lisatietoa
 
+summary: "Ajan merkit 5-2016:  tässä osiossa kertaamme maailmalla tapahtuneita merkillisiä tapahtumia, jotka Cremen Mestari on vahvistanut aidoiksi ihmeiksi."
 
 avainsanat:
  - aikakäsitys

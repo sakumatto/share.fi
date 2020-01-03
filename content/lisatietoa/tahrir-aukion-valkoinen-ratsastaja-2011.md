@@ -18,7 +18,7 @@ naytapvm:  false
 
 author: share.fi
 
-
+summary: "2011 Egyptin kansannousun aikaan, joka päivä, 18 päivän ajan, Maitreya vietti useita tunteja Kairossa, pääasiallisesti Tahrir-aukiolla. Lue koko kiehtova tarina."
 
 
 
@@ -28,7 +28,7 @@ author: share.fi
 
 
 
-<p class="alustus">Maailmanopettaja Maitreya oli paikalla Tahrir-aukiolla 2011 Egyåtin kansannousun aikaan. "Joka päivä, 18 päivän ajan, Maitreya vietti useita tunteja Kairossa, pääasiallisesti aukiolla." Lue koko kiehtova tarina.</p>
+<p class="alustus">Maailmanopettaja Maitreya oli paikalla Tahrir-aukiolla 2011 Egyptin kansannousun aikaan. "Joka päivä, 18 päivän ajan, Maitreya vietti useita tunteja Kairossa, pääasiallisesti aukiolla." Lue koko kiehtova tarina.</p>
 
 
 <h1>Maitreya, Maailmanopettaja, nähtiin Tahrir-aukiolla Egyptin kansannousun tukena</h1>
