@@ -602,7 +602,7 @@ p.qna-q {
 }
 
 .etusivulle-kuva {
-	max-width: 140px;
+	max-width: 40px;
 	float:right;
 	margin: 12px 0 12px 12px;
 	display:inline-block;
@@ -637,6 +637,7 @@ a[href*="share.fi"],
 a[href*="localhost"],
 a[href*="sirv.com"],
 a[href*="share-fi-2018.firebaseapp.com"],
+a[href*="gallant-ardinghelli-620fc5.netlify.com"],
 a[href^="/"],
 a[href^="#"],
 a[href^="mailto:"],
@@ -648,7 +649,8 @@ a[href^="javascript:"] {
 a[href*="share.fi"]:after ,
 a[href*="sirv.com"]:after,
 a[href*="localhost"]:after,
-a[href*="share-fi-2018.firebaseapp.com"],
+a[href*="share-fi-2018.firebaseapp.com"]:after,
+a[href*="gallant-ardinghelli-620fc5.netlify.com"]:after,
 a[href^="/"]:after,
 a[href^="#"]:after,
 a[href^="mailto:"]:after,
