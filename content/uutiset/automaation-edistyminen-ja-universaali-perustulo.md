@@ -17,7 +17,7 @@ naytapvm: false
 author: share.fi
 type: uutiset
 
-
+summary: "teknologisten kehitysaskelten myötä ja vanhojen teollisuudenalojen sulkeudutumisen myötä yhä useammat työt käyvät turhiksi, työttömyys joutuu pakolliselle kasvu-uralla. Elinkeinot katoavat ja samalla köyhyyslukemat tulevat kasvamaan, jopa eksponentiaalisesti, mikäli taloudellista ilmastoa ei radikaalisti uudelleenarvioida."
 
 avainsanat:
  - perustulo

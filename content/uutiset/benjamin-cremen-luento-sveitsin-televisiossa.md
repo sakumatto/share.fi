@@ -20,6 +20,7 @@ author: share.fi
 type: uutiset
  "https://upload.wikimedia.org/wikipedia/commons/b/bc/BenjaminCremeNYClecture2008.jpg"
 
+summary: "Saksankielentaitoisille on nyt tarjolla harvinaista herkkua kun alla nähtävän videon mukana näemme ja kuulemme haastattelun, joka näytettiin vain muutama päivä sitten Sveitsin televisiossa."
 
 avainsanat:
  - Luento Sveitsin tv:ssä

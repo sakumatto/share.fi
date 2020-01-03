@@ -17,7 +17,7 @@ naytapvm: false
 author: share.fi
 type: uutiset
 
-
+summary: "K. Sanoisitteko, että Pariisin hirvittävät tapahtumat ovat nopeuttaneet vaiko hidastaneet Maitreyan julkituloa? -- V. Tapahtumathan ovat kova koettelemus heille, joita se läheisimmin koskee, mutta se on avannut Maitreyalle ovia, jotka muussa tapauksessa olisivat pysyneet suljettuina pidempään."
 
 avainsanat:
  - Pariisi marraskuu 2015

@@ -19,6 +19,7 @@ type: uutiset
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/ahneus-jakaminen-paavi.jpeg"
 
+summary: "Kysykäämme itseltämme: tarvitsenko todella kaiken tämän materiaalisen paljouden ja monimutkaisen elämisen ohjeen?, tähdentää paavi Franciskus jouluna 2018"
 
 avainsanat:
  - Uutiset

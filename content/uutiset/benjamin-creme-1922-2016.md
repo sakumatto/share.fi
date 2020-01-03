@@ -18,8 +18,10 @@ naytapvm: false
 
 author: share.fi
 type: uutiset
+
 cover: "https://sharefi-cdn.sirv.com/sharefi/benjamin-creme-1922-2016.jpg?cx=120&cw=166&cy=40"
 
+summary: "Share International surullisena ilmoittaa, että Benjamin Creme, brittiläinen taiteilija, kirjailija ja luennoitsija, on kuollut. Hän nukkui pois rauhallisesti 24.10.2016 perheensä parissa kotonaan Lontoossa."
 
 avainsanat:
  - Uutiset

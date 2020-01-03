@@ -20,6 +20,7 @@ author: share.fi
 type: uutiset
 cover: "https://sharefi-cdn.sirv.com/sharefi/benjamin-creme-puhuu-1982-los-angeles-lehdistotilaisuus.jpg?cx=360&cw=686&cy=80"
 
+summary: "Juhlistamme tällä artikkelilla nyt jo 30 vuoden ajan jatkunutta yhtäjaksoista työtä, jonka tarkoituksena on tuoda maailmanlaajuiseen julkiseen tietoon se seikka, että Maailmanopettaja Maitreya on tälläkin hetkellä olemassa fyysisessä kehossa ja että Hän odottaa ihmiskunnan kutsua voidakseen tulla laajaan julkisuuteen avuksemme ja tueksemme."
 
 avainsanat:
  - Uutiset

@@ -18,7 +18,7 @@ naytapvm: false
 author: share.fi
 type: uutiset
 
-
+summary: "Mestarit eivät ole huolissaan--  ja että tapahtumat tulevat pian osoittamaan, että mikään ei voi estää suunnitelmassaan Maitreyaa"
 
 avainsanat:
  - Brexit

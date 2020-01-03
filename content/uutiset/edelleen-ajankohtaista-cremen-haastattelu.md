@@ -21,8 +21,10 @@ type: uutiset
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/jakamisen-periaate.jpg?cx=260&cw=376&cy=250"
 
+summary: "Benjamin Creme: Pääongelma on se tosiasia, että olemme tulleet sivilisaatiomme loppuun. Olemme todistamassa reilut 2.000 viime vuotta voimassa olleen sivilisaation hajoamista ja uuden sivilisaation luomisprosessin alkua"
+
 avainsanat:
- - Brexit
+ - Jakaminen
  
 aihealueet:
  - Uutiset

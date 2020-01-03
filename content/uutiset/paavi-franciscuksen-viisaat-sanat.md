@@ -18,7 +18,7 @@ naytapvm: false
 author: share.fi
 type: uutiset
 
-
+summary: "Paavi Franciscus antoi julkilausuman marraskuussa 2013, joka arvostelee nykyistä maailmanlaajuista taloudellista järjestelmää, kutsuu maailman johtajia toimimaan köyhyyden ja epäoikeudenmukaisuuden poistamiseksi, ja rikkaita jakamaan varallisuutensa köyhien kanssa."
 
 avainsanat:
  - perustulo
@@ -28,7 +28,7 @@ aihealueet:
  
 
 ---
-<p class="alustus">Paavi Franciscus antoi julkilausuman marraskuussa 2013, Apostolisen Kehoituksen, jota kutsutaan nimellä Evangelii Gaudium (” Evankeliumin Ilo”). Lausunto arvostelee nykyistä maailmanlaajuista taloudellista järjestelmää, kutsuu maailman johtajia toimimaan köyhyyden ja epäoikeudenmukaisuuden poistamiseksi, ja rikkaita jakamaan varallisuutensa köyhien kanssa.</p>
+<p class="alustus">Paavi Franciscus antoi julkilausuman marraskuussa 2013, Apostolisen Kehotuksen, jota kutsutaan nimellä Evangelii Gaudium (” Evankeliumin Ilo”). Lausunto arvostelee nykyistä maailmanlaajuista taloudellista järjestelmää, kutsuu maailman johtajia toimimaan köyhyyden ja epäoikeudenmukaisuuden poistamiseksi, ja rikkaita jakamaan varallisuutensa köyhien kanssa.</p>
 <p>” Paavin tehtävä ei ole tarjota yksityiskohtaista ja kattavaa analyysia nykyajan todellisuudesta, ” Paavi Franciscus sanoo lausunnossaan, ” mutta minä kehotan kaikkia yhteisöjä ajan merkkien valppaaseen tarkasteluun.” ( lause Paavi Paavali VI:n kirjeestä vuodelta 1964).</p>
 
 <p>Tässä on otteita Paavi Franciscuksen lausunnosta.</p>

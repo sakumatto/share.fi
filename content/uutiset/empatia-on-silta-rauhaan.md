@@ -19,6 +19,8 @@ type: uutiset
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/empatia-on-silta-rauhaan-patrick_magee-jo_berry-2017-05.jpg?cx=170&cw=346&cy=150"
 
+summary: "Pommi tappoi Jo Berryn isän. Jo Berry tiesi, että hänellä on valinnan mahdollisuus: kantaa vihan ja suuttumuksen tunteita tai hakea ymmärrystä ja siten tuoda rauhan takaisin elämäänsä. Hän valitsi rauhan."
+
 avainsanat:
  - Brexit
  
