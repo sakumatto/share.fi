@@ -11,7 +11,7 @@ author: share.fi
 
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/share.fi-2016-07-maitreya-valeasussa-lontoossa-02.jpg"
-
+summary: "Maitreyan kohtaamisia on vuosien varrella jo satamäärin. Ne ovat puhuttelevia ja niistä riittää kerrottavaa muillekin."
 
 aihealueet:
  - kristus

@@ -11,7 +11,7 @@ naytavuosi:  true
 naytapvm:  false
 
 author: share.fi
-
+summary: "Maitreyan käsi -- Share International -lehden lokakuun 2001 numerossa oli koko sivun kokoinen kuva Maitreyan kädestä. Lukijoiden kiinnostuksesta ja kyselyistä johtuen Benjamin Creme selostaa tässä käden ilmaantumisen syitä ja taustoja."
 menu:
  main:
   name:  "Maitreyan käsi"

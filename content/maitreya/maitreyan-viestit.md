@@ -11,7 +11,7 @@ author: share.fi
 
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/mirokoku.jpg"
-
+summary: "Maitreyan vuosien varrella antamat viestit inspiroivat ja ne avaavat julkisuuteen tulon merkitystä ja taustoja"
 
 aihealueet:
  - kristus

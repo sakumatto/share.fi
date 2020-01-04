@@ -12,7 +12,7 @@ naytavuosi:  true
 naytapvm:  false
 
 author: share.fi
-
+summary: "Tälle sivulle on koottu yksiin kansiin se tieto, jota Maitreyan televisioesiintymisistä on tammikuun 2010 ja nykyhetken välillä saatavilla."
 
 
 

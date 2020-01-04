@@ -17,6 +17,8 @@ naytavuosi: false
 naytapvm: false
 
 author: share.fi
+summary: "Jeesus Nasaretilainen ja Kristus eivät itse asiassa ole sama henkilö. Tämä on monille kristityille kaikkein vaikein seikka omaksua Maitreyan, Maailmanopettajan, yhteydessä. Asiaa on siksi syytä selostaa hiukan tarkemmin."
+
 type: 
 
 

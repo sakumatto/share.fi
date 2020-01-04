@@ -18,7 +18,7 @@ naytavuosi: true
 naytapvm: false
 
 author: share.fi
-
+summary: "<strong>Kristus on kristillisen yhteisön lempinimi, jonka se on antanut Maailmanopettaja Maitreyalla</strong>. Kristus on samalla kuitenkin myös nimi sille saavutukselle, jonka Maitreya on tehnyt. Sana Kristus nimittäin tarkoittaa myös sitä"
 avainsanat:
  - 
  

@@ -9,7 +9,6 @@ menu:
   parent:  "maitreya"
 
 aliases:
-    - /maitreyan-aktivoima-vesi-eli-parantava-vesi-ja-valon-tiede/
     - /maitreya/maitreyan-esiintymiset/
     - /maitreya/maitreyan-kohtaamiset/
 
@@ -21,11 +20,12 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
+summary: "Tällä sivulla löydät listattuna niitä tapahtumia, jotka ovat edeltäneet Maailmanopettajan, Maitreyan, julkisuuteen tuloa ja jotka siten ovat viitoittaneet tietä Hänen tulolleen laajaan julkisuuteen. Julkitulon <em>lopullinen vaihe</em> on alkanut tammikuussa 2010 ja se on edelleen käynnissä"
 
 aihealueet:
  - kristus
 ---
-<p class="alustus">Täällä sivulla löydät listattuna niitä tapahtumia, jotka ovat edeltäneet Maailmanopettajan, Maitreyan, julkisuuteen tuloa ja jotka siten ovat viitoittaneet tietä Hänen tulolleen laajaan julkisuuteen. Julkitulon <em>lopullinen vaihe on alkanut tammikuussa 2010 ja se on edelleen syksyllä 2018 käynnissä</em>.</p>
+<p class="alustus">Tällä sivulla löydät listattuna niitä tapahtumia, jotka ovat edeltäneet Maailmanopettajan, Maitreyan, julkisuuteen tuloa ja jotka siten ovat viitoittaneet tietä Hänen tulolleen laajaan julkisuuteen. Julkitulon <em>lopullinen vaihe on alkanut tammikuussa 2010 ja se on edelleen käynnissä</em>.</p>
 
 
 <h1>Maitreyan tulo julkisuuteen</h1>

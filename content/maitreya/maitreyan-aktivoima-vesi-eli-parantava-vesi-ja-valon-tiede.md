@@ -12,7 +12,7 @@ aliases:
     - /maitreyan-aktivoima-vesi-eli-parantava-vesi-ja-valon-tiede/
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/nordenaussa-saksassa-2005-300x224.png" 
-
+summary: "Raportti tähän mennessä löytyneistä Maitreyan energisoimista parantavia ominaisuuksia sisältävistä lähteistä."
 ei_pvm:  true
 naytakk:  false
 naytavuosi:  false

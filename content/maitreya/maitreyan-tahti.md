@@ -10,7 +10,7 @@ ei_pvm:  true
 
 
 author: share.fi
-
+summary: "Maitreyan &#8221;tähti&#8221; on Maitreyan julkisuuteen tulon airut -- Kuva- ja videogalleria -- Lue taustatieto siitä, mikä &#8221;tähti&#8221; oikein on ja mihin se liittyy."
 
 cover: "https://sharefi-cdn.sirv.com/star/share.fi-high.201806_rgb_star2.jpg"
 
