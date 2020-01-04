@@ -12,7 +12,7 @@ naytapvm:  false
 
 author: share.fi
 
-
+summary: "Yhtenä monista muista Mestareista, D.K. työskentelee aktiivisesti Kristuksen julkitulon parissa. D.K. työskentelee paljon heidän kanssaan, jotka parantavat puhtaan altruismin pohjalta, Hän on aktiivinen heidän kanssaan, jotka työskentelevät maailman laboratorioissa ja sellaisten suurten filantrooppisten liikkeiden kanssa kuten Punainen risti sekä nopeasti kehittyvien hyvää tekevien liikkeiden kanssa."
 
 
 

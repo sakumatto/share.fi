@@ -11,7 +11,7 @@ naytapvm:  false
 
 author: share.fi
 
-
+summary: "Lyhyt biografia kolmesta Henkisen Hierarkian Mestarista: Mestari Koot Hoomista, Mestari Moryasta ja Mestari Rakoczista."
 
 
 

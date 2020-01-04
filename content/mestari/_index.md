@@ -15,7 +15,7 @@ naytavuosi: true
 naytapvm: false
 
 author: share.fi
-
+summary: "Sanana Hierarkian Mestari ei tarkoita minkäänlaista ylemmyyssuhdetta muihin. Mestari, joka siis on viidennen vihkimyksen saavuttanut ihminen, vapautuu jälleensyntymisen kiertokulusta tällä planeetalla. Koska planeetalla ei ole enää mitään opetettavaa tuolle Mestarille, ei Hänen ole enää tarpeen syntyä tänne uudestaan."
 cover: "https://sharefi-cdn.sirv.com/sharefi/mestari-hahmo.jpg"
 avainsanat:
  - Mestari
