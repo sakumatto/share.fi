@@ -16,6 +16,7 @@ summary: "Maitreyan kohtaamisia on vuosien varrella jo satamäärin. Ne ovat puh
 aihealueet:
  - kristus
  - kohtaamiset
+ - maitreyan-kohtaamisia
 ---
 <p>Maitreyan kohtaamisia on vuosien varrella jo satamäärin. Ne ovat puhuttelevia ja niistä riittää kerrottavaa muillekin.</p>
 
