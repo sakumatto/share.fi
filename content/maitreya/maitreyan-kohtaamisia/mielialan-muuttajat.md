@@ -16,6 +16,8 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
+summary: "Myös miesten pukeutuminen, keltaraidalliset sadetakit, oli erittäin koomista. Koko tapahtuma oli suurrealistinen. Tästä hetkestä alkaen huono tuuleni oli kadonnut ja tunsin itseni onnelliseksi. Pienen hetken tunsin energiaa kruunuchakrassani. Oliko ensimmäinen pyöräilijä Maitreya ja toinen Mestari Jeesus?"
+
 type:  "kohtaamisia"
 
 

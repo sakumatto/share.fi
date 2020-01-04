@@ -19,6 +19,8 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
+summary: "Silminnäkijät kertovat, että tuntematon henkilö oli pukeutunut täydellisen valkoiseen kaapuun. Valkoinen on islamilaisessa kulttuurissa pyhiinvaelluksen väri eikä väri tuntuisi olevan linjassa tapahtumien kanssa."
+
 type:  "kohtaamisia"
 
 

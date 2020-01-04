@@ -16,6 +16,8 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
+summary: "Hän toisti:” Se on aivan oikein.” Ymmärsin, että hän viittasi Michiko Ishikawan puheeseen. Hän oli hiljainen, eikä puhunut paljon mutta teki minuun lähtemättömän vaikutuksen."
+
 type:  "kohtaamisia"
 
 

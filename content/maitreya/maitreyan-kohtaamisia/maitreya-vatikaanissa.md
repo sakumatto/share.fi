@@ -16,6 +16,8 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
+summary: "Vatikaanin ulkopuolella, kun he näkivät ohi kulkevan pitkän miehen tummine hiuksineen ja tummine partoineen pukeutuneena valkoiseen kaapuun. He ottivat kuvan miehestä. Mies tervehti heitä espanjaksi “Buenas noches” (hyvää yötä) ja jatkoi kävelyään, kunnes pysähtyi jonkun matkan päässä. Mies kyyristyi."
+
 type:  "kohtaamisia"
 
 

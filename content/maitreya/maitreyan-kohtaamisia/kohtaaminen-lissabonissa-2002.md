@@ -19,6 +19,8 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
+summary: "Kiivetessäni eräitä portaita näin yhtäkkiä nuoren naisen, jolla oli lapsi sylissään, molemmat nukkumassa lähes kokonaan vaatteidensa peittämänä. Näkyvillä oli vain ihmismöykky. Välittömästi minua kosketti aidon ja puhtaan realismin tunne."
+
 type:  "kohtaamisia"
 
 
