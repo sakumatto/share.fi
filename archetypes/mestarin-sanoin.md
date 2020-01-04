@@ -12,7 +12,7 @@ naytapvm: false
 author: mestari
 type: mestarin-sanoin
 
-
+summary: ""
 
 avainsanat:
  - Mestarin sanoin

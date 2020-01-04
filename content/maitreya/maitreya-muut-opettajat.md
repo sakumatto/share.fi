@@ -14,7 +14,7 @@ author: share.fi
 
 
 
-
+summary: "Tämän sivun tarkoitus on valottaa Maitreyan suhdetta sellaisiin tunnettuihin hahmoihin, kuten Sai Baba, Buddha, Krishna ja Jiddhu Krishnamurti."
  
 menu:
  main:

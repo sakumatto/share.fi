@@ -42,7 +42,7 @@ pluralizelisttitles = false
 fractions = false
 
 PaginatePath = "sivu"
-
+disableKinds = ["RSS"]
 
 [params]
 

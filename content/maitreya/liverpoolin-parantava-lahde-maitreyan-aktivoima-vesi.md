@@ -27,7 +27,7 @@ aihealueet:
   - magnetisoitu vesi
   - uutiset
 
-
+summary: "Useat ovat raportoineet parantuneensa joistain vesistä. Tällaiset vesilähteet keräävät kasvavia kävijämääriä Tlacotessa (Meksikossa), Nordenaussa (Saksassa) ja Nadanassa (Intiassa). Onko Liverpoolin Chalybeat-lähde tällainen?"
  
 ---
 <p class="alustus"><strong>1991 – 2008:&nbsp;</strong><a href="/maitreya/maitreyan-julkiset-esiintymiset/#taulukko">Maitreya ilmaantuu ihmeenomaisesti suurille väkijoukoille kautta maapallon.</a>Useissa tapauksissa hän on ennen ilmaantumistaan magnetisoinut jonkin vesistön läheisyydessä. Useat ovat raportoineet parantuneensa näistä vesistä. Tällaiset vesilähteet keräävät kasvavia kävijämääriä Tlacotessa (Meksikossa), Nordenaussa (Saksassa) ja Nadanassa (Intiassa).</p>

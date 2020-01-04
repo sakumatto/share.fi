@@ -11,7 +11,7 @@ menu:
 master: Maitreya
 ei_pvm:  true
 
-
+summary: "Maitreya antaa suuntaviivat sosiaaliselle muutokselle ja herättää halun jakaa ja auttaa ihmiskuntaa. Hän antaa myös vihjeitä siitä, kuinka tunnistaa Hänet ja kehottaa jakamaan tietoa hänen olemassaolostaan. Viestit ovat näennäisesti yksinkertaisia viestejä yhdeltä sydämeltä toiselle, mutta ne toimivat monella eri tasolla ja vain niitä meditoimalla, niiden todellinen merkitys avautuu."
 author: share.fi
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/sri-krishna.jpg"
