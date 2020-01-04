@@ -17,6 +17,8 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
+summary: "Koko ajan koin aitoa nöyryyttä sekä oppilas-opettaja-suhteen olemassaolon ja silti tunnelma oli niin rento ja ystävällinen, kuin parhaan ystävän vieraillessa. Tullessani takaisin etuhuoneeseen kahvin kanssa, näin kuinka mies katseli kirjoja ylähyllyllä, missä pidämme lainattavien kirjojen pientä kirjastoa."
+
 type:  "kohtaamisia"
 
 

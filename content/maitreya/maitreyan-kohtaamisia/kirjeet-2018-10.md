@@ -14,7 +14,7 @@ ei_pvm:  true
 
 
 author: share.fi
-
+summary: "Share International -lehdelle lähetettyjä lukijoiden kirjeitä. Näiden lokakuun 2018 kirjeiden kohtaamisten autenttisuutta ei ole voitu vahvistaa ja ne esitetään lukijoillemme oman pohdinnan ainekseksi."
 
 
 

@@ -17,6 +17,7 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
+summary: "Miehen kysymykset eivät olleet skeptisiä, epäileväisiä tai negatiivisia, vaan ne olivat kaikki ennemminkin tiedonhaluisia. Esitelmän jälkeen hän esitteli itsensä Danieliksi ja antoi minulle osan kuviota, jonka hän oli kutonut. Hän kutsui sitä nimellä ystävällinen neliö"
 type:  "kohtaamisia"
 
 

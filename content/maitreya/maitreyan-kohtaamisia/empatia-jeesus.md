@@ -16,6 +16,8 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
+summary: "Hänellä oli yllään sairaalan yöpuku eikä mitään muita vaatteita vaikka oli kylmä päivä. Katsoimme toisiamme silmiin ja aloin hymyillä hänelle. Tervehdin häntä ja huomasin, että hänen huulensa liikkuivat hänen vastatessaan."
+
 type:  "kohtaamisia"
 
 
