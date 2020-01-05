@@ -12,6 +12,7 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
+summary: "kylpyhuoneen ikkunassa oli kirkas ristinmuotoinen valo. Katselin ympärilleni sillä ajattelin sen olevan heijastuma jostain, mutta ymmärsin pian ettei sellaisesta ollut kyse"
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/medi.201309_valoristi_peru.jpg"
 

@@ -12,6 +12,7 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
+summary: "”Se ei selitä miksi viereiset esineet eivät ole inahtaneetkaan tai miksi patsas yhtäkkiä alkoi liikkua oltuaan vuosikaupalla paikoillaan … ja miksi sen liike on täydellinen ympyrä?"
 
 cover: "https://sharefi.sirv.com/sharefi/ihme-manchesterin-museon-pyoriva-patsas.jpg"
 

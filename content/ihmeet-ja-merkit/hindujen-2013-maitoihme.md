@@ -12,7 +12,7 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
-
+summary: "Kaksi päivää 10.3. vietetyn <em>Maha Shivaratrin</em> juhlallisuuksien jälkeen ihmiset kautta Guyanan alkoivat ilmoittaa siitä, että patsaille tarjottu maito ja vesi katosivat."
 cover: "https://sharefi-cdn.sirv.com/sharefi/intian-maitoihme-2013.201306_staceeey13.jpg"
 
 

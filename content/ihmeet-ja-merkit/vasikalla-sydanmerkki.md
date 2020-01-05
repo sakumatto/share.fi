@@ -16,11 +16,11 @@ aliases:
     - /vasikalla-sydamen-kuva-otsassaan/
 
 author: share.fi
-
+summary: "Yksi lehmistämme poiki 5.2.2014 ja vasikalla on selkeästi erottuva valkoinen sydän otsassaan. Voisiko tämä olla merkki?"
 
 
 
 
 ---
-<p class="alustus">T.J. ja N.J., Buzy, Ranska, kirjoittavat: “Yksi lehmistämme synnytti 5.2.2014 ja vasikalla on selkeästi erottuva valkoinen sydän otsassaan. Voisiko tämä olla merkki?”<br />
+<p class="alustus">T.J. ja N.J., Buzy, Ranska, kirjoittavat: “Yksi lehmistämme poiki 5.2.2014 ja vasikalla on selkeästi erottuva valkoinen sydän otsassaan. Voisiko tämä olla merkki?”<br />
 (Benjamin Cremen Mestari vahvistaa, että kyseessä on Mestari Jeesuksen luoma merkki.)</p>

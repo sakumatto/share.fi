@@ -15,7 +15,7 @@ naytapvm:  false
 cover: "https://sharefi-cdn.sirv.com/sharefi/ihmeet-merkit-intialainen-tytto-itkee-verikyynelia-201006_twinkle_dwivedi.jpg?cx=200&cy=40&cw=200&ch=200"
 
 author: share.fi
-
+summary: "Nuori intialaistyttö, Lucknorista Uttar Pradeshista, Intiasta, on kahden viime vuoden ajan itkenyt verikyyneleitä."
 
 
 

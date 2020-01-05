@@ -12,7 +12,7 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
-
+summary: "”Huomasin uuden, oudon voiteen, kuten hunajaa, joka peitti rintakehäni, kaulani ja otsani. Mieheni kokeili kiinnittää erilaisia esineitä rintakehääni ja ne kaikki tarrautuivat kiinni minuun."
 cover: "https://sharefi-cdn.sirv.com/sharefi/maitreyan-ihme-uusi-seelanti-2013.jpg"
 
 

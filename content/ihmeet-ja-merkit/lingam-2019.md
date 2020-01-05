@@ -13,7 +13,7 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
-
+summary: "Toistuva sarja jatkui taas: kymmenen lingamia taianomaisesti ilmestyi Swami Premanandan ashramissa tänäkin vuonna"
 cover: "https://sharefi-cdn.sirv.com/sharefi/lingam-2019-03-05-klo_n940-2_lingamia.png"
 
 

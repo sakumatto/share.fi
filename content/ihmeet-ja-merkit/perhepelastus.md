@@ -12,7 +12,7 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
-
+summary: "Kaiken tämän sekaaannuksen keskellä huomasin paperinpalan yleisellä ilmoitustaululla huoneistoni ulkopuolella. Kyse oli piirroksesta, joka kuvasi munkkia ja siinä olivat kaksi sanaa: ”Ole rauhassa” ja ”Muista rukoilla”"
 
 
 

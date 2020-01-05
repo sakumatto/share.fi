@@ -12,6 +12,7 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
+summary: "Silloin huomasin, että yhdessä kuvista taivaasta ikään kuin roikkui jotain. Zoomasimme kameran näytön emmekä saattaneet uskoa silmiämme."
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/201211_kreetan_ufo1.jpg"
 

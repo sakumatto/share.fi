@@ -16,10 +16,7 @@ aliases:
     - /kokki-loytaa-jumalan-munakoisosta/
 
 author: share.fi
-
-
-
-
+summary: "Louisianalaisen ravintolan kokki leikkasi auki munakoison löytääkseen sen siemenet aseteltuna sanan ”GOD” englanniksi Jumala muotoon."
 
 ---
 <p class="alustus">Louisianalaisen ravintolan kokki leikkasi auki munakoison löytääkseen sen siemenet aseteltuna sanan ”GOD” englanniksi Jumala muotoon. Gino’s -nimisen ravintolan kokki, Jermarcus Brady, Baton Rougessa kutsuu löytämäänsä tekstiä ”ihmeeksi”. Brady sanoo, että hänen uskonsa on auttanut häntä läpi kovien aikojen. ”Hän osoittaa minulle olevansa todellinen ja se on ainoa asia johon voin luottaa”, Brady sanoo. (Lähde: huffingtonpost.com, <a href="//www.wafb.com/story/25966868/baton-rouge-restaurant-employee-finds-god-in-sliced-eggplant/" target="_blank" rel="nofollow">wafb.com</a>)<br />

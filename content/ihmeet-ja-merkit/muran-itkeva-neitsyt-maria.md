@@ -12,7 +12,7 @@ naytavuosi:  false
 naytapvm:  false
 
 author: share.fi
-
+summary: "paikallinen pappi Lluis Costa huomasi, että valkoinen marmorinen 70 cm korkea Madonnan patsas näytti siltä kuin hän olisi itkenyt verikyyneliä."
 
 
 

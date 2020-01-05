@@ -16,7 +16,7 @@ aliases:
     - /neitsyt-maria-ihme-daloassa/
 
 author: share.fi
-
+summary: "Heinäkuussa 2016 tämä Neitsyt Maria -kuvajainen ilmestyi Norsuuluurannikon verovirkailijan työpöydän viereen Daloassa."
 
 
 
