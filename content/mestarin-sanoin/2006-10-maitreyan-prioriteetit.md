@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Maitreya tulee linjaamaan ihmisille ne prioriteetit, jotka ainoina tulevat takaamaan ja suojelemaan Maa-planeetan ja ihmisten olemassaolon. Rauhan tarpeellisuus on niistä tärkein, sillä ilman rauhaa kaikki on mennyttä. "
+summary: "Lainaus: Maitreya tulee linjaamaan ihmisille ne prioriteetit, jotka ainoina tulevat takaamaan ja suojelemaan Maa-planeetan ja ihmisten olemassaolon. Rauhan tarpeellisuus on niistä tärkein, sillä ilman rauhaa kaikki on mennyttä. "
 ---
 <p>Samalla kun maailma odottaa, innostuneena, Maitreyaa ja vapahdustaan, on edelleen paljon tehtävää planeetan ja ihmiskunnan turvaamiseksi. Kuitenkin ihmisillä on enää vain vähän aikaa odottaa Maitreyaa aloittamaan avoimen työskentelynsä. Kovin lyhyt on siis Hänen tulonsa valmistelulle jäävä aika, tuo aika jolloin kertoa ihmisille että apu ja toivo ovat kättemme ulottuvilla, ja että Opettaja on täällä, innokkaana puhumaan suoraan kaikkien kansojen ihmisille.</p>
 <p>Kiirehtikää, siis, toimianne. Ottakaa pikaisesti asiaksenne kertoa kaikille, jotka kuuntelevat, että ennalta määrätty hetki on saapunut, että pian ihmiskunta iloitsee Opettajansa läsnäoloa. Kertokaa heille tämä ja pitäkää yllä heidän toivoaan ja rohkeuttaan. Monet tänään kuuntelevat, siinä missä eivät ennen olisi niin tehneet: pelko ja huoli ovat tehneet tehtävänsä ihmisissä. Myöskin merkit ovat tehneet osansa työstä ja siten herättäneet miljoonat odottamaan tapahtumia ja ilmestyksiä. Koskaan aiemmin ihmiskunnan historiassa ei niin moni ole tuntenut tulevia muutoksia tahi ymmärtänyt niiden ilmeistä tarvetta.</p>

@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Tästä pitäen tulee myös aina vain selvemmäksi, etteivät vanhat instituutiot ja tavat enää toimi. Ainakaan muutoin kuin harvojen eduksi. Täten jokaisessa kansakunnassa on auennut suuri jakolinja rikkaiden ja köyhien välille, ja terävämpänä ja selkeämpänä kuin ennen."
+summary: "Lainaus: Tästä pitäen tulee myös aina vain selvemmäksi, etteivät vanhat instituutiot ja tavat enää toimi. Ainakaan muutoin kuin harvojen eduksi. Täten jokaisessa kansakunnassa on auennut suuri jakolinja rikkaiden ja köyhien välille, ja terävämpänä ja selkeämpänä kuin ennen."
 ---
 <p>Tämän hetkinen tilanne tulee pian muuttumaan paremmaksi. Myrsky on melkein ohi. Se on menettämässä raivoaan, vaikka emme sitä vielä huomaisikaan.</p>
 

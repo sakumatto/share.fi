@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Mestarit kuitenkin näkevät maailman, joka on valmis muutokseen, ja maailman joka kaipaa sitä oikeudenmukaisuutta, joka tulee takaamaan uuden ja todellisen yhtenäisyyden kansojen kesken sekä maailman joka takaa sen rauhan, jota kaikki kaipaavat."
+summary: "Lainaus: Mestarit kuitenkin näkevät maailman, joka on valmis muutokseen, ja maailman joka kaipaa sitä oikeudenmukaisuutta, joka tulee takaamaan uuden ja todellisen yhtenäisyyden kansojen kesken sekä maailman joka takaa sen rauhan, jota kaikki kaipaavat."
 ---
 <p>Muutamaa poikkeusta lukuun ottamatta suurin osa kansakunnista etsii yhtenäisyyttä. Niiden toimet eivät ehkä aina tue tätä väitettä, mutta, ainakin sisäisesti, niiden toimien yleissuunta on yhdessä niiden liittolaisten ja ystävien kanssa saavuttaa yhtenäisyyden ilmaisu.</p>
 <p>On kuitenkin joitain maita, joille niiden omien pyrkimysten saavuttaminen on tärkeämpää kuin maailman yhteisen yhtenäisyyden, siis rauhan takeen saavuttaminen. Nämä asenteet voivat muuttua ja joskus ne muuttuvatkin yhtäkkiä tai ajan mittaan, mutta tällä hetkellä voidaan puhua näistä maista.</p>

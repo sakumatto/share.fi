@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Usein olette kuulleet, että ihmiset ovat Jumalia potentiaalissa: nämä eivät ole tyhjiä sanoja, vaan silkka totuus ihmisen olemuksesta ja luonteesta. On vain ajan kysymys, milloin tuo totuus todennetaan ja milloin se ilmenee kaikkien nähtäväksi."
+summary: "Lainaus: Usein olette kuulleet, että ihmiset ovat Jumalia potentiaalissa: nämä eivät ole tyhjiä sanoja, vaan silkka totuus ihmisen olemuksesta ja luonteesta. On vain ajan kysymys, milloin tuo totuus todennetaan ja milloin se ilmenee kaikkien nähtäväksi."
 ---
 <p>Kautta historian ei ole ollut aikaa kuten nyt. Kaikkina niinä aikoina, jotka ovat jättäneet merkkinsä ihmiseen, ei minään ole ollut niin suurta mahdollisuutta muutokselle kuin nyt on. Siksi tämä aika on niin erityislaatuinen. Tämä aika vihjaa niin kauaskantoisesta ja dramaattisesta tietoisuuden muutoksesta, että uusia määrityksiä ja uusia sanoja tulee syntyä, jotta voitaisiin kuvata ihmistä sinä joksi hän muuttuu.</p>
 <p>Tämän muutoksen päätekijä tulee olemaan ihmisen Vanhempien veljien, Viisauden Mestareiden vaikutus, Heidän johdossaan Maitreya, Kristus ja Maailmanopettaja. On mahdotonta yliarvioida sitä vaikutusta, joka Heidän suurella lähentymisellään tulee olemaan ihmisten elämään ja ajatteluun.</p>

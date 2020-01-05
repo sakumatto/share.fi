@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Usein käy niin, että toimiessaan sen puolesta, mitä ne uskovat olevan maailman parhaaksi, maat aiheuttavat maailmanlaajuista hävitystä. Niin sankka on lumeen sumu niiden teoissa, niin illuusioiden kyllästämä on niiden ajattelu, että parhaassa tarkoituksessaankin toimiessaan ne saattavat tuottaa suurta vahinkoa ja paljon surua sekä kipua. Näin on tänäänkin. "
+summary: "Lainaus: Usein käy niin, että toimiessaan sen puolesta, mitä ne uskovat olevan maailman parhaaksi, maat aiheuttavat maailmanlaajuista hävitystä. Niin sankka on lumeen sumu niiden teoissa, niin illuusioiden kyllästämä on niiden ajattelu, että parhaassa tarkoituksessaankin toimiessaan ne saattavat tuottaa suurta vahinkoa ja paljon surua sekä kipua. Näin on tänäänkin. "
 ---
 <p>Usein käy niin, että toimiessaan sen puolesta, mitä ne uskovat olevan maailman parhaaksi, maat aiheuttavat maailmanlaajuista hävitystä. Niin sankka on lumeen sumu niiden teoissa, niin illuusioiden kyllästämä on niiden ajattelu, että parhaassa tarkoituksessaankin toimiessaan ne saattavat tuottaa suurta vahinkoa ja paljon surua sekä kipua.</p>
 <p>Näin on tänäänkin. Viime aikoina USA on ”terrorismin vastaisen sodan” nimissä miehittänyt Afganistanin ja Irakin, aiheuttaen tuhansien siviilien kuoleman ja suurta tuhoa niiden infrastruktuureille. Taleban, vaikkakin fanaattinen ja joustamaton, ei pääasiallisesti ole tekemisissä terrorismin kanssa, mutta on nyt keräämässä joukkojaan hajaannuksesta ja harjoittelemassa terrorin taitojaan. Irakissa Saddam Hussein ei enää ole, mutta puutteen ja kärsimyksen sekä laittomuuden ja kaaoksen perimä on korvannut hänen kaamean hallintonsa.</p>

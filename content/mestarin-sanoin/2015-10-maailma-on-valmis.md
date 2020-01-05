@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Pian, hyvin pian nyt, ihmiset tulevat ymmärtämään sen voiman, joka käyttämättömänä piilee heidän hallussaan. He tulevat näkemään, että heillä on kyky muuttaa elämänlaatunsa."
+summary: "Lainaus: Pian, hyvin pian nyt, ihmiset tulevat ymmärtämään sen voiman, joka käyttämättömänä piilee heidän hallussaan. He tulevat näkemään, että heillä on kyky muuttaa elämänlaatunsa."
 ---
 <p>Pian, hyvin pian nyt, ihmiset tulevat ymmärtämään sen voiman, joka käyttämättömänä piilee heidän hallussaan. He tulevat näkemään, että heillä on kyky muuttaa elämänlaatunsa. He alkavat ymmärtää, että vapaus, oikeudenmukaisuus ja oikeanlaiset ihmissuhteet toinen toisiinsa ovat olennaisia ihmisen elämälle. Monet vaativat niitä rakenteita, jotka takaavat tuon siunatun tilan syntymisen.</p>
 <p>Tämä kertoo selkeästi Maitreyalle, että maailma on valmis uudelle opetukselle. Ihmisten tulisi siksi käyttää tämä rajallinen aika enää jäljellä Hänen olemassaolostaan kertomiseen ja siten Hänen tulonsa valmistelemiseen.</p>

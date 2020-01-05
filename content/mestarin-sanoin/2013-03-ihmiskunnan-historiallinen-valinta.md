@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Valinta on tehtävä Maa-planeetan iäti kasvavan sekä laajenevan luovuuden välillä ja planeettakotimme katastrofaalisen tuhon kaikelle ihmisten ja alempien luomakuntien elämälle välillä."
+summary: "Lainaus: Valinta on tehtävä Maa-planeetan iäti kasvavan sekä laajenevan luovuuden välillä ja planeettakotimme katastrofaalisen tuhon kaikelle ihmisten ja alempien luomakuntien elämälle välillä."
 ---
 <p>Aika jolloin ihmisten on tehtävä historiallinen päätöksensä on koittanut. Pian ihmiset tulevat ymmärtämään, että heidän on tehtävä historiallinen valinta. Valinta, joka tulee määräämään jokaisen miehen, naisen ja lapsen – itse asiassa jokaisen elävän olennon Maan päällä – tulevaisuuden. Valinta on tehtävä Maa-planeetan iäti kasvavan sekä laajenevan luovuuden välillä ja planeettakotimme katastrofaalisen tuhon kaikelle ihmisten ja alempien luomakuntien elämälle välillä.</p>
 <p>Valitettavasti ihminen on löytänyt ja valjastanut sotakäyttöön sen hirveän voiman salaisuuden, joka on piilossa atomin ytimessä. Kun ihminen on niin jakautunut kilpailun, ahneuden ja vallanhimon takia, vahingossa tai tahallisesti tapahtuvan tuhon vaara on aina läsnä. Ihmisen on siksi löydettävä turvallisempi tapa elää.</p>

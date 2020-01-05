@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Miljoonat kulkevat tänä päivänä tuota polkua ilman tietoa sen olemassaolosta, mutta siltikin sielunsa kutsua noudattaen ja sille astuen. He kokevat ajan tarpeet ja pyrkivät kohtaamaan nuo tarpeet ja siten tekevät osansa."
+summary: "Lainaus: Miljoonat kulkevat tänä päivänä tuota polkua ilman tietoa sen olemassaolosta, mutta siltikin sielunsa kutsua noudattaen ja sille astuen. He kokevat ajan tarpeet ja pyrkivät kohtaamaan nuo tarpeet ja siten tekevät osansa."
 ---
 <p>Sisällä jokaisessa ihmisessä on Jumala, potentiaalisena, mutta ikuisena. Kun hän käy läpi niitä kokemuksia, joita kutsumme nimellä elämä, hän läpikäy matkaa, joka lopulta osoittautuu olleen sarja askeleita kohti ykseyttä tuohon Jumalaan, oivaltaen sen pyhyyden faktana ja oivaltaen, että kyse on sielusta, korkeammasta minästämme.</p>
 <p>Tähän asti ihmisten tieto sielusta on juontanut uskonnollisista kirjoituksista. Ne ovat jättäneet ihmiselle mielikuvan, että sielu on jotain etäistä ihmisestä. Jotain mitä tulee ajatella ja palvella kaukaisuudesta. Kuitenkin samalla kun ihminen kehittyy, hän tulee ymmärtämään, että tuo sielu on korkeampi ja puhtaampi osa häntä itseään ja kuitenkin osa häntä. Täten ihminen edistyy samalla syventäen ymmärrystään todellisesta olemuksestaan ja tarkoituksestaan.</p>

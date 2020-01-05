@@ -36,7 +36,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Nyt, tulee ilmenemään sarja merkkejä, jotka tulevat äimistyttämään heidät, jotka kokevat ne. Kukaan ei tule kykenemään selittämään tätä ilmiötä, mutta se tulee ennakoimaan muutosta ihmisten ajattelussa ja ymmärryksessä."
+summary: "Lainaus: Nyt, tulee ilmenemään sarja merkkejä, jotka tulevat äimistyttämään heidät, jotka kokevat ne. Kukaan ei tule kykenemään selittämään tätä ilmiötä, mutta se tulee ennakoimaan muutosta ihmisten ajattelussa ja ymmärryksessä."
 
 ---
 Nykyisten ongelmiensa ja surujensa syvyyksistä ihmiskunta tulee löytämään toivoa. Niin paljon siitä, mitä tapahtuu on positiivista ja koko ihmisrodulle hyvää tekevää, että ihmiset voivat olla vakuuttuneita ongelmiensa varhaisesta helpottamisesta. Ei kertaheitolla, mutta vähän kerrassaan, hiljalleen. Hiljalleen ihmiset tulevat myös oppimaan syyt nykyisille vaivoilleen. He tulevat ymmärtämään, että ihmiskunta on yhtä sekä jakamaton. Se on yhtä pitkän yhdessäolon ja sukulaisuuden johdosta, mutta myös yhteisen pyhyytensä vuoksi. Enää ihmisten ei tarvitse pelätä tai taistella naapurinsa kanssa. Enää ei miljoonien tarvitse nälkiintyä yltäkylläisyyden keskellä. Täten voi syntyä uusi aika, missä oikeudenmukaisuus ja jakamisen periaate ohjaavat nykyistä kaaosta ja edesvastuuttomuutta. Syntyy uusi aika, jossa ihmiset arvostavat toisiaan ja välittävät toisistaan; aika jona ihmisen pyhyys tulee ilmenemään ja jona elämän salaisuudet tullaan tuntemaan. Täysijärkisten ihmisten tavoitteena riittävyys tulee korvaamaan yltäkylläisyyden.</p>

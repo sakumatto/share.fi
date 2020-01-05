@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Harkitkaa tätä: ilman Maitreyan apua ihminen on tuhoon tuomittu. Hartaudella me odotamme ihmisen vastausta."
+summary: "Lainaus: Harkitkaa tätä: ilman Maitreyan apua ihminen on tuhoon tuomittu. Hartaudella me odotamme ihmisen vastausta."
 ---
 <p>Surulla seuraamme ihmisen jatkettuja ponnisteluita ratkaista ongelmansa menneisyyden toimintatavoin. Nämä ongelmat ovat moninaisia ja ne liittyvät yhtä lailla niin tulevaan, kuin nykyisyyteenkin. Pääosin ne ovat menneisyyden jäänteitä ja ne muodostavat raskaan taakan kukoistaville yhteiskunnille tänään. Eksyneenä kiivaisiin markkinakamppailuihinsa, hallitukset kaikkialla kokeilevat kaikkia vakiotapoja saavuttaa turvaa ja vahvuutta, kehitystä ja innovaatiota sekä stabiiliutta muutosten keskellä. Se on mahdoton tehtävä. On vain yksi vastaus kaikkiin heidän huoliinsa, yksi ratkaisu kaikkiin heidän ongelmiinsa, ja siltikään kukaan, tähän mennessä, ei ole yrittänyt kuiskata tuota sanaa, joka yhdellä iskulla vapauttaisi heidät ja maailman. Sanaa, joka yhdellä iskulla, saattaisi tämän maailman oikeudenmukaisuuden ja totuuden aikakauteen. Kaikukoon tuo sana, osoittakoon tuo sana uuden sivilisaation ja uuden yhteiskunnan. Kuultakoon tuo sana kaikkialla ja ihminen vastatkoon siihen.</p>
 

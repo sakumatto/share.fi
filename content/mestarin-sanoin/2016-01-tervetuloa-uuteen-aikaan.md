@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Tervetuloa uuteen aikaan, yhtenäisyyden aikaan. Monet tänä päivänä pelkäävät uuden ajan saapumista, mutta he katsokoot tarkoin silmin sitä mitä tapahtuu ja tulevat huomaamaan joidenkin kaikkein kyvykkäimpien muutoksen tekijöiden yhteen tulemisen."
+summary: "Lainaus: Tervetuloa uuteen aikaan, yhtenäisyyden aikaan. Monet tänä päivänä pelkäävät uuden ajan saapumista, mutta he katsokoot tarkoin silmin sitä mitä tapahtuu ja tulevat huomaamaan joidenkin kaikkein kyvykkäimpien muutoksen tekijöiden yhteen tulemisen."
 ---
 <p>Tervetuloa. Tervetuloa uuteen aikaan, yhtenäisyyden aikaan. Monet tänä päivänä pelkäävät uuden ajan saapumista, mutta he katsokoot tarkoin silmin sitä mitä tapahtuu ja tulevat huomaamaan joidenkin kaikkein kyvykkäimpien muutoksen tekijöiden yhteen tulemisen.</p>
 

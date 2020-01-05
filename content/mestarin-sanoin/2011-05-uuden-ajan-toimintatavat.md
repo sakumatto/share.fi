@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Maitreyan ja Hänen ryhmänsä kohdistamien energioiden vaikutuksesta, Lähi-Idän ihmiset läpikäyvät parhaillaan suurta herätystä ja he vaativat uusia vapauksia sekä osallistumisoikeutta elämänsä ohjaukseen. Eivätkä nämä vaatimukset rajoitu Lähi-Itään. Aina vain enemmän näitä samoja vaatimuksia kuullaan kautta maailman."
+summary: "Lainaus: Maitreyan ja Hänen ryhmänsä kohdistamien energioiden vaikutuksesta, Lähi-Idän ihmiset läpikäyvät parhaillaan suurta herätystä ja he vaativat uusia vapauksia sekä osallistumisoikeutta elämänsä ohjaukseen. Eivätkä nämä vaatimukset rajoitu Lähi-Itään. Aina vain enemmän näitä samoja vaatimuksia kuullaan kautta maailman."
 ---
 <p>Hiljattaiset tapahtumat Lähi-Idässä ovat saattaneet ihmiskunnan kasvotusten lukuisten ongelmien kanssa. Läntiset vallat ovat joutuneet takeltuneeksi, pitkälti vastoin omaa tahtoaan, libyalaiseen sisällissotaan, jota ne eivät tunnistaneet sellaiseksi. Niiden päähuoli&nbsp; oli turvata katkeamaton öljyntuotanto, joka oli helposti saatavilla Libyassa. Ne myöskin tahtoivat auttaa Benghazissa ihmisiä, jotka olivat joutuneet silmätysten ikääntyvän ja suhteettoman tyrannin kansansurman kanssa, tyrannin, joka äimistyneenä oli tarkkaillut ilmeisesti onnistuvaa vallankaappausta naapurivaltion voimakasta tyrannia vastaan.</p>
 <p>Jospa läntiset vallat vain olisivat tienneet, että Egyptin kansan rauhalliset protestit olivat kasvaneet Libyassa aseistetuksi vallankumoukseksi, jolta puuttui onnistumisen takeena vaadittavaa suunnitelmallisuutta, johtoa ja aseita.</p>

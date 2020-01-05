@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Sairaus on loppujen lopuksi vääränlaisten suhteiden tulos: suhde korkeampaan minäämme, sieluun; suhde veljiimme ja sisariimme kautta maailman; ja suhde Kokonaisuuteen, josta olemme osa."
+summary: "Lainaus: Sairaus on loppujen lopuksi vääränlaisten suhteiden tulos: suhde korkeampaan minäämme, sieluun; suhde veljiimme ja sisariimme kautta maailman; ja suhde Kokonaisuuteen, josta olemme osa."
 ---
 <p>Sielun energian väärinkäyttö ja vääränlaiset suhteet aiheuttavat sairautta. Mestarit neuvovat tien kohti elinvoimaisuutta ja terveyttä.</p>
 <p>Aina muutaman vuoden välein tapahtuu lisää edistymistä sairauden ymmärtämisessä ja vastustamisessa; kutsumme sairaudeksi sitä mielen ja kehon epätasapainon tilaa, joka niin vaivaa ihmiskuntaa. Jokainen uusi edistysaskel työntää hieman taaksepäin ihmisen itseään koskevan tietoisuuden rajoja ja avaa oven lisävalaistumiselle. Kun seisomme uuden aikakauden kynnyksellä ihmiskunta on valmiina, kuten ei koskaan aiemmin, ottamaan vastaan uuden valon. Kristuksen ja Hänen Mestareittensa stimuloinnin herättämänä ihminen on valmis löytämään olemassaolonsa totuuden, joka lopulta vapauttaa hänet kokonaan sairaudesta.</p>

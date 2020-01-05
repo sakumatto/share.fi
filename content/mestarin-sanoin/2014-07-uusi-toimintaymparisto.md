@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Nyt jo monien vuosien ajan tietyt Mestarit ovat kouluttaneet suurta joukkoa oppilaitaan uuden sivilisaation suunnitelmien, politiikan ja talouden toimeenpanon vaikeassa tehtävässä. Nämä koulutetut miehet ja naiset, jotka on valittu demokraattisin äänin, tulevat tekemään todeksi ja konkreettisiksi Hierarkian vanhempien jäsenten suunnitelmat."
+summary: "Lainaus: Nyt jo monien vuosien ajan tietyt Mestarit ovat kouluttaneet suurta joukkoa oppilaitaan uuden sivilisaation suunnitelmien, politiikan ja talouden toimeenpanon vaikeassa tehtävässä. Nämä koulutetut miehet ja naiset, jotka on valittu demokraattisin äänin, tulevat tekemään todeksi ja konkreettisiksi Hierarkian vanhempien jäsenten suunnitelmat."
 ---
 <p>Kun Mestarit aloittavat historiallisen paluunsa jokapäiväiseen maailmaan, He tulevat kohtaamaan paljon tehtävää, jotta voisivat riittävästi toimia uudessa toimintaympäristössään. Kuten monet tietävät, telepatia on Heidän normaali kommunikointitapansa, mutta toimiessaan ihmisten kanssa, heidän on taas opittava jo kauan aiemmin unohdettu ihmisten puhe. Monet Vanhemmista Veljistänne työskentelevät jo kovasti fyysisellä tasolla toimimisen ongelmien parissa. Tällä tavoin saavutetaan suuremman asteen luottamus ja luodaan luontainen kyky työhön.</p>
 <p>Lisäksi monilla Mestareilla ei vuosisatoihin ole ollut kuin vähän tai ei mitään suoraa kontaktia ihmiskuntaan ja siten He tulevat kokemaan tilanteen ja tavan työskennellä kaikin osinsa uutena. Tietenkin useimmat Mestarit ovat hyvin sopeutuvaisia ja nopeita oppimaan, mutta väistämättä jotkut tulevat kokemaan epätotutun kokemuksen työskentelystä ulkoisilla tasoilla kovin verottavana.</p>

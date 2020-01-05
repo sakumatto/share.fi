@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Tähän monimutkaiseen tilanteeseen Mestarit tulevat astumaan. Heidän tulee toimia niin, että ihmisen vapaata tahtoa ei sivuuteta ja silti yrittää auttaa kaikin lain sallimin keinoin. Hiuksen hienoin valinnoin Heidän on edettävä ja valittava monissa tilanteissa, kunnes kaikkia tyydyttävä toimintamalli voidaan löytää."
+summary: "Lainaus: Tähän monimutkaiseen tilanteeseen Mestarit tulevat astumaan. Heidän tulee toimia niin, että ihmisen vapaata tahtoa ei sivuuteta ja silti yrittää auttaa kaikin lain sallimin keinoin. Hiuksen hienoin valinnoin Heidän on edettävä ja valittava monissa tilanteissa, kunnes kaikkia tyydyttävä toimintamalli voidaan löytää."
 ---
 <p>Usein on ihminen pitkän historiansa aikana eksynyt ennalta määrätyltä polultaan, mutta koskaan, ennen tätä aikaa, ei hän ole astunut näin pitkälle harhaan. Koskaan aiemmin ei hän ole ollut näin kovin avun tarpeessa, eikä koskaan aiemmin apu ole ollut näin helposti tarjolla. Aikakausien ajan, laki on rajannut avun, jota on voitu antaa, sillä ihmisen vapaa tahto on pyhä, eikä sitä vastaan voi rikkoa. Tänään, ensi kertaa moniin vuosisatoihin apu on vapaammin saatavilla. Nyt, tämän ihmisen suurimman hädän ja tarpeen hetkellä, hänen Vanhempien Veljiensä runsaat avustavat kädet voivat tarjota sen helpotuksen, jota ihminen janoaa.</p>
 <p>Ainoa mitä tarvitaan, on pyyntö ihmiseltä itseltään. Muuta ei tarvita, kuin valmius hyväksyä Veljeskunnan neuvot ja viisaus ja muuttaa suunta.</p>

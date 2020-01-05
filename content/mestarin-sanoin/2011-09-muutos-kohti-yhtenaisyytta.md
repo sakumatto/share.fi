@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Tämä ajanjakso on erilainen kuin mikään aiempi maailmanhistoriassa. Muutokset tällä hetkellä ovat valtaisat ja ylittävät ihmisen käsityskyvyn ja ne tulevat muuttamaan elämän iäksi ja perusteellisesti siitä minä me sen tunnemme."
+summary: "Lainaus: Tämä ajanjakso on erilainen kuin mikään aiempi maailmanhistoriassa. Muutokset tällä hetkellä ovat valtaisat ja ylittävät ihmisen käsityskyvyn ja ne tulevat muuttamaan elämän iäksi ja perusteellisesti siitä minä me sen tunnemme."
 ---
 <p>Kun ihmiskunta lopulta tulee ynnäämään nykytilanteensa, heidän on varmastikin myönnettävä ettei kaikki ole sen kannalta hyvin. Poliittiset, taloudelliset, sosiaaliset ja ympäristölliset olot ovat täynnään ongelmia, jotka koettelevat aivan jokaisen maan kestokykyä äärirajoilleen asti. Jopa niissä maissa, joissa näyttäisi olevan taloudellinen ylivalta tällä hetkellä, on ongelmia, jotka estävät niiltä sen hyvinvoinnin joka niillä niiden vaurauden pohjalta näyttäisi olevan. Mikä estää valtioita saavuttamasta suhteellista taspainoa ja hyvinvointia? Miksi jopa iäkkäät, kokeneet ja vauraat valtiot syöksyvät yhtäkkiä kaaokseen ja vaikeuksiin? Miksi kärsimys ja koettelemukset niin monille: mikä estää laajemman yhtenäisyyden tunteen ja laajemman yhtenäisyyden ilmenemisen? Vastaukset näihin kysymyksiin ovat moninaiset ja vaihtelevat, mutta ainut yhdistävä tekijä on aika – tuo ajankohta Maan historiassa, kun kysymykset esitetään.</p>
 

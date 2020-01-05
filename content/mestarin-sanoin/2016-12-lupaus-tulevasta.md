@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Viimeaikaisissa artikkeleissani olen keskittynyt Maitreyan ja Meidän, Hänen Opetuslastensa paluuseen. Tämä on aikamme keskeinen tapahtuma, ilman vertaistaan lukemattomiin vuosituhansiin. Olemme nyt saavuttamassa tämän prosessin huipun."
+summary: "Lainaus: Viimeaikaisissa artikkeleissani olen keskittynyt Maitreyan ja Meidän, Hänen Opetuslastensa paluuseen. Tämä on aikamme keskeinen tapahtuma, ilman vertaistaan lukemattomiin vuosituhansiin. Olemme nyt saavuttamassa tämän prosessin huipun."
 ---
 <p>Aina ajoittain, vastauksena ihmisten tarpeisiin, avataan se ovi, joka erottaa Hierarkian ihmiskunnasta, ja enemmässä tai vähemmässä määrin tietyt opetukset ja tiedot julkistetaan avuksi heille, jotka voivat niistä hyötyä. Nyt on sellainen aika. Heille, joiden “silmät näkevät ja korvat kuulevat”, nämä artikkelit muodostavat yhden tavan, jolla uutta informaatiota voidaan jakaa tänä aikana. Näin ikiaikaiset totuudet muistetaan ja uutta valoa kohdennetaan niihin ajattomiin arvoihin, jotka ovat ihmisevoluution perustana.</p>
 <p>Minun pyrkimykseni vuosien varrella on ollut esittää tämän lehden lukijoille kuva tulevasta elämästä, synnyttää iloinen ja positiivinen asennoituminen tuohon tulevaisuuteen ja varustaa lukijat tiedon työkaluilla, jotta he voisivat oikealla tavalla käsitellä ongelmia, jotka päivittäin nousevat esille. Omasta kokemuksen ja näkemyksen näköalapaikastani käsin olen pyrkinyt toimimaan tarkkailijana ja suojelijana, sekä varoittamaan tulevista vaaroista ja mahdollistamaan sen, että sinä lukijani, rohkeudella ja vakaumuksella kykenisit palvelemaan Suunnitelmaa.</p>

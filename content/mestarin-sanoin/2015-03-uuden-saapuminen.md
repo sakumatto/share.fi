@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Aika välittömästi edessämme tulee häkellyttämään monia sillä niin nopeita tulevat poliittiset, taloudelliset ja sosiaaliset muutokset olemaan niiden tapahtuessa ja niin usein niitä tulee tapahtumaan. "
+summary: "Lainaus: Aika välittömästi edessämme tulee häkellyttämään monia sillä niin nopeita tulevat poliittiset, taloudelliset ja sosiaaliset muutokset olemaan niiden tapahtuessa ja niin usein niitä tulee tapahtumaan. "
 ---
 <p>Aika välittömästi edessämme tulee häkellyttämään monia sillä niin nopeita tulevat poliittiset, taloudelliset ja sosiaaliset muutokset olemaan niiden tapahtuessa ja niin usein niitä tulee tapahtumaan. Monille ahdistus ja häkellys tulee olemaan pääreaktio. Kiinnostuneena taikka pelästyneenä näiden muutosten laadusta ja laajuudesta, siltikin monet tulevat näkemään ne merkkeinä muuttuvasta yhteiskunnasta, kun taas jotkut tulevat pelkäämään ja vastustamaan uuden ilmentymistä. Ihmiset kaikkialla tulevat toimimaan varoen ja epävarmoina mihin suuntaan lähteä etenemään.</p>
 <p>Ihmiset eivät kuitenkaan pitkään toimi näin. He tulevat huomaamaan elävänsä aidosti muuttuvassa maailmassa, joka on täynnään suurempiakin haasteita heidän arvoilleen ja uskomuksilleen. Näin ihmiset alkavat luoda uutta vanhasta ja alkavat osoittaa kasvavaa kykyään vastata ajan haasteisiin.</p>

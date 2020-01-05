@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Milloin nämä ihmiset tulevat oppimaan, että maapallo kuuluu kaikille? He eivät ole hallitsijoita, eivätkä poliiseja, joilla omaisuutensa tai voimansa vuoksi olisi oikeus kontrolloida muita. Kun he jakavat omaisuutensa yleiselle hyvälle, he tulevat näkemään lopun terrorismille ja voivat taas nukkua yönsä levollisesti."
+summary: "Lainaus: Milloin nämä ihmiset tulevat oppimaan, että maapallo kuuluu kaikille? He eivät ole hallitsijoita, eivätkä poliiseja, joilla omaisuutensa tai voimansa vuoksi olisi oikeus kontrolloida muita. Kun he jakavat omaisuutensa yleiselle hyvälle, he tulevat näkemään lopun terrorismille ja voivat taas nukkua yönsä levollisesti."
 ---
 <p><em>Benjamin Cremen pyynnöstä tämä, hänen Mestarin sanelema teksti julkaistaan myös Share sivustoilla</em></p>
 <p>Maailma on vakavassa kriisitilassa, joka suuressa määrin johtuu Yhdysvaltain presidentin vasteesta syyskuun 11. terroristihyökkäykseen. Sota Afganistanissa ja viimeaikainen väkivaltainen kuohunta Israelissa ovat seurauksia, kuten myös ehdotettu hyökkäys Irakiin. Pohjana kaikille näille tapahtumille on kalavelkojen maksu.</p>

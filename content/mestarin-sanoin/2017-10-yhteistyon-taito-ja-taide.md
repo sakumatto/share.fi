@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Yhteistyön keinoin tullaan uusi sivilisaatio rakentamaan, uusi tiede paljastamaan ja uusi ymmärrys löytää ilmaisunsa."
+summary: "Lainaus: Yhteistyön keinoin tullaan uusi sivilisaatio rakentamaan, uusi tiede paljastamaan ja uusi ymmärrys löytää ilmaisunsa."
 ---
 <p>Yhä vain enemmän ja enemmän ihmiset alkavat ymmärtää niiden ongelmien vakavuutta, joiden kanssa he ovat kasvotusten tänä päivänä. Kaikilla rintamilla – poliittisilla, taloudellisilla ja sosiaalisilla – nämä ongelmat lisääntyvät ja aiheuttavat paljon sydänsurua ja murheellista pään puistelua. Kun tähän lisätään ympäristöongelmat, jotka ihmisten piittaamaton asenne luontoa ja sen resursseja kohtaan ovat saaneet aikaan, niin ihmiskunnan tulevaisuus näyttää entistäkin synkemmältä. Ymmärrys siitä, että ihmiskunnan elämä on kriisissä, on valkenemaisillaan, ja on käymässä selväksi, että jotain radikaalia täytyy tehdä, ennen kuin on liian myöhäistä.</p>
 <p>Mitä ihmiskunta siis voi tehdä pelastaakseen itsensä tuholta? Mitä askelia se voi ottaa edes lieventääkseen uhkaa omalle hyvinvoinnilleen?</p>

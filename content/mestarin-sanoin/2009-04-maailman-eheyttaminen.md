@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Jos riittävästi keskustelua saadaan aikaiseksi useissa medioissa ja internetissä, ei mene enää kauaakaan siihen, että ihmiset saavat nähdä ja kuulla Maitreyan puhuvan. Häntä ei esitellä sillä nimellä, jotta ihmiset voisivat arvioida Häntä Hänen ideoidensa pohjalta, eikä Hänen statuksensa pohjalta."
+summary: "Lainaus: Jos riittävästi keskustelua saadaan aikaiseksi useissa medioissa ja internetissä, ei mene enää kauaakaan siihen, että ihmiset saavat nähdä ja kuulla Maitreyan puhuvan. Häntä ei esitellä sillä nimellä, jotta ihmiset voisivat arvioida Häntä Hänen ideoidensa pohjalta, eikä Hänen statuksensa pohjalta."
 ---
 <p>Ihmisiä kaikkialla kohtaava tilanne pahenee lähes jokaisesta näkökulmasta tarkastellen aivan joka päivä. Miljoonien ihmisten rehellisen työn ja pyrkimysten valuminen hukkaan ovat vuosia kestäneiden sopimatonta ahneutta ja sydämetöntä kilpailua seuranneen ja siitä johtuvan taloudellisen kaaoksen uhri. Kokonaisuutena tarkastellen rahan miehet kulkevat piittaamattomina ja varansa säilyttäneinä eteenpäin, samalla kun jokaisessa maassa ihmiset kohtaavat työttömyyden, köyhyyden ja pelon silmästä silmään. Tarkemmat tulokset ilmaston muutoksesta osoittavat ihmiskunnalle kuinka lähellä peruuttamatonta romahdusta tämä planeetta onkaan. Hälytyskellot soivat monilla poliittisilla areenoilla ja stressin määrä nousee uusiin korkeuksiin.</p>
 <p>Kuinka paljon tätä jännitettä ihmiset voivat enää sietää? Kuinka pitkään ihmiset, toimettomina, vielä hyväksyvät kohtalonsa? Epätoivoiset ihmiset tekevät epätoivoisia tekoja, ja jo ajatuksissaan, vaikkeivät vielä teoissaan, monet pohtivat vallankumouksen mahdollisuutta.</p>

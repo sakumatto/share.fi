@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Ihmisen pitkä kamppailu sellaisten rakenteiden luomiseksi, jotka palvelevat hänen oikeudenmukaisia päämääriään, on jo melkein ohi. Ihminen aistii jo hämärästi tarvittavat rakenteet ja pian ne valkenevat hänen ymmärrykseensä oivallusten muodossa."
+summary: "Lainaus: Ihmisen pitkä kamppailu sellaisten rakenteiden luomiseksi, jotka palvelevat hänen oikeudenmukaisia päämääriään, on jo melkein ohi. Ihminen aistii jo hämärästi tarvittavat rakenteet ja pian ne valkenevat hänen ymmärrykseensä oivallusten muodossa."
 ---
 <p>On käymässä aina vain selvemmäksi, että ihminen on valmis valtavaan edistysaskeleeseen. Huolimatta kaikista edelleen olemassa olevista jännitteistä ja vaaroista, jotka monen mielestä tuntuvat vain lisääntyvän, on ihmiskunta siirtymässä eteenpäin ja ylöspäin, samassa linjassa toimintaa ohjaavan Suunnitelman kanssa. Kosminen Magneetti vetää kaikkea kohti suunniteltua määränpäätä. Tuon magneetin energiat voimistuvat, eikä niitä voi vastustaa. Ihmisen täytyy oppia ymmärtämään Kosmoksen voima ja hyväntahtoisuus. Täten hän kehittyy oikealla tavalla, mahdollisimman vähän kärsien.</p>
 

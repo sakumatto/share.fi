@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Vuosien ajan, Me, teidän Vanhemmat Veljenne, olemme varoittaneet ihmisiä markkinavoimien sokean seuraamisen vaaroista, markkinavoimien, jotka nekin ovat sokeita. Siten tämänhetkisen ja laajalle levinneen taloudellisen sekä rahoituksellisen kriisin ei tulisi olla yllätys. Kilpailun ja ahneuden ”kuplan” oli väistämättä puhjettava."
+summary: "Lainaus: Vuosien ajan, Me, teidän Vanhemmat Veljenne, olemme varoittaneet ihmisiä markkinavoimien sokean seuraamisen vaaroista, markkinavoimien, jotka nekin ovat sokeita. Siten tämänhetkisen ja laajalle levinneen taloudellisen sekä rahoituksellisen kriisin ei tulisi olla yllätys. Kilpailun ja ahneuden ”kuplan” oli väistämättä puhjettava."
 ---
 <p>Vuosien ajan, Me, teidän Vanhemmat Veljenne, olemme varoittaneet ihmisiä markkinavoimien sokean seuraamisen vaaroista, markkinavoimien, jotka nekin ovat sokeita. Siten tämänhetkisen ja laajalle levinneen taloudellisen sekä rahoituksellisen kriisin ei tulisi olla yllätys. Kilpailun ja ahneuden ”kuplan” oli väistämättä puhjettava. Kuitenkin ”rahamiehet”, jotka rakensivat tämän pilviä hipovan linnoituksensa muutosten tuulten varaan, ovat ällistyneitä lopputuloksesta. He ovat neuvottomia yrittäessään ymmärtää katastrofin syitä ja etsivät jo parempia tapoja jatkaa samaa yltiöpäisyyttään.</p>
 <p>Pahiten viimeaikaisten tapahtumien kärsijöiksi joutuneiden maiden kansat tietävät kuitenkin romahduksen syyt aivan hyvin ja he ovat vihaisia tietäessään, että he joutuvat kärsimään vaikeuksia ja puutetta tulevina kuukausina ja vuosina.</p>

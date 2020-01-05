@@ -35,7 +35,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Nyt kun astumme Vesimiehen opetuksen aikaan, uusi luku aukeaa ihmiskunnalle ja uusi alku on turvattu ihmisrodulle. Tuhansien vuosien ajan ihminen on ponnistellut pimeässä, tietämättömänä ryhmästä Vanhempia Veljiään, jotka alati valvovat ihmisiä takkuavassa edistymisessään ja jotka kaitsevat ihmisiä läpi heidän itse luomiensa vaikeuksien ja vaarojen."
+summary: "Lainaus: Nyt kun astumme Vesimiehen opetuksen aikaan, uusi luku aukeaa ihmiskunnalle ja uusi alku on turvattu ihmisrodulle. Tuhansien vuosien ajan ihminen on ponnistellut pimeässä, tietämättömänä ryhmästä Vanhempia Veljiään, jotka alati valvovat ihmisiä takkuavassa edistymisessään ja jotka kaitsevat ihmisiä läpi heidän itse luomiensa vaikeuksien ja vaarojen."
 
 ---
 

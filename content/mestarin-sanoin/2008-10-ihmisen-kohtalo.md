@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Kun ihmisille valkenevat heidän todelliset kykynsä, he tulevat hämmästymään sitä luovuuden skaalaa, joka tulee olemaan heidän ulottuvillaan. Heidän ajattelunsa uskaliaisuus tulee aluksi ihmetyttämään heitä ja tulee ohjaamaan heidät tänä päivänä vielä käsittämättömiin projekteihin."
+summary: "Lainaus: Kun ihmisille valkenevat heidän todelliset kykynsä, he tulevat hämmästymään sitä luovuuden skaalaa, joka tulee olemaan heidän ulottuvillaan. Heidän ajattelunsa uskaliaisuus tulee aluksi ihmetyttämään heitä ja tulee ohjaamaan heidät tänä päivänä vielä käsittämättömiin projekteihin."
 ---
 <p>Kun ihmisille valkenevat heidän todelliset kykynsä, he tulevat hämmästymään sitä luovuuden skaalaa, joka tulee olemaan heidän ulottuvillaan. Heidän ajattelunsa uskaliaisuus tulee aluksi ihmetyttämään heitä ja tulee ohjaamaan heidät tänä päivänä vielä käsittämättömiin projekteihin. Ihmiset tulevat huomaamaan, että he todellakin ovat Jumalia versossa. Ihmiset tulevat heräämään menneen syvästä unesta ja he tulevat karistamaan yltään välinpitämättömyyden painavan viitan, joka jo pitkään on estänyt heidän kehitystään. Näin tulee olemaan.</p>
 <p>Ihmiskunta on nyt pitkään Maan päällä jatkuneen elämisen seikkailunsa käännekohdassa. Tästä pitäen, kaikki kehitys tulee olemaan ihmisen harkitun tahdon ja järjen tulosta. Enää eivät ahneus ja kilpailu hidasta hänen matkaansa kohti täydellisyyttä; enää eivät sota ja miljoonien puutostila tahraa hänen polkuaan; koskaan enää ei laittomuus ja hajottaminen tule hallitsemaan Maan päällä.</p>

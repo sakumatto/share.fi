@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Tämä välinpitämättömyys maailman mielipiteestä voi kestää vain tietyn ajan. Maailmanlaajuiset tapahtumat, jotka ovat niin erilaatuisia ja nopeasti tapahtuvia, että ne tulevat riisumaan nämä ihmiset entisistä ja kuluneista menneisyyden tavoistaan toimia sekä määräämään heidät tuohon hiljaisesti katoavaan eiliseen."
+summary: "Lainaus: Tämä välinpitämättömyys maailman mielipiteestä voi kestää vain tietyn ajan. Maailmanlaajuiset tapahtumat, jotka ovat niin erilaatuisia ja nopeasti tapahtuvia, että ne tulevat riisumaan nämä ihmiset entisistä ja kuluneista menneisyyden tavoistaan toimia sekä määräämään heidät tuohon hiljaisesti katoavaan eiliseen."
 ---
 <p>Joka vuoden alussa ihmiset, lähes kaikkialla, juhlivat tilaisuutta aloittaa alusta ja tekevät lupauksia jonkinsuuntaisista parannuksista. Tämän jännitteiden vuoden käydessä kohti loppuaan, ihmiset voivat etsiä parempia ja konstruktiivisempia tapoja toimia, tapoja jotka muuttavat kaikkien elämän parempaan suuntaan.</p>
 <p>Tämänhetkinen kriisien kausi päättyy pian ja sitä seuraa kokeilemisen aika kaikilla ihmisyyden osa-alueilla. Suunnattomia uusia näkymiä avautuu ihmisen tutkittavaksi, kun hän valjastaa ja voittaa ongelmat, jotka vaivaavat maailmaa tänään.</p>

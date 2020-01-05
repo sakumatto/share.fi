@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Ihmiset kaikista kansoista tulevat työskentelemään ja liittoutumaan yhteen palvellakseen kaikkia. Mestareiden ohjaus tulee olemaan saatavilla ja siten suuntaamassa ihmisiä viisain ja hellin ottein."
+summary: "Lainaus: Ihmiset kaikista kansoista tulevat työskentelemään ja liittoutumaan yhteen palvellakseen kaikkia. Mestareiden ohjaus tulee olemaan saatavilla ja siten suuntaamassa ihmisiä viisain ja hellin ottein."
 ---
 <p>Me Mestarit olemme useiden vuosien ajan valmistelleet itseämme julkitulon aikaan, joka nyt on lähellä, ja jolloin me tulemme ryhmänä elämään avoimesti jokapäiväisen elämän maailmassa. Joillekin meistä tämä tulee olemaan kertakaikkiaan uusi kokemus. Mestareina monet ovat viettäneet kaiken aikansa Hierarkian parissa ja nyt on opittava toimimaan aivan uusin tavoin. Jopa puhuminen on opittava uudelleen koska telepatia on jo kauan ollut tapamme.</p>
 <p>Aluksi ja huomattavan aikaa, kontaktimme tulee pakosta rajoittumaan joihinkin kehittyneimpiin oppilaisiin työn eri aloilla sekä koulutettuun henkilöstöön hallinnon ja erityisesti elintarvikkeiden jakelun käytännön aloilla. Monet Mestarit ovat asiantuntijoita hallinnossa kun taas toiset osallistuvat herkemmin opetukseen. Tähtäimenämme on työskentely mahdollisimman läheisesti kaikilla aloilla ja niin pian kuin mahdollista suuren yleisön parissa. On tärkeätä painottaa sitä, että Mestareiden tarkoitus on elävöittää ja ohjata ihmiskuntaa tarpeen mukaan, mutta siltikin turvata ihmisten vapaa tahto.</p>

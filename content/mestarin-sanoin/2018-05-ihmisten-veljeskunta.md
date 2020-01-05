@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Jo nyt monet pienemmät kansat ymmärtävät keskinäisen riippuvuuden todellisuuden, mutta riittävän painoarvon puuttuessa niitä ei kuulla. Suuret ja voimakkaat kansat vieroksuvat sellaisia toteamuksia, niiden itseriittoisuuden luoman ylpeyden sokaistessa ne niiden todelliselta suhteelta maailmaan."
+summary: "Lainaus: Jo nyt monet pienemmät kansat ymmärtävät keskinäisen riippuvuuden todellisuuden, mutta riittävän painoarvon puuttuessa niitä ei kuulla. Suuret ja voimakkaat kansat vieroksuvat sellaisia toteamuksia, niiden itseriittoisuuden luoman ylpeyden sokaistessa ne niiden todelliselta suhteelta maailmaan."
 
 ---
 <p>Ennemmin tai myöhemmin kansakuntien keskinäinen riippuvuus tulee valkenemaan kansoille ja niiden johtajille. Tämä ymmärrys tulee tuomaan mukanaan kokonaan uudenlaisen asenteen niihin ongelmiin, joiden parissa ne tänä päivänä kamppailevat ja tulee johtamaan helpompiin ja viisaampiin ratkaisuihin näihin ongelmiin. Hiljalleen muuttuva näkökanta tulee korvaamaan nykyisen kiivaan kilpailun sekä vastakkainasettelun keskinäisellä ymmärryksellä ja yhteistyöllä. Se, etteivät kaikki kansat tule etenemään tähän suuntaan samaan tahtiin on todettava, mutta toimintatavan ilmeinen järkevyys ja sen tehokkuus tulevat kannustamaan jopa kaikkein vähiten positiiviset hiljalleen näkemään kaikkien yhteiset edut. Jokainen askel eteenpäin tulee vahvistamaan prosessia ja nopeuttamaan sen liikettä kohti yhteistyötä. Tällä tavoin kansojen välillä tulee kehittymään terveempi vuorovaikutussuhde, joka ajan myötä tulee johtamaan aitoon veljeyden tunteeseen.</p>

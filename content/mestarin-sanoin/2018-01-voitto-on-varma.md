@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Me todistamme nyt polarisaatiota, joka pakottaa ihmiskunnan valitsemaan. Niin pelottavia ovat nykyaikaisen elämäntyylin vaarat, että henki ihmisessä kapinoi ja etsii uutta. Tällä tavoin ihminen tuodaan tunnistamaan Jumalan Tahto."
+summary: "Lainaus: Me todistamme nyt polarisaatiota, joka pakottaa ihmiskunnan valitsemaan. Niin pelottavia ovat nykyaikaisen elämäntyylin vaarat, että henki ihmisessä kapinoi ja etsii uutta. Tällä tavoin ihminen tuodaan tunnistamaan Jumalan Tahto."
 
 ---
 <p>On käymässä yhä selvemmäksi, että konflikti Hyvän ja Pahan välillä on kääntymässä Valon Voimien voitoksi. Hyvä on vähitellen pääsemässä niskan päälle tässä ikiaikaisessa kamppailussa ihmisten mielistä ja sydämistä. Jotkut voivat kokea tämän hämmästyttäväksi lausunnoksi maailmassa tällä hetkellä esiintyvien jännitteiden ja jakautuneisuuden valossa. Silti asiat ovat niin ja jos kykenisitte näkemään maailman ja sen tapahtumat, kuten Me, Vanhemmat Veljenne, ne näemme, saisitte nähdä maailman, joka on käymässä läpi hämmästyttävää muutosta. Joka puolelta löytyy todistusaineistoa siitä, että vanha järjestys on sortumassa. Ikiaikaiset vihamielisyydet jakavat ihmisiä ja laittomuudet kukoistavat, mutta kaikkialla on merkkejä siitä, että ihmisessä on heräämässä uudenlainen henki – uudenlainen vastuuntunto ja uudistunut arvostus elämää kohtaan, kaikissa sen ilmenemismuodoissaan.</p>

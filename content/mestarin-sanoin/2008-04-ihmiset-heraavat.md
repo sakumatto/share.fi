@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Me näemme uudenlaisen ja toivorikkaan polun alun tässä kehityskulussa. Tämä, todellakin, ilahduttaa sydämiämme ja on itsessään oikeanlainen reaktio Uuden Ajan energioihin."
+summary: "Lainaus: Me näemme uudenlaisen ja toivorikkaan polun alun tässä kehityskulussa. Tämä, todellakin, ilahduttaa sydämiämme ja on itsessään oikeanlainen reaktio Uuden Ajan energioihin."
 ---
 <p>Saattaisi vaikuttaa mahdottomalta uskoa tai haihattelulta, mutta meidän, Vanhempien Veljienne, näkökulmasta tarkasteltuna merkittäviä muutoksia parempaan on käynnissä kautta maailman. Näemme kasvavan liikehdinnän kohti oikeudenmukaisuutta ja yhtenäisyyttä, sekä kasvavan havahtumisen sille, että rauhan on vallittava, mikäli ihmiskunta aikoo jatkaa evoluution polullaan. Tämä on merkittävä askel poispäin itsetuhon kuilulta.</p>
 <p>On toki monia, jotka vielä kehittelevät ja parantavat sodankäyntivälineitä ja täten rikastuvat ja saavat lisää vaikutusvaltaa tässä kuolemankaupassaan. Ihmiset, kuitenkin, ovat heräämässä: uudenlainen rytmi soi rummussa ja ihmiset vastaavat siihen. Lähes jokaisessa maassa ihmiset tunnistavat uuden valon, kiitävämmän ajatuksen ja kasvavan toivon. Vapaus, oikeudenmukaisuus ja rauha alkavat tuntua olevan lähempänä, todellisempia ja saavuttamiskelpoisempia kuin koskaan aiemmin. Maailmanlaajuinen kommunikaatiojärjestelmä antaa ihmisille uudenlaisen tunteen heistä yhtenä ihmiskuntana. Tämä uusi tietoisuus ei ole kaikenkattava tahi täydellinen, tietenkään, mutta Me näemme uudenlaisen ja toivorikkaan polun alun tässä kehityskulussa. Tämä, todellakin, ilahduttaa sydämiämme ja on itsessään oikeanlainen reaktio Uuden Ajan energioihin.</p>

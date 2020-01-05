@@ -21,7 +21,7 @@ author: share.fi
 
 
 ---
-<p class="alustus">Lainaus: Uskokaa, jos kykenette siihen, että Minä olen keskuudessanne.</p>
+<p class="alustus">summary: Uskokaa, jos kykenette siihen, että Minä olen keskuudessanne.</p>
 <h2>Maitreyan viesti 7.10.2014</h2>
 <h3>&#8211; Maitreyalta, Benjamin Cremen välityksellä</h3>
 <p>Kun ihmiset näkevät Minut ensi kertaa ja tuntevat Minut sinä jota olen, he tulevat huomaamaan muuttuvansa sisäisesti.</p>

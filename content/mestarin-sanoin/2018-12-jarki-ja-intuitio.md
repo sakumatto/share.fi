@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Tuleva tehtävä on selkeä: avatkaa sielunne ikkunat ja antakaa sielun valon valaista elämänne. Näin auenneen intuition avulla sallikaa sielun tiedon ja tarkoituksen toteutua."
+summary: "Lainaus: Tuleva tehtävä on selkeä: avatkaa sielunne ikkunat ja antakaa sielun valon valaista elämänne. Näin auenneen intuition avulla sallikaa sielun tiedon ja tarkoituksen toteutua."
 ---
 <p>Olemme astumassa aikaan jolloin järki tulee vähän kerrassaan korvautumaan intuition korkeammalla kyvyllä. Se mikä muodostaa ihmisessä järkeilyn kyvyn, ja josta ihminen on syystäkin ylpeä, tulee jonain päivänä tipahtamaan alapuolelle tietoisuuden rajan ja siitä tulee yhtä vaistonvaraista kuin on hengittäminen tai liikkuminen tänä päivänä. Ihmisen edessä odottaa valtaisa tietoisuuden nousu hänen intuition heräämisen myötä. Kyse on tietoisuudesta olemisen tasoista, joista ihminen ei vielä tiedä mitään, mutta jotka ovat olemassa valmiina ihmisen heränneen mielen havaittavaksi.</p>
 

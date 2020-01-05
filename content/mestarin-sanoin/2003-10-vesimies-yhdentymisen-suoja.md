@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Hierarkia, fyysisesti ihmisten parissa, tulee antamaan kaiken apunsa ja tietonsa tähän käyttöön. Näin tulee olemaan ja näin ihmiset tulevat uudistamaan kipuamisensa kohti Luojan antamaa kohtaloaan, osoittaen itsessään kaikessa loisteessaan yhtenäisyytensä ihmisten ja Jumalan kesken."
+summary: "Lainaus: Hierarkia, fyysisesti ihmisten parissa, tulee antamaan kaiken apunsa ja tietonsa tähän käyttöön. Näin tulee olemaan ja näin ihmiset tulevat uudistamaan kipuamisensa kohti Luojan antamaa kohtaloaan, osoittaen itsessään kaikessa loisteessaan yhtenäisyytensä ihmisten ja Jumalan kesken."
 ---
 <p>Jokainen aikakausi tuo ihmiskunnalle jonkin tietyn laadullisen saavutuksen. Kalat, nyt päättynyt aikakausi, on antanyt ihmisille yksilöllisyyden jumalaisen saavutuksen, yhdessä idealismin ja omistautumisen ominaisuuksien kanssa. Nämä ovat suuria edistysaskelia kehityksen pitkässä kulussa ja ne ovat valmistaneet ihmisyyden vesimiehen siunauksille.</p>
 <p>Uudella aikakaudella, vesimiehellä, on silläkin oma ominaislaatunsa ­ synteesi ­ ja tämä tuleva aika tulee todellakin tekemään tämän jumalaisen tuntomerkin suotuisan yhdentymisen todellisuudeksi kautta maailman. Tämänhetkinen sekaannuksen, jakolinjojen ja erottelun aika tulee hiljalleen antamaan tilaa aikakaudelle, jossa vesimiehen vahvistuvat voimat tekevät tehtävänsä, yhdistäen sekä saumaten yhteen niskoittelevat ja yhteensopimattomat osat. Täten ihmisyys tulee läpikäymään erityislaatuisen muutoksen, joka on nopeampi ja voimakkaampi, kuin koskaan ennen ihmisen pitkässä historiassa.</p>

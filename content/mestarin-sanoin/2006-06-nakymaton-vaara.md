@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Niin suuri kuin globaalin lämpenemisen uhka onkin, tänään se ei siltikään, valitettavasti, ole suurin ja vaarallisin ihmistä uhkaavista vaaroista. Jospa ihminen vain tietäisi, että menossa on ihmisten ja alempien luomakuntien tasaisesti paheneva myrkyttyminen. "
+summary: "Lainaus: Niin suuri kuin globaalin lämpenemisen uhka onkin, tänään se ei siltikään, valitettavasti, ole suurin ja vaarallisin ihmistä uhkaavista vaaroista. Jospa ihminen vain tietäisi, että menossa on ihmisten ja alempien luomakuntien tasaisesti paheneva myrkyttyminen. "
 ---
 <p>Jos ihmiset saattaisivat nähdä maailman tilan sellaisena, kuin me, Mestarit, sen näemme, he tulisivat olemaan ällistyneitä, ällikälle lyötyjä ja peloissaan, kaikkea yhdellä kertaa. Niin etääntynyt on ihmisen näkemys Maan todellisesta tilasta ja niin vajavainen on ihmisen näkemys tulevaisuuden vaihtoehdoista, että ilman apua ihminen joutuisi katselemaan planeettakotinsa surkastumisen ja kuoleman.</p>
 <p>Tilanteen ollessa näin, Maa-planeetta on surullisessa ja vaarallisessa tilassa, jokaisen päivän viedessä sitä lähemmäs kohti kriittistä. Monet ovat varoittaneet globaalista lämpenemisestä ja monia näkökohtia on esitetty, mutta jopa uhkaavimmat ennustukset jäävät vajaaksi maailmaa tänään uhkaavasta hävityksestä. Vain harvat näkevät uhan välittömyyden ja tarvittavien vastatoimien kiireen.</p>

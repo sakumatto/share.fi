@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: …ihmisten on dramaattisesti muutettava nykyistä elämäntyyliään ja heidän on omaksuttava yksinkertaisempi tapa elää ja työskennellä. Menneet ovat ne ajat kun ihminen raiskasi planeettaa mielin määrin, ja ilman ajatustakaan tulevia polvia kohtaan, näkemättä tai ajattelematta yhtään ympäristöä, joka hitaasti ja vääjäämättä pilaantui."
+summary: "Lainaus: …ihmisten on dramaattisesti muutettava nykyistä elämäntyyliään ja heidän on omaksuttava yksinkertaisempi tapa elää ja työskennellä. Menneet ovat ne ajat kun ihminen raiskasi planeettaa mielin määrin, ja ilman ajatustakaan tulevia polvia kohtaan, näkemättä tai ajattelematta yhtään ympäristöä, joka hitaasti ja vääjäämättä pilaantui."
 ---
 <p>Mikäli ihmiset mielivät pelastaa tämän planeetan globaalin lämpenemisen vaikutuksilta, heidän on tehtävä määrättömän paljon enemmän kuin hiilipäästöjen leikkaamiseksi on suunniteltu, ja nopeammassa tahdissa kuin mitä yleisesti hyväksytään tarpeellisena. Ihmiset ovat olleet hitaita näkemään vaarat, ja vielä nytkin kieltäytyvät ottamasta ongelmia vakavissaan. Tällaiset asenteet asettavat planeetan ilman muuta vaaralle alttiiksi. Enimmillään, ihmisillä on enää kymmenestä viiteentoista ** vuotta aikaa luoda tasapaino, ennen kuin peruuttamattomia vahinkoja syntyy.</p>
 <p>Saavuttaakseen tämä tavoitteen, ihmisten on dramaattisesti muutettava nykyistä elämäntyyliään ja heidän on omaksuttava yksinkertaisempi tapa elää ja työskennellä. Menneet ovat ne ajat kun ihminen raiskasi planeettaa mielin määrin, ja ilman ajatustakaan tulevia polvia kohtaan, näkemättä tai ajattelematta yhtään ympäristöä, joka hitaasti ja vääjäämättä pilaantui.</p>

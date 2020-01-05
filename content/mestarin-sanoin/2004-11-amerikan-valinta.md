@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Amerikka on mahtava kansakunta, jolla on paljon hyvää annettavana maailmalle. Sen on nyt herättävä sen sielun haluun palvella; haluun elää rauhassa, ja oikeudenmukaisuudessa; sekä haluun työskennellä yhdessä ja yhteistyössä ja harmoniassa kaikkien maailman kansojen kanssa korjata tämä maailma."
+summary: "Lainaus: Amerikka on mahtava kansakunta, jolla on paljon hyvää annettavana maailmalle. Sen on nyt herättävä sen sielun haluun palvella; haluun elää rauhassa, ja oikeudenmukaisuudessa; sekä haluun työskennellä yhdessä ja yhteistyössä ja harmoniassa kaikkien maailman kansojen kanssa korjata tämä maailma."
 ---
 <p>Kun Amerikan kansalaiset menevät uurnille marraskuussa, heillä on mahdollisuus muuttaa historian kulkua. Heidän päätöksestään riippuu suuressa määrin lähitulevaisuuden malli ja rakenne. Jos he valitsevat viisaasti, he tulevat valitsemaan presidentin, joka on sitoutunut vaalimaan niiden hyvinvointia, jotka haluavat rauhaa sekä oikeudenmukaisuutta tähän huolten maailmaamme; niiden, jotka ymmärtävät, että rauha ja oikeudenmukaisuus ovat tulosta luottamuksesta ja jotka ovat valmiita jakamaan maansa valtavat resurssit luodakseen luottamusta.</p>
 <p>Vaihtoehto on liian kauhistuttava pohdittavaksi: laajeneva ohjelma sotaa ja terrorismia sekä terrorismin vastaista taistelua; tiukentuva ote Amerikan kansalaisten perinteisiin vapauksiin; suhteiden romahtaminen muihin maihin; ”paarian” maine ylpeälle Yhdysvalloille muiden maiden silmissä. Kuka voisi tietoisesti tehdä sellaisen valinnan?</p>

@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Maailmantalouden romahtamisen myötä ihmiset tulevat ymmärtämään olevansa yhtä. Tämä oivallus tulee syvällä tavalla vaikuttamaan heidän suhtautumiseensa sotaan. He tulevat näkemään, että ovat sidottuna yhteiseen kamppailuun olemassaolosta ja Maitreyan sanat tulevat syvemmin täyttämään heidän mielensä."
+summary: "Lainaus: Maailmantalouden romahtamisen myötä ihmiset tulevat ymmärtämään olevansa yhtä. Tämä oivallus tulee syvällä tavalla vaikuttamaan heidän suhtautumiseensa sotaan. He tulevat näkemään, että ovat sidottuna yhteiseen kamppailuun olemassaolosta ja Maitreyan sanat tulevat syvemmin täyttämään heidän mielensä."
 ---
 <p>Voidaan sanoa ilman pelkoa vastaansanomisista, että kaikki maailmassa ei ole kunnossa. Esimerkiksi ero huippurikkaiden ja ääriköyhien välillä kasvaa aina vain suuremmaksi. Tämä äärimmäinen epäsuhta ei ole terveellistä millekään yhteiskunnalle. On totta, että jotkut rikkaista jakavat varoistaan köyhille, mutta yleisesti ottaen, ja kaikkien muiden tappioksi, huippurikkaat pyrkivät mielumminkin rikastumaan.</p>
 <p>Jokaisen elämän osa-alueen lisääntyvä kaupallistuminen tänä päivänä jo itsessään on “aikapommi”, jonka purkaus tulee saattamaan nykyisen talousjärjestelmän polvilleen. Tuo aika ei ole kaukana. Niin suuria ovat tämän syvään juurtuneen kaupallistumisen luomat jännitteet, että tasapaino on jännittynyt katkeamispisteeseensä asti. Useimmat ihmiset ovat epätietoisia näistä voimista. Niin syvästi he ovat itse mukana juuri näiden jännitteiden luomisessa.</p>

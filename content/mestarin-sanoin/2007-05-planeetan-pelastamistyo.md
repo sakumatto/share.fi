@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Globaalin lämpenemisen todellisuus valkenee nyt miljoonille, ja siltikin, piittaamatta todisteiden tulvasta, jotkut vieläkin kiistävät ihmisten toimet muutosten syynä. Me, teidän Vanhemmat Veljenne, voimme täydellä vakaumuksella sanoa, että ihmisten toimet ovat kahdeksankymmentä prosenttisesti lämpenemisen syynä."
+summary: "Lainaus: Globaalin lämpenemisen todellisuus valkenee nyt miljoonille, ja siltikin, piittaamatta todisteiden tulvasta, jotkut vieläkin kiistävät ihmisten toimet muutosten syynä. Me, teidän Vanhemmat Veljenne, voimme täydellä vakaumuksella sanoa, että ihmisten toimet ovat kahdeksankymmentä prosenttisesti lämpenemisen syynä."
 ---
 <p>Kun ihmiskunta ymmärtää kuinka vakava heidän planetaarisen kotinsa ekologinen epätasapaino on, heidän on otettava ehdottoman tärkeät vaaditut askelet tilanteen korjaamiseksi. Jos ihmiset jättäisivät reagoimatta riittävällä päättäväisyydellä, he olisivat syyllisiä planeetan hylkäämisestä hitaaseen, mutta varmaan tuhoon. Mikä silloin olisi lapsille jätettävä perintö? Jotta tuo itsetuho ei toteutuisi, kaikkien on toimittava yhdessä ja tehtävä tarvitut muutokset. Muutoksen väistämätön seuraus on kokonaisvaltainen asennemuutos planeetan yhtenäisyyttä kohtaan ja sitä kohtaan, mitä tänään nähdään ihmisten tarpeina.</p>
 <p>Joillekin ei tarvittavien muutosten tukeminen tule olemaan helppoa, mutta vain sellaisella muutoksella planeetan elämä voidaan turvata. Jo nyt on luotu syvät vajeet Maan tarpeellisiin puuvarantoihin. Metsänhakkuut ovat aikaansaaneet enenevän hapen määrän laskun ja hiilidioksidin määrän kasvun. Muutos on nyt kriittisessä vaiheessa ja vaatii välitöntä puuttumista.</p>

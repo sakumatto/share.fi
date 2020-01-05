@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Yhtä lailla kaaos on vallalla poliittisissakin piireissä. Kansoja johtavat menneisyydelle omistautuneet ryhmät, jotka ovat kykenemättömiä näkemään etteivät heidän toimintatapansa enää ole oikeita tämän päivän ja huomisen tarpeita silmällä pitäen."
+summary: "Lainaus: Yhtä lailla kaaos on vallalla poliittisissakin piireissä. Kansoja johtavat menneisyydelle omistautuneet ryhmät, jotka ovat kykenemättömiä näkemään etteivät heidän toimintatapansa enää ole oikeita tämän päivän ja huomisen tarpeita silmällä pitäen."
 ---
 <p>Pian käy selväksi, että ilman apua ihmisillä ei ole enää kauaa korjata ekologiset, poliittiset ja taloudelliset ongelmat, jotka saavat aikaan kaaosta, vaaroja sekä sydänsuruja suurimmalle osalle Maan väestöä. Tilanne on ainutkertainen maapallon historiassa. Paljon riippuu ihmisen ymmärtämisestä, että planeetan kaitsijoina heillä on vastuu sen hyvinvoinnista sekä sen kaikkien luomakuntien hyvinvoinnista. Ja vastuu terveen sekä kukoistavan planetaarisen kodin luovuttamisesta tuleville sukupolville. Jos planeetta olisi ihminen, olisi vakavia epäilyksiä siitä, voisiko sitä enää palauttaa, niin epäterveeksi on planeetta tullut ihmisten petomaisen käytöksen sekä huolettoman välinpitämättömyyden seurauksena. Ihmisen sekä alempien luomakuntien koti on hoidettava takaisin terveeksi, täyttämään sen tehtävä kehittyvässä suunnitelmassa.</p>
 

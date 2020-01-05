@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Joka päivä, 18 päivän ajan, Maitreya vietti useita tunteja Kairossa, pääasiallisesti aukiolla. Monissa eri asuissa, Hän työskenteli ihmisten parissa, lohduttaen haavoittuneita ja niitä monia marttyyreitä, jotka antoivat henkensä vapaudelle ja oikeudenmukaisuudelle."
+summary: "Lainaus: Joka päivä, 18 päivän ajan, Maitreya vietti useita tunteja Kairossa, pääasiallisesti aukiolla. Monissa eri asuissa, Hän työskenteli ihmisten parissa, lohduttaen haavoittuneita ja niitä monia marttyyreitä, jotka antoivat henkensä vapaudelle ja oikeudenmukaisuudelle."
 ---
 <p>Kahdeksantoista merkitsevän päivän ajan aivan hiljattain, maailman huomio oli kohdistunut yhteen aukioon yhteen ikivanhaan kaupunkiin. Tuhansittain ja kymmentuhansittain Kairon asukkaat, nuoret ja vanhat ja todella nuoret, rohkeasti kävelivät ohi panssarivaunujen ja vesitykkien ja oppivat hyvin nopeasti kyynelkaasuhyökkäyksen keskellä hengittämisen tekniikan. Rauhallisessa veljeydessä Kairon asukkaat valtasivat ja pitivät aukionsa, lisäten nimen Tahrir Egyptin kunniakkaan historian monumentteihin.</p>
 <p>Kahdeksantoista päivän ajan he vastustivat poliiseja ja vanhan sekä korruptoituneen hallinnon edusmiehiä, yhtenäisellä sekä rauhanomaisella ja varmalla äänellä muutosta vaatien. Vaatien oikeudenmukaisuutta, työtä, vapautta ja lainvoimaa. Muslimit joukossa rukoilivat säädettyinä aikoina samalla kun toiset pitivät vahtia, suojaten heitä hyökkäyksiltä. Veljeys kukoisti ja erityislaatuinen henkinen voima oli käsinkosketeltavissa aukiolla ja koko kaupungissa.</p>

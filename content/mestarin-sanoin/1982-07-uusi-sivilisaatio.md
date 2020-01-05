@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Pian ensimmäiset askeleet otetaan kohti uutta paljastusta. Pian uudet merkkipaalut pystytetään, joista nähdään ihmiskunnan suunta."
+summary: "Lainaus: Pian ensimmäiset askeleet otetaan kohti uutta paljastusta. Pian uudet merkkipaalut pystytetään, joista nähdään ihmiskunnan suunta."
 ---
 <p>Tämän nyt sarastavan Uuden ajan alussa monen on vaikea kuvitella sen kaltainen sivilisaatio ja kulttuuri, joka tulee olemaan tunnusomaista tulevina vuosisatoina. Useimmat yritykset tehdä niin jäävät kiinni materialistiseen ajatteluun. Vain harvoin nähdään vaivaa luoda ihmiskunnan henkisistä pyrkimyksista merkitystä ja totta näissä kuvitelmissa.</p>
 <p>Yrittäkäämme mieltää tulevaisuus tuon uuden sivilisaation ja kulttuurin merkityksin. Pian ensimmäiset askeleet otetaan kohti uutta paljastusta. Pian uudet merkkipaalut pystytetään, joista nähdään ihmiskunnan suunta. Ensin muutokset ovat verkkaisia, mutta ennen pitkää ja kiihtyvällä voimalla kaikki uudistetaan.</p>

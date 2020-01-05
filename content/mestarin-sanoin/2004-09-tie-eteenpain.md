@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Paljon, mikä tänään vaikuttaa tärkeältä, tulee syrjäytymään, tullakseen korvatuksi yksinkertaisemmilla ja luonnollisemmilla elintavoilla sekä ihmissuhteilla. Mennyttä, siitä voitte olla varmoja, tulee olemaan tuo pilkka, kun miljoonat turhan tähden kuolevat puutteeseen yltäkylläisyyden keskellä."
+summary: "Lainaus: Paljon, mikä tänään vaikuttaa tärkeältä, tulee syrjäytymään, tullakseen korvatuksi yksinkertaisemmilla ja luonnollisemmilla elintavoilla sekä ihmissuhteilla. Mennyttä, siitä voitte olla varmoja, tulee olemaan tuo pilkka, kun miljoonat turhan tähden kuolevat puutteeseen yltäkylläisyyden keskellä."
 ---
 <p>Jokaisen ihmisen tietoisuuden muutoksen edellä on hetken levähdys, hetkellinen hiljaisuus, jona aikana menneen saavutukset arvioidaan ja, mikäli niissä on puutteita, hylätään. Näin on tänään, kun ihminen pohtii mikä on tärkeätä ja tarpeen säilyttää tulevia tarpeita varten sekä mikä taas on hylättävissä ihmisen kasvavan hahmotuskyvyn ja ymmärtämyksen valossa. Omilleen jätettynä, tämä ajanjakso olisi ihmiselle hyvin pitkä. Moninaiset ovat ne kokeet, jotka hän joutuisi tekemään ja monet ovat ne erehtymisen mahdollisuudet, ennen kuin oikea tie löytyisi ja oikeat askeleet otettaisiin.</p>
 <p>Tästä eteenpäin ihminen, niin halutessaan, voi hyötyä Meidän, hänen Vanhempien Veljiensä avusta. Meidän, jotka olemme valmiina avustamaan ja inspiroimaan, kunhan Meitä kutsutaan.</p>

@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Joka vuosisata ja jokaisen vuosisadan joka kahdeskymmenesviides vuosi Me, Viisauden Mestarit, kokoonnumme arvioimaan niiden monien projektien ja suunnitelmien toteutumista tai onnistumista, jotka olemme aikaisemmin käynnistäneet."
+summary: "Lainaus: Joka vuosisata ja jokaisen vuosisadan joka kahdeskymmenesviides vuosi Me, Viisauden Mestarit, kokoonnumme arvioimaan niiden monien projektien ja suunnitelmien toteutumista tai onnistumista, jotka olemme aikaisemmin käynnistäneet."
 ---
 <p>Joka vuosisata ja jokaisen vuosisadan joka kahdeskymmenesviides vuosi Me, Viisauden Mestarit, kokoonnumme arvioimaan niiden monien projektien ja suunnitelmien toteutumista tai onnistumista, jotka olemme aikaisemmin käynnistäneet. Tällä tavalla tiedämme, miten hyvin tietyt suunnitelmat menestyvät, ja jolleivät, niin voimme tehdä tarvittavat muutokset sekä tarkennukset, ennen kuin vahinkoa pääsee syntymään.</p>
 <p>Joidenkin mielestä tämä voi vaikuttaa hitaalta ja raskaalta rytmiltä, mutta Meidän pitkä kokemuksemme kertoo Meille, että kehitys edistyy hitaasti ja ihmiskunta vaatii kauan luodakseen ja tasapainottaakseen tarvittavat muutokset. Edistys on kuitenkin varmaa, jos Suunnitelmaa seurataan tarkasti ja Meillä on suuri luottamus toimintatapoihimme.</p>

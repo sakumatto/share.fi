@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Miljoonat kokevat nyt, että ihmiskunta on yhtä, ja että vain yhdessä kaikkien yhteiseksi hyväksi työskentelemällä se voi selvitä."
+summary: "Lainaus: Miljoonat kokevat nyt, että ihmiskunta on yhtä, ja että vain yhdessä kaikkien yhteiseksi hyväksi työskentelemällä se voi selvitä."
 ---
 <p>Tervetuloa juhla-aterialle. Seisoessamme nyt Uuden aikakauden kynnyksellä, ihmiset pohtivat sitä mikä heitä odottaa. Kuten monet tietävätkin, maailma on jakautunut kahteen ryhmään, kuta kuinkin lukumäärältä yhtä suuriin. Toinen osoittaa Kalojen nyt jo nopeasti häviävää ominaispiirrettä. Tuon aikakauden ylpeys, se voimakas yksilöllisyys, joka nyt on nähtävissä kautta maailman, on muodostunut tämän päivän suurimmaksi vaaraksemme, ja se uhkaa jokaisen meidän tulevaisuutta. Näin kansakunnat taistelevat armotta ja suurimmat sekä voimakkaimmat niistä vaativat leijonan osan.</p>
 <p>Joka päivä Vesimiehen ajan hyvää tekevät vedet tekevät itsensä aina vain enemmän tietyksi, ja ne johdattavat ihmistä vähän kerrassaan kauemmas kuilun partaalta.</p>

@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: jakamisen ja oikeudenmukaisuuden polku on ainut tie luomaan luottamusta ja turvallisempi maailma aivan kaikille. Lääke ihmisten vaikeuksiin on niin yksinkertainen ja niin helppo aikaansaada ja siltikin niin vaikea monen ymmärtää. Ihmisten on ymmärrettävä, että jokaista muuta tapaa on kokeiltu ja jokainen muu tapa on epäonnistunut ja väistämättä johtanut sotaan."
+summary: "Lainaus: jakamisen ja oikeudenmukaisuuden polku on ainut tie luomaan luottamusta ja turvallisempi maailma aivan kaikille. Lääke ihmisten vaikeuksiin on niin yksinkertainen ja niin helppo aikaansaada ja siltikin niin vaikea monen ymmärtää. Ihmisten on ymmärrettävä, että jokaista muuta tapaa on kokeiltu ja jokainen muu tapa on epäonnistunut ja väistämättä johtanut sotaan."
 ---
 <p>Tämä vuosi, 2012, on suuren tärkeyden vuosi. On aivan olennaista, että Arabikevään ja sen maailmanlaajuisten jälkivaikutusten liikevoima ei hukkaannu. Ihmisten ääni, joka on niin voimakas ja itsevarma nyt, on saatava edelleen kaikumaan kautta maailman, vahvistamaan, että jakamisen ja oikeudenmukaisuuden polku on ainut tie luomaan luottamusta ja turvallisempi maailma aivan kaikille. Lääke ihmisten vaikeuksiin on niin yksinkertainen ja niin helppo aikaansaada ja siltikin niin vaikea monen ymmärtää. Ihmisten on ymmärrettävä, että jokaista muuta tapaa on kokeiltu ja jokainen muu tapa on epäonnistunut ja väistämättä johtanut sotaan.</p>
 <p>Tänään, olkoon tämä kaikille selvää, seuraava suursota olisi atomisota, joka tuhoaisi kertakaikkisesti kaiken elämän Maasta. Tänään on myös voimia, jotka suunnittelevat miten parhaiten selvitä sellaisesta tuhosta. Kaikki se on turhaa. Mitä ihmiskunta voi tehdä ja mitä ihmiskunnan tulisi tehdä?</p>

@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Tämän ymmärryksen valossa ihminen tulee tajuamaan olemassaolonsa ja olemuksensa kannalta keskeisiä totuuksia. Hän tulee ymmärtämään, konkreettisena kokemuksena, olevansa osa suurta veljeskuntaa, joka elää ja kärsii ja kuolee yhdessä, Yhtenä."
+summary: "Lainaus: Tämän ymmärryksen valossa ihminen tulee tajuamaan olemassaolonsa ja olemuksensa kannalta keskeisiä totuuksia. Hän tulee ymmärtämään, konkreettisena kokemuksena, olevansa osa suurta veljeskuntaa, joka elää ja kärsii ja kuolee yhdessä, Yhtenä."
 ---
 <p>Tuuma tuumalta ihmiskunta lähenee valmiuttaan tehdä päätöksensä. Tapahtumien kulku pakottaa hallitukset etsimään uusia ratkaisuja tämän päivän vaivoihin, ongelmiin, jotka tuntuvat vastustavan päätöksiä. Yhä useammin niille tarjotaan yhä useammalta suunnalta täysin uusia ratkaisuja niiden pulmiin. Ihmiskunnan ajattelun uusi suunta on vähän kerrassaan ottamassa tukevampaa otetta ihmisten mielissä. Nykyisestä kaaoksesta huolimatta, tämä lupaa hyvää tulevaisuuden osalta.</p>
 <p>Kansakunnat huomaavat, että vanhat metodit ja mekanismit eivät enää toimi, vaan kriisi toisensa perään pyyhkii pois nekin vähäiset edistysaskeleet, mitä siihen mennessä oli saavutettu. Ja samalla kärsivien huudot ja avunpyynnöt voimistuvat ja kovenevat. Hitaasti, mutta varmasti jakamisen tarpeellisuus juolahtaa monien mieliin. Pian tämä ajattelumalli rekisteröityy koko ihmiskunnan mieliin ja muodostaa &#8221;puuttuvan linkin&#8221;, ratkaisun ongelmiimme.</p>

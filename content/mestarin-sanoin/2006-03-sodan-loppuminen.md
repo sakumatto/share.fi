@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Kun tulee aika laskea sen kustannukset, ihmiset tulevat hämmästymään ja häpeämään sodan uhrauksia. Enemmän kuin mikään muu ihmisen tekemä, sota ahmii ihmishenkiä ja resursseja. Mitään ei säästellä ”vihollisen” voittamiseksi ja kaikki uhrataan voiton saavuttamiseksi."
+summary: "Lainaus: Kun tulee aika laskea sen kustannukset, ihmiset tulevat hämmästymään ja häpeämään sodan uhrauksia. Enemmän kuin mikään muu ihmisen tekemä, sota ahmii ihmishenkiä ja resursseja. Mitään ei säästellä ”vihollisen” voittamiseksi ja kaikki uhrataan voiton saavuttamiseksi."
 ---
 <p>Kun tulee aika laskea sen kustannukset, ihmiset tulevat hämmästymään ja häpeämään sodan uhrauksia. Enemmän kuin mikään muu ihmisen tekemä, sota ahmii ihmishenkiä ja resursseja. Mitään ei säästellä ”vihollisen” voittamiseksi ja kaikki uhrataan voiton saavuttamiseksi. Täten ihminen on väsymättä käynyt kiistaa naapurinsa kanssa, eikä aina itsepuolustukseksi. Aivan yhtä usein sotaa on käyty maa-alan kasvattamiseksi, ryöstelemiseksi ja kauhistuttavinta kaikista: orjien vangitsemiseksi. Sanaa ”sotasaalis” käytetään kovin kevyesti kuvaamaan useimpien sotien perimmäistä syytä.</p>
 <p>Tänään olemme saavuttaneet ajankohdan, jolloin ihmisten on otettava vakavissaan sotimisen lopettamisen tehtävä. Ihmisten on ymmärrettävä, ettei ole olemassa yhtäkään ongelmaa tai tilannetta, jonka ratkaisemiseksi tai korjaamiseksi tarvittaisiin sotaa. Näin muodoin kansojen on yhdessä toimien lopetettava tuo ihmisen tuhoisa taipumus.</p>

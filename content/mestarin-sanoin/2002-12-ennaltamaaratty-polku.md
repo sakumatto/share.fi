@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Me olemme jo pitkään työskennelleet kohti tätä päämäärää ja odotamme kärsivällisesti sen toteutumista. Me tiedämme, että ihmisten sydämet ovat valmiita antamaan muodon kaikkein ylevimmille pyrkimyksille, astumaan suosiolla toistaiseksi tuntemattomaan tulevaisuuteen ja korjaamaan menneisyyden erheet sekä jatkamaan jälleen kerran pitkällä ylösnousemuksen tiellä."
+summary: "Lainaus: Me olemme jo pitkään työskennelleet kohti tätä päämäärää ja odotamme kärsivällisesti sen toteutumista. Me tiedämme, että ihmisten sydämet ovat valmiita antamaan muodon kaikkein ylevimmille pyrkimyksille, astumaan suosiolla toistaiseksi tuntemattomaan tulevaisuuteen ja korjaamaan menneisyyden erheet sekä jatkamaan jälleen kerran pitkällä ylösnousemuksen tiellä."
 ---
 <p>On käymässä aina vain selvemmäksi, että ihminen on valmis valtavaan edistysaskeleeseen. Huolimatta kaikista edelleen olemassa olevista jännitteistä ja vaaroista, jotka monen mielestä tuntuvat vain lisääntyvän, on ihmiskunta siirtymässä eteenpäin ja ylöspäin, samassa linjassa toimintaa ohjaavan Suunnitelman kanssa. Kosminen Magneetti vetää kaikkea kohti suunniteltua määränpäätä. Tuon magneetin energiat voimistuvat, eikä niitä voi vastustaa. Ihmisen täytyy oppia ymmärtämään Kosmoksen voima ja hyväntahtoisuus. Täten hän kehittyy oikealla tavalla, mahdollisimman vähän kärsien.</p>
 <p>Kosmoksen Valo valaisee ihmisen voimakkaammin kuin koskaan aiemmin, inspiroiden häntä yksinkertaistamaan elämäänsä ja täten saavuttamaan yhteyden Alkulähteeseen – yhteyden, jonka hän, surullista kyllä, on menettänyt.</p>

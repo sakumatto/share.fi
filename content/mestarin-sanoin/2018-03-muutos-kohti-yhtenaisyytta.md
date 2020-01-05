@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Miljoonat ihmiset ovat tänä päivänä koulutettuja ja varmoja omista tarpeistaan: rauhaa, työtä ja toivoa tulevaisuuttaan kohtaan. Myös kasvava yhtenäisyyden tunne kielii heidän odotuksistaan ja vaatimuksistaan."
+summary: "Lainaus: Miljoonat ihmiset ovat tänä päivänä koulutettuja ja varmoja omista tarpeistaan: rauhaa, työtä ja toivoa tulevaisuuttaan kohtaan. Myös kasvava yhtenäisyyden tunne kielii heidän odotuksistaan ja vaatimuksistaan."
 
 ---
 <p>Kun ihmiset tulevat viimein pääsemään kartalle nykytilanteestaan, on heidän kiistatta myönnettävä, ettei kaikki ole ihmiskunnalla kunnossa. Poliittiset, taloudelliset, sosiaaliset ja ympäristölliset olosuhteet ovat tulvillaan ongelmia, jotka koettelevat aivan jokaisen maan neuvokkuutta ääriinsä asti. Jopa niissä maissa, joissa näyttäisi olevan taloudellinen ylivalta tällä hetkellä, on ongelmia, jotka estävät niiltä sen helppouden, jonka niiden vaurauden myötä heille luulisi kuuluvan. Mikä estää valtioita saavuttamasta suhteellista tasapainoa ja hyvinvointia? Miksi jopa pitkäikäiset, paljon nähneet ja vauraat valtiot syöksyvät äkkiarvaamatta keskelle kaaosta ja konflikteja? Mikä aiheuttaa kärsimystä ja koettelemuksia niin monille; mikä estää laajemman tunteen ja ilmaisun yhtenäisyydestä?</p>

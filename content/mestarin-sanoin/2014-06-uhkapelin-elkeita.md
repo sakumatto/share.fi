@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Aina milloin ihminen ottaa päättäväisen askeleen kohti oikeanlaisia ihmissuhteita, on aina heitäkin, jotka ottavat yhtä päättäväisen askeleen kohti vastakkainasetteluita. Monet työskentelevät ja jopa kuolevat suuremman oikeudenmukaisuuden ja vapauden puolesta, samalla kun toiset voimat uhkaavat rauhaa kyynisillä yrityksillään koota häviävän valtansa rippeet."
+summary: "Lainaus: Aina milloin ihminen ottaa päättäväisen askeleen kohti oikeanlaisia ihmissuhteita, on aina heitäkin, jotka ottavat yhtä päättäväisen askeleen kohti vastakkainasetteluita. Monet työskentelevät ja jopa kuolevat suuremman oikeudenmukaisuuden ja vapauden puolesta, samalla kun toiset voimat uhkaavat rauhaa kyynisillä yrityksillään koota häviävän valtansa rippeet."
 ---
 <p>Aina milloin ihminen ottaa päättäväisen askeleen kohti oikeanlaisia ihmissuhteita, on aina heitäkin, jotka ottavat yhtä päättäväisen askeleen kohti vastakkainasetteluita. Monet työskentelevät ja jopa kuolevat suuremman oikeudenmukaisuuden ja vapauden puolesta, samalla kun toiset voimat uhkaavat rauhaa kyynisillä yrityksillään koota häviävän valtansa rippeet. Samanaikaisesti ihmiskunta kokonaisuutena katselee ja pelosta tärisee, todistaen jo kadonneeksi ja kukistetuksi kuvitellun ikivanhan vihan uusintaesitystä.</p>
 <p>Maalaisjärkeä<br />

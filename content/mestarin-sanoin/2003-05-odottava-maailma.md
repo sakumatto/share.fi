@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Sota on käynnissä, mahdollisesti jo ohi, mutta järjen ja sydämen ihmiset ovat löytäneet äänensä ja tavan tulla kuulluksi. Vihdoin, pitkän pitkän ajan jälkeen ihmiset alkavat tuntea valtansa ja oikeutensa puhua sekä vaikuttaa ja muokata omaa kohtaloaan. Tämän teennäisen ja turhan sodan kaaoksen ja kurjuuden keskeltä tulee nousemaan sellaisia muutoksia, joita sen aiheuttajat eivät olisi voineet kuvitella."
+summary: "Lainaus: Sota on käynnissä, mahdollisesti jo ohi, mutta järjen ja sydämen ihmiset ovat löytäneet äänensä ja tavan tulla kuulluksi. Vihdoin, pitkän pitkän ajan jälkeen ihmiset alkavat tuntea valtansa ja oikeutensa puhua sekä vaikuttaa ja muokata omaa kohtaloaan. Tämän teennäisen ja turhan sodan kaaoksen ja kurjuuden keskeltä tulee nousemaan sellaisia muutoksia, joita sen aiheuttajat eivät olisi voineet kuvitella."
 ---
 <p>Maapallo kerää itseään amerikkalaisten ja brittijoukkojen hiljattain tapahtuneesta Irakin valtaamisen vaikutuksista. Näennäisesti lyhyt ja kapea-alainen sota on harvoin aiheuttanut näin paljon itsetutkiskelua ja sydänsurua, tai yhtä paljon seurannaisvaikutuksia. Todellakin, harvoin on vastaavaa kevytmielisyyttä nähty ja harvoin vastustettu maailman kansojen enemmistön toimesta. Syyskuun 11, 2001 tapahtumat ovat avanneet Yhdysvaltain hallinnolle kauhistuttavan mahdollisuuden vääryydellä itselleen edustaa näennäinen moraalinen oikeutus toimilleen toteuttaa ja kohdistaa julmia roistomaisia tekojaan valittuihin kohteisiinsa naamioituneena terrorismin vastaiseksi taisteluksi.</p>
 <p>Ääni</p>

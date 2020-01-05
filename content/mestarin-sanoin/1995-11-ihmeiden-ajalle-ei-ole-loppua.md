@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Maitoa juovat patsaat, jotka ovat olleet hinduille ennusmerkkinä heidän suuren opettajansa tulemisesta, ovat vain yksi monista Maitreyan ja hänen Mestariensa uudelleentulemista todistavista ennusmerkeistä."
+summary: "Lainaus: Maitoa juovat patsaat, jotka ovat olleet hinduille ennusmerkkinä heidän suuren opettajansa tulemisesta, ovat vain yksi monista Maitreyan ja hänen Mestariensa uudelleentulemista todistavista ennusmerkeistä."
 ---
 <p><strong>Maitoa juovat patsaat</strong></p>
 <p>Maitoa juovat patsaat, jotka ovat olleet hinduille ennusmerkkinä heidän suuren opettajansa tulemisesta, ovat vain yksi monista Maitreyan ja hänen Mestariensa uudelleentulemista todistavista ennusmerkeistä.</p>

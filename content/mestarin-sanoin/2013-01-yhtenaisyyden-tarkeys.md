@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Yhtenäisyys missä tahansa todellisessa muodossa on lähes hävinnyt, jopa, vaiko varsinkin, uskontojen alalla. Vain harvat näkevät ihmisten perimmäiset tarpeet vaistonvaraisesti ja niin kuin asiat ovat. Siinä tuo uhka."
+summary: "Lainaus: Yhtenäisyys missä tahansa todellisessa muodossa on lähes hävinnyt, jopa, vaiko varsinkin, uskontojen alalla. Vain harvat näkevät ihmisten perimmäiset tarpeet vaistonvaraisesti ja niin kuin asiat ovat. Siinä tuo uhka."
 ---
 <p>Kun ihmiset katsovat taakse päin tätä aikaa, he tulevat näkemään sen aikana jolloin samanaikaisesti osoitimme jokaista olemuksemme osa-aluetta: sekä saavutuksiamme että virheitämme. Tämä ei tietenkään ole yllättävää, sillä ihmiset kaikkialla sijaitsevat kehityksen tikapuun eri askelmilla. Mutta vaikkakin hyväksymme nämä luonnolliset eroavaisuudet, jotka aika itsessään tulee pienentämään, siltikin puuttuu yhtenäisyys lähestymistavoissa ja ymmärtämys kaikkien tarpeille. Miksi näin on? Pitkien ajanjaksojen ajan perättäisten uskontojen opit ja voimakkaiden yksilöiden eminenssi ylläpitivät tietynlaista ajatusten yhtenäisyyttä kehittyvässä ihmiskunnassa. Oli toki monia sodan ja kurjuuden aikoja, mutta jollain tasolla suurten uskontojen yhtenäistävä vaikutus säilyi. Tänä päivänä yksilöllisyys on niin voimakasta, niin arvokasta ja niin palkitsevaa, että riippumatta sen monista saavutuksista, tästä arvokkaasta yksilöllisyydestä on tullut ihmisen suurin uhka.</p>
 <p>Yhtenäisyys missä tahansa todellisessa muodossa on lähes hävinnyt, jopa, vaiko varsinkin, uskontojen alalla. Vain harvat näkevät ihmisten perimmäiset tarpeet vaistonvaraisesti ja niin kuin asiat ovat. Siinä tuo uhka.</p>

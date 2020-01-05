@@ -3,18 +3,18 @@ title: "Mestarin sanoin _12/2003: Aika ilman edeltäjää"
 
 menu:
  masterarticle:
-  identifier:  "mestarin-sanoin-2003-12"
-  parent:  "2003"
+  identifier:  "mestarin-sanoin-2019-04"
+  parent:  "2019"
 
 master: "Cremen Mestari"
 
-date: 2003-12-01T00:00:00+02:00
-prevmonth: "11/2003: Elämisen salaisuus"
-prevmonthLink: "2003-11"
+date: 2019-04-01T00:00:00+02:00
+prevmonth: "3/2019: Tulevaisuuden avain"
+prevmonthLink: "2019-04"
 
 
 aliases:
-  - /mestarin-sanoin/2003-12/
+  - /mestarin-sanoin/2019-04/
 
 ei_pvm: false
 naytakk: true

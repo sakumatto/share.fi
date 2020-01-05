@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Monet ihmiset odottavat Kristuksen jälleentulemista peloissaan ja kauhuissaan. Heistä tuntuu, että Hänen tulonsa saa aikaan suuria muutoksia kaikilla elämän osa-alueilla. Hänen arvonsa, kuten he oikein olettavat, tulevat väistämättä muuttamaan heidän ajattelu- ja elintapojaan ja he kalpenevat tällaisen tulevaisuudennäkymän edessä."
+summary: "Lainaus: Monet ihmiset odottavat Kristuksen jälleentulemista peloissaan ja kauhuissaan. Heistä tuntuu, että Hänen tulonsa saa aikaan suuria muutoksia kaikilla elämän osa-alueilla. Hänen arvonsa, kuten he oikein olettavat, tulevat väistämättä muuttamaan heidän ajattelu- ja elintapojaan ja he kalpenevat tällaisen tulevaisuudennäkymän edessä."
 ---
 <p>Monet ihmiset odottavat Kristuksen jälleentulemista peloissaan ja kauhuissaan. Heistä tuntuu, että Hänen tulonsa saa aikaan suuria muutoksia kaikilla elämän osa-alueilla. Hänen arvonsa, kuten he oikein olettavat, tulevat väistämättä muuttamaan heidän ajattelu- ja elintapojaan ja he kalpenevat tällaisen tulevaisuudennäkymän edessä. Lisäksi kirkkojen vuosisatojen ajan Kristuksesta esittämä kuva on ollut niin mystinen, että monet pelkäävät Hänen tuomiotaan ja kaikkiallista valtaansa. He odottavat Hänen tulevan Jumalana rankaisemaan syntisiä ja palkitsemaan uskollisia.</p>
 

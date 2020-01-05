@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: [E]rottelun miekan aiheuttaman selkeän vastakkainasettelun avulla, ihmiset voivat tehdä tulevaisuuttaan koskevan todellisen valinnan."
+summary: "Lainaus: [E]rottelun miekan aiheuttaman selkeän vastakkainasettelun avulla, ihmiset voivat tehdä tulevaisuuttaan koskevan todellisen valinnan."
 ---
 <p>Monet ihmiset uskovat, että Maitreyan maailmassa olosta huolimatta, kaikki muuttuu uhkaavammaksi ja epävakaammaksi kuin tähän asti. He ihmettelevät mitä Hierarkia tekee lieventääkseen niitä monia ongelmia ja vaikeuksia, jotka saattavat heidät pelokkaiksi sekä tämän päivän kohonneiden jännitteiden yllättämiksi.</p>
 <p>Totuus on, että maailmaa valmistellaan. Suurten muutosten ja jännitteiden aikana, ihmiset tarkastelevat ongelmia rajallisella tarkastelukulmalla – joka heillä väistämättä on – koko yhteiskuntaan nähden. Ihmiskunta kuvittelee, että kaikilla näillä tapahtumilla on sama vaikutus ja tärkeys tulevaisuuteen nähden, kun totuus on aivan toisen näköinen, se minkä vain Mestarit voivat nähdä. Mestarit näkevät tapahtumat ikään kuin tasaisella alustalla ja vain mahdollisuuksina. He tietävät, että jotkin niistä tapahtuvat ja aiheuttavat muutoksia maailmassa, kun taas jotkut niistä kuihtuvat pois ilman vaikutuksia maailmaan. Vajaalla katsantokannallaan ihmiskunta näkee kaikki nämä tapahtumat vaikuttamassa tulevaisuuteensa, kun varmuudella näin ei ole. Mestareiden näkökulmasta tarkasteltuna ihmiskunta ei milloinkaan aiemmin ole ollut näin valmis sille uudelle maailmalle, jonka tulevaisuus tuo tullessaan. Se ei milloinkaan ole ollut näin lähellä yhteiseen hiileen puhaltamisen valmiutta ja valmiutta inspiraation aikaan.</p>

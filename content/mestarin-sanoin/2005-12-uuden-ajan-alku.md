@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Niin iäkäs ja syvään juurtunut on tämä epätasapaino, että vain suunnattoman mittava ponnistus tai maailman taloudellinen katastrofi voi ravistella sen otteen kirpoamaan."
+summary: "Lainaus: Niin iäkäs ja syvään juurtunut on tämä epätasapaino, että vain suunnattoman mittava ponnistus tai maailman taloudellinen katastrofi voi ravistella sen otteen kirpoamaan."
 ---
 <p>Kärsivällisesti Me, Vanhemmat Veljenne, odotamme ihmisten vastinetta, tietäen, kuten Me teemme, että suuri enemmistö ihmisiä tietäessään ja ymmärtäessään maapallolla nyt vallitsevan asiain todellisen tilan, tulevat jakamaan mielipiteen, että vain radikaali muutos voi estää tuhon.</p>
 <p>Yksi ongelma on ollut, että keskimäärin ihmiset tietävät vain vähän niistä valtavista riippuvuussuhteista, jotka ohjaavat ihmisten asioita ja jotka, suurimmilta osin, toimivat lukemattomien miljoonien tarpeita ja oikeuksia vastaan. Tällä hetkellä 80 % maapallon varallisuudesta omistaa pieni joukko perheitä ja instituutioita. Suuri osa tuosta varallisuudesta on ”staattista”, sijoitettuna kiinteistöihin, laivoihin, jalokiviin ja taideteoksiin, hyödyntäen vain harvoja. Tällainen epätasapaino tekee kaikkialla tyhjiksi hallitusten yritykset luoda yhteiskuntia, jotka perustuvat suhteelliseen sosiaaliseen oikeudenmukaisuuteen.</p>

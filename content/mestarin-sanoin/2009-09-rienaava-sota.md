@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Yksi pääsyy Mestareiden paluulle jokapäiväiseen maailmaan on, nimenomaan, muistuttaa ihmisiä tästä seikasta, ja siten vaikuttaa heihin, jotta he kääntäisivät iäksi selkänsä sodalle."
+summary: "Lainaus: Yksi pääsyy Mestareiden paluulle jokapäiväiseen maailmaan on, nimenomaan, muistuttaa ihmisiä tästä seikasta, ja siten vaikuttaa heihin, jotta he kääntäisivät iäksi selkänsä sodalle."
 ---
 p>Kaksi kertaa, viime vuosisadalla, maailma järkyttyi totaalisen sodan myötä, kun yhden sodan kaksi kauheata vaihetta maksoivat ihmiskunnalle miljoonia elämiä. Kummankin oli tarkoitus olla &#8221;sota, joka lopettaa sodat&#8221;, mutta siltikin on heitä, jotka juonivat ja suunnittelevat jälleen uutta voimain koetusta, ja aseilla, joiden tuhovoima on vieläkin suurempi. Kuinka pitkään, meidän on kysyttävä, ihmisiltä vie ymmärtää, ettei sota ratkaise mitään, todista mitään ja, että sota lisää vain Maan ihmisten kärsimyksiä ja menetyksiä? Yksi pääsyy Mestareiden paluulle jokapäiväiseen maailmaan on, nimenomaan, muistuttaa ihmisiä tästä seikasta, ja siten vaikuttaa heihin, jotta he kääntäisivät iäksi selkänsä sodalle. Niin monet kansakunnat tänä päivänä omaavat ydinpommin, tuon kauheimman koskaan keksityn ja rakennetun aseen, että tulevaisuuden suursota olisi kauheuden äärimmäisyys: kokonaisvaltainen elämän tuhoutuminen planeetalla. Miljoonien vuosien ajan Maa olisi kuollut planeetta, myrkyllinen jäte. Ihmiset itse joutuisivat syntymään jollekin synkälle kaukaiselle pallolle ja aloittamaan uudestaan pitkääkin pidemmän matkansa kohti valoa.</p>
 <p><strong>Välttämättä</strong><br />

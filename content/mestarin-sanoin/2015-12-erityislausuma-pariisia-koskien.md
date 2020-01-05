@@ -34,7 +34,7 @@ aihealueet:
  - Henkinen Hierarkia
  - Uutiset
 
-lainaus: "Lainaus: Niin iäkäs ja syvään juurtunut on tämä epätasapaino, että vain suunnattoman mittava ponnistus tai maailman taloudellinen katastrofi voi ravistella sen otteen kirpoamaan."
+summary: "Lainaus: Niin iäkäs ja syvään juurtunut on tämä epätasapaino, että vain suunnattoman mittava ponnistus tai maailman taloudellinen katastrofi voi ravistella sen otteen kirpoamaan."
 ---
 <p class="nosto">Niin raskasta kuin se on ollutkin Ranskan kansalle, hiljattaiset traagiset tapahtumat Pariisissa ovat mahdollistaneet tavan Maitreyan toimia nopeammin kuin muuten olisi ollut mahdollista. Niin traagista kuin se monille on ollutkin, tapahtumat ovat vapauttaneet Hänet toimille. Muistakaa tämä ja olkaa valmiita Hänen julkitulolleen.</p>
 

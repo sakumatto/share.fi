@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Kun ihmiset katsovat takaisin tähän aikaan, he tulevat epäuskoisina ihmettelemään niitä julmuuksia ja sitä kärsimystä, jota he ovat niin pitkään sietäneet."
+summary: "Lainaus: Kun ihmiset katsovat takaisin tähän aikaan, he tulevat epäuskoisina ihmettelemään niitä julmuuksia ja sitä kärsimystä, jota he ovat niin pitkään sietäneet."
 ---
 <p>Kun ihmiset katsovat takaisin tähän aikaan, he tulevat epäuskoisina ihmettelemään niitä julmuuksia ja sitä kärsimystä, jota he ovat niin pitkään sietäneet. Jotkut tulevat syyttämään ja vaatimaan rangaistuksia sekä tilien tasaamista. Ihmiset tulevat huomaamaan, että Maitreya tulee neuvomaan toisin. Oikeudenmukaisuus, aivan kuten jakaminen ja vapaus, on pyhää, Hän tulee lausumaan. Kosto ei ole Hänen tiensä ja se johtaisi ihmiset vain takaisin menneeseen.</p>
 <p>Kun ihmiset oivaltavat tämän, he tulevat luopumaan kostonkaipuustaan ja Maitreyan sekä Hänen Mestareiden ryhmänsä inspiroimina, he tulevat tarttumaan muutoksen valtaisaan urakkaan innolla.</p>

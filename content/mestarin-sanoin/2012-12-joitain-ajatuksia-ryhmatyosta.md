@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Ideaalitapauksessa suunnitelma tulee sielusta ja sielun kyseessä ollessa, riippumatta siitä kuinka kovaa työ on, se vastaanotetaan ilolla, ei raskauttavana taikka uhrauksena, vaan yksinkertaisena ja auliisti annettuna palveluksena."
+summary: "Lainaus: Ideaalitapauksessa suunnitelma tulee sielusta ja sielun kyseessä ollessa, riippumatta siitä kuinka kovaa työ on, se vastaanotetaan ilolla, ei raskauttavana taikka uhrauksena, vaan yksinkertaisena ja auliisti annettuna palveluksena."
 ---
 <p>Viisas mies on se, joka tarkastelee ongelman tai tilanteen kaikki näkökulmat ennen kuin saapuu johtopäätökseen ja toimiin, jotka jälkikäteen saattaisivat osoittaa hänen olleen väärässä. Epäviisas tekee toisin. Sellainen ihmistyyppi, joka tässä mielessä saavuttaa nopeasti päätöksensä on nopea innostumaan ja valitettavasti on nopea kieltämään ja hylkäämään. Heiltä puuttuu maltti ja ajattelun yhteneväisyys. He tapaavat arvostaa itseään korkealle, seikka joka tekee heistä kärkkäitä toisten arvostelijoita. He ovat usein täysin tietämättömiä omien päätöstensä ja tekojensa lumeesta.</p>
 <p>Sellaiset ihmiset eivät sisäsyntyisesti ole arvottomia ryhmätyölle. Todellakin mikäli tapahtumat ovat suosiollisia, he voivat monellakin tavoin olla hyödyllisiä yhteistoimijoita. Kuitenkin kun tapahtumat kulkevat vastoin heidän odotuksiaan, heistä voi tulla hyvin destruktiivisia ja vaikeasti käsiteltäviä. Heidänlaisiaan on paljon ryhmissä kautta maailman ja se uhkaa kokonaisuuden kallisarvoista yhtenäisyyttä.</p>

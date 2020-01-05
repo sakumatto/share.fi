@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Tästä pitäen tulee myös aina vain selvemmäksi, etteivät vanhat instituutiot ja tavat enää toimi. Ainakaan muutoin kuin harvojen eduksi. Täten jokaisessa kansakunnassa on auennut suuri jakolinja rikkaiden ja köyhien välille, ja terävämpänä ja selkeämpänä kuin ennen."
+summary: "Lainaus: Tästä pitäen tulee myös aina vain selvemmäksi, etteivät vanhat instituutiot ja tavat enää toimi. Ainakaan muutoin kuin harvojen eduksi. Täten jokaisessa kansakunnassa on auennut suuri jakolinja rikkaiden ja köyhien välille, ja terävämpänä ja selkeämpänä kuin ennen."
 ---
 <p>Tästä pitäen maailman mahtavat miehet ja naiset, nuo “tekijät ja aikaansaajat”, tulevat näkemään kasvavaa suunnitelmiensa ja strategioidensa vastustusta. Seurauksena ja reaktiona kasvaviin Vesimiehen hyvää tekevien energioiden vaikutuksiin, on heräämässä tietoisuus toisenlaisesta elämisen muodosta, jossa kaikki voivat olla hyötyjiä ja jossa kaikki voivat kasvaa ja tuoda ilmi oman osaamisensa ja ideansa kaikkien yhteiseksi hyväksi.</p>
 <p>On myös kasvava tuntemus siitä, ettei raha kuitenkaan ole jumala, eikä se vaadi palvontaa tai alamaisuutta, vaan raha on vain työkalu, jota joko käytetään tai ollaan käyttämättä, mutta josta on tullut tarvekalu, joka orjuuttaa ja tyrannisoi sen valtiaita.</p>

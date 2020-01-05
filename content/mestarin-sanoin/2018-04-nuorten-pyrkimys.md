@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Yhdellekään oivaltavalle lukijalle ei tule yllätyksenä, että Mestareiden näkemyksen mukaan nykyinen kaoottinen taloudellinen tilanne ja siitä seuraavat sosiaaliset olot eivät tule jatkumaan enää kovin kauaa."
+summary: "Lainaus: Yhdellekään oivaltavalle lukijalle ei tule yllätyksenä, että Mestareiden näkemyksen mukaan nykyinen kaoottinen taloudellinen tilanne ja siitä seuraavat sosiaaliset olot eivät tule jatkumaan enää kovin kauaa."
 
 ---
 <p>Yhdellekään oivaltavalle lukijalle ei tule yllätyksenä, että Mestareiden näkemyksen mukaan nykyinen kaoottinen taloudellinen tilanne ja siitä seuraavat sosiaaliset olot eivät tule jatkumaan enää kovin kauaa. Emme myöskään odota tulevaksi yhtäkkistä muutosta ja paluuta vanhaan ”status quohon”. Planeetan ihmiset miljoonapäisenä joukkona ovat alkaneet tuntea vapauden tuoksun eikä heiltä enää kauaa voida kieltää tuota palkintoa.</p>

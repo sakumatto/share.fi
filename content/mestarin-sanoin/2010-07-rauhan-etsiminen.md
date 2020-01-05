@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: On olemassa vain yksi tapa hanskata nämä ongelmat, sellainen, jota ei vielä koskaan ole kokeiltu, mutta joka kuin iskusta, kääntäisi miljoonien onnen ja joka toisi vihdoinkin todellisen ja kestävän rauhan tähän kärsimysten maailmaan."
+summary: "Lainaus: On olemassa vain yksi tapa hanskata nämä ongelmat, sellainen, jota ei vielä koskaan ole kokeiltu, mutta joka kuin iskusta, kääntäisi miljoonien onnen ja joka toisi vihdoinkin todellisen ja kestävän rauhan tähän kärsimysten maailmaan."
 ---
 <p>Ilman epäilystäkään, ihmiskunnan suurin saavutus olisi sotimisen lopettaminen. Tämän saavuttaminen vapauttaisi ihmisten energian ohjattavaksi niihin moniin muihin huomiota vaativiin ongelmiin, jotka painavat ihmiskuntaa tänä päivänä: niihin miljooniin, jotka turhaan näkevät nälkää yltäkylläisyyden maailmassa; planeetan vaaralliseen ekologiseen epätasapainoon; aina kasvavaan kuiluun kehittyneiden ja vauraiden sekä toisaalta kehittyvien ja köyhien maiden välillä; kasvavaan ja aiempaa kehittyneempään terrorismiin ja sen uhkaan; maailmanlaajuisen taloudellisen romahduksen aiheuttamaan pelkoon ja siitä juontuviin vastoinkäymisiin.</p>
 <p>Jotkin hallitukset yrittävät hoitaa joitain näistä vaikeista ongelmista, kun taas toiset ovat niiden pääsyyllisiä ja -aiheuttajia. Mitä ihmiskunta voi tehdä? Misät aloittaa, kun jokainen ongelma näyttäisi juontuvan kaikista muista ja kaikki näyttää mahdottomalta selvittää?</p>

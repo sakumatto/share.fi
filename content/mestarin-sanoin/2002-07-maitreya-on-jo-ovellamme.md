@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: On tarpeetonta edes sanoa, että status quo ei voi koskaan jatkua pitkään: muutos ja kehitys ovat elämän todellinen olemus ja &#8211; parempaan tai huonompaan &#8211; tuo aina muassaan uusia toimintatapoja. Uuden toimintamallin muoto ja laatu on ihmisen itsensä muokkaama, joten on turhaa taistella muutoksen suuren magneetin eteenpäin työntävää voimaa vastaan, sen täydellisellä kurssilla."
+summary: "Lainaus: On tarpeetonta edes sanoa, että status quo ei voi koskaan jatkua pitkään: muutos ja kehitys ovat elämän todellinen olemus ja &#8211; parempaan tai huonompaan &#8211; tuo aina muassaan uusia toimintatapoja. Uuden toimintamallin muoto ja laatu on ihmisen itsensä muokkaama, joten on turhaa taistella muutoksen suuren magneetin eteenpäin työntävää voimaa vastaan, sen täydellisellä kurssilla."
 ---
 <p>Maailmaan virtaavien uusien energioiden myötä suuria muutoksia on tapahtumassa. Joillekin nämä muutokset ovat hyviä sekä hyödyllisiä ja johtavat turvallisempaan paremmin ohjattuun elämään. Joillekin nämä muutokset ovat taas merkkejä romahduksista ja epäjärjestyksestä, kaaoksesta ja kurjuudesta, lähinnä epätoivoisten ja pahojen tekosia.</p>
 <p>Tietysti, jos sinun ensisijainen tarkoituksesi on &#8217;status quo&#8217; ja entisen ylläpitäminen, jokainen muutos &#8211; riippumatta sen tarpeellisuudesta &#8211; on epäilyttävää ja epätoivottavaa, lähinnä &#8217;militanttien&#8217; ja &#8217;pahantekijöiden&#8217; tekosia.</p>

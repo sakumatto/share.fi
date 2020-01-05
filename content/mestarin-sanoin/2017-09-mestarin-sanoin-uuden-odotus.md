@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Mikään ei voi estää tätä luisua kaaokseen, markkinavoimien musertaessa ihmishengen epäpyhässä otteessaan. Mikään ei voi pelastaa tätä sivilisaatiota, sillä se perustuu ahneuteen ja kilpailuun."
+summary: "Lainaus: Mikään ei voi estää tätä luisua kaaokseen, markkinavoimien musertaessa ihmishengen epäpyhässä otteessaan. Mikään ei voi pelastaa tätä sivilisaatiota, sillä se perustuu ahneuteen ja kilpailuun."
 ---
 <p>Maailma odottaa. Ei henkeään pidätellen, mutta aistien yhä selvemmin, että tapahtumat ovat ajautumassa kohti kriisiä, jonka lopputulos ei ole tiedossa. Kukaan ei tiedä miten asiat tulevat menemään. Asiantuntijat, niin poliitikot kuin taloustietelijätkin, räpiköivät avuttomina ristivirtauksessa, kyvyttöminä suunnittelemaan eteenpäin niiden ristiriitaisten suuntausten paineessa, joita he ovat pakotettuja valitsemaan. Uusia ongelmia ilmenee päivittäin, koetellen näin kaikkein valistuneimpienkin hyvää tahtoa, samalla kun kulissien takana pörssikeinottelun häikäilemätön ahneus tuo kansakunnat polvilleen.</p>
 <p>Aina tällaisen tilaisuuden ilmaantuessa muuttuvat ihmiset pelokkaiksi ja peloissaan he vastaavat vihalla. Juuri tämä on tilanne tänä päivänä useissa eri osissa maailmaa. Kasvava suvaitsemattomuus pakolaisia ja ulkomaalaisia kohtaan tahraa demokraattista prosessia, samalla kun elintaso laskee ja turvallisuus on uhattuna. Poliittiset ääriajattelijat, jotka ovat odotelleet aikaansa, käyttävät tilannetta hyväksi ja ilmaantuvat johtamaan ajattelemattomia nuoria menneisyyden jäljittelyyn.</p>

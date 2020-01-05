@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Monissa maissa kuten Brasiliassa, Kiinassa ja Venäjällä, on kasvava tunne siitä, että hyvin pian maailma herää sille uutiselle, että Opettaja on täällä, tai on tuloillaan. Tämä ilmiö on tietystikin seurausta sille vaikutukselle, joka tulee Maitreyan televisioesiintymisistä tähän asti ja sille uskolliselle valmistelutyölle, jota monet sitoutuneet ryhmät kautta maailman ovat tehneet."
+summary: "Lainaus: Monissa maissa kuten Brasiliassa, Kiinassa ja Venäjällä, on kasvava tunne siitä, että hyvin pian maailma herää sille uutiselle, että Opettaja on täällä, tai on tuloillaan. Tämä ilmiö on tietystikin seurausta sille vaikutukselle, joka tulee Maitreyan televisioesiintymisistä tähän asti ja sille uskolliselle valmistelutyölle, jota monet sitoutuneet ryhmät kautta maailman ovat tehneet."
 ---
 <p>Jonain päivänä pian, moni tulee oivaltamaan, että Kristus, tai joku vastaava hahmo, elää keskuudessamme. Niin valtaisa on ollut reaktio Maitreyan tähän asti antamiin televisiohaastatteluihin, että voimakas ajatusmalli on syntymässä: usko siihen, että se Siunattu aika on saapunut, jolloin iäinen Opettaja saapuu. Tämä odotus kiirii nyt kautta maailman.</p>
 <p>Monissa maissa kuten Brasiliassa, Kiinassa ja Venäjällä, on kasvava tunne siitä, että hyvin pian maailma herää sille uutiselle, että Opettaja on täällä, tai on tuloillaan. Tämä ilmiö on tietystikin seurausta sille vaikutukselle, joka tulee Maitreyan televisioesiintymisistä tähän asti ja sille uskolliselle valmistelutyölle, jota monet sitoutuneet ryhmät kautta maailman ovat tehneet.</p>

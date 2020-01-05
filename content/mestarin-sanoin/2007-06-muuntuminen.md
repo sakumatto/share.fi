@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: On monia, jotka hymyilevät tälläisen Olennon läsnäololle keskuudessamme, mutta pian kaikki tulevat tietämään näiden sanojen todenmukaisuuden ja kaikki tulevat ottamaan paikkansa Hänen puolellaan tai Häntä vastaan. Täten Suuri Herra tulee asettamaan ihmisten valittavaksi olemassaolon kysymyksen.."
+summary: "Lainaus: On monia, jotka hymyilevät tälläisen Olennon läsnäololle keskuudessamme, mutta pian kaikki tulevat tietämään näiden sanojen todenmukaisuuden ja kaikki tulevat ottamaan paikkansa Hänen puolellaan tai Häntä vastaan. Täten Suuri Herra tulee asettamaan ihmisten valittavaksi olemassaolon kysymyksen.."
 ---
 <p>Ei tule yllätyksenä saada tietää, että todellinen Irakin sodan siviilikuolonuhrien lukumäärä on nyt jo yli 800.000, kun enemmän tai vähemmän haavoittuneiden lukumäärä on vähintään miljoona. Kuinka pitkään vielä voivat miehitysvaltiot salata nämä tiedot kansalaisiltaan? On sanomattakin selvää, että omien tarkoitusperiensä toteuttamiseksi nuo valtiot tekevät kaiken voitavan salatakseen ja vähätelläkseen nämä kauhistuttavat tuhon luvut. Siksi ei olekaan ihme, että miljoonat irakilaiset ovat paenneet maastaan. Onko siis yllättävää, että pian Irakin miehitys tullaan tunnustamaan viime aikojen suurimmaksi katastrofiksi: laittomana, tarpeettomana ja äärimmäisen ylimielisenä?</p>
 <p>Samalla kun maailma odottaa, Amerikkalaiset ja Britit yrittävät irroittaa itsensä luomastaan vyyhdestä, niiden jäljellä olevilla uskottavuuden ja arvokkuuden rippeillä. Selvästikään voitonviirit eivät kuulu asiaan. Sodan totuus on kuoleman, kärsimyksen ja vallan väärinkäytön muisto.</p>

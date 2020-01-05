@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Joillekin seuraavat kuukaudet tulevat tuntumaan siltä kuin ne olisivat vaikeimpia heidän koskaan kokemiaan. Aika saa heidät etsimään edes toivon kipinää helpotuksesta sellaisilta voimilta, joiden kanssa he eivät koe voivansa pärjätä."
+summary: "Lainaus: Joillekin seuraavat kuukaudet tulevat tuntumaan siltä kuin ne olisivat vaikeimpia heidän koskaan kokemiaan. Aika saa heidät etsimään edes toivon kipinää helpotuksesta sellaisilta voimilta, joiden kanssa he eivät koe voivansa pärjätä."
 ---
 <p>Joillekin seuraavat kuukaudet tulevat tuntumaan siltä kuin ne olisivat vaikeimpia heidän koskaan kokemiaan. Aika saa heidät etsimään edes toivon kipinää helpotuksesta sellaisilta voimilta, joiden kanssa he eivät koe voivansa pärjätä.</p>
 <p>Samanaikaisesti joillekin toisille tulee tunne, että kyseessä on korostetun kekseliäisyyden ja luovuuden jakso, olkoon kuinka epätodellista luonteeltaan. Kaikki liikkuu kiivaasti uuteen aikaan ja Vesimiehen vaikutuksiin, riippumatta siitä miten tämä muutos tulkitaan. Mutta tämän muutoksen vaikutus tulee olemaan todella suuri. 

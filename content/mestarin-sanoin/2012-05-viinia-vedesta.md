@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Tunnustettiinpa se taikka ei, synteesin aikakausi on jo saapunut ja jokainen uusi päivä etsaa sen merkin maailmaan. Vain nuoret ja sydämeltään nuoret, näin näyttäisi olevan, tunnistavat tämän muutoksen laajuuden. He ainoina tietävät, että oikeudenmukaisuutta ja rakkautta ei koskaan voida sivuuttaa ilman kipua."
+summary: "Lainaus: Tunnustettiinpa se taikka ei, synteesin aikakausi on jo saapunut ja jokainen uusi päivä etsaa sen merkin maailmaan. Vain nuoret ja sydämeltään nuoret, näin näyttäisi olevan, tunnistavat tämän muutoksen laajuuden. He ainoina tietävät, että oikeudenmukaisuutta ja rakkautta ei koskaan voida sivuuttaa ilman kipua."
 ---
 <p>Kuten usein on asiain laita, eurooppalaiset etsivät aina vain kaikkoavaa yhtenäisyyttä. Tällä kertaa ongelma on pääasiallisesti taloudellinen. Yhteismarkkina, tässä koettelevassa taloudellisessa kriisissään, on repeämässä liitoksistaan ja on kadottamassa vähänkin yhtenäisyytensä.</p>
 <p>Vaalivuotenaan USA askeltaa varoen, halukkaana näkemään kauppansa kasvun ja ulkoisten vastuidensa pienenemisen. Siksi Israel on voimistunut ottamaan vastuun Iranin painostamisesta. Samaan aikaan Kiina kukoistaa ja kasvaa rikkauksissaan kun sen naapuri, Venäjä, apinoi 1930-luvun Yhdysvaltoja. Täten vanhan vallan viimeiset taistelevat pitääkseen vuotavan laivansa pinnalla uusien ja oikeudenmaukaisempien Vesimiehen energioiden pyörteissä. Tunnustettiinpa se taikka ei, synteesin aikakausi on jo saapunut ja jokainen uusi päivä etsaa sen merkin maailmaan.</p>

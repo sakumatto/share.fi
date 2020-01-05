@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Tämä uusi tieto tulee hämmentämään ja vaientamaan monet, mutta se tulee valaisemaan heidät täysin uuteen ymmärryksensä muutokseen. Tämä tulee tuottamaan uutta arvoa sille, jota he kutsuvat elämän merkitykseksi ja tarkoitukseksi."
+summary: "Lainaus: Tämä uusi tieto tulee hämmentämään ja vaientamaan monet, mutta se tulee valaisemaan heidät täysin uuteen ymmärryksensä muutokseen. Tämä tulee tuottamaan uutta arvoa sille, jota he kutsuvat elämän merkitykseksi ja tarkoitukseksi."
 ---
 <p>Ihmiset ovat sellaisen paljastuksen partaalla, joka tulee pian pyyhkäisemään pois riitaisat äänet ja asenteet. He tulevat selkeämmin ymmärtämään olemassaolonsa syyn ja tarkoituksen ja ne tavat, joilla tuo ymmärrys tuotetaan heidän tietoisuuteensa. Pian, todella pian, ihmiset tulevat kasvamaan ikään kuin yli yön.</p>
 <p>Tämä uusi tieto tulee hämmentämään ja vaientamaan monet, mutta se tulee valaisemaan heidät täysin uuteen ymmärryksensä muutokseen. Tämä tulee tuottamaan uutta arvoa sille, jota he kutsuvat elämän merkitykseksi ja tarkoitukseksi. Suurempi vakavuus ja ilo tulee läpäisemään heidän uskomuksensa ja heidän toimensa ja hiljalleen se saattaa heidät osaksi yhteistä uutta paljastusta. Tuo aika ei ole kaukana. Suuri Herra on innokas tulemaan esiin ja tuomaan armon maailmaan Hänen avoimella ja tunnustetulla läsnäolollaan.</p>

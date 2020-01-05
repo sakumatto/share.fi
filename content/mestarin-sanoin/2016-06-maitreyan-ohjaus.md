@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Maitreya odottaa omaa mahdollisuuttaan vahvistaa ihmisten äänen voimaa ja vaikutusta ja ohjata sen kurssia."
+summary: "Lainaus: Maitreya odottaa omaa mahdollisuuttaan vahvistaa ihmisten äänen voimaa ja vaikutusta ja ohjata sen kurssia."
 ---
 <p>Kuinka paljon he vain yrittävätkään, poliitikot ja muut johtajat kokevat yhä enenevässä määrin vaikeammaksi ohjata tapahtumien kulkua ja pitää “valtiollisen laivan” kulun vakaana. He huomaavat, että huolimatta heidän osaamisestaan se kulkeutuu avuttomana omin päin, aivan kuin jonkin näkymättömän käden ohjaamana. Tuo näkymätön käsi on tietysti muutoksen logiikka. He eivät ymmärrä, että toimintatavat ja säännöt, joilla he työskentelevät, kuuluvat menneisyyteen ja niillä on enää hyvin vähän tekoa tämän päivän ongelmissa ja tarpeissa. He kokoontuvat ja keskustelevat näistä ongelmista, mutta poikkeuksetta vetäytyvät toimista, jotka ainoana voisivat ratkaista ne. Sillä välin ihmiset, toiset enemmän kuin toiset, kärsivät ja odottavat järkeä ja näkemystä helpottamaan heidän pulaansa. He tietävät sydämissänsä, että vapautus on mahdollinen ja että se kuuluisi heille, mutta, toistaiseksi, heillä ei vielä ole rakenteita tai voimia saada niin tapahtumaan.</p>
 

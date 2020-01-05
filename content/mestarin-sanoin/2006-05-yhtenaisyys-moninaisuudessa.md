@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Kansoja ohjaavien säteiden energiat ovat erilaisia ja ne tarvitsevat erilaisia rakenteita ilmaistakseen ominaisuutensa. Evoluution suunnitelma ei ole, että jokin yksittäinen hallinnon muoto, demokraattinen tahi muu, voittaisi. Ihmisten tarpeet ovat todellisempia ja tärkeämpiä kuin ideologiat. Erilaisuuden sietäminen yhdistää, siinä missä ideologiat jakavat."
+summary: "Lainaus: Kansoja ohjaavien säteiden energiat ovat erilaisia ja ne tarvitsevat erilaisia rakenteita ilmaistakseen ominaisuutensa. Evoluution suunnitelma ei ole, että jokin yksittäinen hallinnon muoto, demokraattinen tahi muu, voittaisi. Ihmisten tarpeet ovat todellisempia ja tärkeämpiä kuin ideologiat. Erilaisuuden sietäminen yhdistää, siinä missä ideologiat jakavat."
 ---
 <p>Kautta vuosisatojen ihmiset ovat omaksuneet monia erilaisia hallinnon malleja, kaikkein despoottisimmasta aina kaikkein tasa-arvoisimpaan. Tänä päivänä useimmat maat ovat valinneet demokraattisen mallin, siis sellaisen, jossa äänestyksen tuloksella valitaan jostain poliittisesta puolueesta edustajat. Oletuksena on, että käytetty äänestysjärjestelmä on oikeudenmukainen, rehellinen ja vapaa väärinkäytöksistä sekä petoksista.</p>
 <p>Valitettavasti, kuten lähihistoria osoittaa, näin ei usein kuitenkaan ole, edes niissä maissa, jotka antavat suurta arvoa vaalijärjestelmänsä moitteettomuudelle. Harhautus sekä selkään puukottaminen rehottavat ja ihmiset sekä ryhmittymät tuodaan valtaan poliittisin kepulikonstein ja viekkaudella.</p>

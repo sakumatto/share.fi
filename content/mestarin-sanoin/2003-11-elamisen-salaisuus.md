@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Tänä päivänä on enää harvojen tiedossa, että entisinä aikoina, kun ihminen oli nuorempi ja viisaampi, sana ”varastaa” oli kaikissa kielissä tuntematon. Viisauden Mestarit elivät silloin avoimesti ihmisten keskuudessa ja kannustivat ihmisiä elämään ilman rikollisuutta."
+summary: "Lainaus: Tänä päivänä on enää harvojen tiedossa, että entisinä aikoina, kun ihminen oli nuorempi ja viisaampi, sana ”varastaa” oli kaikissa kielissä tuntematon. Viisauden Mestarit elivät silloin avoimesti ihmisten keskuudessa ja kannustivat ihmisiä elämään ilman rikollisuutta."
 ---
 <p>Tänä päivänä on enää harvojen tiedossa, että entisinä aikoina, kun ihminen oli nuorempi ja viisaampi, sana ”varastaa” oli kaikissa kielissä tuntematon. Viisauden Mestarit elivät silloin avoimesti ihmisten keskuudessa ja kannustivat ihmisiä elämään ilman rikollisuutta. Yksikään ovi ei ollut lukossa ja jakaminen oli sääntö. Tämä siunattu tila kesti pitkiä aikoja ja monissa paikoissa.</p>
 <p>Voi kuinka pitkälle ihminen onkaan tipahtanut tuosta loistosta. Kuinka pitkälle tarkoituksestaan hän onkaan harhautunut. Tänään ihminen seisoo valinnan edessä: yksi polku, jakautuneisuuden ja erottelun polku, jolla ihminen nyt seisoo johtaa väistämättä kadotukseen. Toinen tie johtaa ihmisen kohtalonsa toteutumiseen, ihmeeseen, jota ei tänään vielä voi kuvailla, tie, jolla ihminen tulee itsensä sisältä löytämään tavan muuntua Jumalaksi.</p>

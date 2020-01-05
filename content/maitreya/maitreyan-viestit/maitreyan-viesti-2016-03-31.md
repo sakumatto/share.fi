@@ -23,7 +23,7 @@ author: share.fi
 
 
 ---
-<p class="alustus">Lainaus: Pian ihmiskunta kokonaisuudessaan tulee havahtumaan Minun läsnäolooni ja täydessä halukkuudessa tulee hyväksymään tämän, meidän maailmamme muodonmuutoksen.</p>
+<p class="alustus">summary: Pian ihmiskunta kokonaisuudessaan tulee havahtumaan Minun läsnäolooni ja täydessä halukkuudessa tulee hyväksymään tämän, meidän maailmamme muodonmuutoksen.</p>
 <h2>Maitreyan viesti 31.3.2016</h2>
 <h3>&#8211; Maitreyalta, Benjamin Cremen välityksellä</h3>
 <p>Nämä ajat ovat vaikeita monille. Jopa kaikkein parhaimmat ja läheisimmät tuntevat epäilysten ja varautuneisuuden tuskan.</p>

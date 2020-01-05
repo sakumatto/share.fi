@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Yksi ihmiskunta tänä päivänä. Riippumatta eroista väriin, uskontoon, perinteeseen tai kieleen, kaikki ihmiset ovat yhteisten esi-isien jälkeläisiä ja he ovat kehittyneet samoilla tavoilla nykytilaansa."
+summary: "Lainaus: Yksi ihmiskunta tänä päivänä. Riippumatta eroista väriin, uskontoon, perinteeseen tai kieleen, kaikki ihmiset ovat yhteisten esi-isien jälkeläisiä ja he ovat kehittyneet samoilla tavoilla nykytilaansa."
 ---
 <p>Lukemattomien aikakausien ajan ihminen on vaeltanut kautta Maan ravintoa, hyötyä, turvallisuutta ja rauhaa etsien. Heimoina ja jopa kansoina ihminen on ristiin rastiin ylittänyt planeetan aina vain uudestaan, samalla taistellen mitä erinäisempien kansojen kanssa, &nbsp;mennen näiden kanssa naimisiin. Tämän loputtoman vaeltamisen seuraus on Yksi ihmiskunta tänä päivänä. Riippumatta eroista väriin, uskontoon, perinteeseen tai kieleen, kaikki ihmiset ovat yhteisten esi-isien jälkeläisiä ja he ovat kehittyneet samoilla tavoilla nykytilaansa.</p>
 <p>Se, että nykytila eittämättä suosii joitain ryhmiä ylitse muiden, on seurausta monista historiallisista tekijöistä, eikä minkään sisäisen älyllisen taikka sopeutumiskyvyllisen eroavaisuuden seurausta. Läpi historian ryhmät ovat nousseet parrasvaloihin lyhyemmäksi tai pidemmäksi ajaksi, vain vajotakseen taas kulisseihin, jättäen luovuutensa jälkeensä tuleville polville muistuttimeksi itsestään.</p>

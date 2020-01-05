@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Ihmisten tulisi ymmärtää, että he itse luovat ne olosuhteet joilla nämä muutokset vaikuttavat heidän elämäänsä. Kun tämä oivallus alkaa kantaa hedelmää, sulavampi muutos uuteen aikaan tulee olemaan pääsääntö."
+summary: "Lainaus: Ihmisten tulisi ymmärtää, että he itse luovat ne olosuhteet joilla nämä muutokset vaikuttavat heidän elämäänsä. Kun tämä oivallus alkaa kantaa hedelmää, sulavampi muutos uuteen aikaan tulee olemaan pääsääntö."
 ---
 <p>Ihmiset elävät muuttuvassa maailmassa ja heidän on hyväksyttävä tämän olevan sääntö. Joillekin nämä muutokset vaikuttavat uhkaavilta ja epätoivotuilta, kun taas jotkut, ja varsinkin nuoret, vastaanottavat ne avosylin. Olkaa vakuuttuneita siitä, että muutokset ovat kaikkien parhaaksi, mikä yksittäinen kantasi asiaan onkaan, sillä ne heijastavat ajan tarpeita ja ne ovat väistämättömiä sekä oikeudenmukaisia. </p>
 <p>Ihmisten tulisi ymmärtää, että he itse luovat ne olosuhteet joilla nämä muutokset vaikuttavat heidän elämäänsä. Kun tämä oivallus alkaa kantaa hedelmää, sulavampi muutos uuteen aikaan tulee olemaan pääsääntö.</p>

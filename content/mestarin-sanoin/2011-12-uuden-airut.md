@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Monet odottavat tätä aikaa toivolla ja ilolla. Monet ovat lukittautuneita epätoivoon ja pelkoon. Monet ovat malttamattomia näkemään tulevaisuuden maailman vapaana sodasta ja puutteesta. Vieläkin useammat odottavat säikkyinä taakkansa keventymistä."
+summary: "Lainaus: Monet odottavat tätä aikaa toivolla ja ilolla. Monet ovat lukittautuneita epätoivoon ja pelkoon. Monet ovat malttamattomia näkemään tulevaisuuden maailman vapaana sodasta ja puutteesta. Vieläkin useammat odottavat säikkyinä taakkansa keventymistä."
 ---
 <p>Monet tulevat muistamaan tämän ajan koettelemusten, jännitteiden ja kuohunnan aikana. Itse asiassa, näkevimmin silmin nähtynä, kyse on uudistumisen ja uuden alun valmistelun ajasta. Siksi ihmiset voivat ottaa suurta lohtua tämän hetkisistä suurista muutoksista. Menneellä on ollut hetkensä ja nopeutuvassa tahdissa se ei enää hyödytä ihmisrotua. Nuoret muuttuvat väsyneiksi ja ärsyyntyneiksi sen pitkästä valtakaudesta, ja kääntyvät huumeiden ja rikollisuuden puoleen rauhoittaakseen sielunsa epätoivoa ja ikävystymistä.</p>
 <p>Samanaikaisesti Uuden airut hiljaisesti inspiroi uutta polvea aktivisteja, jotka tulevat nousemaan pinnalle kaikissa maissa tietoisina ihmisten kaikkialla tarpeista. Jo nyt, kuten tiedättekin, uusien rakenteiden puolestapuhujat toimivat monissa maissa avoimesti ja rohkeasti, osoittaen uudenlaista pyrkimystä, joka parhaillaan muokkautuu miljoonien sydämissä. Tuo pyrkimys osoittaa kunnioitusta kaikkia kohtaan, se kykenee yhteistyöhön kaikkien kanssa ja se on loppu entisen ajan erimielisyyttä aiheuttavalle ahneudelle.</p>

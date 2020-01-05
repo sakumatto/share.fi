@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Pian ne lukuisat ihmeet, jotka Hän on aikaansaanut, nostavat Hänet yhtälailla miesten kuin naistenkin sydänten suosioon joka puolella. Parantavat lähteet tullaan yksitellen löytämään ja valtava ihmisten temppelien puhdistus tulee alkamaan."
+summary: "Lainaus: Pian ne lukuisat ihmeet, jotka Hän on aikaansaanut, nostavat Hänet yhtälailla miesten kuin naistenkin sydänten suosioon joka puolella. Parantavat lähteet tullaan yksitellen löytämään ja valtava ihmisten temppelien puhdistus tulee alkamaan."
 ---
 <p>Jokaisen kansakunnan kehityksessä tulee hetki, jolloin on sielun tutkiskelun ajanjakson tapahduttava; kun sen perustuslailla varjeltuja, kirjoitettuja tai kirjoittamattomia ideaaleja, täytyy tutkiskella jo toteutuneiden saavutusten valossa sekä uudelleenarvioida näitä saavutuksia. Kun tämä tehdään rehellisesti ja vilpittömästi, korvaa uusi havahduttava realismi nykyisen omankehun, johon useiden maiden johtajat ovat sortuneet, toivoen sillä tavoin voivansa ylläpitää horjuvaa otettaan kansalaistensa elämästä. Heidän aikansa on päättymässä. </p>
 

@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Hiljaisempi mieliala ainakin alkaa korvata tämän hetkisen vihaisuuden ja heimojenvälisen hirmuisuuden. Älkää erehtykö – tämä ei ole vaikeuksien loppu. Joillekin edessä on epätoivottuja vaikeuksia, mutta niin on oltava, sillä he itse ovat luoneet ne tilanteet jotka ne aiheuttavat."
+summary: "Lainaus: Hiljaisempi mieliala ainakin alkaa korvata tämän hetkisen vihaisuuden ja heimojenvälisen hirmuisuuden. Älkää erehtykö – tämä ei ole vaikeuksien loppu. Joillekin edessä on epätoivottuja vaikeuksia, mutta niin on oltava, sillä he itse ovat luoneet ne tilanteet jotka ne aiheuttavat."
 ---
 <p>Jossain kohtaa kohti tämän vuoden loppua, ihmisten tulisi alkaa nähdä muutoksen alku maailman monilla eri alueilla. Se mikä on nähty haitallisena tullaan loppujen lopuksi näkemään hyödyllisenä.</p>
 <p>Nälkä ja viha yhdessä saattavat hyvinkin lopettaa dominanssinsa sanomalehtiemme sivuista.</p>

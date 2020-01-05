@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Niin kuin läpi lumen esiin kaivautuvat lumikellot toimivat kevään airuina, niin myös ihmiset kaikkialla lausuvat julki vaatimuksensa oikeudenmukaisuudesta ja rauhasta sekä orjuuden ja tyrannian pitkän talven loppumisesta."
+summary: "Lainaus: Niin kuin läpi lumen esiin kaivautuvat lumikellot toimivat kevään airuina, niin myös ihmiset kaikkialla lausuvat julki vaatimuksensa oikeudenmukaisuudesta ja rauhasta sekä orjuuden ja tyrannian pitkän talven loppumisesta."
 ---
 <p>Niin kuin läpi lumen esiin kaivautuvat lumikellot toimivat kevään airuina, niin myös ihmiset kaikkialla lausuvat julki vaatimuksensa oikeudenmukaisuudesta ja rauhasta sekä orjuuden ja tyrannian pitkän talven loppumisesta. Ihmisten ääni kasvaa ja vaatii kuulemista. Kyseessä on uuden ajan sanansaattaja, uuden maailmanjärjestyksen synnyinkamppailu. Siitä huolimatta – ei vaan – vaarallisten miesten suunnitelmista johtuen, ihmiset riisuvat pois vanhat ikeensä ja vaativat tulla kuulluksi. Uusi tarve ja luottamus valtuuttaa ja voimistaa heidän vaatimuksensa. Ihmisten vaatimusten voima purkautuu ikiaikaisista kahleista ja viitoittaa tien tulevaisuuteen. Enemmän ja enemmän ihmiset ymmärtävät, että hallitusten tehtävä on täyttää ihmisten tarpeet, ja ettei ole niin suurta ongelmaa, jossa sota olisi ainoa ratkaisu. Vallannälkäisten johtajien happamet vaatimukset saattavat hetkeksi saada pauloihinsa joitain pelokkaita ja varomattomia, mutta heidän aikansa on vähissä ja se on käymässä loppuun.</p>
 

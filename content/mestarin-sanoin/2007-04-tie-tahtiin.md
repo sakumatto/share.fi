@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Pian käy ilmeiseksi, että ihmiskunta on saapunut umpikujaan, josta ei ole mitään ilmeistä poispääsyä. Markkinavoimien sokea seuraaminen raivokkaassa taistelussa markkinoista ja voitoista on saattanut kansakunnat pysähdyksen tilaan."
+summary: "Lainaus: Pian käy ilmeiseksi, että ihmiskunta on saapunut umpikujaan, josta ei ole mitään ilmeistä poispääsyä. Markkinavoimien sokea seuraaminen raivokkaassa taistelussa markkinoista ja voitoista on saattanut kansakunnat pysähdyksen tilaan."
 ---
 <p>Pian käy ilmeiseksi, että ihmiskunta on saapunut umpikujaan, josta ei ole mitään ilmeistä poispääsyä. Markkinavoimien sokea seuraaminen raivokkaassa taistelussa markkinoista ja voitoista on saattanut kansakunnat pysähdyksen tilaan.</p>
 <p>Jotkut astelevat varovaisemmin talouksiensa hiipuessa, kun taas toiset, erityisesti uusrikkaat, aina vain suurempien rikkauksien ja kasvun toivossa jatkavat kulkuaan. Kokeneemmille on hiljalleen valkenemassa, ettei kaikki ole hyvin, että tulevaisuus näyttää vaisummalta kuin sen tulisi, ja että aina kavahdettu taantuma ei ehkä sittenkään ole niin kaukana. Voisi jopa sanoa, että uudenlainen realismi on alkamassa ilmentyä.</p>

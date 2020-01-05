@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: [V]edet nousevat vääjäämättä ja ihmiset käyvät huoletonta sekä sopimatonta uhkapelia tulevaisuudellaan."
+summary: "Lainaus: [V]edet nousevat vääjäämättä ja ihmiset käyvät huoletonta sekä sopimatonta uhkapelia tulevaisuudellaan."
 ---
 <p>Se aika on pian käsillä jolloin ihmiset ymmärtävät, että tämän sukupolven kohtaama suurin ongelma on se ekologinen epätasapaino, joka uhkaa valtaisia alueita Maassa. Kuten tiedätte, ihmiset ovat kahtiajakautuneita ongelman laajuudesta, mutta mikäli ihmisten huomiota ei kohdenneta tähän ekologisen epäkohtaan, monen tulevaisuus on epävarma.</p>
 <p>Pian monet ryhmät tulevat oivaltamaan tämän vaaran laajuuden ja sen, että vuosi vuodelta katastrofiin on matkaa enää vähemmän. Ilmaston lämpenemisen vapauttamat voimat ovat nyt jo reilusti ohi sen pisteen, jota ihmisten keinoin voidaan hallita.</p>

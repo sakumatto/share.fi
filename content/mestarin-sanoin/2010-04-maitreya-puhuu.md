@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Pian Maitreyan ajatusten vaikutus tulee näkyväksi. Nyt jo monet, maailmanlaajuisesti, reagoivat Hänen vaikutukseensa, suoraan tai muuten. Yhä vain enemmän Hänen ajatustensa voima tulee oikomaan etujen ristiriidat, jotka tänä päivän ovat ”keskiössä” julkisessa keskustelussa, ja jokaisen ihmisen sekä perheen tarpeet tulevat nousemaan ihmiskunnan ongelmien keskiöön."
+summary: "Lainaus: Pian Maitreyan ajatusten vaikutus tulee näkyväksi. Nyt jo monet, maailmanlaajuisesti, reagoivat Hänen vaikutukseensa, suoraan tai muuten. Yhä vain enemmän Hänen ajatustensa voima tulee oikomaan etujen ristiriidat, jotka tänä päivän ovat ”keskiössä” julkisessa keskustelussa, ja jokaisen ihmisen sekä perheen tarpeet tulevat nousemaan ihmiskunnan ongelmien keskiöön."
 ---
 <p>Jokaisen kuluvan viikon myötä Maitreyan sanat ja ajatukset resonoituvat miljoonien ihmisten mieliin, jotka eivät tiedä näiden inspiroivien ideoiden ja toivorikkaiden konseptien lähdettä. Monet pohtivat syvästi niiden tarkoitusta ja näkemystä ja saavat oudolla tavalla lohdutusta. Toiset kokevat itsensä energisoiduksi ja voimallistetuksi, uuden päättäväisyyden ja rohkeuden kyllästämiksi. Toiset taas ihmettelevät kuka tämä mies voi olla, niin yksinkertainen ja rento, ja kuitenkin ihmeellisen viisas. Monet ovat ne ilahtumisen ja rakkauden tunteet, jotka Hänen esiintymisensä ovat tuottaneet.</p>
 <p>Tietenkään kaikki eivät ole pitäneet Hänen ajatuksiaan miellyttävinä, tai jos miellyttävinä niin utopistisina ja saavuttamattomissa olevina. Suuret joukot ovat varuillaan ja hieman peloissaan, että Hän onkin se jota heitä on opetettu eniten pelkäämään: yksinkertainen ja vaatimaton, hyvyyden ja rakkauden auraan kietoituneena.</p>

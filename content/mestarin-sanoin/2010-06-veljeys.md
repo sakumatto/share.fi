@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Ihmisten on pian ymmärrettävä tämä tai tuhouduttava. Veljeys on sekä idea että fakta planettamme elämässä. Ilman veljeyden todellisuutta kaiken toiminnan pohjana, ihmisen kaikki toimet johtavat hukkaan."
+summary: "Lainaus: Ihmisten on pian ymmärrettävä tämä tai tuhouduttava. Veljeys on sekä idea että fakta planettamme elämässä. Ilman veljeyden todellisuutta kaiken toiminnan pohjana, ihmisen kaikki toimet johtavat hukkaan."
 ---
 <p>Ilman epäilystäkään tämä aika on ihmiskunnalle valtavan merkityksellinen. Päätökset, jotka nyt tehdään, päättävät suurelta osin planeetan koko tulevaisuuden. Tulevat sukupolvet tulevat hämmästelemään sitä näennäistä helppoutta, jolla niin monet tänään ohittavat huolet maailman pahoinvoinnista: miljoonat nälkiintyvät ja kuolevat puutteessa maailmassa, jota on siunattu valtavalla ruoan ylijäämällä ja miljoonat muut ovat aina nälkäisenä sekä aliravittuina. Monet tietävät tämän olevan totta ja siltikään eivät tee mitään. Kuinka näin voi olla? Mikä estää heitä toimimasta? Tämän toimettomuuden taustalla on välinpitämättömyys, joka on kaiken maailman pahan lähde. Välinpitämättömyyden juuret ovat siinä rikoksessa, joka on erillisyyden tunne, siinä tunteessa, joka vetää ihmisiä erkaantumaan toisistaan ja joka estää veljeyden kukoistamisen.</p>
 <p>Ihmisten on pian ymmärrettävä tämä tai tuhouduttava. Veljeys on sekä idea että fakta planettamme elämässä. Ilman veljeyden todellisuutta kaiken toiminnan pohjana, ihmisen kaikki toimet johtavat hukkaan.</p>

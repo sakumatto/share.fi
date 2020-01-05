@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Tästä lukien maailman hallitusten on vakavasti huomioitava tämän tähän asti hiljaisen enemmistön pyrkimykset ja muutettava suunnitelmansa vastaavasti. ”Rikkaan ylhäisön” tulee olemaan vaikeata ylläpitää sitä ammottavaa kuilua joka on heidän ja tavallisen ”talonpojan” elämäntyylien välillä samalla kun tasa-arvon vaatimus aikaansaa muutosta. Tullaan ymmärtämään, että nykyisen kaltaiset taloudellisen vallan kahtiajaot ovat talouden epätasapainon syiden keskiössä."
+summary: "Lainaus: Tästä lukien maailman hallitusten on vakavasti huomioitava tämän tähän asti hiljaisen enemmistön pyrkimykset ja muutettava suunnitelmansa vastaavasti. ”Rikkaan ylhäisön” tulee olemaan vaikeata ylläpitää sitä ammottavaa kuilua joka on heidän ja tavallisen ”talonpojan” elämäntyylien välillä samalla kun tasa-arvon vaatimus aikaansaa muutosta. Tullaan ymmärtämään, että nykyisen kaltaiset taloudellisen vallan kahtiajaot ovat talouden epätasapainon syiden keskiössä."
 ---
 <h3>Maitreyan viesti</h3>
 

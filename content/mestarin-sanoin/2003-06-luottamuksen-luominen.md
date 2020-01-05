@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Maitreyan tehtävä on muistuttaa ihmisiä heidän urhoollisesta tehtävästään ja kannustaa heitä huomaamaan, että jakaminen tulee luomaan heidän kaipaamansa luottamuksen. Hän tulee osoittamaan, ettei jakamisessa enää ole kyse valinnasta tai optiosta, vaan että se on ihmisyyden ykseyden ymmärtämisen vääjäämätön seuraus."
+summary: "Lainaus: Maitreyan tehtävä on muistuttaa ihmisiä heidän urhoollisesta tehtävästään ja kannustaa heitä huomaamaan, että jakaminen tulee luomaan heidän kaipaamansa luottamuksen. Hän tulee osoittamaan, ettei jakamisessa enää ole kyse valinnasta tai optiosta, vaan että se on ihmisyyden ykseyden ymmärtämisen vääjäämätön seuraus."
 ---
 <p>Jos ihmiskunta haluaa rauhaa, sen yksinkertainen tehtävä on luoda rauhan edellytykset. Rauhaan on vain yksi tie, minkä ihmiset sydämissään tietävät jo: oikeudenmukaisuuden luominen. Kun ihmiset viimeinkin oivaltavat oikeudenmukaisuuden tarpeellisuuden, tulee tuo siunattu rauhan päivä vihdoin koittamaan maapallolla. Oikeudenmukaisuuden tie on yhtä helppo löytää, se vaatii vain jakamisen periaatteen hyväksymisen.</p>
 <p>Jakamisen jumalainen periaate on elämän keskeinen elementti ja se löytyy kaiken harmonian ja tasapainon perustasta. Ilman jakamista jokainen yritys saavuttaa tasapaino valuu kuiviin.</p>

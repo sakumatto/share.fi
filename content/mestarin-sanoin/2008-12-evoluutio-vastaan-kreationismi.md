@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Meidän tietomme mukaan ihminen on suunnattoman paljon vanhempi, kuin tiede tänä päivänä uskoo. Tämän päivän tiedon valossa ihmiskunta on noin viisi tai enintään kuusi miljoonaa vuotta vanha. Meidän tieteemme ja traditiomme valossa alkuihminen oli kuitenkin jo saavuttanut sen asteen, jossa yksilöllistyminen oli mahdollista ja ”Mielen pojat” aloittivat pitkän evoluution taipaleensa."
+summary: "Lainaus: Meidän tietomme mukaan ihminen on suunnattoman paljon vanhempi, kuin tiede tänä päivänä uskoo. Tämän päivän tiedon valossa ihmiskunta on noin viisi tai enintään kuusi miljoonaa vuotta vanha. Meidän tieteemme ja traditiomme valossa alkuihminen oli kuitenkin jo saavuttanut sen asteen, jossa yksilöllistyminen oli mahdollista ja ”Mielen pojat” aloittivat pitkän evoluution taipaleensa."
 ---
 <p>Monet ihmiset uskovat, tai väittävät uskovansa, että tämä maailma on nykymuodossaan vain noin 5000 vuotta vanha ja, että ihminen ja kaikki eläinkunnan luomukset sekä kivikunnan kivet luotiin muutamassa päivässä, täysin valmiina ja lopullisina kaikilta ominaisuuksiltaan.</p>
 <p>He sanovat, että evoluutio on myytti ja, että kristillisen Raamatun kertomus luomisesta on sananmukaisesti totta ja oikeassa. Uskoakseen tällaisen teorian, on ummistettava silmänsä tieteeltä yleensäkin ja varsinkin geologialta, antropologialta, paleontologialta ja arkeologialta.</p>

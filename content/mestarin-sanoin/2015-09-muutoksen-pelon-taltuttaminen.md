@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Parhaillaankin ihmiset huomaavat rakenteidensa luhistumisen. Eikä ihminen saata ymmärtää miten keskellä yltäkylläisyyden rikollisuus on niin uhkaavana valloillaan. Ihminen ei voi ymmärtää miten yltäkylläisyyden keskellä kaikki eivät koe onnea. Ihminen ei näe miten monet elävät pelossa eivätkä siksi koe toivoa."
+summary: "Lainaus: Parhaillaankin ihmiset huomaavat rakenteidensa luhistumisen. Eikä ihminen saata ymmärtää miten keskellä yltäkylläisyyden rikollisuus on niin uhkaavana valloillaan. Ihminen ei voi ymmärtää miten yltäkylläisyyden keskellä kaikki eivät koe onnea. Ihminen ei näe miten monet elävät pelossa eivätkä siksi koe toivoa."
 ---
 <p>Monet odottavat Maailmanopettajaa kasvavalla uskolla, että Hän voi ratkaista ne ongelmat jotka ihmiset kokevat pinttyneiksi. He tuntevat voivansa luottaa Hänen viisaaseen arviontikykyynsä ja kokemukseensa. Se että näin on, ei ole kiellettävissä. Hän on toden totta viisas neuvonantaja ja ihmisten tulisi luottavaisina kuulla Hänen neuvonsa. Laki kuitenkin rajoittaa sitä astetta, millä Hän voi puuttua ihmisten asioihin. Ihmisten tulee ymmärtää, että Laki kieltää pakon käyttämisen – ihmisen vapaata tahtoa ei saa loukata. Täten on niin, että ihmisten itsensä on tehtävä päätös muutoksesta, kuten Maitreya on sanonut: "Minä olen vain arkkitehti tuolle suunnitelmalle. Te, veljeni, olette loistokkaan totuuden temppelin halukkaat rakentajat.” * </p>
 

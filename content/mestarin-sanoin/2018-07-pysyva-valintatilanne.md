@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Mahdollistaakseen ihmisten ymmärtää tekojensa seuraukset, on Maitreya valmiina astumaan julkisuuteen. Hän tulee lisäämään oman vakuuttavan viisautensa vaatimukseen tervejärkisyydestä ja rauhasta. Hän tulee inspiroimaan ja opettamaan."
+summary: "Lainaus: Mahdollistaakseen ihmisten ymmärtää tekojensa seuraukset, on Maitreya valmiina astumaan julkisuuteen. Hän tulee lisäämään oman vakuuttavan viisautensa vaatimukseen tervejärkisyydestä ja rauhasta. Hän tulee inspiroimaan ja opettamaan."
 
 ---
 <p>Ihmiskunnan suuren päätöksen aika on jo melkein ovella. Jopa itse Mestarit odottavat innokkaina tuota ratkaisevaa hetkeä. Ihmisjoukkojen keskuudessa on vain vähän niitä, jotka ymmärtävät tämän ajanjakson ja tuon ihmisten valinnan merkityksellisyyden: joko syöksyä piittaamattomina ja päätä pahkaa kohti katastrofia; tai uudelleenjärjestäytyä ja pyhittää kaikkien ihmisten elämä vapaudella ja oikeudenmukaisuudella.</p>

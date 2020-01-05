@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Aivan lähitulevaisuudessa ihmiset kaikkialla saavat mahdollisuuden olla todistajana erityislaatuiselle ja merkitykselliselle merkille, jonka kaltainen on ollut olemassa vain kerran aiemmin, Jeesuksen syntymän yhteydessä."
+summary: "Lainaus: Aivan lähitulevaisuudessa ihmiset kaikkialla saavat mahdollisuuden olla todistajana erityislaatuiselle ja merkitykselliselle merkille, jonka kaltainen on ollut olemassa vain kerran aiemmin, Jeesuksen syntymän yhteydessä."
 ---
 <p>Aivan lähitulevaisuudessa ihmiset kaikkialla saavat mahdollisuuden olla todistajana erityislaatuiselle ja merkitykselliselle merkille, jonka kaltainen on ollut olemassa vain kerran aiemmin, Jeesuksen syntymän yhteydessä. Silloin, kristillisen opin mukaan, taivaalle ilmestyi tähti, joka johti kolme Itämaan tietäjää Jeesuksen synnyinsijoille. Pian, jälleen, tähden kaltainen kirkkaanloistava valonlähde tullaan näkemään kautta maailman. Mitä tämä tarkoittaa? Kuinka se on mahdollista?</p>
 <p>Vastaus piilee siinä, että tämä mystinen tapahtuma on merkki ja se toimii airuena Maitreyan avoimen työn alkamiselle. Pian sen jälkeen, kun merkki on ilmestynyt taivaalle, Maitreya tulee antamaan ensimmäisen haastattelunsa amerikkalaisella televisiokanavalla.</p>

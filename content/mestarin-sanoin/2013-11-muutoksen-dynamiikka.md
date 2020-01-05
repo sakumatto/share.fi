@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Ihmisten vapaata tahtoa ei koskaan kavenneta ja muutosten omaksuminen seuraa tätä lakia. Täten elämä Maan päällä tulee muuttumaan pienimmin mahdollisin häiriöin. Jokainen askel tutkitaan ihmisten toimesta niin, että ihmiskunta itse ohjaa muutoksen tahtia."
+summary: "Lainaus: Ihmisten vapaata tahtoa ei koskaan kavenneta ja muutosten omaksuminen seuraa tätä lakia. Täten elämä Maan päällä tulee muuttumaan pienimmin mahdollisin häiriöin. Jokainen askel tutkitaan ihmisten toimesta niin, että ihmiskunta itse ohjaa muutoksen tahtia."
 ---
 <p>Jos ihmiset voisivat nähdä ne erityislaatuiset tapahtumat, jotka tänä päivänä tapahtuvat monissa maailman kolkissa, he oivaltaisivat, että Julkitulon päivä ei voi olla kovinkaan kaukana. He näkisivät tuhannet ihmiset marssimassa vaatien muutosta, vaatien parempaa elämää ja uutta näkökulmaa elämiseen: sellaista, joka takaa heille työtä ja ruokaa heidän perheilleen, tarvittavan terveydenhuollon sekä sananvaltaa heidän tulevaisuutensa asioissa.<br>
 Monet ovat ne suunnitelmat, jotka ottavat kantaa näihin ideoihin. Ryhmät ja yksilöt kautta maailman luovat uuden maailman kaavakuvaa. Jotkin niistä ovat liian hysteerisiä otettavaksi todesta, mutta monet niistä ovat hyvin punnittuja ja tarjoavat arvokkaita ehdotuksia tarpeellisten muutosten aikaansaamiseksi.<br>

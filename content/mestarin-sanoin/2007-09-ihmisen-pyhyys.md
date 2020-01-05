@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Vastaus piilee Hänen energioidensa tehossa. Koskaan ennen ei ole ollut Opettajaa, jolla olisi ollut vastaavat voimat. Jokaisella lausutulla sanallaan, Hänen hyvääluova voimansa vuotaa sydämestä sydämeen. Argumentointi ja kinastelu ovat tarpeettomia ja turhia. Hänen Totuutensa kutsuu esiin kuulijan sydämen Totuuden ja heidän yhteisen pyhyytensä tulikokeessa se tunnistetaan juuri siksi.
+summary: "Lainaus: Vastaus piilee Hänen energioidensa tehossa. Koskaan ennen ei ole ollut Opettajaa, jolla olisi ollut vastaavat voimat. Jokaisella lausutulla sanallaan, Hänen hyvääluova voimansa vuotaa sydämestä sydämeen. Argumentointi ja kinastelu ovat tarpeettomia ja turhia. Hänen Totuutensa kutsuu esiin kuulijan sydämen Totuuden ja heidän yhteisen pyhyytensä tulikokeessa se tunnistetaan juuri siksi.
 
 "
 ---

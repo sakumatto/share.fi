@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Kun kansakunta kasvaa aikuisuuteen ja kypsyyteen, se suhtautuu toisiin valtioihin täysin eri lailla, kuin siihen asti. Se alkaa kunnioittaa lakia, joka sitoo kaikki kansat yhteiseen vastuuseen ja tarpeeseen. Kasvavan kypsyyden merkki on nimenomaan tuo yhteisen lain kunnioittaminen, jonka ihmiskunta on katsonut tarpeelliseksi rauhallisen yhteiselon perustaksi. "
+summary: "Lainaus: Kun kansakunta kasvaa aikuisuuteen ja kypsyyteen, se suhtautuu toisiin valtioihin täysin eri lailla, kuin siihen asti. Se alkaa kunnioittaa lakia, joka sitoo kaikki kansat yhteiseen vastuuseen ja tarpeeseen. Kasvavan kypsyyden merkki on nimenomaan tuo yhteisen lain kunnioittaminen, jonka ihmiskunta on katsonut tarpeelliseksi rauhallisen yhteiselon perustaksi. "
 ---
 <p>Kun kansakunta kasvaa aikuisuuteen ja kypsyyteen, se suhtautuu toisiin valtioihin täysin eri lailla, kuin siihen asti. Se alkaa kunnioittaa lakia, joka sitoo kaikki kansat yhteiseen vastuuseen ja tarpeeseen. Kasvavan kypsyyden merkki on nimenomaan tuo yhteisen lain kunnioittaminen, jonka ihmiskunta on katsonut tarpeelliseksi rauhallisen yhteiselon perustaksi. Ajoittain, jokin valtio saattaa kokea olevansa niin voimakas, että se voi sivuutta lain, joka ärsyttää sitä sen halussa dominoida ja käydä sotaan, sen ystävien varoituksista ja pidättyväisyydestä huolimatta.</p>
 <p>Niinpä tänä päivänä Yhdysvallat, nyt ainoana ”supervaltana” kiusaa ja huolestuttaa kypsempien kansakuntien asukkaita, jotka ovat jo kasvaneet näkemään yksipuolisen ja kansojen yhteisen lain vastaisen toiminnan haihattelun sinä mitä se on.</p>

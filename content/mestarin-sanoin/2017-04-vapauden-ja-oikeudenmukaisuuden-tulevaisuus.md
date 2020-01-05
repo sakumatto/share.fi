@@ -34,7 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-lainaus: "Lainaus: Opetelkaa olemaan kiinnittymättä nykyiseen kaaokseen ja olkaa siten lisäämättä pelkojenne osuutta läpitunkevan pimeyden määrään."
+summary: "Lainaus: Opetelkaa olemaan kiinnittymättä nykyiseen kaaokseen ja olkaa siten lisäämättä pelkojenne osuutta läpitunkevan pimeyden määrään."
 ---
 <p>Harvoin on maailma näyttänyt olevan samalla lailla ongelmien piirittämänä kuin nyt. Kautta planeetan, lähes jokaisessa maassa, on liikkeellä voimia, jotka häiritsevät monin tavoin yleistä tasapainoa ja turvallisuuden tunnetta. Kaaos ja sekasorto levittävät kauhuaan alati kasvavalla vauhdilla. Miljoonat ihmiset kärsivät mitä nöyryyttävimmistä vastoinkäymisistä sekä puutteesta, samalla kun kokonaiset kansakunnat kouristelevat muutosten keskellä.</p>
 <p>Tähän kiehuvaan noidankattilaan on Kristus saapunut. Hänen kädenjälkensä, tunnistetaan sitä tai ei, voidaan nähdä ulkoisten myllerrysten takana, ohjaten ja voimistaen hyvän voimia, varmistaen niille niiden lopullisen voiton. Vaikka sitä voi olla vaikea huomata, rakennetaan uutta järjestystä juuri näiden sotivien voimien pohjalta, ja uutta elämää luodaan vanhojen kuolevien muotojen tuhkista.</p>
