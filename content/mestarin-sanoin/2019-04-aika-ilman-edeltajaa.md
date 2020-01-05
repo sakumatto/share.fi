@@ -1,5 +1,5 @@
 ---
-title: "Mestarin sanoin _12/2003: Aika ilman edeltäjää"
+title: "Mestarin sanoin 4/2019: Aika ilman edeltäjää"
 
 menu:
  masterarticle:
@@ -10,7 +10,7 @@ master: "Cremen Mestari"
 
 date: 2019-04-01T00:00:00+02:00
 prevmonth: "3/2019: Tulevaisuuden avain"
-prevmonthLink: "2019-04"
+prevmonthLink: "2019-03"
 
 
 aliases:
