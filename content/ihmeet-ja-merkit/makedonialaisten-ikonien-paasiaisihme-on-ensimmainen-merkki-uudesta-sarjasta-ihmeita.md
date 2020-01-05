@@ -19,7 +19,7 @@ aliases:
 author: share.fi
 summary: "Sadat ihmiset tungeksivat Pyhän Dimitrijan kirkkoon Skopjessa, Makedonian pääkaupungissa, nähdäkseen ikonit, jotka alkoivat kiiltää kirkkaana sunnuntaina 8.4.2012, viikkoa ennen Pääsiäisen viettoa tässä ortodoksisessa kirkossa."
 
-cover: "https://sharefi-cdn.sirv.com/sharefi/makedonian-skopjen-ikoni_ihme-2012.jpg?profile=crok-nodisplay&cx=470&cy=520&cw=200&ch=300"
+NOcover: "https://sharefi-cdn.sirv.com/sharefi/makedonian-skopjen-ikoni_ihme-2012.jpg?profile=crok-nodisplay&cx=470&cy=520&cw=200&ch=300"
 
 
 
