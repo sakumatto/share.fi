@@ -5,7 +5,8 @@ menu:
  masterarticle:
   identifier:  "mestarin-sanoin-2019-07"
   parent:  "2019"
-
+ uudet:
+ 
 master: "Cremen Mestari"
 
 date: 2019-07-01T00:00:00+02:00

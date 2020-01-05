@@ -33,6 +33,6 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-summary: "Lainaus: "
+summary: "Lainaus: ODOTTAA JULKAISUA"
 ---
 <p></p>
