@@ -12,7 +12,7 @@ date: 2020-12-01T00:00:00+02:00
 prevmonth: "11/2019: Uusi yksinkertaisuus"
 prevmonthLink: "2019-11"
 
-April 1990
+from: "April 1990"
 
 aliases:
   - /mestarin-sanoin/2019-12/
