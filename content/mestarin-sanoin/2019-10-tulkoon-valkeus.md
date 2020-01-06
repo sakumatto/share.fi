@@ -8,7 +8,7 @@ menu:
 
 master: "Cremen Mestari"
 
-date: 2019-10-01T00:00:00+02:00
+date: 2020-10-01T00:00:00+02:00
 prevmonth: "9/2019: Askel askeleelta"
 prevmonthLink: "2019-09"
 

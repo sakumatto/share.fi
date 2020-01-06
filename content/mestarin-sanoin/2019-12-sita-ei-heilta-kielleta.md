@@ -8,7 +8,7 @@ menu:
 
 master: "Cremen Mestari"
 
-date: 2019-12-01T00:00:00+02:00
+date: 2020-12-01T00:00:00+02:00
 prevmonth: "11/2019: Uusi yksinkertaisuus"
 prevmonthLink: "2019-11"
 
