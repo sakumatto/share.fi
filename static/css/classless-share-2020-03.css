@@ -751,7 +751,7 @@ p.luentovideo {
 
 
 /* responsiveness */
-@media (max-width: 760px) {
+@media (max-width: 860px) {
   body {
     grid-template-columns: 100%;
     grid-template-rows: auto;
