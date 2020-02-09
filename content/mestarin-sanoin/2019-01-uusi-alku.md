@@ -9,7 +9,7 @@ menu:
 
 master: "Cremen Mestari"
 
-date: 2019-01-01T00:00:00+02:00
+date: 2019-01-01T00:00:01+02:00
 prevmonth: "12/2018: Järki ja intuitio"
 prevmonthLink: "2018-12"
 

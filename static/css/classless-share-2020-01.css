@@ -320,8 +320,8 @@ body > main {
       main > article h2,
       main > article h3 {
         font-size: 38px;
-        margin: 0 0 24px 0;
-        color: #000;
+        margin: 36px 0 12px 0;
+        color: #333;
       }
       main > article h1 { font-size: 38px; }
       main > article h2 { font-size: 30px; }

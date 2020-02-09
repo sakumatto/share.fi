@@ -9,8 +9,8 @@ menu:
 master: "Cremen Mestari"
 
 date: 2002-07-01T00:00:00+02:00
-prevmonth: ""
-prevmonthLink: ""
+prevmonth: "6/2002: Uusi päivä"
+prevmonthLink: "2002-06"
 
 
 aliases:

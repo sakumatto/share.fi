@@ -8,7 +8,7 @@ menu:
 
 master: "Cremen Mestari"
 
-date: 2016-01-01T00:00:00+02:00
+date: 2016-01-01T00:00:01+02:00
 prevmonth: "12/2015: Erityislausuma Pariisin tapahtumista, marraskuu 2015"
 prevmonthLink: "2015-12"
 

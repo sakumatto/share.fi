@@ -8,7 +8,7 @@ menu:
 
 master: "Cremen Mestari"
 
-date: 2008-01-01T00:00:00+02:00
+date: 2008-01-01T00:00:01+02:00
 prevmonth: "12/2007: Tulevaisuuden valmistelu"
 prevmonthLink: "2007-12"
 

@@ -21,7 +21,7 @@ author: share.fi
 
 
 
-
+summary: "Lainaus: Pian ihmiskunta kokonaisuudessaan tulee havahtumaan Minun läsnäolooni ja täydessä halukkuudessa tulee hyväksymään tämän, meidän maailmamme muodonmuutoksen."
 ---
 <p class="alustus">summary: Pian ihmiskunta kokonaisuudessaan tulee havahtumaan Minun läsnäolooni ja täydessä halukkuudessa tulee hyväksymään tämän, meidän maailmamme muodonmuutoksen.</p>
 <h2>Maitreyan viesti 31.3.2016</h2>

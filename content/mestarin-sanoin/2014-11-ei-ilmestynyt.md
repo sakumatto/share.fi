@@ -33,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-summary: "Lainaus: Ei ilmestynyt koska tällöin julkaistiin Maitreyan viesti 7.102014."
+summary: "Lainaus: Ei ilmestynyt koska tällöin julkaistiin Maitreyan 7.10.2014 antama viesti."
 ---
 <p>Marraskuun 2014 Mestarin sanoin -artikkelia ei julkaistu, vaan tuolloin julkaistiin Maitreyan antama viesti 7.10.2014.</p>
 <p><a href="/maitreya/maitreyan-viestit/maitreyan-viesti-2014-10-07/">Maitreyan viesti 7.10.2014</a></p>
