@@ -788,6 +788,8 @@ p.luentovideo {
   main > article header,
   main > article > div {
     width: 100%;
+    padding: 20px 7px 10px;
+
   }
 }
 
