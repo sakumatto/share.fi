@@ -800,8 +800,16 @@ p.luentovideo {
   main > article {
     width: 100%;
     padding: 20px 8px 10px;
-
   }
+
+
+body > aside {
+  padding: 0 5px;
+}
+
+body > footer {
+  padding: 0 5px 10px;
+}
 
 .sprite-etusivu-transmission-isokansi { background-position: -3px -0px; width: 750px; height: 780px; zoom: .25;}
 .sprite-etusivu-benjamin-creme-1922-2016 { background-position: -3px -780px; width: 380px; height: 305px; zoom: .5; }
