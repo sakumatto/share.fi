@@ -824,6 +824,32 @@ body > footer {
 .sprite-etusivu-faces-globe { background-position: -206px -1610px; width: 184px; height: 214px;  zoom: .7;}
 .sprite-etusivu-mait-stat { background-position: -329px -1088px; width: 148px; height: 260px;  zoom: .7;}
 
+
+
+
+
+.masterarticle{
+	border:1px;padding:5px;margin-bottom:15px;
+}
+
+.masterarticle h1 {
+	font-size: x-large;
+}
+
+.masterarticle h3 {
+	font-size: large;
+	margin: 15px 0 !important;
+}
+
+.mastersource{
+	font-style:italic;
+	display: block;
+	padding: 24px;
+	font-size: small;
+}
+
+
+
 .bottom-address { margin-left: 2%; margin-right: 2%; font-weight: bolder; font-size: larger; }
 
 }
