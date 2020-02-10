@@ -782,6 +782,10 @@ p.luentovideo {
     width: 100%;
   }
 
+      main > article h1 { font-size: 28px; }
+      main > article h2 { font-size: 20px; }
+      main > article h3 { font-size: 16px; }
+
   main > section > ul {
     display: block;
     height: auto;
@@ -820,7 +824,7 @@ body > footer {
 .sprite-etusivu-faces-globe { background-position: -206px -1610px; width: 184px; height: 214px;  zoom: .7;}
 .sprite-etusivu-mait-stat { background-position: -329px -1088px; width: 148px; height: 260px;  zoom: .7;}
 
-.bottom-address { margin-left: 5%; margin-right: 5%; font-weight: bolder; font-size: larger; }
+.bottom-address { margin-left: 2%; margin-right: 2%; font-weight: bolder; font-size: larger; }
 
 }
 
