@@ -67,7 +67,7 @@ author: share.fi
 <h3>Transmissio-meditaatio</h3>
 <p>Transmissio-meditaatio on ryhmäpalvelutoimintaa, joka muuntaa suuria henkisiä energioita, joita jatkuvasti virtaa planeetallemme. Transmissio-meditaation aikana Viisauden Mestarit ohjaavat näitä energioita henkisiltä tasoilta ryhmän jäsenten energiakeskusten (chakrojen) kautta erittäin tieteellisellä tavalla.Tämä prosessi, joka tekee energiat käyttökelpoisemmiksi ihmiskunnalle ja muille luomakunnille on verrattavissa sähkömuuntajiin, jotka muuntavat virran generaattorien ja kotitalouksien välillä.</p>
 
-<div style="float:right;margin:12px;" class="sprite sprite-etusivu-transmission-isokansi pc35"></div>
+<div style="float:right;margin:12px;" class="sprite sprite-etusivu-transmission-isokansi pc75"></div>
 
 <p>Suuressa viisaudessaan Mestarit kohdistavat nämä muunnetut energiat sinne, missä maailman kolkassa niitä kulloinkin eniten tarvitaan. Reaktiona näihin energioihin esimerkiksi kansat, jotka ovat olleet vuosisatoja toistensa vihollisia, huomaavatkin voivansa keskustella pyöreän pöydän ääressä ja työskennellä ratkaisujen löytämiseksi kaikessa rauhassa.</p>
 <p>Transmissio-meditaatio on turvallista, tieteellistä, uskonnollisesti sitoutumatonta ja äärimmäisen tehokasta. Se ei häiritse minkään muun uskonnon tai hengellisyyden harjoittamista. Itse asiassa se voimistaa omaa henkilökohtaista mietiskelyäsi tai muita mahdollisia palveluaktiviteettejasi, joita harjoitat. Monet ovat huomanneet voivansa kokea ja osoittaa rakkautta helpommin. Toiset taas kertovat että heidän mielensä on aktiivisempi ja luovempi. Jotkut ovat saaneet vastaanottaa parantavaa voimaa spontaanisti transmission aikana. <a title="Transmissio-meditaatio" href="/transmissio-meditaatio">Lue lisää Transmissio-meditaatiosta</a>

@@ -698,6 +698,13 @@ border: 1px solid;
 	max-width:55%;
 }
 
+.pc65 {
+	max-width:65%;
+}
+
+.pc75 {
+	max-width:75%;
+}
 
 
 .alignright {
@@ -738,7 +745,7 @@ p.luentovideo {
 .sprite-etusivu-mess-cover, .sprite-etusivu-faces-globe, .sprite-etusivu-mait-stat
 { display: inline-block; background: url('https://sharefi-cdn.sirv.com/sharefi/sprite-etusivu-share.fi.jpg') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
 
-.sprite-etusivu-transmission-isokansi { background-position: -3px -0px; width: 250px; height: 387px; }
+.sprite-etusivu-transmission-isokansi { background-position: -3px -0px; width: 750px; height: 780px; }
 .sprite-etusivu-benjamin-creme-1922-2016 { background-position: -3px -780px; width: 380px; height: 305px; }
 .sprite-etusivu-flaming-diamond { background-position: -3px -1088px; width: 323px; height: 297px; }
 .sprite-etusivu-cross5 { background-position: -3px -1388px; width: 213px; height: 180px; }
@@ -788,7 +795,7 @@ p.luentovideo {
 
   main > article {
     width: 100%;
-    padding: 20px 7px 10px;
+    padding: 20px 8px 10px;
 
   }
 }
