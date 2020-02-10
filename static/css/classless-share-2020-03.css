@@ -815,6 +815,15 @@ body > footer {
   padding: 0 5px 10px;
 }
 
+.related-item {
+	padding:6px;
+}
+
+.related-item p {
+	margin: 2px 2%;
+	padding: -3px;
+}
+
 .sprite-etusivu-transmission-isokansi { background-position: -3px -0px; width: 750px; height: 780px; zoom: .25;}
 .sprite-etusivu-benjamin-creme-1922-2016 { background-position: -3px -780px; width: 380px; height: 305px; zoom: .5; }
 .sprite-etusivu-flaming-diamond { background-position: -3px -1088px; width: 323px; height: 297px;  zoom: .5;}
