@@ -80,4 +80,4 @@ author: share.fi
 <div style="margin-left:auto;margin-right:auto;display:block;" class="sprite sprite-etusivu-flaming-diamond"></div>
 <h4>Mestarin erityislausuma</h4>
 <p><em>Benjamin Creme sai tämän erityislausuman mentaalisen telepatian keinoin Mestariltaan 5.10.2016.</em></p>
-<p style="margin-left: 10px; margin-right: 25%; font-weight: bolder; font-size: larger;">&#8221;Vaikeat ajat ovat käytännöllisesti katsoen ohi ja ihmisten tulisi luottaen odottaa sitä Uutta Aikaa, kun Maitreya tulee osoittamaan korkean Olemuksensa ja kun kaikki hyväksyvät Hänet tämän aikakauden Mestariksi.&#8221;</p>
+<p class="bottom-address">&#8221;Vaikeat ajat ovat käytännöllisesti katsoen ohi ja ihmisten tulisi luottaen odottaa sitä Uutta Aikaa, kun Maitreya tulee osoittamaan korkean Olemuksensa ja kun kaikki hyväksyvät Hänet tämän aikakauden Mestariksi.&#8221;</p>
