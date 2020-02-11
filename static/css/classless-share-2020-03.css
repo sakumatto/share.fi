@@ -303,7 +303,7 @@ body > main {
       width: 87.7%;
     }
       main > article header h1 {
-        font-size: 48px;
+        font-size: 38px;
         margin-top: 20px;
       }
       main > article header h1 a {
@@ -319,13 +319,13 @@ body > main {
       main > article h1,
       main > article h2,
       main > article h3 {
-        font-size: 38px;
+        font-size: 30px;
         margin: 36px 0 12px 0;
         color: #333;
       }
-      main > article h1 { font-size: 38px; }
-      main > article h2 { font-size: 30px; }
-      main > article h3 { font-size: 22px; }
+      main > article h1 { font-size: 34px; }
+      main > article h2 { font-size: 28px; }
+      main > article h3 { font-size: 20px; }
 
       main > article ul {
         list-style: none;
