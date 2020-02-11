@@ -758,18 +758,33 @@ p.luentovideo {
 .sprite-etusivu-faces-globe { background-position: -206px -1610px; width: 184px; height: 214px; }
 .sprite-etusivu-mait-stat { background-position: -329px -1088px; width: 148px; height: 260px; }
 
+.to-navigate {
+	display:none;
+}
+
+
+
 
 
 
 /* responsiveness */
+/* responsiveness */
+/* responsiveness */
+/* responsiveness */
+
+
+
+
+
+
 @media only screen and (max-width: 760px) {
   body {
     grid-template-columns: 100%;
     grid-template-rows: auto;
     grid-template-areas:
       'header'
-      'nav'
       'main'
+      'nav'
       'aside'
       'footer'
   }
@@ -822,6 +837,17 @@ body > footer {
 .related-item p {
 	margin: 2px 2%;
 	padding: -3px;
+}
+
+.to-navigate {
+	display:block;
+	float: right;
+	margin-right: 3vw;
+}
+.to-navigate a {
+	color:#ef5285;
+	font-size:medium;
+
 }
 
 .sprite-etusivu-transmission-isokansi { background-position: -3px -0px; width: 750px; height: 780px; zoom: .25;}

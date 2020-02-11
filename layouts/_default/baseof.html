@@ -28,6 +28,7 @@
 </head>
 <body{{ if .IsHome }} class="etusivu"{{end}}>
   <header role="banner">
+  <div class="to-navigate"><a href="#navigare">Valikkoon</a></div>
     <h1>
       <a href="{{.Site.BaseURL}}">{{.Site.Title}}</a>
     </h1>
@@ -39,6 +40,7 @@
     </aside>
   </header>
   <nav id="main-nav">
+  <a name="navigare"></a>
     <ul class="root">
     	<!-- https://discourse.gohugo.io/t/go-template-programming-partials-pipe-use-as-functions-recursive/11444 -->
 		{{ partial "menu.html" (dict "menu" "main" "current" . "level" 1 "pages" .Site.Menus.main) }}
