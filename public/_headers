@@ -3,8 +3,9 @@
 #https://ready.mobi/#1494845-kth7
 # https://docs.netlify.com/routing/headers/#basic-authentication-headers
 
+# When using weak ETag headers, disable Email Obfuscation and Automatic HTTPS Rewrites to ensure Cloudflare doesn't remove the ETag headers set by your origin web server.
 /*
   cache-control: max-age=0
-  cache-control: no-cache
+#  cache-control: no-cache
   cache-control: no-store
   cache-control: must-revalidate
