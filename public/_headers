@@ -1,0 +1,10 @@
+#Netlify eTag
+#https://www.netlify.com/blog/2017/02/23/better-living-through-caching/
+
+#https://ready.mobi/#1494845-kth7
+
+#
+  cache-control: max-age=0
+  cache-control: no-cache
+  cache-control: no-store
+  cache-control: must-revalidate
