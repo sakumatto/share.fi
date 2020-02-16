@@ -2,6 +2,7 @@ title = "Jakamisen periaate pelastaa maailman"
 baseURL = "https://share.fi"
 uglyurls = false
 
+
 languageCode = "fi-fi"
 DefaultContentLanguage = "fi"
 theme = "classless"
@@ -45,6 +46,8 @@ PaginatePath = "sivu"
 disableKinds = ["RSS"]
 
 [params]
+
+favicon = "https://sharefi.sirv.com/static/favicon.ico"
 
 show_summaries = true
 
