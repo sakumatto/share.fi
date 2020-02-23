@@ -45,6 +45,10 @@ fractions = false
 PaginatePath = "sivu"
 disableKinds = ["RSS"]
 
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsStyle = "monokai"
+
 [params]
 
 favicon = "https://sharefi.sirv.com/static/favicon.ico"
