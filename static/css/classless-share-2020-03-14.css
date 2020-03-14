@@ -148,7 +148,7 @@ body > footer a {
   }
 
 body > nav {
-  padding: 0 35px;
+  padding: 0 2%;
 }
   body > nav ul {
     list-style-type: none;
@@ -597,8 +597,7 @@ a[href]:after {
 a[href*="share.fi"],
 a[href*="localhost"],
 a[href*="sirv.com"],
-a[href*="share-fi-2018.firebaseapp.com"],
-a[href*="gallant-ardinghelli-620fc5.netlify.com"],
+a[href*="sharefi.netlify.com"],
 a[href^="/"],
 a[href^="#"],
 a[href^="mailto:"],
@@ -610,8 +609,7 @@ a[href^="javascript:"] {
 a[href*="share.fi"]:after ,
 a[href*="sirv.com"]:after,
 a[href*="localhost"]:after,
-a[href*="share-fi-2018.firebaseapp.com"]:after,
-a[href*="gallant-ardinghelli-620fc5.netlify.com"]:after,
+a[href*="sharefi.netlify.com"]:after,
 a[href^="/"]:after,
 a[href^="#"]:after,
 a[href^="mailto:"]:after,
@@ -797,6 +795,9 @@ p.luentovideo {
     width: 100%;
   }
 
+main > article > div {
+      width: 96%;
+      
       main > article h1, main > article > header h1 { font-size: 28px; }
       main > article h2 { font-size: 20px; }
       main > article h3 { font-size: 16px; }
