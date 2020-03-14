@@ -796,7 +796,7 @@ p.luentovideo {
   }
 
 main > article > div, main > article header {
-      width: 99%;
+      width: 100%;
       }
 
       main > article h1, main > article > header h1 { font-size: 28px; }
