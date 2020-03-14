@@ -18,11 +18,11 @@ avainsanat: "tietosuoja"
 ---
 
 <h2>Mitä henkilötietoa keräämme ja miksi</h2>
-{{< highlight html >}}
+{{ highlight html }}
 
 <h2>Yhteydenottolomakkeet</h2>
 <p>Yhteydenottolomakkeiden kautta annettu tieto säilytetään toistaiseksi. Täyttämällä lomakkeen hyväksyt samalla tietojesi tallentamisen sekä käsittelyn lomakkeessa ilmoitetussa tarkoituksessa.</p>
-<p>Lomake käyttää ulkoista palvelua tiedon välittämiseen meille ja hyväksyt samalla sen, että he käyttävät tietoasi tietosuojadirektiivin ja tuon palveluntarjoajan [tietosuojalausekkeen](http://docs.formspree.io/files/privacy.pdf) kertomalla tavalla.</p>{{< /highlight >}}
+<p>Lomake käyttää ulkoista palvelua tiedon välittämiseen meille ja hyväksyt samalla sen, että he käyttävät tietoasi tietosuojadirektiivin ja tuon palveluntarjoajan [tietosuojalausekkeen](http://docs.formspree.io/files/privacy.pdf) kertomalla tavalla.</p>{{ /highlight }}
 <h2>Muilta sivustoilta upotettu sisältö</h2>
 <p>Tämän sivuston artikkelit voivat sisältää upotettua sisältöä (esimerkiksi videoita, kuvia, artikkeleita jne). Toisilta sivustoilta tuodun upotetun sisällön avaaminen on verrattavissa siihen, että vierailija itse kävisi kolmannen osapuolen sivustolla.</p>
 <p>Nuo ulkoiset sivustot voivat kerätä tietoa sinusta, käyttää evästeitä, upottaa kolmannen osapuolen seurantaevästeitä ja monitoroida vuorovaikutustasi upotetun sisällön kanssa, mukaan lukien vuorovaikutuksen seuranta jos ja kun olet kirjautunut käyttäjänä sivustolle.</p>

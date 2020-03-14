@@ -39,15 +39,31 @@ theme = "classless"
 SectionPagesMenu = "main"
 pluralizelisttitles = false
 
-[blackfriday]
-fractions = false
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.blackFriday]
+    fractions = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
+    pygmentsCodefences = true
+    pygmentsCodefencesGuessSyntax = true
+    pygmentsStyle = "monokai"
 
 PaginatePath = "sivu"
 disableKinds = ["RSS"]
 
-pygmentsCodefences = true
-pygmentsCodefencesGuessSyntax = true
-pygmentsStyle = "monokai"
+
 
 [params]
 
