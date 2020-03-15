@@ -5,6 +5,8 @@ master: Maitreya
 
 aliases:
     - /kohtaamisia/
+    - /maitreya/kohtaamisia/
+
 ei_pvm:  true
 
 
