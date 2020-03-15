@@ -24,8 +24,8 @@ aihealueet:
 
 <h3>Maitreyan käsi</h3>
 <p>Share International -lehden lokakuun 2001 numerossa oli koko sivun kokoinen kuva Maitreyan kädestä. Lukijoiden kiinnostuksesta ja kyselyistä johtuen Benjamin Creme selostaa tässä käden ilmaantumisen syitä ja taustoja.<br>
-<div class="alignright pc55"><img src="https://sharefi-cdn.sirv.com/sharefi/maitreyanisokasi2.jpg?scale.width=200&scale.height=333" width="200" height="333" alt="Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi." />
-<p><a href="https://sharefi-cdn.sirv.com/sharefi/maitreyanisokasi2.jpg" target="_blank">Klikkaa avataksesi kuva omaan ikkunaansa.</a><br />Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi. </p>
+<div class="alignright pc35"><img src="https://sharefi-cdn.sirv.com/sharefi/maitreyanisokasi2.jpg?scale.width=200&scale.height=333" width="200" height="333" alt="Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi." />
+<p><a href="https://sharefi-cdn.sirv.com/sharefi/maitreyanisokasi2.jpg" target="_blank">Klikkaa avataksesi kuva omaan ikkunaansa.</a><br />Kristuksen käsi, eli Maailmanopettajan Maitreyan<br />käsi kuvattuna peilissä. Käytä käden kuvaa apunasi. </p>
 </div>
 <p>Benjamin Creme selittää ilmiön: Tämä on Maitreyan käsi, kuvattuna Barcelonalaiseen kylpyhuoneen peiliin. Nainen, joka omistaa talon meni vieraskylpyhuoneeseensa ja näki kädenjäljen peilissä, jonka hän välittömästi puhdisti pois. Hän unohti koko asian, kunnes muutaman päivän kuluttua hänen mennessä omaan kylpyhuoneeseensa, hän näki saman kädenjäljen peilissään. Onneksi, sen sijaan, että olisi putsannut kädenjäljen, hän soitti pojalleen, joka on Share Internationalin Barcelonan ryhmän jäsen. Tämä otti kuvan kädenjäljestä ja lähetti kuvan minulle. Minun Mestari on vahvistanut, että kyseessä todellakin on Maitreyan käsi.</p>
 <h3>Kuin Torinon käärinliina</h3>
