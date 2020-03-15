@@ -3,7 +3,8 @@ title:  "Maitreyan kohtaamisia"
 date:  2018-08-01T12:18:25+02:00
 master: Maitreya
 
-
+aliases:
+    - /kohtaamisia/
 ei_pvm:  true
 
 
