@@ -1075,7 +1075,7 @@ body > footer {
 	body > main { grid-area: main; }
 
 	
-		aside, nav, main > article img, .sprite, .takaisinylos {
+		.noprint, aside, nav, main > article img, .sprite, .takaisinylos {
 			display: none;
 			height:0;
 	}
@@ -1129,9 +1129,9 @@ main > article > div, main > article header {
     padding: 20px 4% 0;
   }
 
-}
-
 @page {
   margin: 2cm!important;
   margin-left:3cm!important;
+}
+
 }

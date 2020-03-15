@@ -24,7 +24,7 @@ aihealueet:
 
 <h3>Maitreyan käsi</h3>
 <p>Share International -lehden lokakuun 2001 numerossa oli koko sivun kokoinen kuva Maitreyan kädestä. Lukijoiden kiinnostuksesta ja kyselyistä johtuen Benjamin Creme selostaa tässä käden ilmaantumisen syitä ja taustoja.<br>
-<div class="alignright pc35"><img src="https://sharefi-cdn.sirv.com/sharefi/maitreyanisokasi2.jpg?scale.width=200&scale.height=333" width="200" height="333" alt="Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi." />
+<div class="alignright pc35"><img class="printable" src="https://sharefi-cdn.sirv.com/sharefi/maitreyanisokasi2.jpg?scale.width=200&scale.height=333" width="200" height="333" alt="Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi." />
 <p><a href="https://sharefi-cdn.sirv.com/sharefi/maitreyanisokasi2.jpg" target="_blank">Klikkaa avataksesi kuva omaan ikkunaansa.</a><br />Kristuksen käsi, eli Maailmanopettajan Maitreyan<br />käsi kuvattuna peilissä. Käytä käden kuvaa apunasi. </p>
 </div>
 <p>Benjamin Creme selittää ilmiön: Tämä on Maitreyan käsi, kuvattuna Barcelonalaiseen kylpyhuoneen peiliin. Nainen, joka omistaa talon meni vieraskylpyhuoneeseensa ja näki kädenjäljen peilissä, jonka hän välittömästi puhdisti pois. Hän unohti koko asian, kunnes muutaman päivän kuluttua hänen mennessä omaan kylpyhuoneeseensa, hän näki saman kädenjäljen peilissään. Onneksi, sen sijaan, että olisi putsannut kädenjäljen, hän soitti pojalleen, joka on Share Internationalin Barcelonan ryhmän jäsen. Tämä otti kuvan kädenjäljestä ja lähetti kuvan minulle. Minun Mestari on vahvistanut, että kyseessä todellakin on Maitreyan käsi.</p>
@@ -33,8 +33,9 @@ aihealueet:
 <p>Tämä on todella ainutkertaista. Tällä tavalla Maitreyan energia ja Hänen apunsa on kaikkien sitä pyytävien ulottuvilla. Jos se mitä pyydät on: ”Rakas Maitreya, voisitko yht’äkkiä ilmestyä eteeni”,en usko, että pyyntöösi vastataan. Energiaa kuluu joka kerta, kun hän ilmestyy. Hänellä on paljon tehtävää, itse asiassa, maapallo pelastettavana, eikä Hän varmasti halua tuhlata energiaansa. Sanon tämän vakavissani, koska tiedän että, kun tarina leviää, ihmiset rupeavat puhumaan että Maitreya tekee mitä vain Häneltä pyydetään. Se ei ole totta. Maitreya kylläkin ilmaantuu tuhansille ihmisille ympäri maapallon, mutta Hän tekee sen oman ajoituksensa mukaan ja omien tarkoitusperiensä toteuttamiseksi. Auttaakseen ihmisiä.</p>
 <p>Käden ilmestymisellä juuri tähän ajankohtaa on merkittävä asia. Se tarkoittaa, että Maitreya on tulossa julkisuuteen hyvin pian. Tämän lähemmäs ihmisiä Hän ei voi tulla, ennen kuin se hetki koittaa, että näemme Hänen kasvonsa.</p>
 <p>Voit myös itse jakaa&nbsp;<a title="Maitreyan käsi -kuva" href="/kirjallisuus/maitreyan-kasi/" target="_blank">Maitreyan käsi</a> -lehtiä näkyville paikoille.</p>
+<div class="noprint">
 <h3>Benjamin Creme kertoo ”kädestä” tällä videolla</h3>
-<p><iframe src="https://player.vimeo.com/video/48135866" allowfullscreen="allowfullscreen" width="900" height="675" frameborder="0"></iframe></p>
+<p><iframe src="https://player.vimeo.com/video/48135866" allowfullscreen="allowfullscreen" width="900" height="675" frameborder="0"></iframe></p></div>
 <h3>Benjamin Cremen vahvistamia muita havaintoja Maitreyan kättä koskien</h3>
 <p><strong><em>Suomalainen siunaus</em></strong></p>
 <p>Istuin hiljattain huoneessani sanoen ”Suuren avuksikutsun”. Tunsin oloni hyvin rauhalliseksi ja tyyneksi. Kun poistuin asennostani, menin keittiöön ja näin, tai kuvittelin nähneeni, kädenjäljen uuninlasissa. Koin uskomatonta rauhaa ja turvallisuuden tunnetta, mutta kun läheltä katsoin kädenjälkeä, se hävisi. Tunne oli yli-inhimillisen miellyttävä. Mitä tämä voisi olla?</p>
