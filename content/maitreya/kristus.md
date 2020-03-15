@@ -40,7 +40,7 @@ aihealueet:
 
 <div class="maitreyan-kasi alignright">
 <a href="https://sharefi.sirv.com/wpmedia/maitreyanisokasi2.jpg">
-<img src="https://sharefi.sirv.com/wpmedia/maitreyanisokasi2.jpg" width="240" height="400" alt="Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi." />
+<img class="printable" src="https://sharefi.sirv.com/wpmedia/maitreyanisokasi2.jpg" width="240" height="400" alt="Kristuksen käsi, eli Maailmanopettajan Maitreyan käsi kuvattuna peilissä. Käytä käden kuvaa apunasi." />
 </a>
 <p>Klikkaa käden kuvaa avataksesi omaan ikkunaan, jos haluat tulostaa sen omaan käyttöösi.</p>
 </div>
