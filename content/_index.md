@@ -20,6 +20,18 @@ author: share.fi
 
 
 ---
+<!--<div class="splashcontainer">
+	<div class="splashcontent">
+		<h2 class="frame-1">Maailmamme on ongelmissa</h2>
+		<h2 class="frame-2">Ja ne ovat suuria</h2>
+		<h2 class="frame-3">Vain me ihmiset yhdessä voimme ne ratkaista</h2>
+		<h2 class="frame-4">Omaksumalla jakamisen periaatteen!</h2>
+		<h2 class="frame-5">
+			<span>Vain jakaminen luo oikeudenmukaisuuden.</span> 
+			<span>Josta voi syntyä luottamus.</span> 
+			<span>Josta seuraa rauha.</span>
+		</h2>
+	</div>-->
 <h1>share.fi<br />jakamisen periaatteen puolestapuhuja</h1>
 <div class="alustus">Näillä sivuilla esiteltävät teemat ovat aluksi ehkä vieraita ja monimutkaisia. Ne ovat monimutkaisen tuntuisia koska ne ovat laajoja. Vierailta ne saattavat tuntua siksi, että näistä teemoista ei kaikkialla puhuta. Vähän kerrassaan lisää lukemalla huomaat kuitenkin kuinka teemat nivoutuvat toisiinsa ja aiheet muodostavat ymmärrettäviä kokonaisuuksia. Silloin luettukin alkaa tuntua tutulta. Lukemisen iloa ja mukavaa oloa toivottaen.</div>
 <h3>Maitreya, kuka Hän on?</h3>

@@ -5,7 +5,7 @@ date:  2019-04-12T12:18:25+02:00
 menu:
  ihmeet:
   identifier:  "lingam-2019"
- uudet:
+
 
 ei_pvm:  true
 naytakk:  false
