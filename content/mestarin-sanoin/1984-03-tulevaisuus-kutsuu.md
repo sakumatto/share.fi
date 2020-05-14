@@ -1,21 +1,20 @@
 ---
-title: "Mestarin sanoin 4/2020: Tulevaisuus kutsuu"
+title: "Mestarin sanoin 3/1984: Tulevaisuus kutsuu"
 
 menu:
  masterarticle:
-  identifier:  "mestarin-sanoin-2020-04"
-  parent:  "2020"
+  identifier:  "mestarin-sanoin-1984-03"
+  parent:  "1984"
  uudet:
 
 master: "Cremen Mestari"
 
-date: 2020-06-01T00:00:00+02:00
-prevmonth: "3/2020: Maitreyan tehtävä"
-prevmonthLink: "2020-03"
+date: 1984-03-01T00:00:00+02:00
+
 
 
 aliases:
-  - /mestarin-sanoin/2020-04/
+  - /mestarin-sanoin/1984-03/
 
 ei_pvm: false
 naytakk: true
@@ -34,7 +33,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-summary: "Lainaus: Aina ajoittain olen puhunut tarpeesta juurruttaa jakamisen henki, jonka avulla maailman resurssit voitaisiin jakaa oikeudenmukaisemmin. Tämä johtaisi jännitteiden sekä lukemattomien ihmisten kärsimyksen vähenemiseen."
+summary: "Lainaus: Ettekö saata tuntea uuden sykkeen ilmenemistä elämissänne? Kuka voisi sivuuttaa uuden impulssin, joka haastaa ihmiset toimintaan? Kaikki tullaan uudistamaan ja pian pimeys antaa tietä paljastavalle valolle."
 ---
 <p>Aina ajoittain olen puhunut tarpeesta juurruttaa jakamisen henki, jonka avulla maailman resurssit voitaisiin jakaa oikeudenmukaisemmin. Tämä johtaisi jännitteiden sekä lukemattomien ihmisten kärsimyksen vähenemiseen. Se toisi muassaan myös uudelleenvirkoamisen elämälle ja kehittyneille talouksille. Planeetan verenkierron on toimittava. Rikkaimpien talouksien jähmettynyt talous voidaan saada liikkeelle vain hyväksymällä se seikka, että myös köyhemmillä valtioilla on oikeus elämään ja kohtuulliseen elämän laatuun. Vain jakaminen voi tämän aikaansaada.</p>
 <p>Todistusaineisto kasvaa päivä päivältä osoittamaan ihmisille, että maailma on Yhtä, että ihmiskunta on organismi, jonka hyvinvointi on riippuvainen jokaisen osan hyvinvoinnista. Noiden sairauden ja vaaran merkkien huomiotta jättäminen ei enää ole mahdollista taikka viisasta. Monet jo näkevät tämän ja vaativat oikeudenmukaisuutta, mutta vain heränneen ihmiskunnan hätähuuto saa valtaapitävä liikahtamaan ahneuden sijoiltaan.</p>
