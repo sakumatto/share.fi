@@ -5,7 +5,6 @@ menu:
  masterarticle:
   identifier:  "mestarin-sanoin-1984-03"
   parent:  "1984"
- uudet:
 
 master: "Cremen Mestari"
 
