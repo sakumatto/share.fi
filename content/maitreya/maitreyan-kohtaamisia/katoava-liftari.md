@@ -33,4 +33,4 @@ New Yorkin Queensissa asuva ja Long Islandilla työskentelevä nainen oli palaam
 
 <p>Tämä tarina on nostettu arkistojemme kätköistä, toukokuun 1994 Share International -lehdestä.</p>
 <p>suom.huom. Katoava liftari on tunnettu "urbaani legenda", jota Maitreya ja Mestarit ovat taitavasti hyödyntäneet, taikka ehkä todennäköisemmin ovat legendan synnyn taustalla tehtyään vastaavia "kolttosia" jo vuosisatojen ajan. Aiheesta löytyy Ylen elävän arkiston uumenista juttu Suomesta:<br />
-<a href="https://yle.fi/aihe/artikkeli/2008/07/10/katoava-liftari-eli-surupukuinen-nainen" rel="nofollow noopener" target="_blank_">Katoava liftari</a>
+<a href="https://areena.yle.fi/1-2253067?seek=600" rel="nofollow noopener" target="_blank_">Katoava liftari</a>
