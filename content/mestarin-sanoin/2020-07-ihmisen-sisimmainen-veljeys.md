@@ -9,7 +9,7 @@ menu:
 
 master: "Cremen Mestari"
 
-date: 2020-08-01T00:00:01+02:00
+date: 2020-07-11T00:00:01+02:00
 prevmonth: "6/2020: Minne tästä"
 prevmonthLink: "2020-06"
 
