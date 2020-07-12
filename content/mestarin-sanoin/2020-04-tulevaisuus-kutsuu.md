@@ -5,7 +5,6 @@ menu:
  masterarticle:
   identifier:  "mestarin-sanoin-2020-04"
   parent:  "2020"
- uudet:
 
 master: "Cremen Mestari"
 
