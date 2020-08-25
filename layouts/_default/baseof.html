@@ -27,6 +27,7 @@
 			anchors[i].onclick = function () { return !window.open(this); };
 </script>
 {{ $nostot_etusivulle := getJSON "/data/etusivulle.json" }}
+// https://github.com/doncabreraphone/victorhugo
 {{ partial "victorhugo.html" . }}
 </head>
 <body{{ if .IsHome }} class="etusivu"{{end}}>
