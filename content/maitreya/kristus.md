@@ -2,6 +2,8 @@
 title: "Kristus"
 date: 2018-08-01T11:36:03+02:00
 
+Victor_Hugo: "true"
+Focus_Keyword: "kristus"
 
 menu:
  main:
