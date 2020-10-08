@@ -5,7 +5,6 @@ menu:
  uutiset:
   name:  "Brexitin suurempi kuva"
   identifier:  "brexit-suurempi-kuva"
- uudet:
 
 ei_pvm: false
 naytakk: false
