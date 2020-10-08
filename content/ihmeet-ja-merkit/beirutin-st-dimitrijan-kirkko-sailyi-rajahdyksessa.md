@@ -4,8 +4,9 @@ date:  2020-10-06T12:18:25+02:00
 
 menu:
  ihmeet:
-  name:  "Toivon merkki – Alttari säilyi Beirutin elokuun räjähdyksestä"
+  name:  "Alttari säilyi Beirutin räjähdyksestä"
   identifier:  "beirutin-kirkko"
+ uudet:
 
 
 ei_pvm:  true
@@ -14,17 +15,17 @@ naytavuosi:  false
 naytapvm:  false
 
 aliases:
-    - /beirutin-st-dimitrijan-kirkko-sailyi-rajahdyksessa-elokuussa-2020/
+    - /beirutin-st-dimitrijan-alttari-sailyi-rajahdyksessa-elokuussa-2020/
 
 author: share.fi
-summary: "Alttarin koskemattomana. Voimme nähdä kuvat ja videon. Pyhä malja oli paikoillaan, voimme nähdä pyhän raamatun, öljylampun, joka ei edes liikahtanut. Voimme nähdä pyhimysten reliikit, jopa [puhuessaan lasivitriinistä] lasi on ehjä."
+summary: "Alttari koskemattomana. Voimme nähdä kuvat ja videon. Pyhä malja oli paikoillaan, voimme nähdä pyhän raamatun, öljylampun, joka ei edes liikahtanut. Voimme nähdä pyhimysten reliikit, jopa [puhuessaan lasivitriinistä] lasi on ehjä."
 
 NOcover: "https://sharefi-cdn.sirv.com/sharefi/makedonian-skopjen-ikoni_ihme-2012.jpg?profile=crok-nodisplay&cx=470&cy=520&cw=200&ch=300"
 
 
 
 ---
-<p class="alustus">Pyhän Dimitrioksen kirkko säilyy Beirutin räjähdyksessä 2.8.2020. Alttarilla edes öljylamppu ei sammunut.</p>
+<p class="alustus">Pyhän Dimitrioksen kirkon alttari säilyy Beirutin räjähdyksessä 2.8.2020. Alttarilla edes öljylamppu ei sammunut.</p>
 <br /><br />
 "Minua voitte kutsua naiviksi, mutta koin tämän viestinä Jumalalta, joka sanoi 'Olen kanssanne, olen puolellanne. Me nousemme vielä.'", kertoo Isä Youil Nassif, Pyhän Dimitrios kirkon pappi Beirutissa.
 <br /><br />

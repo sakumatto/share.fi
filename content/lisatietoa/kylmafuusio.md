@@ -5,7 +5,6 @@ menu:
  main:
   identifier:  "kylmafuusio"
   parent:  "lisatietoa"
- uudet:
 
 
 
