@@ -7,7 +7,8 @@ languageCode = "fi-fi"
 DefaultContentLanguage = "fi"
 theme = "classless"
 
-
+[outputs]
+   home = [ "HTML", "JSON" ]
 
 [menu]
 
