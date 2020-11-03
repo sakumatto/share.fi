@@ -9,8 +9,8 @@
         <input type="checkbox" name="section[]" value="other-section"> Other Section
     </p> -->
     <p>
-        <input type="radio" name="option" value="AND" checked="checked"> UND-Suche<br>
-        <input type="radio" name="option" value="OR"> ODER-Suche
+        <input type="radio" name="option" value="AND" checked="checked"> JA-haku<br>
+        <input type="radio" name="option" value="OR"> TAI-haku
     </p>
 </form>
 
@@ -25,20 +25,20 @@ let params = {
     sort_date      : 'DESC',
     autocomplete   : 1, // 0: form needs a submit button
     section_search : 0, // 1: needs checkboxes with name="section[]"
-    badwords       : 'and,there,the,this,that,you', //ignore this words
-    json_wait      : '<p><em>loading...</em></p>',
-    json_ready     : '<p><em>Please enter a search term</em></p>',
-    extern_icon    : ' (external link)', // marker for external links (optional)
-    err_badstring  : '<p>To short!</p>',
-    err_noresult   : '<p>Unfortunately no search result. Please try again.</p>',
-    err_norequest  : '<p style="text-align: center; color:red;">The full text search is currently not available.</p>',
-    err_filefailed : '<p style="text-align: center;color: red;">Search file could not be retrieved.</p>',
-    res_one_item   : '<p><em>[CNT] RESULT</em></p>',
-    res_more_items : '<p><em>[CNT] RESULTS</em></p>',
+    badwords       : 'ja, on, ei, että, oli, se, hän, mutta, ovat, kuin', //ignore this words
+    json_wait      : '<p><em>haku käynnissä...</em></p>',
+    json_ready     : '<p><em>Anna hakutermisi</em></p>',
+    extern_icon    : ' (linkki ulos)', // marker for external links (optional)
+    err_badstring  : '<p>Ylilyhyt!</p>',
+    err_noresult   : '<p>Ei vastaavuuksia hakuusi.</p>',
+    err_norequest  : '<p style="text-align: center; color:red;">Koko tekstin haku ei nyt juuri ole käytössä.</p>',
+    err_filefailed : '<p style="text-align: center;color: red;">Hakutermitiedoston haku epäonnistui.</p>',
+    res_one_item   : '<p><em>[CNT] TULOS</em></p>',
+    res_more_items : '<p><em>[CNT] TULOKSET</em></p>',
     res_out_top    : '<ul>',
     res_out_bottom : '</ul>',
     res_item_tpl   : '<li><a href="[URL]">[TITLE]</a><br>[DATE]:[SUMMARY]<br><em>[SECTION][TAGS]</em></li>',
-    add_searchlink : '<p><a href="https://duckduckgo.com/?q=site:yourdomain.com [QUERY]" target="_blank"><i>Not satisfied with the search results? External search via DuckDuckGo ...</i></a></p>'
+    add_searchlink : '<p><a href="https://duckduckgo.com/?q=site:share.fi [QUERY]" target="_blank"><i>Haluatko toisenlaisen haun? Käytä halutessasi DuckDuckGo:ta ...</i></a></p>'
 };
 
 // Translation of section name (optional)
