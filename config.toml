@@ -40,10 +40,13 @@ theme = "classless"
 SectionPagesMenu = "main"
 pluralizelisttitles = false
 
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.asciidocExt]
+    backend = "html5"
+    extensions = []
+    failureLevel = "fatal"
+    safeMode = "unsafe"
 
 PaginatePath = "sivu"
 disableKinds = ["RSS"]
