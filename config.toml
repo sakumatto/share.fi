@@ -42,11 +42,8 @@ pluralizelisttitles = false
 
 [markup]
   defaultMarkdownHandler = "goldmark"
-  [markup.asciidocExt]
-    backend = "html5"
-    extensions = []
-    failureLevel = "fatal"
-    safeMode = "unsafe"
+[markup.goldmark.renderer]
+      unsafe = true
 
 PaginatePath = "sivu"
 disableKinds = ["RSS"]
