@@ -13,9 +13,6 @@ type:
 
 type: laki
 
-menu:
-  secondary:
-    weight: 300
 
 summary: ""
 
