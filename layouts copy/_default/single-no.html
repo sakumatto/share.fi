@@ -30,7 +30,7 @@
 	<h1 id="article-headline">{{- .Title | replaceRE ".+:" "" -}}</h1>
 
 
-	<div id="article-body">  <div>{{ .Content }}</div></div>
+	<div id="article-body">  <div>{{ .RawContent | safeHTML }}</div></div>
 
 
 

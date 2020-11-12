@@ -1,0 +1,49 @@
+<header>
+  <h1 style="width:100%;"><a href="{{.Permalink}}">{{.Title | replaceRE "_" ""}}</a></h1>
+
+  {{ if .Params.cover }}<a href="{{.Permalink}}"><img style="float:right; max-width:32%; margin: 70px 0 12px 12px;max-height:230px;" src="{{.Params.cover}}"></a>{{ end }}
+  <aside>
+    {{ if not .Params.ei_pvm }}
+      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+{{ if .Params.naytapvm }}
+{{- .Date.Format "02.01.2006" -}}
+
+{{ else }}
+
+{{ if .Params.naytapv }}
+{{- .Date.Format "02" -}}
+.
+{{ end }}
+
+{{ if .Params.naytakk }}
+{{- .Date.Format "01" -}}
+.
+{{ end }}
+
+{{ if .Params.naytavuosi }}
+{{- .Date.Format "2006" -}}
+{{ end }}
+
+{{ if .Params.naytatt }}
+{{- .Date.Format "15" -}}
+{{ end }}
+{{ if .Params.naytamm }}
+{{- .Date.Format "04" -}}
+{{ end }}
+{{ if .Params.naytass }}
+{{- .Date.Format "05" -}}
+{{ end }}
+{{ if .Params.naytatz }}
+{{- .Date.Format "07" -}}
+{{ end }}
+{{ end }}
+      </time>
+    {{ end }}
+    <ul>
+    {{ range .Params.tags }}
+      <li><a href="{{ "/tags/" | relURL }}{{. | urlize}}">{{.}}</a></li>
+    {{ end }}
+    </ul>
+  </aside>
+
+</header>

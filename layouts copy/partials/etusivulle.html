@@ -1,0 +1,11 @@
+<div class="nosto-etusivulle-yksilo">
+    <h4 class="etusivulle-otsikko">{{ .name }}</h4>
+    	{{ if .image }}
+			<img class="etusivulle-kuva" src="{{ .image }}">
+		{{ end }}
+        <p class="etusivulle-teksti">{{ .description }}
+        {{ if .url }}
+	        <a class="etusivulle-linkki" href="{{ .url }}">Lue lisää</a>
+	    {{ end }}
+        </p>
+</div>

@@ -1,0 +1,28 @@
+{{ define "title" }}{{.Title}} | {{.Site.Title}}{{ end }}
+
+{{ define "description" }}{{ .Summary }}{{ end }}
+
+{{ define "main" }}
+<article>
+  {{ partial "article-header.html" . }}
+  {{ .RawContent | safeHTML }}
+
+
+<div id="master-include-footer">
+<h3>Lisäaiheita</h3>
+<p><strong><a title="Mestari D.K. (Djwhal Khul)" href="/lisatietoa/mestari-d-k" target="_blank">Kuka on Mestari D.K.?</a></strong></p>
+<p><strong><a title="Mestareiden Mestari on Maailmanopettaja" href="/maitreya" target="_blank">Kuka on Mestareiden Mestari, eli Maailmanopettaja Maitreya?</a></strong></p>
+<p><strong><a title="Yksittäisiä Mestareita: Rakoczi, Morya ja Koot Hoomi (Kuthumi)" href="/lisatietoa/yksittaisia-mestareita-rakoczi-morya-ja-koot-hoomi-kuthumi" target="_blank">Keitä ovat Rakoczi, Morya ja Koot Hoomi (Kuthumi)?</a></strong></p>
+<p><strong><a title="Yksittäisiä Mestareita: Rakoczi, Morya ja Koot Hoomi (Kuthumi)" href="/mestarin-sanoin/" target="_blank">Mestarin sanoin -artikkeliarkisto</a></strong></p>
+
+
+
+</div>
+
+
+<div id="global-include-footer-extra">
+{{ partial "global-include-footer-extra.html" . }}
+</div>
+</article>
+
+{{ end }}

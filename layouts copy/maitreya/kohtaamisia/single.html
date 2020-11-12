@@ -1,0 +1,26 @@
+{{ define "title" }}{{.Title}} | {{.Site.Title}}{{ end }}
+
+{{ define "description" }}{{ .Summary }}{{ end }}
+
+{{ define "main" }}
+<article>
+  {{ partial "article-header.html" . }}
+  {{ .RawContent | safeHTML }}
+
+
+	<div class="masterarticle-menu">
+  <nav id="masterarticle-nav">
+    <ul class="root">	
+	{{ partial "menu.html" (dict "menu" "kohtaamisia" "current" . "level" 1 "pages" .Site.Menus.kohtaamisia) }}
+
+    </ul>
+</nav><!-- #masterarticle-nav -->
+	</div>
+
+
+<div id="global-include-footer-extra">
+{{ partial "global-include-footer-extra.html" . }}
+</div>
+</article>
+
+{{ end }}
