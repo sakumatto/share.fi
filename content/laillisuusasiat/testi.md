@@ -1,7 +1,6 @@
 ---
 title: "Testi"
 date: 2020-01-23T14:59:54+02:00
-menu: main
 
 
 ei_pvm: false
