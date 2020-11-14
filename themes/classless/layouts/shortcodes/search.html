@@ -4,7 +4,7 @@
     <!-- <input type="submit" value="Etsi"> -->
     </p>
     <!-- <p><em>Search Section:</em><br>
-        <input type="checkbox"name="section[]" value="site" checked="checked"> all<br>
+        <input type="checkbox"name="section[]" value="site" checked="checked"> Kaikki<br>
         <input type="checkbox" name="section[]" value="post"> Blogi<br>
         <input type="checkbox" name="section[]" value="other-section"> Muu osio
     </p> -->
@@ -29,7 +29,7 @@ let params = {
     json_wait      : '<p><em>haku käynnissä...</em></p>',
     json_ready     : '<p><em>Anna hakutermisi</em></p>',
     extern_icon    : ' (linkki ulos)', // marker for external links (optional)
-    err_badstring  : '<p>Ylilyhyt!</p>',
+    err_badstring  : '<p>Vielä liian lyhyt termi!</p>',
     err_noresult   : '<p>Ei vastaavuuksia hakuusi.</p>',
     err_norequest  : '<p style="text-align: center; color:red;">Koko tekstin haku ei nyt juuri ole käytössä.</p>',
     err_filefailed : '<p style="text-align: center;color: red;">Hakutermitiedoston haku epäonnistui.</p>',
@@ -38,7 +38,7 @@ let params = {
     res_out_top    : '<ul>',
     res_out_bottom : '</ul>',
     res_item_tpl   : '<li><a href="[URL]">[TITLE]</a><br>[DATE]:[SUMMARY]<br><em>[SECTION][TAGS]</em></li>',
-    add_searchlink : '<p><a href="https://duckduckgo.com/?q=site:share.fi [QUERY]" target="_blank"><i>Haluatko toisenlaisen haun? Käytä halutessasi DuckDuckGo:ta ...</i></a></p>'
+    add_searchlink : '<p><i>Haluatko ulkoisen haun? Käytä halutessasi <a href="https://duckduckgo.com/?q=site:share.fi [QUERY]" target="_blank">DuckDuckGo:ta ...</i></a></p>'
 };
 
 // Translation of section name (optional)
