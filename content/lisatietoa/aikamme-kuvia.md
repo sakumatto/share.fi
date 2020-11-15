@@ -1,16 +1,14 @@
 ---
-title: "Aikamme kuvia"
+title: "Aikamme kuvia, 10/2014"
 
 menu:
  main:
-  identifier:  "aikamme-kuvia"
+  identifier:  "aikamme-kuvia-2014-10"
   parent:  "lisatietoa"
 
 
 date: 2014-10-18T00:00:00+02:00
 
-aliases:
-  - /aikamme-kuvia/
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/aikamme-kuvia-201407_valokuvio_ljubljana1.jpg"
 
@@ -35,7 +33,7 @@ aihealueet:
 
 ---
 
-<p class="alustus">Nämä kuvat kaikki kertovat tarinaa ajastamme. Erityislaatuisia tapahtumia on käytännössä päivittäin. Miksi niistä ei kerrota laajasti ja siten välitetä toivon sanomaa koko ihmiskunnalle…? Sekin on aikamme kuvaa. Tässä artikkelissa esitellään kuvia ja kokemuksia, jotka kuvastavat juuri tätä aikaa, jossa elämme. Hierarkia on tulossa julkisuuteen ja vanha kaarti taistelee kynsin hampain valtansa rippeistä. Nuoret vaativat mielenosoituksissa tasa-arvoa ja oikeudenmukaisuutta kun vanhempi polvi kokee vaatimukset mellakointina ja perusteettomana. Avaruusveljet antavat vihjeitä olemassa olostaan mutta skeptikkojen etujoukko yrittää huudollaan peittää totuuden äänen alleen.</p>
+<p class="alustus">10/2014 - Nämä kuvat kaikki kertovat tarinaa ajastamme. Erityislaatuisia tapahtumia on käytännössä päivittäin. Miksi niistä ei kerrota laajasti ja siten välitetä toivon sanomaa koko ihmiskunnalle…? Sekin on aikamme kuvaa. Tässä artikkelissa esitellään kuvia ja kokemuksia, jotka kuvastavat juuri tätä aikaa, jossa elämme. Hierarkia on tulossa julkisuuteen ja vanha kaarti taistelee kynsin hampain valtansa rippeistä. Nuoret vaativat mielenosoituksissa tasa-arvoa ja oikeudenmukaisuutta kun vanhempi polvi kokee vaatimukset mellakointina ja perusteettomana. Avaruusveljet antavat vihjeitä olemassa olostaan mutta skeptikkojen etujoukko yrittää huudollaan peittää totuuden äänen alleen.</p>
 <br clear="all" />
 
 <h2>Okinawan valoristi</h2>
