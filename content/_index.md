@@ -5,6 +5,7 @@ date:  2020-01-01T00:18:25+02:00
 menu:
  main:
   name:  "Etusivu"
+  weight: 80
 
 
 ei_pvm:  true

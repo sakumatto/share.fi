@@ -13,12 +13,6 @@ theme = "classless"
 [menu]
 
 
- [[menu.main]]
-  pre = ""
-  name   = "share.fi"
-  url    = "https://share.fi"
-  weight = 50
-
  [[menu.secondary]]
   pre = ""
   name   = "Aihealueet"
