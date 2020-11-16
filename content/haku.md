@@ -7,7 +7,7 @@ menu:
  main:
   name:  "Sisältöhaku"
   identifier:  "haku"
-  weight: 20
+  weight: 100
 ---
 
 {{< search >}}
