@@ -34,7 +34,7 @@ aihealueet:
 
 <div style="width: 910px; background-color:#f1f1f1; padding:12px; display: grid; grid-template-rows: auto auto; grid-template-columns: 300px 300px 300px;">
 <p>Klikkaa siirtyäksesi suoraan alakohtaan</p>
-<div class="Sirv" data-src="https://sharefi.sirv.com/star/star-opti-spin.spin"></div>
+<div style="margin-left:auto;margin-right:auto;" class="Sirv" data-src="https://sharefi.sirv.com/star/star-opti-spin.spin"></div>
 <p><a href="#newpics201311">Video marraskuu 2013: todiste ettei Maitreyan tähti ole Venus, niin kuin virheellisesti väitetään</a></p>
 <p><a title="Maitreyan ”tähti” – kaksi havaintoa lisää" href="/uutiset/maitreyan-tahti-kaksi-havaintoa-lisaa/">Kaksi havaintoa SI 4/2013 lehdestä</a></p>
 <p><a href="#newpics201101">Kuvia, alkuvuodelta 2011 sekä loppuvuodelta 2010</a></p>
