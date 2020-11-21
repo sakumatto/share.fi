@@ -34,7 +34,7 @@ aihealueet:
 <br clear="all" />
 
 <h2>Viljapeltokuvio Ammerseessa</h2>
-<img class="alignright" style="max-width:32%;" src="https://sharefi.sirv.com/sharefi/crok-urall-202009-crop-circle_ammersee_germany.medi.jpg" alt="Viljapeltokuvio Ammerseessa" />
+<img class="alignright" style="max-width:32%;" src="https://sharefi.sirv.com/sharefi/crok-urall-202009-crop-circle_ammersee_germany.jpg" alt="Viljapeltokuvio Ammerseessa" />
 <p>Viljapeltokuvio Ammerseessa, Baijerissa, Saksassa. Ammersee on suuri järvi lounaaseen Münchenistä. Kuvan ottaja Frank Schweikert © (käyttölupa).</p>
 <br clear="all" />
 
