@@ -12,7 +12,7 @@ ei_pvm:  true
 author: share.fi
 summary: "Maitreyan &#8221;tähti&#8221; on Maitreyan julkisuuteen tulon airut -- Kuva- ja videogalleria -- Lue taustatieto siitä, mikä &#8221;tähti&#8221; oikein on ja mihin se liittyy."
 
-cover: "https://sharefi.sirv.com/star/star-opti-spin.spin?image=72&gif.lossy=5&w=135&h=135"
+cover: "https://sharefi-cdn.sirv.com/star/share.fi-high.201806_rgb_star2.jpg"
 
 
  
@@ -28,7 +28,8 @@ aihealueet:
 ---
 <h1>Maitreyan &#8221;tähti&#8221; on Maitreyan julkisuuteen tulon airut</h1>
 <h2>Kuva- ja videogalleria</h2>
-
+<script src="https://scripts.sirv.com/sirv.js"></script>
+<div class="Sirv" data-src="https://sharefi.sirv.com/star/star-opti-spin.spin"></div>
 <p>Lue taustatieto siitä, mikä "tähti" oikein on ja mihin se liittyy, <a href="/maitreya/#joulu">klikkaa</a>.
 
 <div style="width: 910px; background-color:#f1f1f1; padding:12px; display: grid; grid-template-rows: auto auto; grid-template-columns: 300px 300px 300px;">
