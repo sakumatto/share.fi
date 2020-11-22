@@ -1,15 +1,12 @@
 ---
-title: "Eri maiden säderakenne"
-date:  2017-08-01T12:18:25+02:00
+title: "Seitsemän sädettä"
+date:  2020-12-01T12:18:25+02:00
 
 menu:
  main:
-  name:  "Eri maiden säderakenne"
-  identifier:  "maidensaderakenne"
+  name:  "Seitsemän sädettä"
+  identifier:  "seitseman-sadetta"
   parent:  "lisatietoa"
-
-aliases:
-    - /eri-maiden-saderakenne-kylla-maillakin-on-sielun-ja-persoonallisuuden-sade-olemuksensa-pohjana/
 
 
 
@@ -20,13 +17,26 @@ naytapvm:  false
 
 author: share.fi
 
-summary: "Aivan kuten ihmisilläkin, mailla on oma luontonsa. Tämä johtuu siitä, että joka maalla on oma sielun ja persoonallisuuden säde. Tässä artikkelissa käsitellään Italiaa ja Japania."
+summary: "Seitsemän sädettä ilmenevät eri aikoina ja eri yhdistelminä."
 ---
-<p class="alustus">Aivan kuten ihmisilläkin, mailla on oma luontonsa. Tämä johtuu siitä, että joka maalla on oma sielun ja persoonallisuuden säde. Tässä artikkelissa käsitellään Italiaa ja Japania.</p>
-<p class="aligncenter"><img src="https://sharefi-cdn.sirv.com/sharefi/yhdistetty-kartta-italia-japani-777x547.jpg" width="777" height="547" alt="" /></p>
-<div class="qna">
-<p class="qna-q">K: Italialla ja Japanilla on sama säderakenne, mutta ne ovat hyvin erilaisia maita. Kuinka meidän tulee ymmärtää tämä?</p>
+<p class="alustus"></p>
 
-<p>V: Kyllä, molemmilla mailla on 6. säteen sielu ja 4. säteen persoonallisuus. Ensivilkaisulla ne saattaavatkin näyttää kovin erilaisilta. Minun mielestäni ne eivät ole niin erilaisia kuin joku saattaisi ajatella pintapuolisesti katsoen. Sielun näkökulmasta katsellen molemmat maat ovat syvän idealistisia, hartaita ja uskovia ja molemmissa tuo idealistisuus ilmenee uskonnon muodossa – Italiassa pääsääntöisesti kiintymyksenä katolisuuteen siinä missä Japanissa ihmiset ovat pääsääntöisesti buddhalaisia tai paria muuta uskontokuntaa. Molemmissa maissa on suuri kauneuden arvostus, joka tulee niiden sielusta ja vieläpä todennäköisemmin niiden 4. säteen persoonallisuudesta: kauneuden rakkaudesta ja myös kyvystä luoda kauneutta. Italialaiset ovat todennäköisesti luoneet Euroopan sivilisaation kauneimmat maalaukset. Bysanttilainen tradition kukoisti renesanssin aikana aina 1600-luvulle suurten mestareiden kuten Leonardon, Veronesen, ja Titianin kautta. Minne ikinä Italiassa meneekin, voi nähdä taidetta. Jokaisessa pienessäkin kaupungissa pienessä kirkossakin kohtaa fantastisen maalauksen. Jokainen minkään ikäinen yksittäinen rakennuskin on mahtava luomus, vaikka se olisi vain lato viljan säilyttämiseen. Italialaisella taiteella kokonaisuutena on ainutkertainen värin ymmärrys. Ja sama pätee Japaniin, missä on vaoimakas tarve ilmaista kauneutta ja väriä, vaikkakin kyse olisi vain lahjan paketoimisesta. Lahjapakkauksen on ainakin oltava kaunis. Aiemmin molemmissa maissa tarve kauneuteen oli hyvin syvällä. Uskon, että tänä päivänä kaupallistumisen takia se on pintapuolisempaa. Tänä päivänä kyse on pinnallisemmasta mielummin kuin itseisarvoisesta kauneudesta. Molemmissa maissa on kiintymys kauniisiin vaatteisiin. Italialaista elämää dominoi sen huomio muotiin ja ehkäpä myös japanilaista elämää. He ottavat hyvin vakavissaan taiteellisuuden elämisen tapana. Molemmissa maissa voi kohdata kauneutta aivan kaikkialla.</p>
-<p>Molemmissa maissa sielun säde on ilmeinen ja Japanissa se ilmenee kykynä tai halukkuutena uhrata itsensä kansakunnan yhteisen hyvän edestä. Japanin persoonallisuus oli aiemmin 7. säteellä ja se on edelleen voimakas. Japanissa on suuri rakkaus rituaaleja kohtaan ja se liittyy 7. säteen vaikutukseen.</p>
+### Säteiden jaksoittainen ilmentyminen
+
+Jumalan seitsemän sädettä ilmenevät eri aikakausin sen takia, että Jumalan suunnitelman toteutuminen edellyttää erilaisia painotuksia eri aikoina. Toisaalta jotkin säteet eivät ole ylipäätään mahdollisia esimerkiksi ihmiskunnan kehittymättömyyden seurauksena. Huomionarvoista on se seikka, että säteiden ilmentyminen alkaa ja loppuu aina Hierarkian neljännesvuosisatakokousten seurauksena.
+
+<div class="qna">
+- Seuraava taulukko säteiden toiminnasta tai toimimattomuudesta viittaa vain Maahamme ja sen kehitysmuotoihin:
+
+Säde yksi ei ilmentyneenä
+Säde kaksi ilmentyneenä vuodesta 1575 j.K.r.
+Säde kolme ilmentyneenä vuodesta 1425 j.K.r.
+Säde neljä alkaa hitaasti ilmentyä vuoden
+2025 j.K.r. jälkeen.
+Säde viisi ilmentyneenä vuodesta 1775 j.K.r.
+Säde kuusi siirtymässä nopeasti pois
+ilmennyksestä.
+Se alkoi vetäytyä vuonna 1625 j.K.r.
+Säde seitsemän ilmentyneenä vuodesta 1675 j.K.r.
+(Lähde Alice Baileyn kirja Esoteric Psychology I, s. 26).
 </div>
