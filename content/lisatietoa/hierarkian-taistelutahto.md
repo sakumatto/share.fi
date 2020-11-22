@@ -8,7 +8,7 @@ menu:
 
 date: 2020-11-22T00:00:00+02:00
 
-cover: ""
+cover: "https://sharefi.sirv.com/sharefi/kaunis-maisema-hierarkian-taistelutahto.jpg"
 
 
 ei_pvm: false
