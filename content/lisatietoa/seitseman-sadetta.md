@@ -1,6 +1,6 @@
 ---
 title: "Seitsemän sädettä"
-date:  2020-12-01T12:18:25+02:00
+date:  2020-11-20T12:18:25+02:00
 
 menu:
  main:

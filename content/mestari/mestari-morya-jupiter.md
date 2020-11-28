@@ -23,7 +23,7 @@ aliases:
 menu:
  main:
   name:  "Mestarit Morya ja Jupiter"
-  parent:  "Mestari"
+  parent:  "mestari"
 ---
 
 Ensimmäisessä suuressa ryhmässä, jonka pää on Manu, on kaksi Mestaria, Mestari Jupiter ja Mestari Morya. Molemmat heistä ovat ottaneet korkeamman kuin viidennen vihkimyksen, ja Mestari Jupiteria, joka on myös Intian hallitsija, kunnioittavat kaikki loosin Mestarit vanhimpana joukossaan. Hän asuu Nilgherry vuorilla Etelä-Intiassa, ja hän ei kuulu niihin mestareihin, jotka tavallisesti ottavat oppilaita, sillä hänen opetuslapsiinsa kuuluu korkea-asteisia vihittyjä ja melkoinen joukko mestareita. Hänen käsissään lepäävät Intian hallinnon ohjakset, mukaan luettuna suuri osa pohjoista rajaseutua, ja hänelle on uskottu vaikea tehtävä ohjata Intia lopulta pois sen nykyisestä kaaoksesta ja levottomuudesta ja sulattaa sen lukuisat kansat lopulliseen synteesiin. Mestari Morya, joka on eräs tunnetuimpia itämaisia adepteja ja jonka oppilaisiin kuuluu suuri joukko eurooppalaisia ja amerikkalaisia, on radzputilainen ruhtinas, jolla on vuosikymmeniä ollut arvovaltainen asema Intian asioissa.
