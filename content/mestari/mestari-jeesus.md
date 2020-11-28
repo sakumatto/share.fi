@@ -11,7 +11,7 @@ naytapvm:  false
 
 author: share.fi
 
-summary: "Lyhyt biografia yhdestä Henkisen Hierarkian Mestarista: Mestari Jeesuksesta."
+summary: "Lyhyt biografia yhdestä Henkisen Hierarkian Mestarista, Mestari Jeesuksesta."
 
 aliases:
  - /jeesus/
