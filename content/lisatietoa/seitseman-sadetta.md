@@ -26,13 +26,13 @@ summary: "Seitsemän sädettä ilmenevät eri aikoina ja eri yhdistelminä."
 Seitsemän sädettä voidaan jakaa kolmeen aspektisäteeseen ja neljään attribuuttisäteeseen seuraavalla tavalla:
 
 Aspektisäteet:
-> 1. Tahdon tai voiman säde.
+ 1. Tahdon tai voiman säde.
   2. Rakkaus-viisauden säde.
   3. Aktiivisuuden tai sopeutumiskyvyn säde.
 
 
 Attribuuttisäteet:
-> 4. Harmonian, kauneuden, taiteen tai ykseyden säde.
+ 4. Harmonian, kauneuden, taiteen tai ykseyden säde.
   5. Konkreettisen tiedon tai tieteen säde.
   6. Abstraktin idealismin tai palvonnan säde.
   7. Seremoniallisen magian tai lain säde.
