@@ -19,14 +19,36 @@ author: share.fi
 
 summary: "Seitsemän sädettä ilmenevät eri aikoina ja eri yhdistelminä."
 ---
-<p class="alustus"></p>
+<p class="alustus">Säde. Yksi logoksen seitsemästä voimavirrasta; seitsemän suurta valoa. Jokainen niistä on suuren kosmisen olennon ilmentymä. Seitsemän sädettä voidaan jakaa kolmeen aspektisäteeseen ja neljään attribuuttisäteeseen.</p>
+
+
+
+Seitsemän sädettä voidaan jakaa kolmeen aspektisäteeseen ja neljään attribuuttisäteeseen seuraavalla tavalla:
+
+Aspektisäteet:
+ 1. Tahdon tai voiman säde.
+ 2. Rakkaus-viisauden säde. 
+ 3. Aktiivisuuden tai sopeutumiskyvyn säde.
+
+Attribuuttisäteet:
+  4. Harmonian, kauneuden, taiteen tai ykseyden säde.
+  5. Konkreettisen tiedon tai tieteen säde.
+  6. Abstraktin idealismin tai palvonnan säde. 
+  7. Seremoniallisen magian tai lain säde.
+
+Yllä olevat nimitykset ovat yksinkertaisesti eräitä monien joukosta valittuja ja ilmaisevat sen voiman eri puolia, jonka välityksellä logos ilmentyy.
+
+*Lähde: Vihkimykset-kirja, Alice Bailey*
+
+"Esoteerisen opetuksen mukaan aurinkokuntamme pääsäde on 2. säde, rakkaus-viisauden säde. Seitsemän sädettä on eriytynyt tästä yhdestä suuresta kosmisesta säteestä ja ne ovat siten tavallaan sen alasäteitä. Myös kosmisia säteitä on seitsemän. Muiden kosmisten säteiden luonteesta meillä ei ole tietoa. Kolme pääsädettä muodostaa sen jumalallisen kolminaisuuden, joka on aina esiintynyt kaikissa maailman uskonnoissa ja filosofioissa. Kristillisessä perinteessä ne ovat Isä, Poika ja Pyhä Henki ja ne vastaavat tahdon 1. sädettä, rakkaus-viisauden 2. sädettä ja aktiivisen älyn 3. sädettä. Seitsemän sädettä ovat seitsemän älykästä entiteettiä, jotka antavat evoluutiolle sen lait ja päämäärän ja joiden kautta kehityksen suunnitelma toteutuu. Seitsemää sädettä kutsutaan myös seitsemäksi suureksi rakentajaksi ja seitsemäksi suureksi hengitykseksi. Seitsemän sädettä määräävät kaikkiin elämänmuotoihin, ihmisyksilöihin ja ihmiskuntaan omat mallinsa, laatunsa ja ominaisuutensa ja päämääränsä. Säteet selittävät myös eri persoonallisuustyyppien olemassaolon. Kehityksen tarkoitus on että seitsemän säteen energioiden kautta ilmentyvät hengen tarkoitukset ja sielun laadut ilmentyvät lopulta aineen maailmassa ja ihmiskunnassa. Säteiden jaksoittainen toiminta luo sivilisaatioita ja kulttuureja. Nyt voimaan astuvan 7. säteen, joka korvaa 6. säteen vaikutuksen, sanotaan esim. tuovan tullessaan Vesimiehen ajan kulttuurin ja elämänmuodon. Vesimiehen ajan uusi kulttuuri perustetaan niiden valistuneiden ja myös osittain valaistuneiden ihmisten myötävaikutuksella, joita yhdessä kutsutaan henkiseksi hierarkiaksi. Säteet toimivat aurinkokuntamme tunnettujen ja tuntemattomien planeettojen välityksellä ja eläinradan tähdistöjen kautta." Lainattu [Timo Viitalan kirjoituksesta](https://xit.fi/cl).
+
+<div class="qna">
 
 ### Säteiden jaksoittainen ilmentyminen
 
-Jumalan seitsemän sädettä ilmenevät eri aikakausin sen takia, että Jumalan suunnitelman toteutuminen edellyttää erilaisia painotuksia eri aikoina. Toisaalta jotkin säteet eivät ole ylipäätään mahdollisia esimerkiksi ihmiskunnan kehittymättömyyden seurauksena. Huomionarvoista on se seikka, että säteiden ilmentyminen alkaa ja loppuu aina Hierarkian neljännesvuosisatakokousten seurauksena.
+Jumalan seitsemän sädettä ilmenevät eri aikakausin sen takia, että Jumalan suunnitelman toteutuminen edellyttää erilaisia painotuksia eri aikoina. Toisaalta jotkin säteet eivät ole ylipäätään mahdollisia esimerkiksi ihmiskunnan jonkin ajankohdan kehittymättömyyden takia. Huomionarvoista on se seikka, että säteiden ilmentyminen alkaa ja loppuu aina Hierarkian neljännesvuosisatakokousten seurauksena.
 
-<div class="qna">
-- Seuraava taulukko säteiden toiminnasta tai toimimattomuudesta viittaa vain Maahamme ja sen kehitysmuotoihin:
+
 
 Säde yksi ei ilmentyneenä
 Säde kaksi ilmentyneenä vuodesta 1575 j.K.r.
@@ -38,7 +60,9 @@ Säde kuusi siirtymässä nopeasti pois
 ilmennyksestä.
 Se alkoi vetäytyä vuonna 1625 j.K.r.
 Säde seitsemän ilmentyneenä vuodesta 1675 j.K.r.
+
+Taulukko säteiden toiminnasta tai toimimattomuudesta viittaa vain Maahamme ja sen kehitysmuotoihin.
+
 (Lähde Alice Baileyn kirja Esoteric Psychology I, s. 26).
 </div>
 
-"Esoteerisen opetuksen mukaan aurinkokuntamme pääsäde on 2. säde, rakkaus-viisauden säde. Seitsemän sädettä on eriytynyt tästä yhdestä suuresta kosmisesta säteestä ja ne ovat siten tavallaan sen alasäteitä. Myös kosmisia säteitä on seitsemän. Muiden kosmisten säteiden luonteesta meillä ei ole tietoa. Kolme pääsädettä muodostaa sen jumalallisen kolminaisuuden, joka on aina esiintynyt kaikissa maailman uskonnoissa ja filosofioissa. Kristillisessä perinteessä ne ovat Isä, Poika ja Pyhä Henki ja ne vastaavat tahdon 1. sädettä, rakkaus-viisauden 2. sädettä ja aktiivisen älyn 3. sädettä. Seitsemän sädettä ovat seitsemän älykästä entiteettiä, jotka antavat evoluutiolle sen lait ja päämäärän ja joiden kautta kehityksen suunnitelma toteutuu. Seitsemää sädettä kutsutaan myös seitsemäksi suureksi rakentajaksi ja seitsemäksi suureksi hengitykseksi. Seitsemän sädettä määräävät kaikkiin elämänmuotoihin, ihmisyksilöihin ja ihmiskuntaan omat mallinsa, laatunsa ja ominaisuutensa ja päämääränsä. Säteet selittävät myös eri persoonallisuustyyppien olemassaolon. Kehityksen tarkoitus on että seitsemän säteen energioiden kautta ilmentyvät hengen tarkoitukset ja sielun laadut ilmentyvät lopulta aineen maailmassa ja ihmiskunnassa. Säteiden jaksoittainen toiminta luo sivilisaatioita ja kulttuureja. Nyt voimaan astuvan 7. säteen, joka korvaa 6. säteen vaikutuksen, sanotaan esim. tuovan tullessaan Vesimiehen ajan kulttuurin ja elämänmuodon. Vesimiehen ajan uusi kulttuuri perustetaan niiden valistuneiden ja myös osittain valaistuneiden ihmisten myötävaikutuksella, joita yhdessä kutsutaan henkiseksi hierarkiaksi. Säteet toimivat aurinkokuntamme tunnettujen ja tuntemattomien planeettojen välityksellä ja eläinradan tähdistöjen kautta." Lainattu [Timo Viitalan kirjoituksesta](https://xit.fi/cl).
