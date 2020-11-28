@@ -26,15 +26,15 @@ summary: "Seitsemän sädettä ilmenevät eri aikoina ja eri yhdistelminä."
 Seitsemän sädettä voidaan jakaa kolmeen aspektisäteeseen ja neljään attribuuttisäteeseen seuraavalla tavalla:
 
 Aspektisäteet:
- 1. Tahdon tai voiman säde.
- 2. Rakkaus-viisauden säde. 
- 3. Aktiivisuuden tai sopeutumiskyvyn säde.
+1. Tahdon tai voiman säde.
+2. Rakkaus-viisauden säde. 
+3. Aktiivisuuden tai sopeutumiskyvyn säde.
 
 Attribuuttisäteet:
- 4. Harmonian, kauneuden, taiteen tai ykseyden säde.
- 5. Konkreettisen tiedon tai tieteen säde.
- 6. Abstraktin idealismin tai palvonnan säde. 
- 7. Seremoniallisen magian tai lain säde.
+4. Harmonian, kauneuden, taiteen tai ykseyden säde.
+5. Konkreettisen tiedon tai tieteen säde.
+6. Abstraktin idealismin tai palvonnan säde. 
+7. Seremoniallisen magian tai lain säde.
 
 Yllä olevat nimitykset ovat yksinkertaisesti eräitä monien joukosta valittuja ja ilmaisevat sen voiman eri puolia, jonka välityksellä logos ilmentyy. Jumalallisen Ilmennyksen seitsemän tasoa eli aurinkokuntamme seitsemän päätasoa ovat vain alimman kosmisen tason seitsemän alatasoa. Seitsemän sädettä, joista me kuulemme niin paljon, ja jotka sisältävät niin paljon salaperäistä ja kiinnostavaa, ovat samalla tavoin vain yhden kosmisen säteen seitsemän alasädettä.
 
@@ -51,13 +51,13 @@ Jumalan seitsemän sädettä ilmenevät eri aikakausin sen takia, että Jumalan 
 
 
 
- Säde yksi ei ilmentyneenä
- Säde kaksi ilmentyneenä vuodesta 1575 j.K.r.
- Säde kolme ilmentyneenä vuodesta 1425 j.K.r.
- Säde neljä alkaa hitaasti ilmentyä vuoden 2025 j.K.r. jälkeen.
- Säde viisi ilmentyneenä vuodesta 1775 j.K.r.
- Säde kuusi siirtymässä nopeasti pois ilmennyksestä. Se alkoi vetäytyä vuonna 1625 j.K.r.
- Säde seitsemän ilmentyneenä vuodesta 1675 j.K.r.
+- Säde yksi ei ilmentyneenä
+- Säde kaksi ilmentyneenä vuodesta 1575 j.K.r.
+- Säde kolme ilmentyneenä vuodesta 1425 j.K.r.
+- Säde neljä alkaa hitaasti ilmentyä vuoden 2025 j.K.r. jälkeen.
+- Säde viisi ilmentyneenä vuodesta 1775 j.K.r.
+- Säde kuusi siirtymässä nopeasti pois ilmennyksestä. Se alkoi vetäytyä vuonna 1625 j.K.r.
+- Säde seitsemän ilmentyneenä vuodesta 1675 j.K.r.
 
 Taulukko säteiden toiminnasta tai toimimattomuudesta viittaa vain Maahamme ja sen kehitysmuotoihin.
 
