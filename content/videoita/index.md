@@ -5,7 +5,8 @@ menu:
  main:
   name:  "Videoita"
   identifier:  "video"
-
+aliases:
+    - /video/
 
 ei_pvm: true
 naytakk: false
@@ -82,7 +83,4 @@ aihealueet:
 <h4>Videotaltio luennolta Hartolassa 14.3.2010</h4>
 <p>Videolla puhutaan mm. Maitreyan vuoden 2010 alussa alkaneista televisioesiintymisistä.</p>
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/262793721?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-<hr style="width:45%;display:block;margin 25px auto;">
-
-{{< vimeo 262793721 >}}
 <hr style="width:45%;display:block;margin 25px auto;">
