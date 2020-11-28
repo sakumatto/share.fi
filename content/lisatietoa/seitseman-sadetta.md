@@ -27,8 +27,8 @@ Seitsemän sädettä voidaan jakaa kolmeen aspektisäteeseen ja neljään attrib
 
 Aspektisäteet:
  1. Tahdon tai voiman säde.
-  2. Rakkaus-viisauden säde.
-  3. Aktiivisuuden tai sopeutumiskyvyn säde.
+1. Rakkaus-viisauden säde.
+1. Aktiivisuuden tai sopeutumiskyvyn säde.
 
 
 Attribuuttisäteet:
