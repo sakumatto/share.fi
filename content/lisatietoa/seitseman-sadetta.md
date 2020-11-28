@@ -26,6 +26,7 @@ summary: "Seitsemän sädettä ilmenevät eri aikoina ja eri yhdistelminä."
 Seitsemän sädettä voidaan jakaa kolmeen aspektisäteeseen ja neljään attribuuttisäteeseen seuraavalla tavalla:
 
 Aspektisäteet:
+    
 1. Tahdon tai voiman säde.
 1. Rakkaus-viisauden säde.
 1. Aktiivisuuden tai sopeutumiskyvyn säde.
