@@ -47,7 +47,7 @@ aihealueet:
 
 <h2>Mestari Jeesus</h2>
 <p>Jeesus, joka oli oppilas vielä 2.000 vuotta sitten, on nykyään yksi Hierarkian korkeimpia viran haltijoita, Mestari Jeesus. Suuren osan nykyajasta hän on asunut Palestiinassa, mutta on vuonna 1984 muuttanut Roomaan. Suunnitelma on, että hän yrittää nostaa Kristityt kirkot niiden nykyisestä hajaannuksen ja riitelyn tilasta ja jos häntä pyydetään, hän ottaa vastaa täten uudestaan yhdistyneen kirkon johtajuuden. Näin tekemällä, hän toivoo voivansa korjata niitä väärinkäsityksiä ja ristiriitaisuuksia, joita vuosisatojen saatossa on ilmennyt hänen historiallisesta roolistaan ja niistä opetuksista, joita hän jakoi Maitreyan edustajana.</p>
-<p>Maitreyan tulon myötä, Jeesus on jo toisen kerran tärkeässä roolissa. Heidän julkinen yhteistyö tulee lopettamaan kaikki epäilykset koskien heidän välistä suhdettaan: Maitreya, Kristus opettajana ja Mestari Jeesus oppilaana.</p>
+Maitreyan tulon myötä, Jeesus on jo toisen kerran tärkeässä roolissa. Heidän julkinen yhteistyö tulee lopettamaan kaikki epäilykset koskien heidän välistä suhdettaan: Maitreya, Kristus opettajana ja [Mestari Jeesus](/jeesus/) oppilaana.
 
 <h2>Jeesus ja Kristus ovat siis eri henkilöitä</h2>
 <p>Täten, ensituntumalla paradoksaaliselta kuulostava väite, etteivät Kristus ja Jeesus ole sama henkilö, onkin täysin järkeenkäypä. Ne kristityt, joiden mielestä on mahdotonta hyväksyä, ettei heidän opettajansa olekaan ihmiskunnan korkein johtaja, voivat lohduttautua ajatuksella siitä, että itse asiassa toinenkin paradoksaalinen asia on totta: Jeesus ja Maitreya Kristus olivat (ja ovat) yksi, siinä mielessä, että molemmat toimivat, omalla tasollaan, täydessä yhteisymmärryksessä yhteisen jumalallisen suunnitelman toteuttamiseksi.</p>

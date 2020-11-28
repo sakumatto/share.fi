@@ -32,5 +32,5 @@ Kukaan ei niin viisaasti tunne l채nnen ongelmia kuin h채n, kukaan ei ole niin l�
 
 *Suora laina. L채hde: Vihkimykset-kirja, Alice Bailey*
 
-<p><a title="Mik채 tai kuka on Mestari?" href="/mestari"><strong>Lue taustoitusartikkeli: Mik채 on Mestari?</strong></a></p>
-<p><a title="Mestari D.K. (Djwhal Khul)" href="/lisatietoa/mestari-d-k"><strong>Lue artikkeli, kuka on D.K.?</strong></a></p>
+<p><a title="Mik채 tai kuka on Mestari?" href="/mestari/"><strong>Lue taustoitusartikkeli: Mik채 on Mestari?</strong></a></p>
+<p><a title="Mestari D.K. (Djwhal Khul)" href="/mestari/mestari-d-k"><strong>Lue artikkeli, kuka on Mestari D.K.?</strong></a></p>
