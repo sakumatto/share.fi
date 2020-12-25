@@ -54,6 +54,3 @@ Kun näette meidät, tulette tietämään, että Veljenne ovat ihmisiä kuten te
 Kaikkea muutosta edeltää jännite ja jännite tuo muassaan pelkoa. Kuitenkaan pelolla ei ole sijaa sydämessä, jonka palvelus ja rakkaus on sytyttänyt. Pukekaa siksi yllenne palveluksen sotisopa ja nähkää ilolla tulevaisuutenne. Tervehtikää ilossa niitä muutoksia, joiden on tapahduttava, ja luokaa yhdessä rakkauden opetus.
 
 (Share International -lehti 4/1983)
-
-[Link to Google](https://www.google.com)
-**happy**
