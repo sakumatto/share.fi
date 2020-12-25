@@ -10,7 +10,7 @@ menu:
 master: "Cremen Mestari"
 
 date: 2020-11-01T00:00:00+02:00
-prevmonth: "19/2020: Laillisuusperiaate"
+prevmonth: "10/2020: Laillisuusperiaate"
 prevmonthLink: "2020-10"
 
 from: "April 1983"
@@ -39,8 +39,6 @@ summary: "Lainaus: Tarkoitusperämme aina on saavuttaa hallittua muutosta vähim
 ---
 Muutoksen aika
 
-Muutoksen aika
-
 Lähes ilman poikkeusta sääntöön, maailman valtiot läpikäyvät perustavaa laatua olevia muutoksia sekä sisäisesti että suhteessa toisiinsa. Tämä prosessi on suoraa seurausta energeettiselle virittymiselle, joka nyt läpäisee planeettaa kokonaisuutena, ja joka tulee johtamaan aikanaan kokonaisvaltaiseen rakenteidemme muuttumiseen. Tämän muutoksen nopeuttaminen on halumme ja toiveemme, mutta niin suuria ovat jännitteet tänä päivänä, että meidän on edettävä varoen, sillä liikaa painetta yhtäällä tai toisaalla, voisi johtaa tuhoisiin seurauksiin suurelle osalle maailmaa. Siksi siis varovainen lähestymistapamme ihmisiä tänä päivänä kohtaaviin ongelmiin. Muutoksen on tapahduttava kurinalaisesti, muutoin kaaos olisi seurauksena.
 
 Heitä on monia, jotka pelkäävät muutosta ja jotka näkevät vanhan murtumisen rakkaiden muotojen menetyksenä. Monet vastustavat näitä muutoksia etuoikeuksiensa ja arvovaltansa uhkina. Monet erehtyvät luulemaan ihmisten oikeutettuja pyrkimyksiä vapauteen ja oikeudenmukaisuuteen sisäisenä anarkiana. Samanaikaisesti on heitäkin, jotka pyyhkisivät pois kaiken kauniin ja toden mitä ihmiskunta on onnistunut kokoamaan. Malttamattomina uusille muodoille, he jättävät näkemättä tarpeen askelittaiselle kehitykselle, eivätkä he arvosta paljoakaan siitä, mikä on arvokasta menneessä.
@@ -56,3 +54,6 @@ Kun näette meidät, tulette tietämään, että Veljenne ovat ihmisiä kuten te
 Kaikkea muutosta edeltää jännite ja jännite tuo muassaan pelkoa. Kuitenkaan pelolla ei ole sijaa sydämessä, jonka palvelus ja rakkaus on sytyttänyt. Pukekaa siksi yllenne palveluksen sotisopa ja nähkää ilolla tulevaisuutenne. Tervehtikää ilossa niitä muutoksia, joiden on tapahduttava, ja luokaa yhdessä rakkauden opetus.
 
 (Share International -lehti 4/1983)
+
+[Link to Google](https://www.google.com)
+**happy**
