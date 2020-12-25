@@ -4,7 +4,7 @@
 
 {{ define "main" }}
 
-  {{ if .RawContent | safeHTML }}
+  {{ if .Content | safeHTML }}
   <article>
     {{ partial "article-header-nodate.html" . }}
     <div>{{.Content}}</div>

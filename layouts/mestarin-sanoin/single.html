@@ -36,7 +36,7 @@
 	<h1 id="article-headline">{{- .Title | replaceRE ".+:" "" | replaceRE "_" "" -}}</h1>
 	<h3>- Mestarilta, Benjamin Cremen välityksellä</h3>
 
-	<div id="article-body">{{ .RawContent | safeHTML }}</div>
+	<div id="article-body">{{ .Content | safeHTML }}</div>
 	<p class='mastersource'>Lähde: Share International -lehti, {{ .Date.Format "01 / 2006" -}}.</p>
 
 

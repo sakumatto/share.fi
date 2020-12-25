@@ -7,7 +7,7 @@
   {{ if .Content | safeHTML }}
   <article>
     {{ partial "article-header.html" . }}
-    {{ .RawContent | safeHTML }}
+    {{ .Content | safeHTML }}
   </article>
   {{ end }}
   <section>

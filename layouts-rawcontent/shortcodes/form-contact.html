@@ -1,6 +1,6 @@
 {{ $.Scratch.Add "labelClasses" "f6 b db mb1 mt3 sans-serif mid-gray" }}
 {{ $.Scratch.Add "inputClasses" "w-100 f5 pv3 ph3 bg-light-gray bn" }}
-
+<div style="margin:12px;margin-left:22px;padding:7px;background-color: #f1f1f1;">
 <form class="black-80 sans-serif" accept-charset="UTF-8" action="{{ .Get "action" }}" method="POST" role="form">
 
     <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">Nimesi</label>
@@ -16,7 +16,7 @@
     </div>
 <br />
     <label class="{{ $.Scratch.Get "labelClasses" }}" for="message">Viestisi</label>
-    <textarea id="message" name="message" class="{{ $.Scratch.Get "inputClasses" }} h4" aria-labelledby="message"></textarea>
+    <textarea id="message" name="message" class="{{ $.Scratch.Get "inputClasses" }} h4" aria-labelledby="message" rows="10" style="width: 300px; height: 150px;"></textarea>
 
     <input class="db w-150 mv2 white pa3 bn hover-shadow hover-bg-blck bg-animate bg-black" type="submit" value="Lähetä" />
 
@@ -24,7 +24,7 @@
     <input type="hidden" name="_subject" value="share.fi viestilomake" />
     <input type="hidden" name="_language" value="fi" />
     <input type="hidden" name="_format" value="plain" />
-
+</div>
 
 <p class="{{ $.Scratch.Get "labelClasses" }}">Tietosuoja</p>
 <p class="{{ $.Scratch.Get "labelClasses" }}">Lähettämällä kyselysi tällä lomakkeella sitoudut <a href="/laillisuusasiat/tietosuoja/" target="_blank" rel="nofollow noopener">tietosuojalausekkeemme</a> vaatimuksiin.</p>

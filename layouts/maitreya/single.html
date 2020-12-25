@@ -5,7 +5,7 @@
 {{ define "main" }}
 <article>
   {{ partial "article-header.html" . }}
-  {{ .RawContent | safeHTML }}
+  {{ .Content | safeHTML }}
 
 
 <div id="maitreya-include-footer">

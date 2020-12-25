@@ -7,7 +7,7 @@
   {{ if .Content }}
   <article>
     {{ partial "article-header-nodate.html" . }}
-    {{ .RawContent | safeHTML }}
+    {{ .Content | safeHTML }}
   </article>
   {{ end }}
   <section>
