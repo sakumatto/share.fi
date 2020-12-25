@@ -1,22 +1,22 @@
 ---
-title: "Mestarin sanoin _10/2020: Laillisuusperiaate"
+title: "Mestarin sanoin _11/2020: Muutoksen aika"
 
 menu:
  masterarticle:
-  identifier:  "mestarin-sanoin-2020-10"
+  identifier:  "mestarin-sanoin-2020-11"
   parent:  "2020"
  uudet:
  
 master: "Cremen Mestari"
 
-date: 2020-10-01T00:00:00+02:00
-prevmonth: "9/2020: Uuden saapuminen"
-prevmonthLink: "2020-09"
+date: 2020-11-01T00:00:00+02:00
+prevmonth: "19/2020: Laillisuusperiaate"
+prevmonthLink: "2020-10"
 
-from: "June 1999"
+from: "April 1983"
 
 aliases:
-  - /mestarin-sanoin/2020-10/
+  - /mestarin-sanoin/2020-11/
 
 ei_pvm: false
 naytakk: true
@@ -35,22 +35,24 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
-summary: "Lainaus: Syvällä jokaisessa meissä piilee tuollainen valo odottamassa mahdollisuuttaan päästä loistamaan. Jokaisen sisällä hehkuu koko kosmoksen potentiaali. Jokaisen sisällä on myös tahto tuoda tuo valo esiin ja siten tuoda ilmennykseen Jumalan luonto."
+summary: "Lainaus: Tarkoitusperämme aina on saavuttaa hallittua muutosta vähimmin mahdollisin jakolinjoin. Etsikää siksi kättemme jälkiä maailman tapahtumissa ja arvioikaa niitä viisaudella. Paljon tapahtuvasta on meidän muokkaamaamme ja se on johtava parempaan maailmaan."
 ---
-Laillisuusperiaate
+Muutoksen aika
 
-Koska ihmiskunta on, suurelta osin, luopunut laillisuusperiaatteesta, se on kokenut sarjan katastrofeja, jotka se on nimennyt "Jumalan teoksi". Nämä "ihmisen teot" kuvastavat vain heikosti Maan suunniteltua evoluutiopolkua. Kun ihmiset ymmärtävät tämän, he tulevat yhteisponnistuksella uudelleensuuntaamaan ajattelunsa ja toimintansa ja siten oikaisemaan "laillisuusperiaatteen". Hiljalleen Lain rytmi tulee soluttautumaan elämään ja uudenlainen sopusointu ja suurempi tasapaino ovat seurausta tästä.
+Muutoksen aika
 
-Tämän kehityksen avustamiseksi suuri Avataara on Maitreyan tukena. Rauhan tai Tasapainon Henki vuodattaa kosmista läsnäoloaan maailman kaaokseen Tapahtuman ja Vastatapahtuman Lain avulla. Vielä ihmiset voivat havaita tämän muuttavan voiman vasta heikosti. Joka tapauksessa tasapainon energiat läpäisevät Maan. Näin ollen ihmiset voivat luottaen odottaa ainutlaatuisen tyvenen aikaa, todellakin erilaista kuin tämän päivän kaaos.
+Lähes ilman poikkeusta sääntöön, maailman valtiot läpikäyvät perustavaa laatua olevia muutoksia sekä sisäisesti että suhteessa toisiinsa. Tämä prosessi on suoraa seurausta energeettiselle virittymiselle, joka nyt läpäisee planeettaa kokonaisuutena, ja joka tulee johtamaan aikanaan kokonaisvaltaiseen rakenteidemme muuttumiseen. Tämän muutoksen nopeuttaminen on halumme ja toiveemme, mutta niin suuria ovat jännitteet tänä päivänä, että meidän on edettävä varoen, sillä liikaa painetta yhtäällä tai toisaalla, voisi johtaa tuhoisiin seurauksiin suurelle osalle maailmaa. Siksi siis varovainen lähestymistapamme ihmisiä tänä päivänä kohtaaviin ongelmiin. Muutoksen on tapahduttava kurinalaisesti, muutoin kaaos olisi seurauksena.
 
-Tuon ennenkokemattoman rauhan ja rauhallisuuden aikakauden kuluessa uusi sivilisaatio tulee kasvamaa aina vain loistavampiin korkeuksiin: kurkottaen tähtiin, ihminen tulee valloittamaan avaruuden ja kumoamaan ajan illuusion. Kosmoksen energiat, tänään vielä tuntemattomina, tullaan valjastamaan ja pannaan käyttöön. Kasvava pyhyyden tunne tulee ajamaan ihmisen kääntämään katseensa syvälle sisimpäänsä, siten löytäen todellisen minuutensa ja ykseytensä Jumalan sekä luonnon kanssa ytimen. Näin ihmisen elinympäristö, enää raiskaamattomana ja hyväksikäyttämättömänä ihmisen tarpeisiin, tulee kukoistamaan ja antamaan kaiken tarpeellisen hänen tarpeisiinsa.
+Heitä on monia, jotka pelkäävät muutosta ja jotka näkevät vanhan murtumisen rakkaiden muotojen menetyksenä. Monet vastustavat näitä muutoksia etuoikeuksiensa ja arvovaltansa uhkina. Monet erehtyvät luulemaan ihmisten oikeutettuja pyrkimyksiä vapauteen ja oikeudenmukaisuuteen sisäisenä anarkiana. Samanaikaisesti on heitäkin, jotka pyyhkisivät pois kaiken kauniin ja toden mitä ihmiskunta on onnistunut kokoamaan. Malttamattomina uusille muodoille, he jättävät näkemättä tarpeen askelittaiselle kehitykselle, eivätkä he arvosta paljoakaan siitä, mikä on arvokasta menneessä.
 
-Näin uusi sivilisaatio tulee osoittamaan seuraavan suuren harppauksen Suunnitelman toteutumisessa. Näin ihminen tulee jälleen kirimään kiinni evoluutionsa liikevoiman, jonka on kadottanut niin kauan sitten. Jä näin, Me, Vanhemmat Veljenne, katselemme ja kannustamme, varoitamme ja suojelemme sekä koemme ilon ihmisen paluusta aitauksen suojaan. Näin tulee olemaan.
+Meidän ongelmamme rodun valvojina, on löytää kurssi näiden kahden ääripään välistä suitsien ja kannustaen aina tarpeen niin kokiessamme. Tarkoitusperämme aina on saavuttaa hallittua muutosta vähimmin mahdollisin jakolinjoin. Etsikää siksi kättemme jälkiä maailman tapahtumissa ja arvioikaa niitä viisaudella. Paljon tapahtuvasta on meidän muokkaamaamme ja se on johtava parempaan maailmaan. Kun näette meidät, tulette tietämään, että tämä maailma on varmassa tallessa.
 
-Kuten Maitreya on niin monasti sanonut: "ihmisen tulee nähdä itsensä yhtenä". Tämä on välttämätön ensiaskel kaikelle tulevalle kehitykselle ja tuon ehdon toteutumiselle kaikki muu niveltyy. Maitreyan ja Hänen ryhmänsä ensimmäinen tehtävä on osoittaa, että näin on, ja että vasta sen myötä itsetuho voidaan estää, että vain sitten ihmisen piilevä potentiaali voidaan päästä valloilleen hänen seuraavaan sekä suureen saavutukseensa.
+Kuulkaa neuvomme ja toimikaa. Uskokaa ohjeisiimme ja muuttakaa maailma askelissa, jotka ovat mahdollisia ja varmoja. Varmistakaa, että veljenne tarpeet täytetään ettekä voi erehtyä. Jos teiltä kysytään: "Mihin suuntaan meidän on käytävä?", vastatkaa ilolla: "Kohti veljeyttä, palvelemaan suurinta tarvetta."
 
-Emme epäile, etteikö ihminen tule heräämään ykseydellensä. Kaiken ihmisen levottoman pyrkimisen taustalla on kajastava oivallus, että kaikkien on oltava jakamassa ihmisen tämänpäiväisten moninaisten ja valtavien ongelmien ratkaisemisessa. Ja, että vastuu, kuten ongelmatkin, ovat maailmanlaajuisia ja jakamattomia, ja että vain yhteistyöllä sekä itsensä unohtamalla ne voidaan riittävällä tavalla kohdata ja voittaa.
+Elämänne kudelman uudelleenrakentamiseksi, uusia ainesosia ja uusia taitoja tullaan tarvitsemaan. Korvatkaa kuluneet muodot nyt saatavilla olevilla uusilla energioilla ja oppikaa luomaan rakkaudessa ja ilossa muovattujen ihmissuhteiden kautta. Karkaiskaa elämänne palveluksen tulessa ja ammentakaa oma osuutenne muutoksen työhön. Me oppainanne, kaikki on mahdollista. Kaikki luodaan uudelleen kauneudessa ja totuudessa. Halukkaat kädet ovat siellä valmiina auttamaan teitä, eikä mikään voi myöhentää uutta alkua.
 
-Maitreyalla, pian tullessaan maailman näyttämölle, on tehtävänään avata ihmisen mieli näille totuuksille. Älkää epäilkö Hänen kykyään älkääkä Hänen onnistumistaan.
+Kun näette meidät, tulette tietämään, että Veljenne ovat ihmisiä kuten tekin, mutta ihmisiä, keiden rakkaus ilmenee heissä. Me tulemme opettamaan teille rakkauden salan. Ilossa tulemme saattamaan teidät kauimmaisella rannalle asti ja tulemme viemään teidät Portin Vartijan eteen.
 
-(Share International -lehti 6/1999)
+Kaikkea muutosta edeltää jännite ja jännite tuo muassaan pelkoa. Kuitenkaan pelolla ei ole sijaa sydämessä, jonka palvelus ja rakkaus on sytyttänyt. Pukekaa siksi yllenne palveluksen sotisopa ja nähkää ilolla tulevaisuutenne. Tervehtikää ilossa niitä muutoksia, joiden on tapahduttava, ja luokaa yhdessä rakkauden opetus.
+
+(Share International -lehti 4/1983)
