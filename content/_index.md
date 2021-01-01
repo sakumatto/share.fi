@@ -77,6 +77,7 @@ author: share.fi
 <div class="alignright sprite sprite-etusivu-mess-cover"></div>
 <p>Näiden viestien välityksellä Maitreya ehdottaa toimenpiteitä tarvittavien taloudellisten ja sosiaalisten muutosten aikaansaamiseksi. Hän rohkaisee ihmiskuntaa jälleenrakentamaan maailman veljeyden, jakamisen ja rakkauden periaatteille. Hän antaa myös vihjeitä siitä, miten Hänet voi tunnistaa ja kehottaa ihmisiä tekemään tunnetuksi sen tosiasian, että Hän on jo keskuudessamme. <a title="Maitreyan viestit" href="/maitreya/maitreyan-viestit">Lue lisää Maitreyan viesteistä</a></p>
 
+<h4>‘Jos uskot oikeudenmukaisuuteen, tasa-arvoon ja rauhaan, tahdomme kutsua sinut liittymään meihin. Yhdessä voimme saada aikaan niin paljon enemmän. Tämä on synergiaa!’<sup>*</sup></h4>
 <h3>Transmissio-meditaatio</h3>
 <p>Transmissio-meditaatio on ryhmäpalvelutoimintaa, joka muuntaa suuria henkisiä energioita, joita jatkuvasti virtaa planeetallemme. Transmissio-meditaation aikana Viisauden Mestarit ohjaavat näitä energioita henkisiltä tasoilta ryhmän jäsenten energiakeskusten (chakrojen) kautta erittäin tieteellisellä tavalla.Tämä prosessi, joka tekee energiat käyttökelpoisemmiksi ihmiskunnalle ja muille luomakunnille on verrattavissa sähkömuuntajiin, jotka muuntavat virran generaattorien ja kotitalouksien välillä.</p>
 
@@ -94,3 +95,4 @@ author: share.fi
 <h4>Mestarin erityislausuma</h4>
 <p><em>Benjamin Creme sai tämän erityislausuman mentaalisen telepatian keinoin Mestariltaan 5.10.2016.</em></p>
 <p class="bottom-address">&#8221;Vaikeat ajat ovat käytännöllisesti katsoen ohi ja ihmisten tulisi luottaen odottaa sitä Uutta Aikaa, kun Maitreya tulee osoittamaan korkean Olemuksensa ja kun kaikki hyväksyvät Hänet tämän aikakauden Mestariksi.&#8221;</p>
+<p>*Lainaus on henkilöltä, jonka uskotaan olleen Maitreya, muussa asussa, vuonna 2017. Lue koko tarina: </p>
