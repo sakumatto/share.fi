@@ -20,6 +20,7 @@ summary: "ymmärsin että mikroaaltouunin jäljet eivät voineet olla sormenjäl
 
 type: "maitreya/maitreyan-kohtaamisia"
 
+master: Mestari Jeesuksen edustaja
 
 
  

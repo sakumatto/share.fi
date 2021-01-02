@@ -23,7 +23,7 @@ summary: "Kiivetessäni eräitä portaita näin yhtäkkiä nuoren naisen, jolla 
 
 type: "maitreya/maitreyan-kohtaamisia"
 
-
+master: Maitreya & Mestari Jeesus
 
  
 ---

@@ -23,7 +23,7 @@ summary: "Isä katsoi innostuneesti kaikkia esittelemiämme paneeleita ja otti r
 
 type: "maitreya/maitreyan-kohtaamisia"
 
-
+master: Mestari Tokiosta & Mestari Jeesuksen oppilas
 
  
 ---

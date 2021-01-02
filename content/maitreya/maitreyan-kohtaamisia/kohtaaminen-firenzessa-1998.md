@@ -23,7 +23,7 @@ summary: "Kysyin heiltä huonolla italiallani, kunnioittaen, voisinko ottaa heid
 
 type: "maitreya/maitreyan-kohtaamisia"
 
-
+master: Maitreya & Mestari Jeesus
 
  
 ---

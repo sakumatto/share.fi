@@ -20,7 +20,7 @@ summary: "Myös miesten pukeutuminen, keltaraidalliset sadetakit, oli erittäin 
 
 type: "maitreya/maitreyan-kohtaamisia"
 
-
+master: Maitreya & Mestari Jeesus
 
  
 ---

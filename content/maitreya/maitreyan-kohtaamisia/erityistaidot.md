@@ -20,6 +20,7 @@ summary: "Minä ihmettelin kuinka hän aikoo selvitä alas jyrkkää mäkeä joh
 
 type: "maitreya/maitreyan-kohtaamisia"
 
+master: Mestari Jeesuksen edustaja
 
 
  

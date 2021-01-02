@@ -20,6 +20,7 @@ summary: "‘Jos uskot oikeudenmukaisuuteen, tasa-arvoon ja rauhaan, tahdomme ku
 
 type: "maitreya/maitreyan-kohtaamisia"
 
+master: Maitreya (oletettu)
  
 ---
 <p style="margin-top:-15px;">Veg Fest -tapahtuman kuluessa mies nimeltä "Ron" vieraili Share Internationalin kojullamme 9.11.2019, Atlantassa, Georgiassa. Hän vaikutti olevan nelissäkymmenissään ja hänen kaulallaan roikkui nimikyltti median kulkulupineen, jossa luki "Ron G-" (en huomannut hänen sukunimeään, mutta pikaisen silmäyksen perusteella se saattoi olla filippiiniläistä juurta). Hän kysyi meiltä: "Mistä tässä on kyse?" ja "Miten tulitte tähän mukaan?". Silloin aloimme kertoa osuudestamme hänelle.</p>

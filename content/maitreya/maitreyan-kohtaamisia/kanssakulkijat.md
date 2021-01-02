@@ -20,7 +20,7 @@ summary: "Äskettäin vierailin 'Rembrandtin Naiset' näyttelyssä Royal Academy
 
 type: "maitreya/maitreyan-kohtaamisia"
 
-
+master: Maitreya & Mestari Jeesus
 
  
 ---

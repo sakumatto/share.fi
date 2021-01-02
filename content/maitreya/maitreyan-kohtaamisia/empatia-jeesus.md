@@ -20,6 +20,7 @@ summary: "Hänellä oli yllään sairaalan yöpuku eikä mitään muita vaatteit
 
 type: "maitreya/maitreyan-kohtaamisia"
 
+master: Mestari Jeesus
 
 
  

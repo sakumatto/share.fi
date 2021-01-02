@@ -20,6 +20,7 @@ summary: "Hän toisti:” Se on aivan oikein.” Ymmärsin, että hän viittasi 
 
 type: "maitreya/maitreyan-kohtaamisia"
 
+master: Mestari Jeesuksen edustaja
 
 
  

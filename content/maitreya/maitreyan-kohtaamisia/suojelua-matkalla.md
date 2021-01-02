@@ -20,6 +20,7 @@ summary: "Seuraavana päivänä Yusuf ajoi meidät seuraavaan kaupunkiin, jossa 
 
 type: "maitreya/maitreyan-kohtaamisia"
 
+master: Mestari Jeesuksen edustaja
 
 
  

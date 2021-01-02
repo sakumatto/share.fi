@@ -22,7 +22,8 @@ naytapvm:  false
 author: share.fi
 summary: "Muistan vieläkin, miten pehmeät miehen kädet olivat. Ne saivat minut ajattelemaan kuvaa Maitreyan kädestä. Ennen lähtöään mies sanoi: “Minä olen kanssasi.” Myöhemmin tapasimme hänet ravintolavaunussa. Hän toisti sanomansa siitä, kuinka tärkeää on, että ihminen työskentelee sydämellään"
 
-type: "kohtaamisia"
+type: "maitreya/maitreyan-kohtaamisia"
+master: Maitreya & Mestari Jeesus
 
 
 
