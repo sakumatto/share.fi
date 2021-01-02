@@ -18,7 +18,7 @@ naytapvm:  false
 author: share.fi
 summary: "Äskettäin vierailin 'Rembrandtin Naiset' näyttelyssä Royal Academyssä. Matkalla sinne näin nuoren, kauniin afganistanilaisen naisen pitelemässä nukkuvaa poikavauvaa sylissään. Hän seisoi metroasemalla. Hänellä ei ollut yllään huntua vaan runsaasti kirjailtu puku. Hänen vauvansa täytyi olla noin 18 kuukauden ikäinen"
 
-type: maitreyan-kohtaamisia
+type: "maitreya/maitreyan-kohtaamisia"
 
 
 

@@ -18,7 +18,7 @@ naytapvm:  false
 author: share.fi
 summary: "Asettelin nopeasti mikrofonin käyttökuntoon ja asetuin paikalleni huoneen etuosaan aloittaakseni puheen. Paikalle saapunut mies oli puolessa välissä kolmeakymmentä, keskipituinen ja hänellä oli kiharat, aika pitkät ja mustat hiukset. Hän oli pukeutunut kuin länsimaalainen yliopisto-opiskelija."
 
-type: maitreyan-kohtaamisia
+type: "maitreya/maitreyan-kohtaamisia"
 
 
 

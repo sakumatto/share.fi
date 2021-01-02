@@ -18,7 +18,7 @@ naytapvm:  false
 author: share.fi
 summary: "ymmärsin että mikroaaltouunin jäljet eivät voineet olla sormenjälkiä koska ne olivat täysin samanlaiset kuin kuvassa. Menin mikroaaltouunin luokse katsomaan uudelleen mutta en kyennyt löytämään mitään jälkiä."
 
-type: maitreyan-kohtaamisia
+type: "maitreya/maitreyan-kohtaamisia"
 
 
 

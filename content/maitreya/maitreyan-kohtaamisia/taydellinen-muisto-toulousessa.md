@@ -18,7 +18,7 @@ naytapvm:  false
 author: share.fi
 summary: "Palattuani toimistoon ymmärsin äkkiä, että minun on juteltava hänen kanssaan, mutta hän oli kadonnut."
 
-type: maitreyan-kohtaamisia
+type: "maitreya/maitreyan-kohtaamisia"
 
 
 

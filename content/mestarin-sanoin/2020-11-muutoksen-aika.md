@@ -25,7 +25,7 @@ naytavuosi: true
 naytapvm: false
 
 author: mestari
-type: 
+type: mestarin-sanoin
 
 
 

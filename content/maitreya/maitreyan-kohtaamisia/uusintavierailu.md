@@ -18,7 +18,7 @@ naytapvm:  false
 
 author: share.fi
 summary: "Tuomalla kirjan takaisin, hän välittömästi sai huomiomme kiinnittymään siihen seikkaan, että mies oli mitä suurimmalla todennäköisyydellä sama mies, joka vieraili aiemminkin informaatiokeskuksessa ja puhui tuolloin kolleegoillemme ja josta oli vahvistettu, että hän oli Maitreyan hahmo"
-type: maitreyan-kohtaamisia
+type: "maitreya/maitreyan-kohtaamisia"
 
 
 

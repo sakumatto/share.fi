@@ -17,7 +17,7 @@ naytapvm:  false
 
 author: share.fi
 summary: "Mies liikkui ihmisten parissa puhuen joillekin heistä. Pohdiskelin kukahan mies mahtoi olla ja erkanin ryhmästämme kulkien miestä kohden. Kysyin häneltä: Onko sinulla viestiä meille? Hän vastasi: Viestiä?"
-type: maitreyan-kohtaamisia
+type: "maitreya/maitreyan-kohtaamisia"
 
 
 

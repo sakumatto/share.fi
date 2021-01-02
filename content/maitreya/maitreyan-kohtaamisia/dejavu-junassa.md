@@ -22,7 +22,7 @@ naytapvm:  false
 author: share.fi
 summary: "Lipunmyyjä aloitti ilmapallojen täyttämisen ja antoi ne vaunussa oleville lapsille. – – hymyilin itsekseni, kun täysin ymmärsin ystävällisen viittauksen kohtaamiseemme 12 vuotta aiemmin."
 
-type: maitreyan-kohtaamisia
+type: "maitreya/maitreyan-kohtaamisia"
 
 ---
 <h3>Deja vu – kohtaaminen Maitreyan kanssa?</h3>

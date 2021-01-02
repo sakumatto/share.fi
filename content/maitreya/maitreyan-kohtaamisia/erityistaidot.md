@@ -18,7 +18,7 @@ naytapvm:  false
 author: share.fi
 summary: "Minä ihmettelin kuinka hän aikoo selvitä alas jyrkkää mäkeä johon hän on saapumassa – varmasti hänen on laitettava kitaransa pois. Mutta ei, kuulin hänen soittavan kitaraansa takanani hänen saavuttaessaan minua ja ohittaessaan minut yhä kitaraa soittaen ja rullaluistellen alas jyrkkää mäkeä."
 
-type: maitreyan-kohtaamisia
+type: "maitreya/maitreyan-kohtaamisia"
 
 
 
