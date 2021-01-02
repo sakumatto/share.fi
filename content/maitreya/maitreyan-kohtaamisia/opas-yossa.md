@@ -18,7 +18,7 @@ naytapvm:  false
 author: share.fi
 summary: "Kysyin sisällä istuvalta mieheltä osaisiko hän neuvoa minulle tien Landbroke Groveen. Hän yritti selittää mutta en kyennyt ymmärtämään. Huomatessaan tämän hän päätti ajaa edessäni ja näin näyttää minulle tien Landbroke Groven asemalle."
 
-type:  "kohtaamisia"
+type:  maitreyan-kohtaamisia
 
 
 

@@ -18,7 +18,7 @@ naytapvm:  false
 author: share.fi
 summary: "‘Jos uskot oikeudenmukaisuuteen, tasa-arvoon ja rauhaan, tahdomme kutsua sinut liittymään meihin. Yhdessä voimme saada aikaan niin paljon enemmän. Tämä on synergiaa!’ sanoi Ronnie Tsunami!"
 
-type:  "kohtaamisia"
+type:  maitreyan-kohtaamisia
 
  
 ---

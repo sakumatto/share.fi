@@ -18,7 +18,7 @@ naytapvm:  false
 author: share.fi
 summary: "Seuraavana päivänä Yusuf ajoi meidät seuraavaan kaupunkiin, jossa tapasimme jälleen ryhmämme, jota paikallisten viranomaisten toimet olivat viivyttäneet. Koska tiedän Maitreyasta ja Mestareista, niin olen viime vuosina pohtinut sitä, että oliko Yusuf joku ”erityinen”?"
 
-type:  "kohtaamisia"
+type:  maitreyan-kohtaamisia
 
 
 

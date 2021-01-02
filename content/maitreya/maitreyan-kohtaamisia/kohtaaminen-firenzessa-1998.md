@@ -21,7 +21,7 @@ naytapvm:  false
 author: share.fi
 summary: "Kysyin heiltä huonolla italiallani, kunnioittaen, voisinko ottaa heidän valokuvansa. Äiti suostui ja vaikutti aivan kuin hän olisi tiennyt syyn miksi minä tahdoin ottaa kuvan."
 
-type:  "kohtaamisia"
+type:  maitreyan-kohtaamisia
 
 
 
