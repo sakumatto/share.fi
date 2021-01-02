@@ -13,7 +13,7 @@
   "headline" : "{{- .Title | replaceRE ":.+" "" -}}",
   "author" : {
     "@type" : "Person",
-    "name" : "Maitreya, Maailmanopettaja"
+    "name" : {{ if .Params.master }}  {{ else }} "Maitreya, Maailmanopettaja" {{ end }}
   },
   "datePublished" : "{{- .Date.Format "2006-01-02" -}}",
   "backstory" : [ "Maitreya näyttäytyy erilaisissa ja usein iloa tuottavissa asuissa tai yhteyksissä ihmisille kautta maailman. Noiden kohtaamisten tarkoitus on tuoda lohtua tai iloa ihmisille. Samalla Maitreya usein myös osoittelematta osoittaa jonkin asian. Usein kohtaamisissa on mukana Mestari Jeesus. Jotkut kohtaamiset ovat sellaisia, joissa yksinomaan Mestari Jeesus on roolissa. Joissakin Maitreyan tai Mestari Jeesuksen avustaja. Ne ilmiasut, jotka näihin kohtaamisiin valitaan ovat tarkoituksellisesti valittuja ja ne luovat joskus jatkumon. Kuten oli tapauksessa, jossa Maitreya näyttäytyi konduktöörin asussa samalle henkilölle, mutta noiden tapahtumien välillä oli kulunut vuosia ja jälkimmäisellä kerralla 'konduktöörikin' oli vanhentunut. Aina nämä kohtaamiset ovat syvästi koskettavia. Joskus outo kohtaaminen on enemmän, kuin vain outo." ],
@@ -33,7 +33,7 @@
 	<div class='masterarticle'>
 	<p><em>Maitreyan kohtaamisia -artikkeli: {{.Title}}</em></p>
 	<h1 id="article-headline">{{- .Title -}}</h1>
-	<h3>- Ihmisten kokemuksia, joissa mukana on ollut Maailmanopettaja, Maitreya</h3>
+	<h3>- Ihmisten kokemuksia, joissa mukana on ollut {{ if $.Params.master }}  {{ else }} Maitreya, Maailmanopettaja {{ end }}</h3>
 
 	<div id="article-body">{{ .Content }}</div>
 	<p class='mastersource'>Lähde: Share International -lehti.</p>
