@@ -21,7 +21,7 @@ naytapvm:  false
 author: share.fi
 summary: "Isä katsoi innostuneesti kaikkia esittelemiämme paneeleita ja otti runsaasti esitteitämme. Hänen vaimo antoi vauvan hänelle, kun vaimo meni katselemaan muita osastoja. Poika tuntui nauttivan kuviemme katsomisesta ja tuli yhä uudestaan koskemaan ja taputtelemaan niitä."
 
-type:  maitreyan-kohtaamisia
+type: maitreyan-kohtaamisia
 
 
 

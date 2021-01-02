@@ -17,7 +17,7 @@ naytapvm:  false
 
 author: share.fi
 summary: "Yllätykseksemme jokaisessa kaupassa, missä kävimme, hyväksyttiin ilolla julisteemme, myyjät sanoivat: Kiitos työstänne. – – Meistä tuntui siltä kuin Mestari olisi levittänyt taikapulveria kaupungin ylle. Oliko juopunut mies joku erityinen henkilö, joka auttoi meitä tekemään työmme?"
-type:  maitreyan-kohtaamisia
+type: maitreyan-kohtaamisia
 
 
 

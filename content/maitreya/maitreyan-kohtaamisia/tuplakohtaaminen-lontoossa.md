@@ -18,7 +18,7 @@ naytapvm:  false
 
 author: share.fi
 summary: "Musiikki kiinnitti huomioni ja kitaristin vieressä oli vaikuttava intialainen mies, jolla oli värikäs ja suuri asu turbaaneineen. Hänellä oli vatsansa päällä pahvilappu, jossa luki värikkäin kirjaimin &#8221;ILMAISIA HALAUKSIA&#8221;. Kauniista musiikista ja erottuvasta asusta huolimatta kukaan ei tuntunut huomaavan heitä, vaikkakin tämä katu perjantai-iltana on ruuhkainen ja eläväinen täynnään baareja sekä humalaisia ihmisiä."
-type:  maitreyan-kohtaamisia
+type: maitreyan-kohtaamisia
 
 
 

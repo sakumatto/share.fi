@@ -18,7 +18,7 @@ naytapvm:  false
 author: share.fi
 summary: "Olin häkeltynyt hänen tarinastaan ja otin lompakkoni jälleen esille ja otin esiin 50 euron setelin, sitä tehdessäni 100 euron seteli tuli esille lompakostani. Antaessani hänelle 50 euron setelin hän kysyi:” Miksi et anna minulle 100 euron seteliä niin annan sinulle takaisin tämän viisikymppisen?”"
 
-type:  maitreyan-kohtaamisia
+type: maitreyan-kohtaamisia
 
 ---
 <p style="margin-top:-15px;">Arvoisa päätoimittaja,<br>

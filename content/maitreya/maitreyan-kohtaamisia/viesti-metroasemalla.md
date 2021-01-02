@@ -17,7 +17,7 @@ naytapvm:  false
 
 author: share.fi
 summary: "ja [näin] toisessa pylväässä kirjoituksen ”Sinua rakastetaan” – outoa, koska kirjoitus oli englanniksi. Katsoin viulistia uudelleen ja hän katsoi minua intensiivisesti. Se oli kuin unta, vähän utuista, mutta tunne oli vahva ja voimakas."
-type:  maitreyan-kohtaamisia
+type: maitreyan-kohtaamisia
 
 
 

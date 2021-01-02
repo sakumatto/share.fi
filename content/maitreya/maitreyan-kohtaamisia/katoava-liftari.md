@@ -18,7 +18,7 @@ naytapvm:  false
 author: share.fi
 summary: "Poliisi kertoi hänen olevan jo neljäs ihminen joka sanoi samana iltana samaa."
 
-type:  maitreyan-kohtaamisia
+type: maitreyan-kohtaamisia
 
 
 
