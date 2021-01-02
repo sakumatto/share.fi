@@ -1,0 +1,73 @@
+{{ define "title" }}{{.Title}} | {{.Site.Title}}{{ end }}
+
+{{ define "description" }}{{ .Summary }}{{ end }}
+
+{{ define "main" }}
+
+<!-- JSON-LD markup for Structured Data BEGINS-->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Article",
+  "name" : "{{.Title}}",
+  "headline" : "{{- .Title | replaceRE ":.+" "" -}}",
+  "author" : {
+    "@type" : "Person",
+    "name" : "Maitreya, Maailmanopettaja"
+  },
+  "datePublished" : "{{- .Date.Format "2006-01-02" -}}",
+  "backstory" : [ "Maitreya näyttäytyy erilaisissa ja usein iloa tuottavissa asuissa tai yhteyksissä ihmisille kautta maailman. Noiden kohtaamisten tarkoitus on tuoda lohtua tai iloa ihmisille. Samalla Maitreya usein myös osoittelematta osoittaa jonkin asian. Usein kohtaamisissa on mukana Mestari Jeesus. Jotkut kohtaamiset ovat sellaisia, joissa yksinomaan Mestari Jeesus on roolissa. Joissakin Maitreyan tai Mestari Jeesuksen avustaja. Ne ilmiasut, jotka näihin kohtaamisiin valitaan ovat tarkoituksellisesti valittuja ja ne luovat joskus jatkumon. Kuten oli tapauksessa, jossa Maitreya näyttäytyi konduktöörin asussa samalle henkilölle, mutta noiden tapahtumien välillä oli kulunut vuosia ja jälkimmäisellä kerralla 'konduktöörikin' oli vanhentunut. Aina nämä kohtaamiset ovat syvästi koskettavia. Joskus outo kohtaaminen on enemmän, kuin vain outo." ],
+  "articleBody" : "{{.Plain}}",
+  "speakable": [ "#article-headline", "#article-body"],
+  "relatedLink" : "https://share.fi/maitreya/maitreyan-kohtaamisia/",
+  "url": "{{ .Permalink }}"
+
+}
+</script>
+<!-- JSON-LD markup for Structured Data ENDS-->
+
+
+<article>
+
+
+	<div class='masterarticle'>
+	<p><em>Maitreyan kohtaamisia -artikkeli: {{.Title}}</em></p>
+	<h1 id="article-headline">{{- .Title -}}</h1>
+	<h3>- Ihmisten kokemuksia, joissa mukana on ollut Maailmanopettaja, Maitreya</h3>
+
+	<div id="article-body">{{ .Content }}</div>
+	<p class='mastersource'>Lähde: Share International -lehti.</p>
+
+
+	<div class="nosto">
+	<p>Maitreya näyttäytyy erilaisissa ja usein iloa tuottavissa asuissa tai yhteyksissä ihmisille kautta maailman. Noiden kohtaamisten tarkoitus on tuoda lohtua tai iloa ihmisille. Samalla Maitreya usein myös osoittelematta osoittaa jonkin asian. Usein kohtaamisissa on mukana Mestari Jeesus. Jotkut kohtaamiset ovat sellaisia, joissa yksinomaan Mestari Jeesus on roolissa. Joissakin Maitreyan tai Mestari Jeesuksen avustaja. Ne ilmiasut, jotka näihin kohtaamisiin valitaan ovat tarkoituksellisesti valittuja ja ne luovat joskus jatkumon. Kuten oli tapauksessa, jossa Maitreya näyttäytyi konduktöörin asussa samalle henkilölle, mutta noiden tapahtumien välillä oli kulunut vuosia ja jälkimmäisellä kerralla "konduktöörikin" oli vanhentunut. Aina nämä kohtaamiset ovat syvästi koskettavia. Joskus outo kohtaaminen on enemmän, kuin vain outo.</p></div>
+	<hr style="margin: 20px 20%;" />
+	
+	</div>
+	</div> <!-- ends class masterarticle -->
+
+	<div class="masterarticle-menu">
+  <nav id="masterarticle-nav">
+    <ul class="root">	
+	{{ partial "menu.html" (dict "menu" "kohtaamisia" "current" . "level" 1 "pages" .Site.Menus.kohtaamisia) }}
+
+    </ul>
+</nav><!-- #masterarticle-nav -->
+	</div>
+
+
+
+
+
+<div id="masterarticles-include-footer">
+<h3>Lisäaiheita</h3>
+<p><a title="Maitreyan käsi" href="/maitreya/maitreyan-kasi/" target="_blank">Maitreyan käsi</a></p>
+</div>
+
+
+<div id="global-include-footer-extra">
+{{ partial "global-include-footer-extra.html" . }}
+</div>
+</article>
+
+{{ end }}
