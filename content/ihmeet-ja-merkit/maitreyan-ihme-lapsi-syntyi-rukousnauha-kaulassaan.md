@@ -19,7 +19,7 @@ summary: "Eläköitynyt sairaanhoitaja Shasha Abubakar ei voinut uskoa silmiää
 
 cover: "https://sharefi-cdn.sirv.com/sharefi/maitreyan-ihme-vauva-syntyi-rukousnauha-kaulansa-ymparilla-300x206.jpg?cx=50&cy=0&cw=100&ch=120"
 
-
+type: ihmeet-ja-merkit
 
 ---
 <p class="alustus">Nigerin Bidassa koettiin 15.7.2013 uskomattomia, kun vauva syntyi rukousnauha kaulansa ympärillä. Eläköitynyt sairaanhoitaja Shasha Abubakar ei voinut uskoa silmiään kun vastasyntyvän kaulan ympärillä oli nähtävissä mustat Tasabih-rukousnauhan helmet, jotka saman tien muuttuivat valkoisiksi.</p>

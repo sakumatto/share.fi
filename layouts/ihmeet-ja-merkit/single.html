@@ -13,14 +13,14 @@
   "name" : "{{.Title}}",
   "headline" : "{{- .Title | replaceRE ":.+" "" -}}",
   "author" : {
-    "@type" : "Person",
-    "name" : "Benjamin Cremen Mestari"
+    "@type" : "Organization",
+    "name" : "Share.fi"
   },
   "datePublished" : "{{- .Date.Format "2006-01-02" -}}",
-  "backstory" : [ "Share International -lehden synnystä alkaen Benjamin Cremen Mestari on antanut artikkelinsa julkaistavaksi tuoreeltaan ja käytettäväksi silloin kun maailman tapahtumat sitä edellyttävät. Monet näistä artikkeleista tuntuvat todellakin jopa vielä ajankohtaisemmilta tänä päivänä kuin niiden ensijulkaisun yhteydessä", "Lähde: Share International -lehti, heinä-elokuu 2018.", "Tämä artikkelisarja ilmestyy 10 kertaa vuodessa ja se avaa ihmisen suhdetta häntä ympäröivään. Mestari, on yksi Henkisen Hierarkian Mestareista. Hänen nimensä on laajalti tunnettu esoteerisissa piireissä, mutta sitä ei monistakaan syistä anneta vielä julkisuuteen. Maitreya on Henkisen Hierarkian johdossa olevan Maailmanopettajan henkilökohtainen nimi. Maitreya tunnetaan myös Kristuksen, Buddhan, Krishnan, Imam Mahdin tai Messiaan nimillä. Maitreya on aloittanut tammikuussa 2010 tv-esiintymisten sarjan, joka tulee johtamaan julkitulon päivään, jolloin Hän julkistaa todellisen henkilöytensä." ],
+  "backstory" : [ "'Merkit Maitreyan läsnäolosta maailmassa lisääntyvät'Tämä erään Maitreyan läheisimmän avustajan sitaatti oli kirjoitettuna Share Internationalissa v. 1988. Hän sanoi myös, että maailma tulee tulvimaan Maitreyan aikaansaamia tapahtumia, joita ihmismieli ei voi ymmärtää.Benjamin Creme: Merkkejä on olemassa niitä varten, jotka tarvitsevat niitä vahvistuakseen uskossaan ja antaakseen meille tarvittavaa rohkeutta ja vakaumusta päästäksemme eroon itseriittoisuuden tunteesta, ja jotta voisimme yhdessä ryhtyä suorittamaan niitä lukemattomia tehtäviä, jotka tarvitaan maailman pelastamiseen." ],
   "articleBody" : "{{.Plain}}",
   "speakable": [ "#article-headline", "#article-body"],
-  "relatedLink" : "https://www.share.fi/mestarin-sanoin/{{- .Params.prevmonthLink -}}",
+  "relatedLink" : "https://www.share.fi/ihmeet-ja-merkit/",
   "url": "{{ .Permalink }}"
 
 }
@@ -32,30 +32,27 @@
 
 
 	<div class='masterarticle'>
-	<p><em>Mestarin sanoin -artikkeli {{.Title | replaceRE ".+oin " "" | replaceRE "_" "" -}}</em></p>
+	<p><em>Ihmeet ja merkit -artikkeli: {{.Title }}</em></p>
 	<h1 id="article-headline">{{- .Title | replaceRE ".+:" "" | replaceRE "_" "" -}}</h1>
 	<h3>- Mestarilta, Benjamin Cremen välityksellä</h3>
 
 	<div id="article-body">{{ .Content | safeHTML }}</div>
-	<p class='mastersource'>Lähde: Share International -lehti, {{ .Date.Format "01 / 2006" -}}.</p>
+
 
 
 	<div class="nosto">
-	<p>Tämä artikkelisarja ilmestyy 10 kertaa vuodessa ja se avaa ihmisen suhdetta häntä ympäröivään. Mestari, on yksi Henkisen Hierarkian Mestareista. Hänen nimensä on laajalti tunnettu esoteerisissa piireissä, mutta sitä ei monistakaan syistä anneta vielä julkisuuteen. Maitreya on Henkisen Hierarkian johdossa olevan Maailmanopettajan henkilökohtainen nimi. Maitreya tunnetaan myös Kristuksen, Buddhan, Krishnan, Imam Mahdin tai Messiaan nimillä. Maitreya on aloittanut tammikuussa 2010 tv-esiintymisten sarjan, joka tulee johtamaan julkitulon päivään, jolloin Hän julkistaa todellisen henkilöytensä.</p>
+	<p>”Merkit Maitreyan läsnäolosta maailmassa lisääntyvät”
 
-	<p>Share International -lehden synnystä alkaen Benjamin Cremen Mestari on antanut artikkelinsa julkaistavaksi tuoreeltaan ja käytettäväksi silloin kun maailman tapahtumat sitä edellyttävät. Monet näistä artikkeleista tuntuvat todellakin jopa vielä ajankohtaisemmilta tänä päivänä kuin niiden ensijulkaisun yhteydessä.</p>
+Tämä erään Maitreyan läheisimmän avustajan sitaatti oli kirjoitettuna Share Internationalissa v. 1988. Hän sanoi myös, että maailma tulee tulvimaan Maitreyan aikaansaamia tapahtumia, joita ihmismieli ei voi ymmärtää.<br /><br />Benjamin Creme: Merkkejä on olemassa niitä varten, jotka tarvitsevat niitä vahvistuakseen uskossaan ja antaakseen meille tarvittavaa rohkeutta ja vakaumusta päästäksemme eroon itseriittoisuuden tunteesta, ja jotta voisimme yhdessä ryhtyä suorittamaan niitä lukemattomia tehtäviä, jotka tarvitaan maailman pelastamiseen.
+Lähde: Share International, 7-8/1988</p>
 	<hr style="margin: 20px 20%;" />
-	
-	<div class="related-item">
-	<p>Edellinen Mestarin sanoin -artikkeli</p>
-<p class="related-item-link"><a title="Mestarin sanoin {{ .Params.prevmonth -}}" href="/mestarin-sanoin/{{- .Params.prevmonthLink -}}">Mestarin sanoin {{ .Params.prevmonth -}}</a></p>
-	</div></div>
+	</div>
 	</div> <!-- ends class masterarticle -->
 
 	<div class="masterarticle-menu">
   <nav id="masterarticle-nav">
     <ul class="root">	
-	{{ partial "menu.html" (dict "menu" "masterarticle" "current" . "level" 1 "pages" .Site.Menus.masterarticle) }}
+	{{ partial "menu.html" (dict "menu" "ihmeetmerkit" "current" . "level" 1 "pages" .Site.Menus.ihmeetmerkit) }}
 
     </ul>
 </nav><!-- #masterarticle-nav -->
@@ -64,7 +61,7 @@
 
 
 
-
+<!--
 <div id="masterarticles-include-footer">
 <h3>Lisäaiheita</h3>
 <p><a title="Mestari D.K. (Djwhal Khul)" href="/mestari/mestari-d-k/" target="_blank">Kuka on Mestari D.K.?</a></p>
@@ -75,7 +72,7 @@
 
 
 </div>
-
+-->
 
 <div id="global-include-footer-extra">
 {{ partial "global-include-footer-extra.html" . }}
