@@ -18,7 +18,7 @@ aliases:
 author: share.fi
 summary: "Time -lehden artikkelissa, 21.9.1993 kirjoitettiin: ”Viimeiset pari vuotta ovat olleet ihmeiden aikaa. Uskomattomat tapahtumat ovat seuranneet toisiaan, aivan kuin Luoja olisi antanut sävelen uudelle maailmalle…”"
 
-
+type: ihmeet-ja-merkit
 
 
 ---
