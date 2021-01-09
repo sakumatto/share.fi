@@ -7,7 +7,7 @@ menu:
     parent:  "kirjallisuus"
  uudet:
 
-date: 2021-01-10T00:00:00+02:00
+date: 2021-01-09T00:00:00+02:00
 
 cover: "https://sharefi.sirv.com/sharefi/maailmanopettaja-koko-ihmiskunnalle-kirja-etukansi.jpg"
 aliases:
