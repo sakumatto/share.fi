@@ -5,7 +5,7 @@ updated: 2021-01-09T00:01:06+02:00
 menu:
  uutiset:
   name:  "Brexitin suurempi kuva"
-  identifier:  "brexit-suurempi-kuva"
+  identifier:  "brexit-suurempi-uutiskuva"
 
 ei_pvm: false
 naytakk: false

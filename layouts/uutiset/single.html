@@ -40,7 +40,7 @@
 		{{ if isset .Params "uri" }} Lue <a href="{{ .Params.uri | safeURL }}">artikkeli, johon kommentti viittaa</a>. {{ end}}
 	</div>
 	<p class='mastersource'>Julkaistu, {{ .Date.Format "2.1.2006" -}}
-	{{ if .Params.updated }} / Päivitetty, {{ .Params.updated .Format "2.1.2006" -}} {{ end }}.</p>
+	{{ if .Params.updated }} / Päivitetty, {{ .Params.updated -}} {{ end }}.</p>
 
 
 	<div class="nosto">
