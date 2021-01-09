@@ -39,7 +39,8 @@
 	<div id="article-body">{{ .Content | safeHTML }}
 		{{ if isset .Params "uri" }} Lue <a href="{{ .Params.uri | safeURL }}">artikkeli, johon kommentti viittaa</a>. {{ end}}
 	</div>
-	<p class='mastersource'>Julkaistu, {{ .Date.Format "2.1.2006" -}}.</p>
+	<p class='mastersource'>Julkaistu, {{ .Date.Format "2.1.2006" -}}
+	{{ if .Params.updated }} / Päivitetty,  {{ end }}.</p>
 
 
 	<div class="nosto">
