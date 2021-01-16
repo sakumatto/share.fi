@@ -52,5 +52,3 @@ Kuten Maitreya on niin monasti sanonut: "ihmisen tulee nähdä itsensä yhtenä"
 Emme epäile, etteikö ihminen tule heräämään ykseydellensä. Kaiken ihmisen levottoman pyrkimisen taustalla on kajastava oivallus, että kaikkien on oltava jakamassa ihmisen tämänpäiväisten moninaisten ja valtavien ongelmien ratkaisemisessa. Ja, että vastuu, kuten ongelmatkin, ovat maailmanlaajuisia ja jakamattomia, ja että vain yhteistyöllä sekä itsensä unohtamalla ne voidaan riittävällä tavalla kohdata ja voittaa.
 
 Maitreyalla, pian tullessaan maailman näyttämölle, on tehtävänään avata ihmisen mieli näille totuuksille. Älkää epäilkö Hänen kykyään älkääkä Hänen onnistumistaan.
-
-(Share International -lehti 6/1999)

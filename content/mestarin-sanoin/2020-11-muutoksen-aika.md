@@ -52,5 +52,3 @@ Elämänne kudelman uudelleenrakentamiseksi, uusia ainesosia ja uusia taitoja tu
 Kun näette meidät, tulette tietämään, että Veljenne ovat ihmisiä kuten tekin, mutta ihmisiä, keiden rakkaus ilmenee heissä. Me tulemme opettamaan teille rakkauden salan. Ilossa tulemme saattamaan teidät kauimmaisella rannalle asti ja tulemme viemään teidät Portin Vartijan eteen.
 
 Kaikkea muutosta edeltää jännite ja jännite tuo muassaan pelkoa. Kuitenkaan pelolla ei ole sijaa sydämessä, jonka palvelus ja rakkaus on sytyttänyt. Pukekaa siksi yllenne palveluksen sotisopa ja nähkää ilolla tulevaisuutenne. Tervehtikää ilossa niitä muutoksia, joiden on tapahduttava, ja luokaa yhdessä rakkauden opetus.
-
-(Share International -lehti 4/1983)
