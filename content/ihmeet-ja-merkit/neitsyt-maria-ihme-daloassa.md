@@ -17,12 +17,8 @@ aliases:
 
 author: share.fi
 summary: "Heinäkuussa 2016 tämä Neitsyt Maria -kuvajainen ilmestyi Norsuuluurannikon verovirkailijan työpöydän viereen Daloassa."
-
-
-
-
 ---
 <p class="alustus"><p>Heinäkuussa 2016 tämä Neitsyt Maria -kuvajainen ilmestyi Norsuuluurannikon verovirkailijan työpöydän viereen Daloassa.</p>
 <p><img class="alignleft" src="https://sharefi-cdn.sirv.com/sharefi/ihme_madonna_daloa-2016-09.jpg" alt="" /></p>
 <br clear="all" />
-<p>(Lähde: Pierre Saliba, Facebook)<br />(Benjamin Cremen Mestari vahvistaa, että tämä ihme oli Mestari Jeesuksen oppilaan luoma.)</p></p>
+<p>(Lähde: Pierre Saliba, Facebook)<br />(Benjamin Cremen Mestari vahvistaa, että tämä ihme oli Mestari Jeesuksen oppilaan luoma.)</p>
