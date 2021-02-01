@@ -555,7 +555,7 @@ p.qna-q {
 }
 
 .etusivulle-teksti {
-
+hyphens: auto;
 }
 
 .etusivulle-linkki {
