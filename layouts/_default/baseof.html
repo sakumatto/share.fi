@@ -40,6 +40,11 @@
     </aside>
   </header>
   <nav id="main-nav">
+  <div class="nosto-etusivulle-alue">
+			{{ range $nostot_etusivulle }}
+				{{ partial "etusivulle.html" . }}
+			{{ end }}
+		</div>
   <a name="navigare"></a>
     <ul class="root">
     	<!-- https://discourse.gohugo.io/t/go-template-programming-partials-pipe-use-as-functions-recursive/11444 -->
@@ -49,11 +54,7 @@
 		<p style="background-image: linear-gradient(-100deg, rgba(255, 255, 255, 0), grey 85%, rgba(255, 255, 255, 0));">Muuta</p>
 		{{ partial "menu.html" (dict "menu" "secondary" "current" . "level" 1 "pages" .Site.Menus.secondary) }}
 
-		<div class="nosto-etusivulle-alue">
-			{{ range $nostot_etusivulle }}
-				{{ partial "etusivulle.html" . }}
-			{{ end }}
-		</div>
+		
 
     </ul>
 </nav><!-- #main-nav -->
