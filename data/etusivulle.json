@@ -1,8 +1,15 @@
 [{
     "id": "nosto2",
-    "name": "Webinaarisarja englanniksi: Muutoksen välttämättömyys",
-    "image": "https://sharefi.sirv.com/sharefi/webinaariosallistuja-2021-03-13.jpg",
-    "description": "Oppeja jakautuneesta maailmasta — ja tie eteenpäin 13.3.2021, klikkaa alta varataksesi paikkasi",
-    "url": "https://xit.fi/wbnr-en-20210313"
+    "name": "Outo kohtaaminen?",
+    "image": "https://sharefi-cdn.sirv.com/sharefi/kohtaaminen-maitreyan-kanssa-junan-konduktoori-2013-03.jpg",
+    "description": "Maitreya näyttäytyy erilaisissa ja usein iloa tuottavissa asuissa tai yhteyksissä ihmisille kautta maailman. Noiden kohtaamisten tarkoitus on tuoda lohtua tai iloa ihmisille. Samalla Maitreya usein myös osoittelematta osoittaa jonkin asian. Usein kohtaamisissa on mukana Mestari Jeesus. Jotkut kohtaamiset ovat sellaisia, joissa yksinomaan Mestari Jeesus on roolissa. Joissakin Maitreyan tai Mestari Jeesuksen avustaja. Ne ilmiasut, jotka näihin kohtaamisiin valitaan ovat tarkoituksellisesti valittuja ja ne luovat joskus jatkumon. Kuten oli tapauksessa, jossa Maitreya näyttäytyi konduktöörin asussa samalle henkilölle, mutta noiden tapahtumien välillä oli kulunut vuosia ja jälkimmäisellä kerralla 'konduktöörikin' oli vanhentunut. Aina nämä kohtaamiset ovat syvästi koskettavia. ",
+    "url": "/maitreya/maitreyan-kohtaamisia/"
 }
-]
+,
+{
+    "id": "nosto1",
+    "name": "Mestarin erityislausuma",
+    "image": "",
+    "description": "Benjamin Creme sai tämän erityislausuman mentaalisen telepatian keinoin Mestariltaan 5.10.2016. ”Vaikeat ajat ovat käytännöllisesti katsoen ohi ja ihmisten tulisi luottaen odottaa sitä Uutta Aikaa, kun Maitreya tulee osoittamaan korkean Olemuksensa ja kun kaikki hyväksyvät Hänet tämän aikakauden Mestariksi.”",
+    "url": ""
+}]

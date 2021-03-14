@@ -95,7 +95,9 @@ aihealueet:
 <h3>"Vedenpitävä" video marraskuulta 2013</h3>
 <p>Tämä video on kuvattu 3.11.2013. Siinä hyödynnetään elektronista tähtitaivaan kuvaa (Skymap Androidille), jonka avulla kuvaaja voi vedenpitävästi todentaa, ettei Maitreyan tähti suinkaan ole Venus tai Merkurius tai mikään muukaan kirkas ns. normaali taivaankappale.<br />
 <i>(Benjamin Cremen Mestari vahvistaa, että videolla on Maitreyan &#8221;tähti&#8221;)</i></p>
-<iframe src="//www.youtube.com/embed/3jmjsrZcm7c?list=UUcqvCEZZLvq1pn58DMNR0Qw" height="360" width="640" allowfullscreen="" frameborder="0"></iframe></div>
+<!--<iframe src="//www.youtube.com/embed/3jmjsrZcm7c?list=UUcqvCEZZLvq1pn58DMNR0Qw" height="360" width="640" allowfullscreen="" frameborder="0"></iframe>
+--> <p>Video valitettavasti poistettu</p>
+</div>
 <a id="newpics201101" name="newpics201101"></a></p>
 <h2>Kuvia, alkuvuodelta 2011 sekä loppuvuodelta 2010</h2>
 

@@ -543,7 +543,6 @@ p.qna-q {
 .etusivu .nosto-etusivulle-alue {
 	display: block;
 	margin: 75px 0;
-	font-size: medium;
 }
 
 .nosto-etusivulle-yksilo {
@@ -552,6 +551,13 @@ p.qna-q {
 
 .etusivulle-otsikko {
 
+}
+#main-nav > ul > div > div > p {
+	font-size: 0.75rem;
+}
+
+#main-nav > ul > div > div > p a {
+	font-size: 0.9rem;
 }
 
 .etusivulle-teksti {

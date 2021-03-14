@@ -33,4 +33,4 @@ type: "maitreya/maitreyan-kohtaamisia"
 <p>Ehkä Maitreya ilmestyi minulle jälleen tälläkin kertaa.<br />
 G.J. Lyon, Ranska.</p>
 <p>Huomaathan: vaikka vuoden 2005 kohtaaminen on vahvistettu aidoksi, tämä 2017 kohtaaminen ei Cremen poisnukkumisen tähden sitä ole. Siksi kertomus esitetään lukijan oman arvioinnin sekä pohdinnan pohjaksi.</p>
-<p>Lue tarina <a href="/maitreya/kohtaamisia/hauskanpitoa-junassa/" >"Hauskanpitoa junassa"</a>, johon tässä viitataan </p>
+<p>Lue tarina <a href="/maitreya/maitreyan-kohtaamisia/hauskanpitoa-junassa/" >"Hauskanpitoa junassa"</a>, johon tässä viitataan </p>
