@@ -9,7 +9,7 @@ menu:
 
 master: "Cremen Mestari"
 
-date: 2021-07-01T00:00:00+02:00
+date: 2021-01-01T00:00:00+02:00
 prevmonth: "12/2020: Suunnitelma toteutuu"
 prevmonthLink: "2020-12"
 
