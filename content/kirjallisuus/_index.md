@@ -55,7 +55,33 @@ Ohjehinta 19 euroa</p>
 <hr>
 <p><strong>Kirjailija, taiteilija ja esoteristi Benjamin Creme on julkaissut 15 kirjaa. Cremen kirjojen teemat jatkavat esoterisen opin jakamista siitä, mihin Alice Baileyn kirjoissa jäätiin.<br>
 </strong></p>
-<h1>Benjamin Cremen suomenkieliset kirjat</h1>
+
+
+# Benjamin Cremen suomenkieliset kirjat
+<a name="maailmanopettaja"></a>
+
+## Maailmanopettaja koko ihmiskunnalle -kirja
+
+![Maailmanopettaja koko ihmiskunnalle -kirjan kansi](https://sharefi.sirv.com/sharefi/kirjankansi-maailmanopettaja-koko-ihmiskunnalle.jpeg#kirjankansi)
+
+”Sankari, Titaani, on meidän keskuudessamme,
+ja pian tulemme havahtumaan Hänen läsnäoloonsa.”
+Maailmanopettaja Maitreya seisoo valmiina astumaan esiin täyden, julkisen työnsä pariin. Tämä kirja esittää yleiskatsauksen tuon monumentaalisen tapahtuman taustoihin, joihin kuuluvat: Maitreyan paluu jokapäiväiseen maailmaamme heinäkuussa 1977 sekä Hänen ryhmänsä, Viisauden Mestareiden vaiheittainen ilmestyminen; ne valtavat muutokset, joita Maitreyan läsnäolo on saanut aikaan; sekä Hänen suunnitelmansa, prioriteettinsa ja suosituksensa välitöntä tulevaisuutta ajatellen. Kirja osoittaa, että Maitreya on sekä suuri ja voimallinen Henkinen Avataara että samanaikaisesti ihmiskunnan ystävä ja veli.
+
+Maitreyan neuvot tulevat tuomaan ihmiskunnan yksinkertaisen valinnan äärelle. Joko jatkamme nykyisillä tuhoisilla elämäntavoillamme ja tuhoudumme, tai sitten hyväksymme ilolla Hänen opastuksensa, vihkiäksemme käyttöön jakamisen järjestelmän ja varmistaen niin oikeudenmukaisuuden, rauhan kuin myös kaikkien sisäiseen jumaluuteen pohjautuvan sivilisaation luomisen.
+
+”Kaikkien niiden ystävänä ja opettajana, jotka tarvitsevat Hänen apuaan, tulee Hän esittelemään Itsensä, yksinkertaisena miehenä, Joka tuntee ihmisten tuskan ja kärsimyksen, ja pyrkii helpottamaan heidän osaansa, Joka rakastaa kaikkia täydellisesti, ilman ehtoja, ja Joka on tullut osoittamaan meille askeleet iloon. Sellainen mies on astumassa maailman eteen ja tarjoamassa neuvojansa kaikille. Olemme saattaneet kuulla nuo sanat aiemminkin. Nyt, Hänen siunauksensa saattelemina, tulemme ymmärtämään niiden merkityksen, ja niiden pohjalta tulemme toimimaan.”
+
+(Mestarilta, Benjamin Cremen välityksellä)
+
+ISBN 978-952-68199-6-9 (sid.)
+
+156 sivua, 1. painos julkaistu keväällä 2021
+Lankasidottu, pehmeät kannet, 210x148mm
+Ohjehinta 17 euroa
+
+Kirjaa saa mm. [Ultra-lehden kautta](//www.ultra-lehti.com/kirjat/kirjallisuutta.html) tai [kustantajalta suoraan](https://loveandlight.fi/) tilaamalla.
+
 <br clear="all" />
 <p><a name="yhtenaisyys"></a></p>
 <h2>Yhtenäisyys moninaisuudessa, Benjamin Creme</h2>

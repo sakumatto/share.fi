@@ -46,9 +46,11 @@ Maitreyan neuvot tulevat tuomaan ihmiskunnan yksinkertaisen valinnan äärelle
 
 (Mestarilta, Benjamin Cremen välityksellä)
 
-<p>ISBN 978-952-68199-6-9
-<br />
-156 sivua, 1. painos julkaistu tammikuussa 2021<br />
-Lankasidottu, pehmeät kannet, 210x148mm<br />
-Ohjehinta 17 euroa</p>
-<p>Kirjaa voit tilata osoitteesta <a href="//loveandlight.fi" target="_blank">loveandlight.fi</a></p>
+### isbn 978-952-68199-6-9 (sid.)
+isbn 978-952-68199-7-6 (pdf )
+isbn 978-952-68199-8-3 (epub)
+
+156 sivua, 1. painos julkaistu keväällä 2021
+Lankasidottu, pehmeät kannet, 210x148mm
+Ohjehinta 17 euroa
+Kirjaa voit tilata osoitteesta [loveandlight.fi](//loveandlight.fi)

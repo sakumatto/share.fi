@@ -37,6 +37,8 @@ aihealueet:
 <li><a href="#benkarmasta">Benjamin Creme puhuu Karman laista</a></li>
 <li><a href="#kirkastahti">Kirkas ”tähti hämmästyttää ihmisiä</a></li>
 <li><a href="#bckertoo">Benjamin Creme kertoo ”tähdestä”</a></li>
+<li><a href="#webinar-2021-01">Share International webinar series, 9.1.2021, englanniksi</a></li>
+<li><a href="#webinar-2021-02">Share International webinar series, 13.2.2021, englanniksi</a></li>
 </ul>
 
 <h3>Pitkät luentovideot</h3>
@@ -70,6 +72,17 @@ aihealueet:
 
 <h3><a name="bckertoo">Benjamin Creme kertoo ”tähdestä”</a> (26.8.2009)</h3>
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/262796130?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
+## Pitkät 2021 alkaneet webinaarit englanniksi
+
+### 9.1.2021
+<a name="webinar-2021-01"></a>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/twPupg3nXf0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 13.2.2021
+<a name="webinar-2021-02"></a>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6wOvmaYpw9M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <h2>Pitkät luentovideot</h2>
 <h3><a name="rtv">Maitreya-luento RTV-ohjelmassa 17.10.2018</a></h3>
