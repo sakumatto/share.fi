@@ -3,8 +3,123 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://share.fi/aihealueet/</loc>
+    <lastmod>2021-05-11T09:01:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/avainsanat/</loc>
+    <lastmod>2021-05-11T09:01:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/aihealueet/kv/</loc>
+    <lastmod>2021-05-11T09:01:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/avainsanat/kysymyksi%C3%A4-ja-vastauksia/</loc>
+    <lastmod>2021-05-11T09:01:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/kysymyksia-vastauksia/kysymyksia-ja-vastauksia-2021-05/</loc>
+    <lastmod>2021-05-11T09:01:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/avainsanat/koronavirus/</loc>
+    <lastmod>2021-04-01T00:01:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/uutiset/share-huhtikuu-2020/</loc>
+    <lastmod>2021-04-01T00:01:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/aihealueet/uutiset/</loc>
+    <lastmod>2021-04-01T00:01:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/avainsanat/henkinen-hierarkia/</loc>
+    <lastmod>2021-02-02T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/aihealueet/lis%C3%A4tietoa/</loc>
+    <lastmod>2021-02-02T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/lisatietoa/hierarkian-tyohon-rahaa/</loc>
+    <lastmod>2021-02-02T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/haloo/</loc>
+    <lastmod>2021-01-17T11:42:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/avainsanat/ota-yhteytt%C3%A4/</loc>
+    <lastmod>2021-01-17T11:42:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/haloo/tilaa-uutiskirje/</loc>
+    <lastmod>2021-01-17T11:42:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/aihealueet/yhteydenotto/</loc>
+    <lastmod>2021-01-17T11:42:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/aihealueet/kirjallisuus/</loc>
+    <lastmod>2021-01-09T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/avainsanat/kirjat/</loc>
+    <lastmod>2021-01-09T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/kirjallisuus/maailmanopettaja-kirja/</loc>
+    <lastmod>2021-01-09T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://share.fi/maitreya/maitreyan-kohtaamisia/synergiaa/</loc>
     <lastmod>2021-01-01T00:01:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/mestarin-sanoin/2021/</loc>
+    <lastmod>2021-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/aihealueet/henkinen-hierarkia/</loc>
+    <lastmod>2021-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/avainsanat/mestarin-sanoin/</loc>
+    <lastmod>2021-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/mestarin-sanoin/2021-01-rauhan-ja-rakkauden-polku/</loc>
+    <lastmod>2021-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://share.fi/mestarin-sanoin/2020-12-suunnitelma-toteutuu/</loc>
+    <lastmod>2020-12-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -13,43 +128,13 @@
   </url>
   
   <url>
-    <loc>https://share.fi/aihealueet/</loc>
-    <lastmod>2020-11-22T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://share.fi/avainsanat/</loc>
-    <lastmod>2020-11-22T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://share.fi/avainsanat/henkinen-hierarkia/</loc>
-    <lastmod>2020-11-22T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://share.fi/lisatietoa/hierarkian-taistelutahto/</loc>
-    <lastmod>2020-11-22T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://share.fi/aihealueet/lis%C3%A4tietoa/</loc>
     <lastmod>2020-11-22T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://share.fi/lisatietoa/seitseman-sadetta/</loc>
     <lastmod>2020-11-20T12:18:25+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://share.fi/aihealueet/kv/</loc>
-    <lastmod>2020-11-18T09:01:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://share.fi/avainsanat/kysymyksi%C3%A4-ja-vastauksia/</loc>
-    <lastmod>2020-11-18T09:01:06+02:00</lastmod>
   </url>
   
   <url>
@@ -78,22 +163,12 @@
   </url>
   
   <url>
-    <loc>https://share.fi/aihealueet/henkinen-hierarkia/</loc>
-    <lastmod>2020-11-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://share.fi/avainsanat/jakaminen/</loc>
     <lastmod>2020-11-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://share.fi/aihealueet/jakamisen-periaate/</loc>
-    <lastmod>2020-11-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://share.fi/avainsanat/mestarin-sanoin/</loc>
     <lastmod>2020-11-01T00:00:00+02:00</lastmod>
   </url>
   
@@ -143,11 +218,6 @@
   </url>
   
   <url>
-    <loc>https://share.fi/aihealueet/uutiset/</loc>
-    <lastmod>2020-06-05T00:01:06+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://share.fi/uutiset/tilanne-kriisi-2020-kommentti/</loc>
     <lastmod>2020-06-05T00:01:06+02:00</lastmod>
   </url>
@@ -165,11 +235,6 @@
   <url>
     <loc>https://share.fi/mestarin-sanoin/2020-05-jakamisen-puolesta/</loc>
     <lastmod>2020-05-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://share.fi/avainsanat/koronavirus/</loc>
-    <lastmod>2020-03-20T00:01:06+02:00</lastmod>
   </url>
   
   <url>
@@ -403,22 +468,7 @@
   </url>
   
   <url>
-    <loc>https://share.fi/haloo/</loc>
-    <lastmod>2018-10-04T14:25:30+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://share.fi/haloo/ota-yhteytta/</loc>
-    <lastmod>2018-10-04T14:25:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://share.fi/avainsanat/ota-yhteytt%C3%A4/</loc>
-    <lastmod>2018-10-04T14:25:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://share.fi/aihealueet/yhteydenotto/</loc>
     <lastmod>2018-10-04T14:25:30+02:00</lastmod>
   </url>
   
@@ -628,17 +678,7 @@
   </url>
   
   <url>
-    <loc>https://share.fi/aihealueet/kirjallisuus/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://share.fi/kirjallisuus/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://share.fi/avainsanat/kirjat/</loc>
     <lastmod>2018-01-01T00:00:00+02:00</lastmod>
   </url>
   
