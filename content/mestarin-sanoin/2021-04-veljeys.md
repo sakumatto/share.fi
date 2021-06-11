@@ -1,14 +1,11 @@
 ---
 title: "Mestarin sanoin 4/2021: Veljeys"
 
-draft: true
-
-
 menu:
  masterarticle:
   identifier:  "mestarin-sanoin-2021-04"
   parent:  "2021"
-
+ uudet:
 
 master: "Cremen Mestari"
 
