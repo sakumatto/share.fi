@@ -8,9 +8,8 @@ menu:
 
 
 date: 2021-06-11T00:00:00+02:00
-/
 
-cover: ""
+cover: "https://sharefi.sirv.com/sharefi/mozart_640.jpg"
 
 
 ei_pvm: false
