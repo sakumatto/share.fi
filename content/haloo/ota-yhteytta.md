@@ -1,5 +1,5 @@
 ---
-title: "Ota yhteyttä"
+title: "Yhteydenottolomake"
 date: 2018-10-04T14:25:30+02:00
 naytapvm: false
 naytakommentit: false
@@ -15,7 +15,4 @@ avainsanat: "ota yhteyttä"
 
 
 ---
-
-Täytä ystävällisesti alla näkyvä lomake ja ota siten yhteyttä.
-
-{{< form-contact action="https://formspree.io/yhdistys@share.fi" >}}
+<script type="text/javascript" src="https://form.jotform.com/jsform/212364430116040"></script>

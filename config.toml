@@ -2,7 +2,7 @@ title = "Jakamisen periaate pelastaa maailman"
 baseURL = "https://share.fi"
 uglyurls = false
 
-timeZone = Europe/Helsinki
+timeZone = "Europe/Helsinki"
 languageCode = "fi-fi"
 DefaultContentLanguage = "fi"
 theme = "classless"
