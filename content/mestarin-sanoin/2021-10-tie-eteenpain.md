@@ -1,5 +1,5 @@
 ---
-title: "Mestarin sanoin 10/2021: Tie eteenpäin"
+title: "Mestarin sanoin _10/2021: Tie eteenpäin"
 
 menu:
  uudet:
