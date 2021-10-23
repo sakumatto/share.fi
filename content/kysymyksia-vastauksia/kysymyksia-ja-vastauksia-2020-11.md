@@ -1,5 +1,5 @@
 ---
-title: "Kysymyksiä ja vastauksia syksy 2020"
+title: "K & V syksy 2020"
 date: 2020-11-18T09:01:06+02:00
 
 menu:

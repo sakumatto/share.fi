@@ -1,5 +1,5 @@
 ---
-title: "Kysymyksiä ja vastauksia lokakuu 2018"
+title: "K & V lokakuu 2018"
 date: 2018-10-03T12:01:06+02:00
 menu:
  main:

@@ -1,5 +1,5 @@
 ---
-title: "Kysymyksiä ja vastauksia maaliskuu 2012"
+title: "K & V maaliskuu 2012"
 date: 2012-03-03T12:01:06+02:00
 menu:
  main:

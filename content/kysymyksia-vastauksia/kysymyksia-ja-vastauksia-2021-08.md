@@ -1,5 +1,5 @@
 ---
-title: "Kysymyksiä ja vastauksia loppukesä 2021"
+title: "K & V loppukesä 2021"
 date: 2021-08-11T09:01:06+02:00
 
 menu:

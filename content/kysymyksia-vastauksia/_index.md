@@ -1,5 +1,5 @@
 ---
-title: "Kysymyksiä ja vastauksia"
+title: "K & V"
 date: 2018-08-01T12:01:06+02:00
 menu:
  main:

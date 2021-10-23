@@ -1,5 +1,5 @@
 ---
-title: "Kysymyksiä ja vastauksia: Rukouksesta"
+title: "K & V: Rukouksesta"
 date: 2019-03-22T12:01:06+02:00
 menu:
  main:

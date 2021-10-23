@@ -1,5 +1,5 @@
 ---
-title: "Kysymyksiä ja vastauksia kesä 2021"
+title: "K & V kesä 2021"
 date: 2021-06-11T09:01:06+02:00
 
 menu:

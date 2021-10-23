@@ -1,5 +1,5 @@
 ---
-title: "Kysymyksiä ja vastauksia kesäkuu 2013"
+title: "K & V kesäkuu 2013"
 date: 2013-06-03T12:01:06+02:00
 menu:
  main:

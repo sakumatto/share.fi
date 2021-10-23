@@ -1,5 +1,5 @@
 ---
-title: "Kysymyksiä ja vastauksia lehdestä 1-2/2016"
+title: "K & V lehdestä 1-2/2016"
 date: 2016-01-01T12:01:06+02:00
 menu:
  main:
