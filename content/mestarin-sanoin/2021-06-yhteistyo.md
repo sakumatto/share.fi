@@ -10,8 +10,8 @@ menu:
 master: "Cremen Mestari"
 
 date: 2021-06-01T00:00:00+02:00
-prevmonth: ""
-prevmonthLink: ""
+prevmonth: "5/2021: Kristus opettajana"
+prevmonthLink: "2021-05"
 
 
 aliases:
