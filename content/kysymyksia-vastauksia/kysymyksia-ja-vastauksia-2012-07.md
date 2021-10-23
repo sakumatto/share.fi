@@ -4,7 +4,7 @@ date: 2012-07-03T12:01:06+02:00
 menu:
  main:
   identifier:  "2012-07"
-  parent:  "k-v"
+  parent:  "kv"
 
 
 

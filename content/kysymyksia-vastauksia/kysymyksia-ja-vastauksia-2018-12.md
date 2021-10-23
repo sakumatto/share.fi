@@ -1,10 +1,10 @@
 ---
-title: "K & V"
+title: "K & V talvi 2018"
 date: 2018-12-04T12:01:06+02:00
 menu:
  main:
   identifier:  "2018-12"
-  parent:  "k-v"
+  parent:  "kv"
  uudet:
 
 

@@ -1,10 +1,10 @@
 ---
-title: "K & V"
+title: "X Kysymyksiä ja vastauksia"
 date: 2018-08-01T12:01:06+02:00
 menu:
  main:
   name:  "Kysymyksiä ja vastauksia"
-  identifier:  "k-v"
+  identifier:  "kv"
 
 master: all
 

@@ -5,7 +5,7 @@ date: 2020-11-18T09:01:06+02:00
 menu:
  main:
   identifier:  "2020-11"
-  parent:  "k-v"
+  parent:  "kv"
 
 
 

@@ -5,7 +5,7 @@ menu:
  main:
   name:  "Kirje päätoimittajalle 6/2015"
   identifier:  "lehdesta-2015-06"
-  parent:  "k-v"
+  parent:  "kv"
 
 
 aliases:

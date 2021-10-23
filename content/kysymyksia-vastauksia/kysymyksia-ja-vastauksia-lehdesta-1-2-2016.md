@@ -5,7 +5,7 @@ menu:
  main:
   name:  "Kysymyksiä ja vastauksia lehdestä 1-2/2016"
   identifier:  "lehdesta-2016-01"
-  parent:  "k-v"
+  parent:  "kv"
 
 
 aliases:

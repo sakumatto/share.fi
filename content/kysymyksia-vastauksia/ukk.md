@@ -5,7 +5,7 @@ menu:
  main:
   name:  "Usein kysytyt kysymykset"
   identifier:  "ukk"
-  parent:  "k-v"
+  parent:  "kv"
 
 
 aliases:

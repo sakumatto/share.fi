@@ -5,7 +5,7 @@ date: 2019-06-18T09:01:06+02:00
 menu:
  main:
   identifier:  "2019-06"
-  parent:  "k-v"
+  parent:  "kv"
 
 
 

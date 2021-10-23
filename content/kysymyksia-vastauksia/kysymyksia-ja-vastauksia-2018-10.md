@@ -4,7 +4,7 @@ date: 2018-10-03T12:01:06+02:00
 menu:
  main:
   identifier:  "2018-10"
-  parent:  "k-v"
+  parent:  "kv"
 
 
 

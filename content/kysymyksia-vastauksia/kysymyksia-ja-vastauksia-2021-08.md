@@ -5,7 +5,7 @@ date: 2021-08-11T09:01:06+02:00
 menu:
  main:
   identifier:  "2021-08"
-  parent:  "k-v"
+  parent:  "kv"
  uudet:
 
 

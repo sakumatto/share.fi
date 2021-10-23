@@ -5,8 +5,7 @@ date: 2021-09-11T09:01:06+02:00
 menu:
  main:
   identifier:  "2021-09"
-  parent:  "k-v"
-  label: K&V
+  parent:  "kv"
  uudet:
 
 
@@ -29,7 +28,6 @@ aihealueet:
 
 
 ---
-> Benjamin Creme käytti 40 vuotta levittääkseen tietoa Maitreya Maailmanopettajan ja Viisauden Mestareiden ilmestymisestä nykymaailmaan. Tänä aikana hän vastasi kysymyksiin, jotka kattoivat laajan aihepiirin. Tässä jaksossa hyödynnämme tätä lähdettä.
 
 ### Mitä mieltä olet hiilidioksidin talteenotto- ja varastointitekniikasta – hiilidioksidin talteenotosta ja varastoimisesta maan alle pitkiksi ajoiksi?
 V: Kaikissa näissä ideoissa suurin ongelma on tarve päästä eroon jätteestä. Ydinenergian käyttöä itsessään ei pidetä ongelmana. Ydinvoimatutkijat näkevät ongelmana ydinenergian käytöstä syntyvän jätteen hävittämisen - sitä jopa kaadetaan valtameriin teräs- ja betonikanistereissa. Se muuttaa perusteellisesti valtamerten ekologiaa. Tilanne on jo nyt tarpeeksi paha, ja ilman avaruusveljesten työtä se olisi äärettömän paljon pahempi.
