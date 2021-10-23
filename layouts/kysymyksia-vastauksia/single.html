@@ -14,7 +14,7 @@
   "headline" : "{{.Title | replaceRE "K & V" "Kysymyksiä ja vastauksia" -}}",
   "author" : {
     "@type" : "Person",
-    "name" : "Benjamin Cremen Mestari"
+    "name" : "Benjamin Cremen"
   },
   "datePublished" : "{{- .Date.Format "2006-01-02" -}}",
   "backstory" : [ "Benjamin Creme käytti 40 vuotta levittääkseen tietoa Maitreya Maailmanopettajan ja Viisauden Mestareiden ilmestymisestä nykymaailmaan. Tänä aikana hän vastasi kysymyksiin, jotka kattoivat laajan aihepiirin. Tässä jaksossa hyödynnämme tätä lähdettä" ],
@@ -46,14 +46,7 @@
 	</div>
 	</div> <!-- ends class masterarticle -->
 
-	<div class="masterarticle-menu">
-  <nav id="masterarticle-nav">
-    <ul class="root">	
-	{{ partial "menu.html" (dict "menu" "kv" "current" . "level" 1 "pages" .Site.Menus.kv) }}
 
-    </ul>
-</nav><!-- #masterarticle-nav -->
-	</div>
 
 
 
