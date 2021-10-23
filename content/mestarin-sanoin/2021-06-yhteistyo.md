@@ -2,7 +2,6 @@
 title: "Mestarin sanoin 6/2021: Yhteistyö"
 
 menu:
- uudet:
  masterarticle:
   identifier:  "mestarin-sanoin-2021-06"
   parent:  "2021"

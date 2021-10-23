@@ -2,6 +2,7 @@
 title: "Mestarin sanoin 10/2021: Tie eteenpäin"
 
 menu:
+ uudet:
  masterarticle:
   identifier:  "mestarin-sanoin-2021-10"
   parent:  "2021"

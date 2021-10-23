@@ -2,7 +2,6 @@
 title: "Mestarin sanoin 5/2021: Kristus opettajana"
 
 menu:
- uudet:
  masterarticle:
   identifier:  "mestarin-sanoin-2021-05"
   parent:  "2021"
