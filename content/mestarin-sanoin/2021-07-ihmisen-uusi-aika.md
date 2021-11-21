@@ -2,7 +2,6 @@
 title: "Mestarin sanoin 7–8/2021: Ihmisen uusi aika"
 
 menu:
- uudet:
  masterarticle:
   identifier:  "mestarin-sanoin-2021-07"
   parent:  "2021"
