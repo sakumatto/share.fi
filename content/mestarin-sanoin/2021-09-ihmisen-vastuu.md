@@ -2,7 +2,6 @@
 title: "Mestarin sanoin 9/2021: Ihmisen vastuu"
 
 menu:
- uudet:
  masterarticle:
   identifier:  "mestarin-sanoin-2021-09"
   parent:  "2021"

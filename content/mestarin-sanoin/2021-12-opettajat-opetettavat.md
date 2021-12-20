@@ -34,6 +34,7 @@ avainsanat:
 aihealueet:
  - Henkinen Hierarkia
 
+
 summary: "Lainaus: Muutoksen ajan luonteenomaisille jännitteille ja vaikutteille, sekä sen stressille ovat kaikki alttiita: kukin reagoi niihin luonteensa mukaisesti. Tähän monimutkaiseen tilanteeseen Mestarit tulevat astumaan. Heidän tulee toimia niin, että ihmisen vapaata tahtoa ei sivuuteta ja silti yrittää auttaa kaikin lain sallimin keinoin."
 ---
 
