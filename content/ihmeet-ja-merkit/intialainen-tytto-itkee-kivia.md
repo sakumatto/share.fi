@@ -11,10 +11,10 @@ naytakk:  true
 naytavuosi:  true
 naytapvm:  false
 
-cover: "https://sharefi-cdn.sirv.com/sharefi/ihmeet-merkit-intialainen-tytto-itkee-verikyynelia-201006_twinkle_dwivedi.jpg?cx=200&cy=40&cw=200&ch=200"
+cover:
 
 author: share.fi
-summary: "Nuori intialaistyttö, Lucknorista Uttar Pradeshista, Intiasta, on kahden viime vuoden ajan itkenyt verikyyneleitä."
+summary: "15-vuotias Chandni-niminen tyttö Intian Uttar Pradeshin osavaltiossa sijaitsevassa maaseutukylässä on kyynelehtinyt päivittäin 10-15 pientä kiveä silmistään"
 
 
 
