@@ -96,6 +96,7 @@ type: ihmeet-ja-merkit
 
 <p><img alt="Allahin nimi pavuissa" src="https://sharefi-cdn.sirv.com/sharefi/ihme-allahin-nimi-pavuissa.jpg" /><br />Allahin nimi pavuissa</p>
 
+<a name="hasnah"></a>
 <h3>Kristallikyyneleitä itkevä tyttö</h3>
 <p><img alt="12-vuotias libanonilainen Hasnah Meselmani itki kristalleja" src="https://sharefi-cdn.sirv.com/sharefi/ihme-kristallikyyneleita-itkeva-tytto-hasnah-meselmani.jpg" /><br />Vuonna 1996 12-vuotias libanonilainen Hasnah Meselmani itki kolmen kuukauden ajan joka neljäs tunti veitsenteräviä kristalleja</p>
 
