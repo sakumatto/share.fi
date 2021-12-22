@@ -100,7 +100,7 @@ type: ihmeet-ja-merkit
 <h3>Kristallikyyneleitä itkevä tyttö</h3>
 <p><img alt="12-vuotias libanonilainen Hasnah Meselmani itki kristalleja" src="https://sharefi-cdn.sirv.com/sharefi/ihme-kristallikyyneleita-itkeva-tytto-hasnah-meselmani.jpg" /><br />Vuonna 1996 12-vuotias libanonilainen Hasnah Meselmani itki kolmen kuukauden ajan joka neljäs tunti veitsenteräviä kristalleja</p>
 Libanonilaistyttö on hämmentänyt lääkäreitä tuottamalla silmistään pieniä kiteitä. Vuoden 1996 maaliskuusta lähtien 12-vuotias Hasnah Mohamed Meselmani on tuottanut pieniä kiteitä keskimäärin seitsemän päivässä.
-Vaikka kiteet ovat teräviä kuin hiottu lasi, Hasnah sanoo, ettei hän tunne kipua, eivätkä lääkärit osaa selittää ilmiötä. Hänen isänsä haluaa, että hän menee erikoislääkäreiden luo Eurooppaan tai Amerikkaan selityksen löytämiseksi. Silmäkirurgi, tohtori Nasib El-Lakkis sanoi lähettävänsä tapauksen yksityiskohdat silmäkirurgien konferenssiin Espanjaan. (Lähde: Reuters)
+Vaikka kiteet ovat teräviä kuin hiottu lasi, Hasnah sanoo, ettei hän tunne kipua, eivätkä lääkärit osaa selittää ilmiötä. Hänen isänsä haluaa, että hän menee erikoislääkäreiden luo Eurooppaan tai Amerikkaan selityksen löytämiseksi. Silmäkirurgi, tohtori Nasib El-Lakkis sanoi lähettävänsä tapauksen yksityiskohdat silmäkirurgien konferenssiin Espanjaan. (Lähde: Reuters) (Tämä uutinen SI 12/1996)
 <em>(Benjamin Cremen mestari vahvistaa tämän Maitreyan ihmeen.)</em>
 <h3>Viljapeltokuviot</h3>
 <p><img alt="Viljapeltokuvio" src="https://sharefi-cdn.sirv.com/sharefi/merkki-viljapeltokuvio.jpg" /><br />Jerzy Szpuleckin talon ulkopuolelta otettu kuva, 22.7.2000. Kuva: Tadeusz Filipczak</p>
