@@ -1,11 +1,10 @@
 ---
-title: "Intialainen tyttö itkee verikyyneliä"
-date:  2010-06-20T12:18:25+02:00
+title: "Intialainen tyttö itkee pieniä kiviä"
+date:  2021-12-22T11:18:25+02:00
 
 menu:
  ihmeet:
-  name:  "Intialainen tyttö itkee verikyyneliä"
-  identifier:  "intialainen-tytto-itkee-verta"
+ uudet:
 
 ei_pvm:  true
 naytakk:  true
@@ -21,16 +20,13 @@ summary: "Nuori intialaistyttö, Lucknorista Uttar Pradeshista, Intiasta, on kah
 
 
 ---
-<p class="alustus">Nuori intialaistyttö,&nbsp;<strong>Twinkle Dwivedi</strong> Lucknorista Uttar Pradeshista, Intiasta, on kahden viime vuoden ajan itkenyt verikyyneleitä. Veri virtaa hänen silmistään, päästään, ja muista kehon osista aina tiettyinä ajankohtina, mutta hän ei tunne kipua. Niin hälyttävä oli hänen ulkoasunsa, että häntä ei päästetty kouluun ja hänen äitinsä on yrittänyt kaikkensa selvittääkseen “sairauden” syyn.</p>
+### Kivikyyneleet
+Heinäkuun puolivälistä 2021 lähtien 15-vuotias Chandni-niminen tyttö Intian Uttar Pradeshin osavaltiossa sijaitsevassa maaseutukylässä on kyynelehtinyt päivittäin 10-15 pientä kiveä silmistään. Joka aamu aikaisin Chandnin toisen silmäluomen alle ilmestyy pieni kyhmy. Perheenjäsen siirtää sen sitten varovasti kyynelkanavan kulmaan, josta se putoaa ulos. Kiviä ilmestyy koko päivän ajan, mutta ei kuulemma enää yöllä.
 
+Lääketieteen asiantuntijat, joita on kuultu, eivät osaa selittää asiaa, ja jotkut väittävät, että tila ei voi olla mahdollinen ja että sen on siksi oltava huijaus, kun taas jotkut paikalliset kyläläiset pelkäävät, että tyttöä saattaa riivata demoni tai että hänellä on jokin vaarallinen sairaus.
 
+Joulukuussa 1996 Share International raportoi 12-vuotiaan libanonilaistytön <a href="https://share.fi/ihmeet-ja-merkit#hasnah">Hasnah Meselmanin</a> tapauksesta, joka samalla tavoin hämmensi lääketieteen asiantuntijoita itkemällä useita pieniä, partaveitsen teräviä kiteitä päivässä, vaikka hän ei tuntenut kipua eikä loukkaantunut niistä. Maaliskuussa 2008 uutisoimme tapauksesta, jossa 9-vuotias argentiinalainen tyttö oli viikkojen ajan itkenyt pieniä puulastuja, jotka muistuttivat oksia. Jälleen ilman kipua tai vammoja. Benjamin Cremen mestari vahvisti, että molemmat näistä tapauksista olivat Maitreyan ilmentämiä ihmeitä.
 
-<p>Englantilaisella Channel 4 -kanavalla tammikuussa 2010 lähetetyn ja ilmiötä tutkineen ohjelman mukaan Aurvediset lääkärit eivät löytäneet mitään vikaa tytössä. Pyhä rituaali, Gangesiin kastaminen, ei lopettanut vuotoa; spiritualisti määritteli kyseessä olevan “pahat henget” ja intialainen kristitty piispa kiisti kyseessä olevan stigmata sillä perusteella, että Twinkle ei tietänyt mitään Jeesuksesta, eikä tytöllä ollut mitään yhteyttä kristilliseen kirkkoon.</p>
-<p>Lopulta tri&nbsp;<strong>George Buchanan</strong>, amerikkalainen hematologisti, pyrki selvittämään ongelman etsien merkkejä viilloista ja analysoiden tytön veren. Hän ja intialainen erikoislääkäri selvittivät, ettei Twinklen veressä ollut mitään epätavallisuuksia, ja että veren erite ei ollut tytön äidin, vaan tämän omaa verityyppiä. Loppujen lopuksi Buchanan tuli siihen lopputulokseen, ettei hänellä ollut aavistustakaan mikä aiheutti ilmiön: “Sydämeni sanoo, että tässä on toden totta kyse jostain, jota en ole aiemmin nähnyt. Pääni lääkärinä sanoo, että todennäköisin selitys on Münchausenin syndrooma, jonka vanhempi aiheuttaa. Mutta aion pitää mieleni avoimena.”</p>
+Voisivatko Chandnin kivet olla toinen Maitreyan ilmentymistä?
 
-<p class="alignright"><img src="https://sharefi-cdn.sirv.com/sharefi/ihmeet-merkit-intialainen-tytto-itkee-verikyynelia-201006_twinkle_dwivedi.jpg" width="468" height="335" alt="Intialainen tyttö itkee verikyyneliä" /></p>
-
-<p>Missään vaiheessa ohjelmaa sanaa “ihme” ei mainittu, eikä Twinkle itsekään tarjonnut selitystä. (Lähde: Channel 4 television, Britannia)<br>
-(<em>Benjamin Creme kirjoittaa: Minun tietoni asiasta on se, että veren erittyminen oli ihme, jonka Maitreya aikaansai hänessä. Maitreya myös kertoi tytölle näin käyvän, ja että mitään hätää ei olisi, ettei hän ollut sairas ja ettei siitä olisi haittaa hänelle. Se tehtiin merkkinä. Twinkle kuitenkaan ei sanonut niin, hän ehkä oli unohtanut tapahtuman. Oli miten oli, hän jatkaa elämäänsä normaalisti, välillä jääden paitsi koulusta, mutta muuten nauttien elämästään. – katso myös Share International 12/2009 samantapaisesta asiasta, jossa teinit vuosi verikyyneliä, jonka ihmeen aiheuttivat Mestari Jeesus ja Maitreya</em>)</p>
-<p><em>Lähde: Share International 6/2010</em></p>
-<p>Lue Daily Mail -sanomalehden&nbsp;<a href="http://www.dailymail.co.uk/news/worldnews/article-1242302/Pictured-The-schoolgirl-cries-blood-bleeds-pores.html" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-article/http://www.dailymail.co.uk/news/worldnews/article-1242302/Pictured-The-schoolgirl-cries-blood-bleeds-pores.html']);" target="_blank" class="external" rel="nofollow">artikkeli aiheesta</a>.</p>
+(Lähde: dailystar.co.uk; en.newizv.ru; latintimes.com; newsbreezer.com; mysteriousuniverse.com)
