@@ -319,7 +319,7 @@ V. Maitreya toimii inkognito. Edes he jotka työskentelevät näiden tuotantojen
 </div>
 <p><br /><a name="2017"></a><a name="2018"></a><a name="2019"></a><a name="2020"></a><a name="2021"></a>
 <a name="status-nyt"></a></p>
-<h2>2021</h2>
+<h2>2022</h2>
 <p>Viimeiseen reiluun pariin vuoteen emme ole saaneet vahvistettua tietoa Maitreyan televisioesiintymisistä siitä yksinkertaisesta syystä, että Benjamin Cremen kuoltua, hänen Mestarinsa vahvistuksia ei ole enää saatu. Oletettavasti ja suurella varmuudella voidaan sanoa, että seuraava vahvistettu televisioesiintyminen tulee olemaan julkitulon päivän globaali lähetys. Televisioesiintymiset jatkuvat silti tuntemattomuuden viitan alla. Muistetaan Cremen kommentti jo maaliskuussa 2016, kun esiintymisiä alkoi olla aina vain enemmän. Benjamin Creme: "Meillä ei ole mitään mahdollisuutta pitää kirjaa. Hän on siirtynyt paikasta toiseen siellä missä näkee tarpeen ja missä löytää vuorovaikutusta, tuoden lohtua ihmiskunnalle ja antaen neuvoja. (- -) Hän on koko ajan liikkeellä vieraillen aina missä ja milloin tarpeen."</p>
 
 <hr style="margin: 55px;" />
