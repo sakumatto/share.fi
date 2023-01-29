@@ -1,8 +1,15 @@
 [{
     "id": "nosto2",
-    "name": "Webinaarisarja englanniksi: The imperative of change",
-    "image": "https://sharefi.sirv.com/sharefi/webinaariosallistuja.jpg",
-    "description": "A Spiritual Perspective on our Global Crises - your questions answered 26.2.2022, klikkaa alta varataksesi paikkasi",
-    "url": "https://xit.fi/134"
+    "name": "CO2 ilmakehässä vaarallisen korkealla tasolla",
+    "image": "https://sharefi-cdn.sirv.com/sharefi/co2-kehityskulku-tekstein-403p3_ppm.jpg?profile=ttl-1_year",
+    "description": "Kysymys ja vastaus -osiosta Benjamin Cremelle 11/2013 K: Nykyinen hiilidioksidipitoisuus ilmakehässä on noin 400 ppm (partikkelia miljoonasta). Jotkin ilmastotieteilijät kuten James Hansen uskovat, että 350 ppm on turvallisen yläraja, jotta voisimme välttää katastrofaaliset ja jopa peruuttamattomat vaikutukset planeetallemme. Jotkut muut tieteilijät pitävät turvallisen rajana 450 ppm, joka tarkoittaisi kahden asteen lämpenemistä verrattuna aikaan ennen teollista vallankumousta. Pystyttekö te sanomaan mikä hiilidioksidipitoisuus on turvallinen yläraja ennen peruuttamattomia muutoksia Maalle? Jos jatkamme nykymenolla, montako vuotta meillä on aikaa että saavutamme tuon pisteen? V: Suhteellisen turvallinen yläraja on 400 ppm. Meillä ei ole enää ”turvamarginaalia”, me olemme jo tuossa ylärajassa.",
+    "url": "/lisatietoa/403p3-ppm-hiilidioksidia-mittaushistorian-korkein-lukema-mestarin-mukaan-ylittaa-vaarallisen-rajan/"
 }
-]
+,
+{
+    "id": "nosto1",
+    "name": "Mestarin erityislausuma",
+    "image": "",
+    "description": "Benjamin Creme sai tämän erityislausuman mentaalisen telepatian keinoin Mestariltaan 5.10.2016. ”Vaikeat ajat ovat käytännöllisesti katsoen ohi ja ihmisten tulisi luottaen odottaa sitä Uutta Aikaa, kun Maitreya tulee osoittamaan korkean Olemuksensa ja kun kaikki hyväksyvät Hänet tämän aikakauden Mestariksi.”",
+    "url": ""
+}]
