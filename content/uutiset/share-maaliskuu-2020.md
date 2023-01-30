@@ -4,7 +4,6 @@ date: 2020-03-20T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "tavanomaisen-kuolema"
- uudet:
 
 master: "Maitreya"
 

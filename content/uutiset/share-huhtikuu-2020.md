@@ -4,7 +4,6 @@ date: 2021-04-01T00:01:06+02:00
 menu:
  uutiset:
   identifier:  "tiedamme-ettei-maailma-ole-entisensa"
- uudet:
 
 master: "Cremen Mestari"
 
