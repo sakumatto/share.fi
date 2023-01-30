@@ -6,7 +6,6 @@ menu:
  main:
   identifier:  "2021-12"
   parent:  "kv"
- uudet:
 
 
 
@@ -29,7 +28,7 @@ aihealueet:
 
 ---
 
-### Nykymaailmassa on niin paljon stressiä, etenkin kun on kyse elannon hankkimisestV: Miljoonat ihmiset joutuvat selviytymään tästä tilanteestV: Miksi luulette tämän johtuvan? Mitä Maitreya kertoisi meille tästä?
+### Nykymaailmassa on niin paljon stressiä, etenkin kun on kyse elannon hankkimisesta. Miljoonat ihmiset joutuvat selviytymään tästä tilanteest. Mistä luulette tämän johtuvan? Mitä Maitreya kertoisi meille tästä?
 
 (Otteita Elizabeth Rossin ja McNair Ezzardin Benjamin Cremen haastattelusta "Imagine a Better World" -ohjelmassa 28. kesäkuuta 2004.)
 
