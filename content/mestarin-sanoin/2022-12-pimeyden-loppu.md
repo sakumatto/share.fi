@@ -2,6 +2,7 @@
 title: "Mestarin sanoin _12/2022: Pimeyden loppu"
 
 menu:
+ uudet:
  masterarticle:
   identifier:  "mestarin-sanoin-2022-12"
   parent:  "2022"

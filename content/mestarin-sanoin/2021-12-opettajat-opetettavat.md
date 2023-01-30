@@ -2,7 +2,6 @@
 title: "Mestarin sanoin _12/2021: Opettajat ja opetettavat"
 
 menu:
- uudet:
  masterarticle:
   identifier:  "mestarin-sanoin-2021-12"
   parent:  "2021"

@@ -2,6 +2,7 @@
 title: "Mestarin sanoin _11/2022: Tulevaisuuden valmistelu"
 
 menu:
+ uudet:
  masterarticle:
   identifier:  "mestarin-sanoin-2022-11"
   parent:  "2022"

@@ -2,7 +2,6 @@
 title: "Mestarin sanoin _11/2021: Uuden ajan alku"
 
 menu:
- uudet:
  masterarticle:
   identifier:  "mestarin-sanoin-2021-11"
   parent:  "2021"
