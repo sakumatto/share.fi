@@ -1,6 +1,6 @@
 ---
 title:  "Mestari Jeesus"
-date:  2020-11-28T01:18:25+02:00
+date:  2023-03-20T01:18:25+02:00
 master: Jeesus
 draft:  false
 
@@ -11,26 +11,35 @@ naytapvm:  false
 
 author: share.fi
 
-summary: "Lyhyt biografia yhdestä Henkisen Hierarkian Mestarista, Mestari Jeesuksesta."
+summary: "Toinen katsaus yhdestä Henkisen Hierarkian Mestarista, Mestari Jeesuksesta."
 
 aliases:
  - /jeesus/
 
  
 menu:
+ uudet:
  main:
   parent:  "mestari"
 ---
-Mestari Jeesus, joka on eri kristillisin kirkkoihin virtaavan energian polttopiste, elää tällä hetkellä syyrialaisessa kehossa ja asuu tietyssä osassa pyhää maata. Hän matkustelee paljon ja viettää suuren osan ajastaan Euroopan eri osissa. Hän työskentelee enemmän joukkojen kuin yksilöiden kanssa, vaikka hän onkin kerännyt ympärilleen melko suuren ryhmän oppilaita. Hän kuuluu kuudenteen säteeseen, omistautumisen tai abstraktin idealismin säteeseen, ja hänen oppilaissaan havaitaan usein sitä fanaattisuutta ja omistautumista, joka varhaiskristillisinä aikoina ilmeni marttyyreissä. Hän itse on varsin sotilaallinen hahmo, kurinpitäjä ja rautaisen hallinnon ja tahdon ihminen. Hän on pitkä ja hoikka ja hänellä on melko pitkät kapeat kasvot, mustat hiukset, vaalea iho ja läpitunkevat siniset silmät.
-Hänen työnsä tänä aikana on erittäin vastuullista, sillä hänen tehtäväkseen on annettu ohjata länsimaalaisten ajattelu nykyisestä levottomuuden tilasta tiedon ja varmuuden rauhallisille vesille ja valmistaa Euroopassa ja Amerikassa tietä Maailmanopettajan saapumiselle.
+Mestari Jeesus
+kirjoittanut Aart Jurriaanse
 
-Hän on hyvin tunnettu Raamatun kertomuksista, joissa hän ensin esiintyy Joosuana, Nuunin poikana, ilmestyy uudelleen Esran aikana Jeesuana ja ottaa kolmannen vihkimyksen Joosuana, kuten Sakariaan kirjassa kerrotaan. Evankeliumeissa hänet tunnetaan kahdesta suuresta uhrauksestaan, siitä, jossa hän antoi kehonsa Kristuksen käyttöön, ja suuresta kieltäymyksestä, joka luonnehtii neljättä vihkimystä. Hän otti viidennen vihkimyksen Apollonius Tyanalaisena, ja hänestä tuli viisauden mestari.
+Vaikka Mestari Jeesus (J) on omistautumisen ja idealismin kuudennen säteen adepti ja siten Sivilisaation Herran alainen, hänet on lähetetty palvelemaan Kristuksen, Maailmanopettajan, alaisuudessa edistääkseen kristinuskon hyvinvointia. Hän on tällä hetkellä kristinuskon innoittaja ja johtaja kaikkialla maailmassa.
 
-Siitä lähtien hän on pysynyt ja työskennellyt kristillisessä kirkossa ja vaalinut aidon henkisen elämän itua, joka on löydettävissä kaikkien lahkojen ja ryhmien jäsenten keskuudesta ja neutralisoinut, niin pitkälle kuin se on ollut mahdollista, kirkonmiesten ja teologien virheitä ja erehdyksiä. Hän on etenkin suuri johtaja, kenraali ja viisas toimeenpanija. Kirkon asioissa hän on läheisessä yhteistyössä Kristuksen kanssa. Hän säästää tätä siten paljolta työltä ja toimii hänen välittäjänään, missä se on mahdollista. 
+Yhteistyössä Mestareiden KH [Koot Hoomi] ja M [Morya] kanssa Mestari Jeesus on syvästi kiinnostunut idän ja lännen uskonnollisen ajattelun yhdistämisestä. Suunnitelman mukaan tämä johtaa yhteen universaaliin kirkkoon, joka yhdistää kaikki kansat yhdeksi ihmiskunnaksi.
 
-Kukaan ei niin viisaasti tunne lännen ongelmia kuin hän, kukaan ei ole niin läheisessä kosketuksessa niihin ihmisiin, jotka edustavat sitä mikä on parasta kristillisissä opetuksissa, eikä kukaan ei ole niin hyvin tietoinen nykyhetken tarpeista kuin hän. Eräät anglikaanisen ja katolisen kirkon suuret prelaatit ovat hänen viisaita edustajiaan.
+Mestari J tunnetaan hyvin raamatullisesta historiasta, sillä hän ilmestyi ensimmäisen kerran Joosuana, Nunin poikana, ja myöhemmin, 2000 vuotta sitten, nuorena vihkiytyneenä Jeesuksena, joka luovutti ruumiinsa Kristuksen käyttöön. Tämä huipentui hänen neljänteen vihkimykseensä ristiinnaulitsemisen aikaan. Vielä myöhemmin hän reinkarnoitui Apollonius Tyanalaiseksi ja otti viidennen vihkimyksen tullakseen Viisauden Mestariksi. Siitä lähtien hän on liikkunut ihmisten maailmassa, mutta julkisuuden ulottumattomissa, ja edistänyt jatkuvasti todellisen hengellisen elämän itua kaikkialla, missä se on mahdollista, lahkosta tai uskonnosta riippumatta, auttamalla teologeja ja kirkonmiehiä noudattamaan viitoitettua tietä.
 
-*Suora laina. Lähde: Vihkimykset-kirja, Alice Bailey*
+Eurooppa on hänen erityinen toiminta-alueensa, ja vaikka hänellä on useita oppilaita, hänen päätehtävänsä on vaikuttaa ihmisjoukkoihin ja ohjata vähitellen yleistä mielipidettä kohti parempia suhteita ja sen tunnustamista, että kaikki uskonnot vetoavat Yhden Jumalan apuun ja että suvaitsevaisuuden ja hyvän tahdon kautta tämän pitäisi johtaa yhtenäiseen maailmanuskontoon. Tämän maailmanuskonnon kauneus on siinä, että sitä värittävät ja monipuolistavat maailman kansojen monet kielet, ominaispiirteet ja tavat, mutta nämä tekijät eivät vähääkään heikennä sen motiivin ja tavoitteen yhtenäisyyttä ja hengellisten tasojen tiivistä synteesiä.
 
-<p><a title="Mikä tai kuka on Mestari?" href="/mestari/"><strong>Lue taustoitusartikkeli: Mikä on Mestari?</strong></a></p>
-<p><a title="Mestari D.K. (Djwhal Khul)" href="/mestari/mestari-d-k"><strong>Lue artikkeli, kuka on Mestari D.K.?</strong></a></p>
+Mitä tulee tuohon tunnettuun raamatulliseen aikakauteen, jolloin Kristus ilmestyi kohtalokkaasti Palestiinaan, ihminen ei voi vielä ymmärtää, että kun puhutaan Jeesuksesta Kristuksesta, tarkoitetaan kahta erillistä kokonaisuutta, jotka toimivat tilapäisesti yhtenä kokonaisuutena. Ensinnäkin oli Jeesus, opetuslapsi ja vihitty, jonka persoonallisuus syntyi Äiti Mariasta, ja toiseksi oli Entiteetti, jonka me tunnemme Kristuksena ja jonka henki tilapäisesti varjosti ja otti täysin haltuunsa Jeesuksen persoonallisuuden, jonka sielu tuona aikana vetäytyi ruumiista ja jäi syrjään. Ristiinnaulitsemisen yhteydessä ristiinnaulittiin ainoastaan Jeesuksen fyysinen ruumis. Kristuksen henki oli poistunut tästä ruumiista, ja koska tämä vastasi aikaa, jolloin Jeesus otti neljännen vihkimyksensä (luopuminen), ristiinnaulittu ruumis oli se, josta Jeesus oli luopunut.
+
+## Nykyinen vastuu
+
+Mestari Jeesuksen tämänhetkinen vastuu on nostaa länsimainen ajatusmaailma pois nykyisestä epävarmuuden ja pelon suosta, jonne ihmiskunta on joutunut petoksen, petoksen, julmuuden, vihan ja ahneuden sekä jatkuvan valta- ja valta-aseman tavoittelun kautta. Hänen tehtävänään on saada aikaan sydämenmuutos. On jo monia, jotka ovat kärsimyksen kautta tulleet näkemään, että vanha elämäntapa ei voi johtaa rauhaan ja onneen, että itsekkään tavoittelun pitäisi tehdä tilaa epäitsekkäälle antamiselle ja palvelemiselle ja että viha ja pelko pitäisi korvata rakastavalla yhteistyöllä, viisaudella ja myötätunnolla.
+Kaikki tämä on Mestari Jeesuksen vastuulla - ja mikä tehtävä! Mutta edistystä on epäilemättä tapahtunut, ja hän toivoo saavuttavansa vielä suurempaa menestystä kristillisten kirkkojen uuden lähestymistavan avulla ja tasoittavan tietä Kristuksen paluulle sekä Euroopassa että Amerikassa.
+
+Mestari Jeesus pyrkii myös tieteen ja uskonnon väliseen yhteyteen, jonka avulla hän toivoo voivansa torjua monien ihmisten äärimmäisen materialistisen asenteen ja murtaa myös suurelle osalle ihmisistä niin ominaista järjetöntä, sentimentaalista uskontoon omistautumista.
+
+On ennustettu, että Mestari Jeesus tulee vielä istumaan Rooman paavin tuolissa, ja että hän pystyy sitten tuolta istuimelta käsin innostamaan ja suuntaamaan uudelleen koko kristillisen uskonnon kentän ja kääntämään sen nykyisistä poliittisista ja ajallisista suuntauksista kohti hengellisempää lähestymistapaa.
